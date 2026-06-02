@@ -1,0 +1,68 @@
+---
+import Base from '../../layouts/Base.astro';
+import { getCollection, type CollectionEntry } from 'astro:content';
+import { u } from '../../lib/url';
+
+export async function getStaticPaths() {
+  const posts = await getCollection('writing');
+  return posts.map((post) => ({ params: { slug: post.slug }, props: { post } }));
+}
+
+const { post } = Astro.props as { post: CollectionEntry<'writing'> };
+const { Content } = await post.render();
+const fmt = (d: Date) =>
+  d.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' });
+---
+
+<Base title={post.data.title} description={post.data.description}>
+  <article class="article">
+    <div class="wrap prose-wrap">
+      <a href={u('/writing')} class="back">← Writing</a>
+      <header class="article-head">
+        {post.data.series && <p class="eyebrow">{post.data.series}</p>}
+        <h1>{post.data.title}</h1>
+        <p class="article-desc">{post.data.description}</p>
+        <p class="article-meta muted">
+          {post.data.author} · <time datetime={post.data.date.toISOString()}>{fmt(post.data.date)}</time>
+          {post.data.draft && <span class="pill draft">Draft</span>}
+        </p>
+      </header>
+      <div class="prose">
+        <Content />
+      </div>
+    </div>
+  </article>
+</Base>
+
+<style>
+  .article { padding-block: clamp(2.5rem, 6vw, 4rem); }
+  .back { font-family: var(--font-body); font-size: 0.9rem; color: var(--ink-soft); text-decoration: none; }
+  .back:hover { color: var(--ink); }
+  .article-head { margin: 1.2rem 0 2.2rem; }
+  .article-head h1 { font-size: clamp(2rem, 5vw, 3rem); }
+  .article-desc { font-size: 1.2rem; color: var(--ink-soft); line-height: 1.5; }
+  .article-meta { font-size: 0.9rem; display: flex; align-items: center; gap: 0.6rem; }
+  .draft { font-size: 0.66rem; }
+</style>
+
+<style is:global>
+  .prose { font-size: 1.15rem; line-height: 1.75; }
+  .prose h2 { font-size: 1.7rem; margin-top: 2.4rem; }
+  .prose h3 { font-size: 1.35rem; margin-top: 2rem; }
+  .prose blockquote {
+    margin: 1.8rem 0;
+    padding: 0.6rem 0 0.6rem 1.4rem;
+    border-left: 3px solid var(--accent);
+    color: var(--ink-soft);
+    font-style: italic;
+  }
+  .prose blockquote p:last-child { margin-bottom: 0; }
+  .prose a { color: var(--accent-deep); text-decoration: underline; }
+  .prose code {
+    background: var(--paper-2);
+    padding: 0.1em 0.35em;
+    border-radius: 5px;
+    font-size: 0.9em;
+  }
+  .prose img { border-radius: var(--radius); margin: 1.8rem 0; }
+</style>

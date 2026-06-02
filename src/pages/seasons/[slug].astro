@@ -1,0 +1,112 @@
+---
+import Base from '../../layouts/Base.astro';
+import EpisodeItem from '../../components/EpisodeItem.astro';
+import SubscribeLinks from '../../components/SubscribeLinks.astro';
+import { seasons } from '../../data/podcast';
+import episodes from '../../data/episodes.json';
+import { u } from '../../lib/url';
+
+export function getStaticPaths() {
+  return seasons.map((s) => ({ params: { slug: s.slug }, props: { season: s } }));
+}
+
+const { season } = Astro.props;
+const list = (episodes.bySeason as Record<string, any[]>)[String(season.number)] ?? [];
+const ordered = [...list].reverse(); // newest first
+const inProduction = season.status === 'in-production';
+---
+
+<Base
+  title={season.alias}
+  description={season.blurb}
+  ogImage={season.cover ?? '/covers/season-5.png'}
+>
+  <section class="hero" style={`--accent:${season.accent}; --accent-ink:${season.accentInk}`}>
+    <div class="wrap hero-grid">
+      <div class="hero-art">
+        {season.cover ? (
+          <img src={u(season.cover)} alt={`${season.alias} cover art`} width="600" height="600" />
+        ) : (
+          <div class="hero-ph">
+            <span>{season.thinker}</span>
+            <strong>{season.alias}</strong>
+          </div>
+        )}
+      </div>
+      <div class="hero-text">
+        <a href={u('/podcasts')} class="back">← All seasons</a>
+        <p class="eyebrow on-accent">Season {season.number} · {season.thinker}</p>
+        <h1 class="hero-title">{season.alias}</h1>
+        <p class="hero-work">Thinking With… <em>{season.work}</em></p>
+        <p class="hero-blurb">{season.blurb}</p>
+        {inProduction ? (
+          <p class="hero-note">New episodes drop as they're finished — subscribe to hear them first.</p>
+        ) : (
+          <p class="hero-count">{ordered.length} episodes</p>
+        )}
+        <SubscribeLinks size="sm" />
+      </div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="wrap">
+      {ordered.length > 0 ? (
+        <div class="eps">
+          {ordered.map((ep) => <EpisodeItem episode={ep} accent={season.accent} />)}
+        </div>
+      ) : (
+        <div class="empty card">
+          <h2>In production</h2>
+          <p class="muted">
+            We're recording {season.title.replace('Thinking With… ', '')} now. Subscribe and the first
+            episodes will arrive in your feed automatically.
+          </p>
+          <SubscribeLinks size="sm" />
+        </div>
+      )}
+    </div>
+  </section>
+</Base>
+
+<style>
+  .hero { background: var(--paper-2); border-bottom: 1px solid var(--line-soft); }
+  .hero-grid {
+    display: grid;
+    grid-template-columns: minmax(220px, 320px) 1fr;
+    gap: clamp(1.5rem, 5vw, 3.5rem);
+    align-items: center;
+    padding-block: clamp(2.5rem, 6vw, 4rem);
+  }
+  .hero-art img, .hero-ph {
+    width: 100%; aspect-ratio: 1/1; border-radius: var(--radius-lg);
+    object-fit: cover; box-shadow: var(--shadow-lift);
+  }
+  .hero-ph {
+    display: flex; flex-direction: column; align-items: center; justify-content: center;
+    gap: 0.5rem; text-align: center; padding: 1.5rem;
+    background: radial-gradient(120% 80% at 50% 0%, color-mix(in srgb, var(--accent) 72%, #000 8%), var(--accent));
+    color: var(--accent-ink);
+  }
+  .hero-ph span { font-size: 0.74rem; letter-spacing: 0.18em; text-transform: uppercase; opacity: 0.85; }
+  .hero-ph strong { font-family: var(--font-display); font-weight: 460; font-size: 2.4rem; line-height: 1; }
+  .back { font-family: var(--font-body); font-size: 0.9rem; color: var(--ink-soft); text-decoration: none; }
+  .back:hover { color: var(--ink); }
+  .eyebrow.on-accent { color: var(--accent); margin-top: 1rem; }
+  .hero-title { font-size: clamp(2.4rem, 7vw, 4rem); margin: 0.2rem 0 0; }
+  .hero-work { font-size: 1.15rem; color: var(--ink-soft); margin: 0.4rem 0 1rem; }
+  .hero-work em { font-style: italic; }
+  .hero-blurb { max-width: 40rem; font-size: 1.08rem; }
+  .hero-count, .hero-note {
+    font-family: var(--font-body); font-weight: 600; font-size: 0.9rem;
+    color: var(--accent); margin: 0 0 1.2rem;
+  }
+  .hero-note { color: var(--ink-soft); font-style: italic; font-weight: 500; }
+  .eps { display: grid; gap: 1rem; max-width: 52rem; }
+  .empty { padding: 2.5rem; text-align: center; display: grid; gap: 0.8rem; justify-items: center; }
+  .empty h2 { margin: 0; }
+  @media (max-width: 720px) {
+    .hero-grid { grid-template-columns: 1fr; }
+    .hero-art { max-width: 320px; }
+  }
+</style>

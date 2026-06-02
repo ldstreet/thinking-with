@@ -1,0 +1,68 @@
+---
+interface Props {
+  episode: {
+    title: string;
+    fullTitle: string;
+    episode: number | null;
+    kind: string;
+    dateLabel: string;
+    duration?: string;
+    audio: string;
+    description?: string;
+  };
+  accent?: string;
+}
+const { episode: ep, accent = 'var(--accent)' } = Astro.props;
+
+function fmtDuration(d?: string) {
+  if (!d) return '';
+  if (/^\d+$/.test(d)) {
+    const s = +d;
+    const h = Math.floor(s / 3600);
+    const m = Math.round((s % 3600) / 60);
+    return h ? `${h} hr ${m} min` : `${m} min`;
+  }
+  const parts = d.split(':').map(Number);
+  if (parts.length === 3) return `${parts[0]} hr ${parts[1]} min`;
+  if (parts.length === 2) return `${parts[0]} min`;
+  return d;
+}
+const label = ep.kind === 'intro' ? 'Intro' : ep.episode ? `Ep. ${ep.episode}` : 'Episode';
+---
+
+<article class="ep card" style={`--ep-accent:${accent}`}>
+  <div class="ep-head">
+    <span class="ep-no">{label}</span>
+    <h3 class="ep-title">{ep.title}</h3>
+    <div class="ep-meta">
+      <span>{ep.dateLabel}</span>
+      {ep.duration && <span aria-hidden="true">·</span>}
+      {ep.duration && <span>{fmtDuration(ep.duration)}</span>}
+    </div>
+  </div>
+  {ep.description && <p class="ep-desc">{ep.description}</p>}
+  <audio class="ep-audio" controls preload="none" src={ep.audio}></audio>
+</article>
+
+<style>
+  .ep {
+    padding: 1.3rem 1.4rem;
+    border-left: 3px solid var(--ep-accent);
+    display: grid;
+    gap: 0.7rem;
+  }
+  .ep-head { display: grid; gap: 0.3rem; }
+  .ep-no {
+    font-family: var(--font-body);
+    font-size: 0.72rem;
+    font-weight: 700;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--ep-accent);
+  }
+  .ep-title { font-size: 1.3rem; margin: 0; line-height: 1.15; }
+  .ep-meta { display: flex; gap: 0.5rem; font-size: 0.85rem; color: var(--ink-faint); }
+  .ep-desc { margin: 0; color: var(--ink-soft); font-size: 0.98rem; }
+  .ep-audio { width: 100%; height: 40px; margin-top: 0.2rem; }
+  .ep-audio::-webkit-media-controls-panel { background: var(--paper-2); }
+</style>

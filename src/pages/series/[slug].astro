@@ -1,0 +1,51 @@
+---
+import Base from '../../layouts/Base.astro';
+import EpisodeItem from '../../components/EpisodeItem.astro';
+import SubscribeLinks from '../../components/SubscribeLinks.astro';
+import { series } from '../../data/podcast';
+import { u } from '../../lib/url';
+
+export function getStaticPaths() {
+  return series.map((sr) => ({ params: { slug: sr.slug }, props: { item: sr } }));
+}
+
+const { item } = Astro.props;
+// Series episodes will be wired up once they're tagged in the feed.
+const oneOffs: any[] = [];
+---
+
+<Base title={item.title} description={item.blurb}>
+  <section class="section" style={`--accent:${item.accent}`}>
+    <div class="wrap">
+      <a href={u('/podcasts')} class="back">← All podcasts</a>
+      <p class="eyebrow" style="color:var(--accent)">Series</p>
+      <h1 class="title">{item.title}</h1>
+      <p class="tag">{item.tagline}</p>
+      <p class="lede prose-wrap">{item.blurb}</p>
+
+      {oneOffs.length > 0 ? (
+        <div class="eps">
+          {oneOffs.map((ep) => <EpisodeItem episode={ep} accent={item.accent} />)}
+        </div>
+      ) : (
+        <div class="soon card">
+          <h2>Coming soon</h2>
+          <p class="muted">
+            This segment is on the way. Subscribe and you'll catch it the moment it lands.
+          </p>
+          <SubscribeLinks size="sm" />
+        </div>
+      )}
+    </div>
+  </section>
+</Base>
+
+<style>
+  .back { font-family: var(--font-body); font-size: 0.9rem; color: var(--ink-soft); text-decoration: none; }
+  .back:hover { color: var(--ink); }
+  .title { font-size: clamp(2.4rem, 7vw, 4rem); margin: 0.6rem 0 0.2rem; }
+  .tag { font-style: italic; color: var(--accent); font-weight: 600; margin: 0 0 1.2rem; }
+  .eps { display: grid; gap: 1rem; max-width: 52rem; margin-top: 2rem; }
+  .soon { padding: 2.5rem; text-align: center; display: grid; gap: 0.8rem; justify-items: center; max-width: 40rem; margin-top: 2rem; }
+  .soon h2 { margin: 0; }
+</style>

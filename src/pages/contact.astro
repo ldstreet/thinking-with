@@ -1,0 +1,99 @@
+---
+import Base from '../layouts/Base.astro';
+import SubscribeLinks from '../components/SubscribeLinks.astro';
+import { show } from '../data/podcast';
+
+// To make the email form live, point `newsletterAction` at your provider's form
+// endpoint (e.g. Buttondown, Mailchimp, ConvertKit, or a Netlify form) and adjust
+// the input `name` attributes to match. Until then it shows a friendly notice.
+const newsletterAction = '';
+---
+
+<Base title="Contact" description="Join the Thinking With… email list, or get in touch.">
+  <section class="section">
+    <div class="wrap contact-grid">
+      <div class="col">
+        <p class="eyebrow">Stay in touch</p>
+        <h1 class="title" id="subscribe">Join the email list</h1>
+        <p class="lede">
+          A short note when a new episode or essay goes up. No noise — just thinking, when there's
+          thinking to share.
+        </p>
+
+        <form
+          class="news"
+          action={newsletterAction || undefined}
+          method="post"
+          data-live={newsletterAction ? 'true' : 'false'}
+        >
+          <label class="sr-only" for="email">Email address</label>
+          <input id="email" name="email" type="email" required placeholder="you@example.com" autocomplete="email" />
+          <button class="btn btn--primary" type="submit">Subscribe</button>
+        </form>
+        {!newsletterAction && (
+          <p class="note muted">
+            ⚙︎ The signup form is ready — connect it to your email provider (Buttondown, Mailchimp,
+            ConvertKit…) to start collecting addresses. In the meantime, email us to be added
+            manually.
+          </p>
+        )}
+      </div>
+
+      <aside class="col">
+        <div class="card panel">
+          <h2>Listen everywhere</h2>
+          <p class="muted">Subscribe in your app of choice — new episodes arrive automatically.</p>
+          <SubscribeLinks size="sm" />
+        </div>
+
+        <div class="card panel">
+          <h2>Get in touch</h2>
+          <p class="muted">Questions, suggestions, a text you want us to read with you?</p>
+          <a class="email" href={`mailto:${show.email}`}>{show.email}</a>
+        </div>
+      </aside>
+    </div>
+  </section>
+</Base>
+
+<style>
+  .contact-grid { display: grid; grid-template-columns: 1.4fr 1fr; gap: clamp(2rem, 5vw, 4rem); align-items: start; }
+  .title { font-size: clamp(2.2rem, 6vw, 3.4rem); }
+  .news { display: flex; gap: 0.6rem; margin: 1.6rem 0 1rem; max-width: 30rem; }
+  .news input {
+    flex: 1;
+    font-family: var(--font-body);
+    font-size: 1rem;
+    padding: 0.7rem 1rem;
+    border-radius: 999px;
+    border: 1px solid var(--line);
+    background: var(--paper-card);
+    color: var(--ink);
+  }
+  .news input:focus { outline: 2px solid var(--accent); outline-offset: 2px; }
+  .note { font-size: 0.92rem; max-width: 30rem; }
+  .panel { padding: 1.5rem 1.6rem; margin-bottom: 1.2rem; }
+  .panel h2 { font-size: 1.35rem; margin: 0 0 0.4rem; }
+  .panel p { font-size: 0.96rem; margin-bottom: 1rem; }
+  .email { font-family: var(--font-display); font-size: 1.2rem; color: var(--accent-deep); text-decoration: none; }
+  .email:hover { text-decoration: underline; }
+  .sr-only { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); }
+  @media (max-width: 760px) { .contact-grid { grid-template-columns: 1fr; } }
+</style>
+
+<script>
+  // Graceful no-backend fallback: if the form isn't wired to a provider yet,
+  // prevent submission and nudge the visitor toward email.
+  const form = document.querySelector('.news') as HTMLFormElement | null;
+  if (form && form.dataset.live !== 'true') {
+    form.addEventListener('submit', (e) => {
+      e.preventDefault();
+      const input = form.querySelector('input') as HTMLInputElement;
+      if (input.reportValidity()) {
+        window.location.href =
+          'mailto:thinkingwithpod@gmail.com?subject=Add%20me%20to%20the%20list&body=' +
+          encodeURIComponent(input.value);
+      }
+    });
+  }
+</script>

@@ -1,0 +1,120 @@
+---
+import { show } from '../data/podcast';
+import { u } from '../lib/url';
+const path = Astro.url.pathname;
+const links = [
+  { href: '/podcasts', label: 'Podcasts' },
+  { href: '/writing', label: 'Writing' },
+  { href: '/about', label: 'About' },
+  { href: '/contact', label: 'Contact' },
+];
+const isActive = (href: string) => path === u(href) || path.startsWith(u(href) + '/');
+---
+
+<header class="site-header">
+  <div class="wrap bar">
+    <a class="brand" href={u('/')} aria-label={`${show.name} home`}>
+      <span class="brand-mark">Thinking&nbsp;With<span class="ellip">…</span></span>
+      <span class="brand-sub">{show.tagline}</span>
+    </a>
+
+    <nav class="nav" aria-label="Primary">
+      {links.map((l) => (
+        <a href={u(l.href)} class:list={['nav-link', { active: isActive(l.href) }]}>{l.label}</a>
+      ))}
+      <a href={u('/contact#subscribe')} class="btn btn--primary nav-cta">Subscribe</a>
+    </nav>
+
+    <details class="menu">
+      <summary aria-label="Menu"><span></span><span></span><span></span></summary>
+      <div class="menu-panel">
+        {links.map((l) => <a href={u(l.href)} class="nav-link">{l.label}</a>)}
+        <a href={u('/contact#subscribe')} class="btn btn--primary">Subscribe</a>
+      </div>
+    </details>
+  </div>
+</header>
+
+<style>
+  .site-header {
+    position: sticky;
+    top: 0;
+    z-index: 50;
+    background: color-mix(in srgb, var(--paper) 86%, transparent);
+    backdrop-filter: saturate(1.4) blur(10px);
+    border-bottom: 1px solid var(--line-soft);
+  }
+  .bar { display: flex; align-items: center; justify-content: space-between; gap: 1rem; min-height: 4.5rem; }
+  .brand { text-decoration: none; display: flex; flex-direction: column; line-height: 1; }
+  .brand-mark {
+    font-family: var(--font-display);
+    font-size: 1.45rem;
+    font-weight: 500;
+    font-style: italic;
+    letter-spacing: -0.01em;
+    color: var(--ink);
+  }
+  .brand-mark .ellip { color: var(--accent); font-style: normal; }
+  .brand-sub {
+    font-size: 0.66rem;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: var(--ink-faint);
+    margin-top: 0.4rem;
+  }
+  .nav { display: flex; align-items: center; gap: 1.6rem; }
+  .nav-link {
+    font-family: var(--font-body);
+    font-size: 0.98rem;
+    font-weight: 500;
+    text-decoration: none;
+    color: var(--ink-soft);
+    position: relative;
+    padding-block: 0.2rem;
+  }
+  .nav-link:hover { color: var(--ink); }
+  .nav-link.active { color: var(--ink); }
+  .nav-link.active::after {
+    content: '';
+    position: absolute;
+    left: 0; right: 0; bottom: -2px;
+    height: 2px;
+    background: var(--accent);
+    border-radius: 2px;
+  }
+  .nav-cta { margin-left: 0.4rem; }
+
+  .menu { display: none; }
+  .menu summary {
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    padding: 8px;
+    cursor: pointer;
+  }
+  .menu summary::-webkit-details-marker { display: none; }
+  .menu summary span { width: 24px; height: 2px; background: var(--ink); border-radius: 2px; }
+  .menu-panel {
+    position: absolute;
+    right: clamp(1.1rem, 4vw, 2.5rem);
+    margin-top: 0.6rem;
+    background: var(--paper-card);
+    border: 1px solid var(--line);
+    border-radius: var(--radius);
+    box-shadow: var(--shadow-lift);
+    padding: 0.8rem;
+    display: flex;
+    flex-direction: column;
+    gap: 0.3rem;
+    min-width: 12rem;
+  }
+  .menu-panel .nav-link { padding: 0.55rem 0.6rem; border-radius: 8px; }
+  .menu-panel .nav-link:hover { background: var(--paper-2); }
+  .menu-panel .btn { margin-top: 0.3rem; justify-content: center; }
+
+  @media (max-width: 760px) {
+    .nav { display: none; }
+    .menu { display: block; }
+  }
+</style>

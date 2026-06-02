@@ -1,0 +1,84 @@
+---
+import { show, listen, seasons } from '../data/podcast';
+import { u } from '../lib/url';
+const year = 2025;
+const published = seasons.filter((s) => s.status === 'published');
+---
+
+<footer class="site-footer">
+  <div class="wrap foot-grid">
+    <div class="foot-brand">
+      <span class="brand-mark">Thinking&nbsp;With<span class="ellip">…</span></span>
+      <p class="muted foot-tag">{show.ethos}</p>
+    </div>
+
+    <nav class="foot-col" aria-label="Seasons">
+      <h3>Seasons</h3>
+      {published.map((s) => (
+        <a href={u(`/seasons/${s.slug}`)}>{`Season ${s.number} — ${s.thinker}`}</a>
+      ))}
+    </nav>
+
+    <nav class="foot-col" aria-label="Site">
+      <h3>Explore</h3>
+      <a href={u('/podcasts')}>Podcasts</a>
+      <a href={u('/writing')}>Writing</a>
+      <a href={u('/about')}>About</a>
+      <a href={u('/contact')}>Contact</a>
+    </nav>
+
+    <nav class="foot-col" aria-label="Listen">
+      <h3>Listen</h3>
+      <a href={listen.apple} target="_blank" rel="noopener">Apple Podcasts</a>
+      <a href={listen.spotify} target="_blank" rel="noopener">Spotify</a>
+      <a href={listen.rss} target="_blank" rel="noopener">RSS feed</a>
+      <a href={`mailto:${show.email}`}>{show.email}</a>
+    </nav>
+  </div>
+
+  <div class="wrap foot-base">
+    <span>© {year} {show.copyrightHolder}</span>
+    <span class="muted">Made for slow reading.</span>
+  </div>
+</footer>
+
+<style>
+  .site-footer {
+    margin-top: 4rem;
+    background: var(--ink);
+    color: #e9e0cf;
+    padding-block: clamp(2.5rem, 5vw, 3.5rem) 1.5rem;
+  }
+  .foot-grid {
+    display: grid;
+    grid-template-columns: 1.6fr 1fr 1fr 1fr;
+    gap: 2.5rem;
+  }
+  .brand-mark { font-family: var(--font-display); font-style: italic; font-size: 1.5rem; color: #f6f0e1; }
+  .brand-mark .ellip { color: var(--accent); font-style: normal; }
+  .foot-tag { margin-top: 0.9rem; max-width: 24rem; color: #b7ad9b; font-size: 0.98rem; }
+  .foot-col { display: flex; flex-direction: column; gap: 0.55rem; }
+  .foot-col h3 {
+    font-family: var(--font-body);
+    font-size: 0.72rem;
+    letter-spacing: 0.16em;
+    text-transform: uppercase;
+    color: #8d8473;
+    margin: 0 0 0.4rem;
+  }
+  .foot-col a { color: #ddd3c1; text-decoration: none; font-size: 0.96rem; }
+  .foot-col a:hover { color: #fff; }
+  .foot-base {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 2.5rem;
+    padding-top: 1.4rem;
+    border-top: 1px solid rgba(255,255,255,0.1);
+    font-size: 0.85rem;
+    color: #9a9180;
+  }
+  @media (max-width: 760px) {
+    .foot-grid { grid-template-columns: 1fr 1fr; gap: 1.8rem; }
+    .foot-brand { grid-column: 1 / -1; }
+  }
+</style>

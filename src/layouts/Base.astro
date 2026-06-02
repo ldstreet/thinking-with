@@ -1,0 +1,63 @@
+---
+import '@fontsource-variable/fraunces';
+import '@fontsource-variable/newsreader';
+import '../styles/global.css';
+import Nav from '../components/Nav.astro';
+import Footer from '../components/Footer.astro';
+import { show } from '../data/podcast';
+import { u } from '../lib/url';
+
+interface Props {
+  title?: string;
+  description?: string;
+  ogImage?: string;
+}
+const {
+  title,
+  description = show.description,
+  ogImage = '/covers/season-5.png',
+} = Astro.props;
+
+const fullTitle = title ? `${title} · ${show.name}` : `${show.name} ${show.tagline}`;
+const canonical = new URL(Astro.url.pathname, Astro.site ?? Astro.url).href;
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{fullTitle}</title>
+    <meta name="description" content={description} />
+    <link rel="canonical" href={canonical} />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content={fullTitle} />
+    <meta property="og:description" content={description} />
+    <meta property="og:image" content={new URL(u(ogImage), Astro.site ?? Astro.url).href} />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="theme-color" content="#f6f0e1" />
+    <link rel="icon" href={u('/favicon.svg')} type="image/svg+xml" />
+    <link rel="alternate" type="application/rss+xml" title={show.name} href="https://anchor.fm/s/4d44a168/podcast/rss" />
+  </head>
+  <body>
+    <a href="#main" class="skip">Skip to content</a>
+    <Nav />
+    <main id="main">
+      <slot />
+    </main>
+    <Footer />
+    <style is:global>
+      .skip {
+        position: absolute;
+        left: -9999px;
+        top: 0.5rem;
+        background: var(--ink);
+        color: var(--paper);
+        padding: 0.6rem 1rem;
+        border-radius: 8px;
+        z-index: 100;
+      }
+      .skip:focus { left: 1rem; }
+    </style>
+  </body>
+</html>
