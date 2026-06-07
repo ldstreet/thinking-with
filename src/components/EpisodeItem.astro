@@ -1,4 +1,8 @@
 ---
+import { u } from '../lib/url';
+import { slugByGuid } from '../lib/episodes';
+import { hasTranscript } from '../lib/transcripts';
+
 interface Props {
   episode: {
     title: string;
@@ -8,11 +12,14 @@ interface Props {
     dateLabel: string;
     duration?: string;
     audio: string;
+    guid?: string;
     description?: string;
   };
   accent?: string;
 }
 const { episode: ep, accent = 'var(--accent)' } = Astro.props;
+const slug = ep.guid ? slugByGuid.get(ep.guid) : undefined;
+const transcript = ep.guid ? hasTranscript(ep.guid) : false;
 
 function fmtDuration(d?: string) {
   if (!d) return '';
@@ -33,7 +40,9 @@ const label = ep.kind === 'intro' ? 'Intro' : ep.episode ? `Ep. ${ep.episode}` :
 <article class="ep card" style={`--ep-accent:${accent}`}>
   <div class="ep-head">
     <span class="ep-no">{label}</span>
-    <h3 class="ep-title">{ep.title}</h3>
+    <h3 class="ep-title">
+      {slug ? <a href={u(`/episodes/${slug}`)}>{ep.title}</a> : ep.title}
+    </h3>
     <div class="ep-meta">
       <span>{ep.dateLabel}</span>
       {ep.duration && <span aria-hidden="true">·</span>}
@@ -42,6 +51,13 @@ const label = ep.kind === 'intro' ? 'Intro' : ep.episode ? `Ep. ${ep.episode}` :
   </div>
   {ep.description && <p class="ep-desc">{ep.description}</p>}
   <audio class="ep-audio" controls preload="none" src={ep.audio}></audio>
+  {slug && (
+    <div class="ep-links">
+      <a class="ep-link" href={u(`/episodes/${slug}`)}>
+        {transcript ? 'Read transcript' : 'Episode page'} →
+      </a>
+    </div>
+  )}
 </article>
 
 <style>
@@ -61,8 +77,16 @@ const label = ep.kind === 'intro' ? 'Intro' : ep.episode ? `Ep. ${ep.episode}` :
     color: var(--ep-accent);
   }
   .ep-title { font-size: 1.3rem; margin: 0; line-height: 1.15; }
+  .ep-title a { color: inherit; text-decoration: none; }
+  .ep-title a:hover { color: var(--ep-accent); }
   .ep-meta { display: flex; gap: 0.5rem; font-size: 0.85rem; color: var(--ink-faint); }
   .ep-desc { margin: 0; color: var(--ink-soft); font-size: 0.98rem; }
   .ep-audio { width: 100%; height: 40px; margin-top: 0.2rem; }
   .ep-audio::-webkit-media-controls-panel { background: var(--paper-2); }
+  .ep-links { display: flex; gap: 1rem; }
+  .ep-link {
+    font-family: var(--font-body); font-size: 0.82rem; font-weight: 600;
+    color: var(--ep-accent); text-decoration: none;
+  }
+  .ep-link:hover { text-decoration: underline; }
 </style>

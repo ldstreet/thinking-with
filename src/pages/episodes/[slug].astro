@@ -1,0 +1,94 @@
+---
+import Base from '../../layouts/Base.astro';
+import SubscribeLinks from '../../components/SubscribeLinks.astro';
+import Transcript from '../../components/Transcript.astro';
+import { allEpisodes } from '../../lib/episodes';
+import { transcriptFor } from '../../lib/transcripts';
+import { u } from '../../lib/url';
+
+export function getStaticPaths() {
+  return allEpisodes.map((ep) => ({ params: { slug: ep.slug }, props: { ep } }));
+}
+
+const { ep } = Astro.props;
+const tr = transcriptFor(ep.guid);
+
+function fmtDuration(d?: string) {
+  if (!d) return '';
+  const p = d.split(':').map(Number);
+  if (p.length === 3) return `${p[0]} hr ${p[1]} min`;
+  if (p.length === 2) return `${p[0]} min`;
+  return d;
+}
+
+const downloads = tr
+  ? [
+      { label: 'VTT', href: u(tr.vtt) },
+      ...(tr.srt ? [{ label: 'SRT', href: u(tr.srt) }] : []),
+      ...(tr.txt ? [{ label: 'Text', href: u(tr.txt) }] : []),
+    ]
+  : [];
+
+const trNote = tr
+  ? `Auto-generated from the audio with Whisper ${tr.model ?? ''}`.trim() +
+    '. May contain errors — corrections welcome.'
+  : '';
+---
+
+<Base
+  title={ep.title}
+  description={ep.description ?? `${ep.seasonAlias} — ${ep.title}`}
+>
+  <section class="ep-hero" style={`--accent:${ep.accent}; --accent-ink:${ep.accentInk}`}>
+    <div class="wrap">
+      <a href={u(ep.seasonSlug ? `/seasons/${ep.seasonSlug}` : '/podcasts')} class="back">← {ep.seasonAlias}</a>
+      <p class="eyebrow on-accent">
+        {ep.seasonAlias}{ep.episode ? ` · Episode ${ep.episode}` : ''}
+      </p>
+      <h1 class="ep-title">{ep.title}</h1>
+      <div class="ep-meta">
+        <span>{ep.dateLabel}</span>
+        {ep.duration && <span aria-hidden="true">·</span>}
+        {ep.duration && <span>{fmtDuration(ep.duration)}</span>}
+      </div>
+      {ep.description && <p class="ep-desc">{ep.description}</p>}
+      <audio id="ep-audio" class="ep-audio" controls preload="none" src={ep.audio}></audio>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="wrap">
+      {tr ? (
+        <Transcript vttUrl={u(tr.vtt)} audioId="ep-audio" downloads={downloads} note={trNote} />
+      ) : (
+        <div class="t-pending card">
+          <h2>Transcript coming soon</h2>
+          <p class="muted">
+            We're generating timestamped transcripts for every episode. This one will appear here
+            shortly.
+          </p>
+        </div>
+      )}
+      <div class="ep-sub">
+        <p class="eyebrow">Listen & subscribe</p>
+        <SubscribeLinks size="sm" />
+      </div>
+    </div>
+  </section>
+</Base>
+
+<style>
+  .ep-hero { background: var(--paper-2); border-bottom: 1px solid var(--line-soft); }
+  .ep-hero .wrap { padding-block: clamp(2rem, 5vw, 3.2rem); max-width: 52rem; }
+  .back { font-family: var(--font-body); font-size: 0.9rem; color: var(--ink-soft); text-decoration: none; }
+  .back:hover { color: var(--ink); }
+  .eyebrow.on-accent { color: var(--accent); margin-top: 1rem; }
+  .ep-title { font-size: clamp(2rem, 6vw, 3.2rem); margin: 0.2rem 0 0.5rem; line-height: 1.1; }
+  .ep-meta { display: flex; gap: 0.5rem; font-size: 0.9rem; color: var(--ink-faint); margin-bottom: 1rem; }
+  .ep-desc { font-size: 1.05rem; color: var(--ink-soft); max-width: 44rem; }
+  .ep-audio { width: 100%; height: 44px; margin-top: 1.3rem; }
+  .ep-audio::-webkit-media-controls-panel { background: var(--paper); }
+  .t-pending { padding: 2rem; text-align: center; display: grid; gap: 0.5rem; justify-items: center; }
+  .t-pending h2 { margin: 0; }
+  .ep-sub { margin-top: 3rem; padding-top: 2rem; border-top: 1px solid var(--line-soft); }
+</style>

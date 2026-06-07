@@ -1,0 +1,3160 @@
+1
+00:00:00,000 --> 00:00:09,880
+ yeah yeah you're gonna feast on this one conceptuality is something other than itself
+
+2
+00:00:09,880 --> 00:00:15,220
+ there's been a change in the image of thought that's what it is that's what it is that's what
+
+3
+00:00:15,220 --> 00:00:20,040
+ it is the internal structure of but as soon as an utterance slips from the mouth it's divorced
+
+4
+00:00:20,040 --> 00:00:28,580
+ from the subject well let's go back through and sort of explain the situation first of all do
+
+5
+00:00:28,580 --> 00:00:34,680
+ your intro thing oh we're starting with the intro we're starting wow that's the first time we've
+
+6
+00:00:34,680 --> 00:00:42,860
+ ever done that crazy wow hey everyone welcome back to thinking with a rhetorical theory podcast
+
+7
+00:00:42,860 --> 00:00:50,340
+ this is nathaniel street and nate de prospo and john muckelbauer and we're doing nietzsche's gay
+
+8
+00:00:50,340 --> 00:00:56,160
+ science i think this is the 11th episode we've done on the gay science and we're starting in on the last
+
+9
+00:00:56,160 --> 00:01:02,380
+ book book five this is the one he writes this one after the spake zarathustra right he published
+
+10
+00:01:02,380 --> 00:01:10,380
+ the gay science the first four books and then went and wrote zarathustra and then came back and added
+
+11
+00:01:10,380 --> 00:01:18,500
+ um book five uh to to the gay science as a result and i was when i was reading book five too you know
+
+12
+00:01:18,500 --> 00:01:25,960
+ there was this one of the earlier um aphorisms was about how no one had done a history of of morality
+
+13
+00:01:25,960 --> 00:01:30,400
+ or sort of genealogy of morality and he was frustrated with all these english ones but at least
+
+14
+00:01:30,400 --> 00:01:34,180
+ they were trying it's like no one's even tried this before and i was like wait a second let me look at
+
+15
+00:01:34,180 --> 00:01:40,900
+ these dates here a little bit and so this was he publishes you know on genealogy of morality in the
+
+16
+00:01:40,900 --> 00:01:45,800
+ same year so i'm wondering like how much of that of that work had been done or if he wrote that
+
+17
+00:01:45,800 --> 00:01:49,180
+ aphorism i was just like all right i've got a project for myself
+
+18
+00:01:49,180 --> 00:02:04,600
+ but but before we get into nietzsche um poor john is facing uh an ethical dilemma um that i i'm looking
+
+19
+00:02:04,600 --> 00:02:12,040
+ for uh help from you guys because as a teacher we face the versions of this literally every semester
+
+20
+00:02:12,460 --> 00:02:19,300
+ so this is a situation i've ended up teaching um um this asynchronous two asynchronous online classes
+
+21
+00:02:19,300 --> 00:02:27,160
+ this semester of 250 students total and as you know the the the setup the pedagogical philosophy
+
+22
+00:02:27,160 --> 00:02:31,820
+ behind the class was pretty straightforward which is you've got to like watch a movie read a short
+
+23
+00:02:31,820 --> 00:02:37,080
+ story read a news thing that i set up it's a science fiction class and you do that every week and
+
+24
+00:02:37,080 --> 00:02:42,400
+ every week you have to post three discussion posts in your group i put them in groups so they have
+
+25
+00:02:42,400 --> 00:02:46,860
+ discussion posts with their groups and then after that every week they have to write 500 words
+
+26
+00:02:46,860 --> 00:02:53,320
+ on their own so every week they are posting you know multiple discussion posts and every week they are
+
+27
+00:02:53,460 --> 00:02:59,920
+ producing a paper the same assignment every single week every single week right different material
+
+28
+00:02:59,920 --> 00:03:06,100
+ obviously like each week the material changes but the assignments are the same every week same deadline
+
+29
+00:03:06,100 --> 00:03:10,980
+ same everything every single week and then you get to the point of the end of the semester where
+
+30
+00:03:10,980 --> 00:03:17,520
+ there's a bunch of people who just didn't do a lot of them right and you get the emails a week before
+
+31
+00:03:17,520 --> 00:03:22,600
+ the end of the semester uh and i'm by the way i'm definitely putting something in my syllabus about
+
+32
+00:03:22,600 --> 00:03:28,180
+ emails that i get in the last two weeks of the semester like i'm i'm gonna be really hardcore
+
+33
+00:03:28,180 --> 00:03:33,740
+ about i'm just gonna say if you if if you email me in the last two weeks of semester asking for an
+
+34
+00:03:33,740 --> 00:03:40,800
+ accommodation i will simply ignore you period right like i because i'm perfectly willing all during the
+
+35
+00:03:40,800 --> 00:03:44,920
+ semester to accommodate them and let me also say plenty of people did plenty of people sent me things
+
+36
+00:03:44,920 --> 00:03:51,280
+ and had issues and i gave them extensions or gave you know whatever but you get right like as i was
+
+37
+00:03:51,280 --> 00:03:56,200
+ telling these guys there's probably about 15 people who failed the class out of 250 right
+
+38
+00:03:56,200 --> 00:04:00,560
+ there were also probably like 100 a's in the class it's not like it was super hard you know
+
+39
+00:04:00,560 --> 00:04:03,940
+ but then these 15 people are of course the ones that you hear from
+
+40
+00:04:03,940 --> 00:04:09,380
+ um and within the last couple of weeks and they all have stories in their real life stories that are
+
+41
+00:04:09,380 --> 00:04:13,060
+ like you know you don't know if they're true or not but let's just assume for a moment that they're at least
+
+42
+00:04:13,060 --> 00:04:19,180
+ partially true and there are situations of like i was diagnosed with epilepsy and had to learn how to deal
+
+43
+00:04:19,180 --> 00:04:23,980
+ with that or i had major depressive disorder or i have one student who my father killed himself you know
+
+44
+00:04:23,980 --> 00:04:32,060
+ like real harsh stuff where you're like i kind of get that you didn't send me an email in september when
+
+45
+00:04:32,060 --> 00:04:37,680
+ this happened i get why that's hard for you and i get why you disappeared from the class like that's like a
+
+46
+00:04:37,680 --> 00:04:44,300
+ reasonable human response at some level you know uh at the same time i'm faced with the situation of what do i do
+
+47
+00:04:44,300 --> 00:04:50,220
+ right like what do i do and one particular student who i've been gone back and forth on email with
+
+48
+00:04:50,220 --> 00:04:55,760
+ in general my response has been to say if you had contacted me earlier we would have created an
+
+49
+00:04:55,760 --> 00:04:59,860
+ accommodation but given that you're contacting me at the last minute there's nothing that can be done
+
+50
+00:04:59,860 --> 00:05:05,300
+ because the point of the class was to regularly produce work and produce habits rather than just
+
+51
+00:05:05,300 --> 00:05:12,840
+ get it all done you know at time a or time b um but this one particular student that i've gone back
+
+52
+00:05:12,840 --> 00:05:16,620
+ and forth with and a couple and i said like hey you could do a semester withdrawal there are things
+
+53
+00:05:16,620 --> 00:05:21,340
+ through academic support and i'll sign anything that you need to i'm not trying to punish you you know
+
+54
+00:05:21,340 --> 00:05:29,760
+ um but this particular student uh is also a teacher who her teaching job is predicated on on graduating
+
+55
+00:05:29,760 --> 00:05:34,740
+ this semester and she will lose her job so she will lose she will not only not graduate but she will also
+
+56
+00:05:34,740 --> 00:05:40,060
+ lose her job she does not have the funding everything has been you know she has been financed whatever
+
+57
+00:05:40,060 --> 00:05:47,020
+ by loans so she doesn't have the funding to even get the to get the uh extra course even if she were to
+
+58
+00:05:47,020 --> 00:05:52,920
+ take it again next semester so she'll lose her job she won't finish college so i'm in this position
+
+59
+00:05:52,920 --> 00:05:58,560
+ right now of feeling like i get all of the arguments which is the student created the situation
+
+60
+00:05:58,560 --> 00:06:02,860
+ they could have done the work it's evident that other people were able to do the work
+
+61
+00:06:02,860 --> 00:06:08,860
+ um at the same time i am put in this position i feel like of having to make a decision about another
+
+62
+00:06:08,860 --> 00:06:16,360
+ person's life uh that i don't want to have to make but i feel as if i have to make it like that that's
+
+63
+00:06:16,360 --> 00:06:22,360
+ the actual decision so do i create an accommodation and say hey you can make up three weeks worth of work
+
+64
+00:06:22,360 --> 00:06:27,740
+ which would bump you into the c range right and do i then have to go back to every other person
+
+65
+00:06:27,740 --> 00:06:33,740
+ in this in these classes and say the same would apply for all of you is you can make up three
+
+66
+00:06:33,740 --> 00:06:41,020
+ weeks worth of work to bump you into the c range uh to not get an f like do i need to do that do i
+
+67
+00:06:41,020 --> 00:06:46,220
+ need to be fair and do that across the board or could i make the exception for one student in this
+
+68
+00:06:46,220 --> 00:06:51,460
+ extreme circumstance simply because i know her story simply because i know her story and she has reached
+
+69
+00:06:51,460 --> 00:06:56,880
+ out to me and and rather than just settled with because other people i have sent an email saying
+
+70
+00:06:56,880 --> 00:07:01,640
+ like i like i said like i would have accommodated you but i can't accommodate you now and they've just
+
+71
+00:07:01,640 --> 00:07:07,680
+ been like no harm no foul i get it right and they just sort of take the f and they're dealing with it
+
+72
+00:07:07,680 --> 00:07:12,740
+ probably because the consequences aren't as severe as they are you know there's one other student i think
+
+73
+00:07:12,740 --> 00:07:17,840
+ that the consequence is not graduating uh and i haven't heard back from that student but this
+
+74
+00:07:17,840 --> 00:07:24,700
+ student is not graduating losing her job not being able to continue college and and i don't know how
+
+75
+00:07:24,700 --> 00:07:31,060
+ to think about this because at the end of the day i am faced with this decision right it is about what
+
+76
+00:07:31,060 --> 00:07:38,280
+ i which box i check we i mean before we started recording you brought up deridan the question of
+
+77
+00:07:38,280 --> 00:07:43,140
+ the decision and like the it's a decision thing would be is to pretend like there isn't a decision
+
+78
+00:07:43,140 --> 00:07:48,840
+ to pretend there is not a decision that's right yes that just to apply the calculus there's a there's a
+
+79
+00:07:48,840 --> 00:07:53,880
+ calculus there's a mechanism here and it's obvious and that way you can just go to bed and and feel
+
+80
+00:07:53,880 --> 00:07:59,080
+ okay about it because it wasn't really your decision or it shouldn't be your decision that's
+
+81
+00:07:59,080 --> 00:08:05,080
+ right that is a product of a it's a policy and i am following the policy yeah yeah but i but i live
+
+82
+00:08:05,080 --> 00:08:10,920
+ it and experience it like i would love to not be the deridian in this case yeah but i live it and
+
+83
+00:08:10,920 --> 00:08:16,180
+ experience it as all of these things being true she could have done better they could have done their
+
+84
+00:08:16,180 --> 00:08:20,520
+ work they could have done there's multiple things that could have happened along the way nevertheless i'm
+
+85
+00:08:20,520 --> 00:08:26,760
+ still at a moment right now where i click button you know i click the f button or i click the c button
+
+86
+00:08:26,760 --> 00:08:33,400
+ is it is it possible to talk to her advisor well she has apparently already spoken to her advisor this
+
+87
+00:08:33,400 --> 00:08:38,400
+ evening and that's another email that i got and her advisor has said there's just nothing that can be
+
+88
+00:08:38,400 --> 00:08:43,560
+ done here like uh you you just need to or apparently she said you just need to go back to the professor
+
+89
+00:08:43,560 --> 00:08:51,780
+ he needs to create an accommodation for you or offer an incomplete right uh i was just yeah i was just
+
+90
+00:08:51,780 --> 00:08:58,240
+ before you do make any accommodations i would at least maybe reach out to her advisor and be like
+
+91
+00:08:58,240 --> 00:09:04,100
+ did she do this in any of the other classes like is this the only one that's so that's the thing that i do
+
+92
+00:09:04,100 --> 00:09:08,740
+ she that that her advisor said to her because i recommended a semester withdrawal given the
+
+93
+00:09:08,740 --> 00:09:14,280
+ circumstances in her life and her advisor said you can't get a semester withdrawal for just one
+
+94
+00:09:14,280 --> 00:09:20,020
+ course and i know that that's true so all so what i know that okay is that this is the only class
+
+95
+00:09:20,020 --> 00:09:26,320
+ it's just this one okay but was now was this her only asynchronous class that i have no idea i don't
+
+96
+00:09:26,320 --> 00:09:30,440
+ know anything about the remainder of her schedule i don't know anything about any okay okay i'm just
+
+97
+00:09:30,440 --> 00:09:37,040
+ curious just because like part of me is a little sympathetic just because at least pre-covid an
+
+98
+00:09:37,040 --> 00:09:43,300
+ online class to me was a blow-off like at least in my mind at penn state i was like and i didn't do
+
+99
+00:09:43,300 --> 00:09:48,680
+ well in those classes so like i didn't get any kind of preferential treatment but it wasn't possible for
+
+100
+00:09:48,680 --> 00:09:56,740
+ me to negotiate both in person and online that may well be the case with this student at that time but
+
+101
+00:09:56,740 --> 00:10:01,840
+ i mean like you're saying it's everything's contextual like what what's on the syllabus does
+
+102
+00:10:01,840 --> 00:10:08,020
+ it say you can't turn things in late clearly say there's a specific yeah okay well then that there's
+
+103
+00:10:08,020 --> 00:10:13,140
+ this is this is the whole issue is that like all of the mechanisms all of the calculus is up and
+
+104
+00:10:13,140 --> 00:10:18,420
+ right the policy is clear there's no wiggle room there's no wiggle room right yeah there's nothing
+
+105
+00:10:18,420 --> 00:10:24,280
+ by simply applying the policy i i'm not doing anything wrong right i'm like i said really clearly
+
+106
+00:10:24,280 --> 00:10:31,160
+ no late work will not accept any late work you cannot make anything up but then if you do make
+
+107
+00:10:31,160 --> 00:10:35,240
+ the exception like you said you're going to have to probably do that for everybody and that's putting
+
+108
+00:10:35,240 --> 00:10:41,420
+ so much more work i don't i don't know if i buy that right because that would just be applying another
+
+109
+00:10:41,420 --> 00:10:48,460
+ calculus right that would just be like all right now so so instead of inside of the policy is my
+
+110
+00:10:48,460 --> 00:10:54,760
+ calculus now suddenly equity or fairness is is my calculus and either way it seems like the like the
+
+111
+00:10:54,760 --> 00:11:00,580
+ desire the anxiety is the making of the decision right and in either way the desire is to forego
+
+112
+00:11:00,580 --> 00:11:07,880
+ having to make the decision um but you just precisely the question if you did give the exception you would
+
+113
+00:11:07,880 --> 00:11:15,740
+ feel the pressure to then go and email the other people um or no you think you could just make it and
+
+114
+00:11:15,740 --> 00:11:22,620
+ then that's it i think that i would feel obligated for me always think about it people in yeah like
+
+115
+00:11:22,620 --> 00:11:28,120
+ for instance she is at a point number where there are a number of the f's where it's just like they
+
+116
+00:11:28,120 --> 00:11:33,520
+ just never showed up for class they just never did anything um yeah that is a different case this is
+
+117
+00:11:33,520 --> 00:11:38,760
+ someone who was spotty like sometimes did it sometimes didn't do it right so she has a certain
+
+118
+00:11:38,760 --> 00:11:42,640
+ number of points during the semester and i sort of do feel like i would feel obligated to go to
+
+119
+00:11:42,640 --> 00:11:49,480
+ those people and say hey you know those of you who are at a score of a 50 in the class so far
+
+120
+00:11:49,480 --> 00:11:54,920
+ here's what you can do to get yourself into a score of a 60 you know or something like you know what i
+
+121
+00:11:54,920 --> 00:12:00,120
+ mean i think i would feel how many of those students are there like maybe five i don't know maybe three
+
+122
+00:12:00,120 --> 00:12:06,440
+ or roughly maybe three right that's not a reasonable number yeah it seems if we're taking this as as the
+
+123
+00:12:06,440 --> 00:12:11,440
+ question of the decision though they're like that the search for the calculus it has to be abandoned
+
+124
+00:12:11,440 --> 00:12:18,320
+ it can't be what do i do in this genre it has to be how do i like each each one is gonna have to be a
+
+125
+00:12:18,320 --> 00:12:23,440
+ decision and it's right gonna be so is it is what's the more important decision the impact on the
+
+126
+00:12:23,440 --> 00:12:29,820
+ individual person's life or the impact on fairness something called the integrity academic right the
+
+127
+00:12:29,820 --> 00:12:35,420
+ integrity of the class yeah and you know it's it's then worth asking like look if this like should
+
+128
+00:12:35,420 --> 00:12:40,840
+ this like should this person have a job as a teacher if they can't like get their shit enough
+
+129
+00:12:40,840 --> 00:12:46,480
+ together to like if this is you know like one thing that i constantly think of this is that you're not
+
+130
+00:12:46,480 --> 00:12:52,880
+ the one reason she can't get this job is that there are you know if there are it's you might be the
+
+131
+00:12:52,880 --> 00:13:00,580
+ straw that's breaking the camel's back that's right no one class is is doing this but i'll tell you man
+
+132
+00:13:00,580 --> 00:13:09,220
+ it just like i seriously like i haven't slept in a couple of days like my chest hurts just about this
+
+133
+00:13:09,220 --> 00:13:14,280
+ particular case about well about these cases it's not this particular case but about about these cases
+
+134
+00:13:14,280 --> 00:13:19,620
+ yes and i and i kind of reached a decision i spoke to uh a little bit earlier and she was super helpful
+
+135
+00:13:19,620 --> 00:13:23,860
+ just to sort of talk through it now she had this different approach to the class where
+
+136
+00:13:23,860 --> 00:13:28,440
+ her assignments she's like i didn't really care if they handed them in late like i didn't say she
+
+137
+00:13:28,440 --> 00:13:32,820
+ never said that but she didn't really care so the idea of giving an incomplete and handing in late work
+
+138
+00:13:32,820 --> 00:13:36,720
+ for her and that was her advice she was like i would just say give them an incomplete and let them
+
+139
+00:13:36,720 --> 00:13:42,440
+ hand it in late and who cares and i'm like given how you taught the class it's a different pedagogical
+
+140
+00:13:42,440 --> 00:13:47,960
+ philosophy than how i taught the class yeah right given that i was insistent about producing habits
+
+141
+00:13:47,960 --> 00:13:51,380
+ regularity the point of the class right it's the point of the class
+
+142
+00:13:51,380 --> 00:14:00,160
+ you can't do discussions as an incomplete yeah yeah how do you have discussions with other people
+
+143
+00:14:00,160 --> 00:14:04,960
+ if you took an incomplete there's no other people to have discussions with i can put all the f people
+
+144
+00:14:04,960 --> 00:14:11,120
+ together and have them have their discussions right yeah yeah there was i mean the way i've often
+
+145
+00:14:11,120 --> 00:14:16,260
+ treated that is stuff like that you just can't like part like ephemeral stuff like that you can't make up
+
+146
+00:14:16,260 --> 00:14:21,600
+ the you know certain assignments but again you know it kind of depends on like is it the the repetition
+
+147
+00:14:21,600 --> 00:14:28,260
+ sort of thing so um well also you were saying earlier and you're probably right nathaniel that
+
+148
+00:14:28,260 --> 00:14:34,900
+ it this is not the one instance that is making her fail but you can't i mean what if it was though
+
+149
+00:14:34,900 --> 00:14:40,460
+ i mean it's not an impossibility what if it was a random just fucking slipped her mind the one
+
+150
+00:14:40,460 --> 00:14:45,160
+ asynchronous class and it just that would be fine but then then she would have had a normal set of
+
+151
+00:14:45,160 --> 00:14:49,600
+ grades and then a single f that's right right that's right so she still would have graduated
+
+152
+00:14:49,600 --> 00:14:54,660
+ that's right almost certainly oh okay okay wow yeah never mind then
+
+153
+00:14:54,660 --> 00:15:04,340
+ oh well well what if what we're searching for what we're searching for and boo boo like you're
+
+154
+00:15:04,340 --> 00:15:08,580
+ wonderful for doing this and i want to say this like what you're searching for is a way to ease me
+
+155
+00:15:08,580 --> 00:15:14,920
+ right you're searching for a way to make me feel better and and that's what we do as teachers all
+
+156
+00:15:14,920 --> 00:15:21,140
+ the time we're like we're looking for like how can i do this in a way that absolves me of the
+
+157
+00:15:21,140 --> 00:15:26,740
+ responsibility and everything that we keep saying in response to you is we can't absolve ourselves of
+
+158
+00:15:26,740 --> 00:15:31,680
+ the responsibility and you're like but what about this way what about this way and we are we're trying
+
+159
+00:15:31,680 --> 00:15:37,120
+ to absolve ourselves of the responsibility of the consequences for the decision and again yeah there's
+
+160
+00:15:37,120 --> 00:15:42,240
+ all good there are really good reasons for absolving oneself of the responsibility for the decision it's not
+
+161
+00:15:42,240 --> 00:15:48,940
+ it's a heavy burden to carry the like the number of things like this that i've i've uh sweated over
+
+162
+00:15:48,940 --> 00:15:52,600
+ over the years like they still like they're like you know they're years old and i don't even remember
+
+163
+00:15:52,600 --> 00:15:57,180
+ the specific cases but i can still feel their weight i can be still like there's part of me that's just
+
+164
+00:15:57,180 --> 00:16:02,380
+ like i don't want to be a teacher anymore because i don't want to deal with this yeah well let me let
+
+165
+00:16:02,380 --> 00:16:07,780
+ me give you one just brief one i don't want to dwell on it but just because it's kind of similar um
+
+166
+00:16:07,780 --> 00:16:15,260
+ i have a international student an indian from the continent of india uh student who basically hasn't
+
+167
+00:16:15,260 --> 00:16:22,780
+ shown up to any classes but throughout the semester has it has expressed anxiety about coming and also
+
+168
+00:16:22,780 --> 00:16:28,600
+ willingness to complete the assignments yeah um and so i told him it's a certain point like halfway
+
+169
+00:16:28,600 --> 00:16:32,280
+ through i was like if you can figure out a way to get all this shit done even though you haven't done
+
+170
+00:16:32,280 --> 00:16:40,000
+ any of it right i will still give you credit for like partial credit for these essays um and so he
+
+171
+00:16:40,000 --> 00:16:46,000
+ finally came to me again like last week still hasn't turned in anything and was basically just begging
+
+172
+00:16:46,000 --> 00:16:52,960
+ me like sort of like this person is with you like can i please turn this shit in and i was like i mean
+
+173
+00:16:52,960 --> 00:16:58,360
+ what i told him because he just kind of ambushed me in the office i was like i mean yeah like go ahead
+
+174
+00:16:58,360 --> 00:17:03,780
+ like turn it in but i don't think that's gonna happen but at this point it's a similar thing i don't
+
+175
+00:17:03,780 --> 00:17:11,000
+ have a strict of a right uh an attendance policy or a late work policy so theoretically you could not show
+
+176
+00:17:11,000 --> 00:17:16,260
+ up to any classes and then turn everything in on the last day right uh and you could still get a c like
+
+177
+00:17:16,260 --> 00:17:21,780
+ theoretically within the syllabus that could be worked out um but he's the only one that's done that
+
+178
+00:17:21,780 --> 00:17:27,020
+ you know right a version of that but you'll have it i mean i don't boo boo i promise for the remainder
+
+179
+00:17:27,020 --> 00:17:31,880
+ of your career literally every semester you're going to have some variation on that theme
+
+180
+00:17:31,880 --> 00:17:38,700
+ yeah i most of the time i just fail them but i don't know why i'm like at this state i guess
+
+181
+00:17:38,700 --> 00:17:43,940
+ because he keeps coming usually they give up eventually right but he's just he's been persistent
+
+182
+00:17:43,940 --> 00:17:49,100
+ that's the sad part i mean you know the ones that really want to try and there's something that
+
+183
+00:17:49,100 --> 00:17:53,240
+ they're dealing with that that just can't allow them to get over the hump those are the hardest
+
+184
+00:17:53,240 --> 00:17:59,940
+ ones to to to deal with i mean one thing too because i've i've been in that situation so many times
+
+185
+00:17:59,940 --> 00:18:06,220
+ nate where you know the student is sort of like i'll i'll do extra and then i'll get it all in and
+
+186
+00:18:06,220 --> 00:18:10,220
+ i'll you know i'll just i'll just you know will myself to do it and they never do it and i just
+
+187
+00:18:10,220 --> 00:18:15,660
+ like those are the ones that eat me up too i just see them they're tormenting themselves and then they
+
+188
+00:18:15,660 --> 00:18:20,220
+ just sort of like wither away or go away or something and to be honest like in my earlier
+
+189
+00:18:20,220 --> 00:18:26,080
+ career as a teacher like it was such a relief when they just went away because i was so overwhelmed by
+
+190
+00:18:26,080 --> 00:18:33,580
+ everything else but at a certain point i started to shift where i started it wasn't that i didn't allow
+
+191
+00:18:33,580 --> 00:18:40,040
+ um students to try to you know make stuff up otherwise or try to find alternative paths as i just started
+
+192
+00:18:40,040 --> 00:18:46,660
+ having blunter conversations with him about the value of letting some things like cutting the cord on
+
+193
+00:18:46,660 --> 00:18:52,560
+ something so that everything doesn't fall out so like right you know really recommending dropping a
+
+194
+00:18:52,560 --> 00:18:56,880
+ class whether it's my class or another one and having yeah i've done that in like conversations
+
+195
+00:18:56,880 --> 00:19:02,160
+ in normal classes when i you know actually meet the students like i don't even know who the student
+
+196
+00:19:02,160 --> 00:19:07,560
+ looks like right like i have not met this student so in normal situations i do exactly what nathaniel's
+
+197
+00:19:07,560 --> 00:19:11,520
+ talking about you get to that midpoint in the semester and the student hasn't showed up at all and
+
+198
+00:19:11,520 --> 00:19:16,860
+ you're like look you need to cut your losses here because it's just not worth it yeah it's just not worth it
+
+199
+00:19:16,860 --> 00:19:23,600
+ like and i'll i'll sign a withdrawal demoralize it yeah yeah like yeah it's like you're not a bad
+
+200
+00:19:23,600 --> 00:19:28,880
+ person nothing bad happened here it's just right you know this is this is a purely logistical decision
+
+201
+00:19:28,880 --> 00:19:34,200
+ only problem with this kid is that i'm pretty sure he would have lost his visa i told him that's that
+
+202
+00:19:34,200 --> 00:19:41,660
+ exactly it's that kind of consequence where you go like this is basically the fail the f is better
+
+203
+00:19:41,660 --> 00:19:47,880
+ than a withdrawal for him because at least he's a full-time student yeah yeah yeah at the end yeah
+
+204
+00:19:47,880 --> 00:19:55,160
+ so but this is i mean i mean this is where i i think that the the deridian and focus on you know
+
+205
+00:19:55,160 --> 00:20:01,240
+ like you you can't get out of having to make the decision there is no you know sort of machining away
+
+206
+00:20:01,240 --> 00:20:07,340
+ i mean unless if you just i mean it is a it is a powerful narcotic but the other side of it that i think
+
+207
+00:20:07,340 --> 00:20:17,340
+ you have to hold just as strongly as the deridian one is it is such a fucked up environment that is not
+
+208
+00:20:17,340 --> 00:20:23,380
+ of your own architecting that why why are you teaching nate someone who seems to be pretty
+
+209
+00:20:23,380 --> 00:20:29,320
+ clearly not capable of taking this class and then who in the world is putting their visa on the line
+
+210
+00:20:29,320 --> 00:20:36,500
+ to to be here like this this person has been set up to fail teaching an online class of 250 people
+
+211
+00:20:36,500 --> 00:20:43,980
+ is not teaching right it's it's just and and you're a teacher who cares who cares personally about students
+
+212
+00:20:43,980 --> 00:20:50,000
+ even ones that you haven't ever met before so like there is an incompatible machinery where you're having
+
+213
+00:20:50,000 --> 00:20:56,380
+ your heart torn out by someone you literally never met just think about the fucked up architecture
+
+214
+00:20:56,380 --> 00:20:59,740
+ it's it's really difficult to figure out why i'm single isn't it
+
+215
+00:20:59,740 --> 00:21:02,380
+ yeah
+
+216
+00:21:02,380 --> 00:21:07,140
+ oh the heart-wrenching quality of this person that you've never met
+
+217
+00:21:07,140 --> 00:21:12,840
+ oh god this is the very first episode of community when jeff wiener holds up the pencil and like names
+
+218
+00:21:12,840 --> 00:21:15,800
+ it steve and then snaps it in half and everyone around the room
+
+219
+00:21:15,800 --> 00:21:24,440
+ when i was younger it was easier for me to do this because i was i mean i just had a it was easier for
+
+220
+00:21:24,440 --> 00:21:30,280
+ me to draw a hard line and say look it's the policy and i can and and and that's more than likely what i'm going to do
+
+221
+00:21:30,280 --> 00:21:33,980
+ i mean it's more than likely where i'm headed because i just don't see
+
+222
+00:21:33,980 --> 00:21:38,840
+ a viable alternative but here's the thing i'm just gonna feel like shit about it
+
+223
+00:21:38,840 --> 00:21:39,800
+ i mean i just am
+
+224
+00:21:39,800 --> 00:21:47,040
+ you know and it's gonna i mean it really i'm not even joking about the losing sleep like and i'm not even joking about the chest pain
+
+225
+00:21:47,040 --> 00:21:49,340
+ like i'm that's not even i'm not kidding
+
+226
+00:21:49,340 --> 00:21:50,700
+ like
+
+227
+00:21:50,700 --> 00:21:56,440
+ well what about what about next time like are you gonna have to teach this thing again at some point or is this the only time
+
+228
+00:21:56,440 --> 00:22:01,000
+ i know i'll teach it next fall i mean i designed this whole thing as something that's replicable
+
+229
+00:22:01,000 --> 00:22:02,280
+ replicable but
+
+230
+00:22:02,280 --> 00:22:08,060
+ but here's what i'm going to do the next time i do this i'm gonna really clearly highlight
+
+231
+00:22:08,060 --> 00:22:12,060
+ like here's the deal that'll definitely fix it all there definitely won't be in there
+
+232
+00:22:12,060 --> 00:22:20,560
+ but the late work thing would you consider like actually embedding in the syllabus more leeway for
+
+233
+00:22:20,560 --> 00:22:26,040
+ this type of like so that no i'll go the other way i'll go i'm gonna go because in the past i have
+
+234
+00:22:26,040 --> 00:22:31,040
+ been i have been more of a late work like yeah i don't really care it's not a big deal but the more
+
+235
+00:22:31,040 --> 00:22:36,880
+ that i think about what i'm trying to do in classes like this part of the philosophy right it's like
+
+236
+00:22:36,880 --> 00:22:41,600
+ i'm trying to produce the regular repetition of practices because you know increasingly for me
+
+237
+00:22:41,600 --> 00:22:48,260
+ i really do think that the content of what we teach is totally secondary to regularly getting them doing
+
+238
+00:22:48,260 --> 00:22:53,000
+ some intellectual engagements and discussion with other people some blah blah blah like that's the
+
+239
+00:22:53,000 --> 00:22:58,780
+ thing that we're actually training them on so you have you can't do that like it's not a question of
+
+240
+00:22:58,780 --> 00:23:03,660
+ you have to complete x number of assignments it's that you have to do this every week that's a totally
+
+241
+00:23:03,660 --> 00:23:11,140
+ different criteria yeah right so i think i'm i'm heading more that way i just feel like
+
+242
+00:23:11,140 --> 00:23:16,080
+ you're going to this situation is going to be replicated for you like i'm thinking of for your
+
+243
+00:23:16,080 --> 00:23:22,720
+ sake like you might because you will get the people who want to do what you're talking about but are you
+
+244
+00:23:22,720 --> 00:23:27,840
+ trying to convert people who otherwise wouldn't be willing to do that kind of habitual well they
+
+245
+00:23:27,840 --> 00:23:33,360
+ could repetitive well i think that i don't know if it's willing or if it's overcoming obstacles or
+
+246
+00:23:33,360 --> 00:23:39,120
+ whatever because like i said literally i'm not exaggerating out of 250 people i gave a hundred a's
+
+247
+00:23:39,800 --> 00:23:45,240
+ yeah which means a hundred people and does that mean that they were predisposed towards the creation of
+
+248
+00:23:45,240 --> 00:23:50,800
+ habits maybe it does but that's an awful lot of people right because i actually feel like if i didn't
+
+249
+00:23:50,800 --> 00:23:57,960
+ have this really strict regular you know policy and habit a lot of those people wouldn't have done it
+
+250
+00:23:57,960 --> 00:24:03,540
+ they wouldn't have done it so right they were susceptible to distribution of grades yeah
+
+251
+00:24:03,540 --> 00:24:08,920
+ right i mean i actually think that that's true i mean i don't know that's speculative of course but
+
+252
+00:24:08,920 --> 00:24:14,160
+ it's like whatever it's a teaching philosophy when i spoke with earlier and she said i would recommend
+
+253
+00:24:14,160 --> 00:24:19,440
+ this and it allowed me to clarify for myself i'm like ah that's not what i care about i don't care
+
+254
+00:24:19,440 --> 00:24:26,180
+ that they yeah do the work i care that they do it repeatedly like that's different so the idea of
+
+255
+00:24:26,180 --> 00:24:30,440
+ you could take a week and produce all of the papers for the i mean you could right like you could do all
+
+256
+00:24:30,440 --> 00:24:36,120
+ of the work for this class in a week but that wouldn't accomplish the work of the class you know
+
+257
+00:24:36,120 --> 00:24:41,900
+ so yeah otherwise to me it's like why not just put it all up online just say hand that hand anything
+
+258
+00:24:41,900 --> 00:24:47,260
+ under in whenever you hand it in like you know well couldn't you do you could do that you could you
+
+259
+00:24:47,260 --> 00:24:52,220
+ could i mean not not that you want to it could be a self-paced class right like you could do that and
+
+260
+00:24:52,220 --> 00:24:56,600
+ i mean there are versions of online asynchronous classes that are like this is self-paced whenever you
+
+261
+00:24:56,600 --> 00:25:01,520
+ hand it in is when you'll get the grade yeah but those are just content classes that's a different
+
+262
+00:25:01,520 --> 00:25:06,560
+ that's right that's a different class yeah yeah and i don't care i mean that's part of the issue here
+
+263
+00:25:06,560 --> 00:25:12,460
+ is because this is a sci-fi class for non-majors although these actually this particular student
+
+264
+00:25:12,460 --> 00:25:17,480
+ happens to be a major so that's even a little bit weird you know but this is a you know it's it's a
+
+265
+00:25:17,480 --> 00:25:22,420
+ because it's a class for non-majors i don't care that they learn the content i don't care that they
+
+266
+00:25:22,420 --> 00:25:26,340
+ that's why it's not like the greatest hits of science fiction it's like stuff that will make
+
+267
+00:25:26,340 --> 00:25:32,140
+ you think you know that's why it's designed the whole impetus behind the whole thing and so the
+
+268
+00:25:32,140 --> 00:25:37,520
+ main but it's curious it's interesting to me the majors class so i taught a class of majors and then
+
+269
+00:25:37,520 --> 00:25:43,000
+ 200 people in non-majors and then 40 people in the majors class so it's really two four whatever
+
+270
+00:25:43,000 --> 00:25:49,840
+ um and the majors class isn't any better than the non-majors in terms of this really yeah there's no
+
+271
+00:25:49,840 --> 00:25:54,860
+ real difference now i will say the the really good students in the majors class are way better than
+
+272
+00:25:54,860 --> 00:25:58,140
+ the really good students in the not in the non-majors class just because they have more
+
+273
+00:25:58,140 --> 00:26:05,820
+ facility with how to talk about you know movies and short stories and novels and stuff um but in
+
+274
+00:26:05,820 --> 00:26:11,120
+ general i have i would say percentage wise in the majors class i've got the same kind of like out of
+
+275
+00:26:11,120 --> 00:26:19,040
+ 40 students i've got 20 a's and five f's which is about the same percentage as it is in the non-majors
+
+276
+00:26:19,040 --> 00:26:25,660
+ you know i've got 100 a's and 15 f's you think that um do you think post-covid that students are
+
+277
+00:26:25,660 --> 00:26:30,380
+ expecting more leeway like what year are most of your students are most of them like upper level or
+
+278
+00:26:30,380 --> 00:26:37,740
+ there's a lot i will say this i get far more emails at the beginning of the semester from the
+
+279
+00:26:37,740 --> 00:26:44,160
+ disability office i mean far more to accommodate skyrocketed accommodate students but those
+
+280
+00:26:44,160 --> 00:26:51,520
+ accommodations are always based on exams and and i don't give exams right like yeah so and to me it's
+
+281
+00:26:51,520 --> 00:26:56,700
+ like i i have said and i say to say to students very explicitly i've never met an accommodation that
+
+282
+00:26:56,700 --> 00:27:01,860
+ i'm not willing to accommodate never it's never happened that someone's come to me at the beginning of
+
+283
+00:27:01,860 --> 00:27:07,480
+ the semester and said gotta be one like hey can you ride the class every day well come on i mean a
+
+284
+00:27:07,480 --> 00:27:13,040
+ reasonable i've i've got i've gotten ones that say i don't want you to mark um writing mistakes
+
+285
+00:27:13,040 --> 00:27:20,680
+ no joke i have okay well i haven't gotten those kinds of accommodation requests but it's it's like
+
+286
+00:27:20,680 --> 00:27:24,800
+ yeah like i said i mean it's just once a week here's what you got to do you got to watch a movie you
+
+287
+00:27:24,800 --> 00:27:28,340
+ got to read a short story you got to engage in a little bit of a discussion online with your peers
+
+288
+00:27:28,340 --> 00:27:33,160
+ and then you got to produce a 500 word and you know 500 words is one page right for those for those who
+
+289
+00:27:33,160 --> 00:27:40,720
+ may not know 500 words is a page double spaced so you've got to you know have three interactions
+
+290
+00:27:40,720 --> 00:27:47,780
+ with other humans online in a discussion and write a double spaced page once a week after having watched
+
+291
+00:27:47,780 --> 00:27:53,420
+ a movie read a short story or sometimes a novel like you know whatever it's it's a few hours worth of
+
+292
+00:27:53,420 --> 00:28:00,400
+ material that they have to engage but it's clearly easy enough for half of them to get a's
+
+293
+00:28:00,400 --> 00:28:11,100
+ yeah yeah and i'm just wondering if and there are quite a few people who i have one student for
+
+294
+00:28:11,100 --> 00:28:17,620
+ instance who's clearly a non-traditional student and his uh the the mother of his children was killed
+
+295
+00:28:17,620 --> 00:28:24,340
+ in a car accident in the middle of the semester and he kind of fucking geez when you have 250 people
+
+296
+00:28:24,340 --> 00:28:29,660
+ man you have real life right like you have a whole city you have a whole city yeah yeah you do you just
+
+297
+00:28:29,660 --> 00:28:36,820
+ have like and this and this guy sent me and sent me an email when he was at the hospital with his
+
+298
+00:28:36,820 --> 00:28:44,140
+ children saying can i handed my assignment late because i'm literally at the hospital right now and i was
+
+299
+00:28:44,140 --> 00:28:50,960
+ like dude take your fucking take your time relax you've got more important things going on i am
+
+300
+00:28:50,960 --> 00:28:55,380
+ not going to be your problem you hand this stuff in whenever you hand this stuff in and if future
+
+301
+00:28:55,380 --> 00:29:02,720
+ weeks this continues just let me know and in future weeks nothing continued like he everything went fine
+
+302
+00:29:02,720 --> 00:29:07,400
+ in terms of completing the work for the class right and that's all he had to do and he did and he was
+
+303
+00:29:07,400 --> 00:29:13,280
+ faced with an impossible situation now again that's not saying well so she should be able to do it
+
+304
+00:29:13,280 --> 00:29:18,060
+ because he was able to do it you know like yeah they're different lives and and as someone who's
+
+305
+00:29:18,060 --> 00:29:24,360
+ experienced like anxiety disorder stuff like i am totally sympathetic to how disabling how hard it is
+
+306
+00:29:24,360 --> 00:29:30,960
+ to like just reach out and ask for help so so part of the irony here is the thing that i'm demanding
+
+307
+00:29:30,960 --> 00:29:37,320
+ of them is something that i understand is extremely difficult for them to actually do in certain
+
+308
+00:29:37,320 --> 00:29:43,280
+ circumstances for certain people you know it's like i know that feel i know that feeling of like fuck
+
+309
+00:29:43,280 --> 00:29:46,960
+ man i don't even want to like i don't even want to send this email i don't even want to think about
+
+310
+00:29:46,960 --> 00:29:51,580
+ having to say that's where i am right now with this great situation i'm like i just want to not think
+
+311
+00:29:51,580 --> 00:29:56,580
+ about it let's talk about amazing how much energy so i can not think about this shit because then i'm
+
+312
+00:29:56,580 --> 00:30:00,220
+ gonna have to move the nature really soon i'm gonna have to john's gonna have a fucking
+
+313
+00:30:00,220 --> 00:30:03,540
+ yeah holy shit
+
+314
+00:30:03,540 --> 00:30:19,000
+ but this is what it means to be a teacher right
+
+315
+00:30:19,000 --> 00:30:26,860
+ it really unfortunately is i mean that was one of the worst byproducts of the of the pandemic for me
+
+316
+00:30:26,860 --> 00:30:33,580
+ was watching classes um disintegrate into collections of individuals each with their own
+
+317
+00:30:33,580 --> 00:30:40,380
+ you know laundry list of fucked upness that they were dealing with and and they're all dealing with
+
+318
+00:30:40,380 --> 00:30:46,360
+ fucked up things guys like real things i mean real things like these are not i think back on my college
+
+319
+00:30:46,360 --> 00:30:53,520
+ experience and me not doing well in a particular class was entirely a product of lethargy and like
+
+320
+00:30:53,520 --> 00:31:00,540
+ staying out late and playing yeah that is less the case with the vast majority of my students now
+
+321
+00:31:00,540 --> 00:31:05,600
+ it feels like for me at least yeah like these are people working full-time jobs doing all kinds of
+
+322
+00:31:05,600 --> 00:31:11,400
+ other you know like all kinds of other stuff why do you have so many students working full-time jobs
+
+323
+00:31:11,400 --> 00:31:16,120
+ when you have 250 students you just have a lot oh so that's just a different
+
+324
+00:31:16,120 --> 00:31:21,680
+ you wouldn't have them in your normal classes yeah in my normal classes i do still it's it's also the
+
+325
+00:31:21,680 --> 00:31:26,600
+ difference between going to university of south carolina and going to tufts university right like
+
+326
+00:31:26,600 --> 00:31:33,020
+ i was going to a pretty privileged you know everyone there is pretty well off everyone no one there i was
+
+327
+00:31:33,020 --> 00:31:37,700
+ actually work i worked a part-time job all the way through college and i was rare
+
+328
+00:31:37,700 --> 00:31:44,540
+ almost nobody else that i knew worked at all you know and now i certainly i let that get in the way
+
+329
+00:31:44,540 --> 00:31:50,080
+ and that was my own whatever but i'm just saying like nobody you know the situations that caused people
+
+330
+00:31:50,080 --> 00:31:55,500
+ to get into difficult circumstances were not the mother of their children was killed in an accident
+
+331
+00:31:55,500 --> 00:32:04,900
+ and they were not oh here here i got another one guys deploying uh a marine who's deploying two weeks before the end of the semester
+
+332
+00:32:04,900 --> 00:32:12,900
+ can i complete the assignments in advance so that i can go risk my life uh in the military
+
+333
+00:32:12,900 --> 00:32:19,880
+ well you know i have my feelings about the military but my god of course you can man of course like you know
+
+334
+00:32:19,880 --> 00:32:26,440
+ you know of course that's a real life circumstance right that is not uh you know i had a bad week and
+
+335
+00:32:26,440 --> 00:32:34,100
+ the gamecocks lost you know or i was really hungover this has to be yeah broke up with me you know but this
+
+336
+00:32:34,100 --> 00:32:40,080
+ is clear this is part of you being the class is part of south carolina global yeah like it's like it's
+
+337
+00:32:40,080 --> 00:32:45,840
+ almost the equivalent of a commuter yeah operation right none of them those that guy's not on campus
+
+338
+00:32:45,840 --> 00:32:52,020
+ you know not as far as i know i mean i i don't know i don't know i mean i don't i literally have
+
+339
+00:32:52,020 --> 00:32:56,360
+ not met any of my students except for one that i that happened to recognize my voice
+
+340
+00:32:56,360 --> 00:33:02,060
+ out on the golf course and asked are you mucklebauer and i was like yeah why do you say
+
+341
+00:33:02,060 --> 00:33:08,100
+ well i've seen you in my video lectures every week well i've never seen you i'm just saying
+
+342
+00:33:08,100 --> 00:33:13,180
+ demographics wise if you were teaching just your standard in-person classes you wouldn't have
+
+343
+00:33:13,180 --> 00:33:17,940
+ quite as many of correct type of students that's correct that's certainly true south carolina is not
+
+344
+00:33:17,940 --> 00:33:24,360
+ a commuter school it's most people that go there are still traditional four year 18 years old to 21
+
+345
+00:33:24,360 --> 00:33:34,220
+ and to be honest with you i mean as you get to know more and more of the students many of them
+
+346
+00:33:34,220 --> 00:33:40,180
+ many and i'm i'm saying this isn't unusual they're living at home they are caring for aging parents
+
+347
+00:33:40,180 --> 00:33:46,480
+ that that happens right like that's that's a common place you know they are not like there are of course
+
+348
+00:33:46,480 --> 00:33:51,100
+ plenty of these kids that are out here you know at the at the bars and getting getting loaded on the
+
+349
+00:33:51,100 --> 00:33:57,700
+ weekends but not like it was at penn state i feel like honestly and penn state's another big state
+
+350
+00:33:57,700 --> 00:34:05,780
+ school it's a little more privileged yeah a little more yeah yeah yeah so it's the stories that i
+
+351
+00:34:05,780 --> 00:34:11,200
+ frequently hear i mean there are times where i'm like hardline on policy stuff and just you over this
+
+352
+00:34:11,200 --> 00:34:15,400
+ is when i'm in a classroom right and you overhear them talking to one another and talking about like
+
+353
+00:34:15,400 --> 00:34:21,820
+ yeah i gotta be i work at ups from 10 p.m until 6 a.m and then my first class is at 8 and i'm like
+
+354
+00:34:21,820 --> 00:34:27,920
+ and and the student is 20 years old right this is not a non-traditional this is and they're putting
+
+355
+00:34:27,920 --> 00:34:33,880
+ themselves through college and some of those students do some of those students do exceptionally well and
+
+356
+00:34:33,880 --> 00:34:40,160
+ some of them falter right and and to me i'm i'm just super sympathetic to creating accommodations for
+
+357
+00:34:40,160 --> 00:34:49,320
+ them like yeah you you don't you plan to not sleep for monday through thursday because that's how you
+
+358
+00:34:49,320 --> 00:34:59,180
+ like live your life at age 20 it's like i i i find this is where i find the university just to be
+
+359
+00:34:59,180 --> 00:35:08,460
+ almost borderline criminal it in the way that it it uh incentivizes too weak of a word but you know
+
+360
+00:35:08,460 --> 00:35:16,460
+ obviously necessitate is too strong of a word but to put students in this situation where they're paying
+
+361
+00:35:16,460 --> 00:35:24,920
+ gross amounts of money for to secure their future their their professional future and then be put into
+
+362
+00:35:24,920 --> 00:35:32,200
+ classes where and they're just a statistic and yep there's there's just no opportunity really for
+
+363
+00:35:33,240 --> 00:35:41,240
+ some kind of of pedagogical back and forth like yeah and then yet the university itself is so
+
+364
+00:35:41,240 --> 00:35:48,920
+ fucking wealthy that has no problem you know billion dollar endowment yeah billion dollar like
+
+365
+00:35:48,920 --> 00:35:54,040
+ ridiculous endowments you know it has its own professional sports team harper's endowment is more
+
+366
+00:35:54,040 --> 00:36:03,000
+ than the gdp of like 25 countries yeah yeah i mean i mean this isn't hard would not yeah i know but
+
+367
+00:36:03,000 --> 00:36:08,680
+ still the endowment of south carolina is not small no no no yeah yeah university should not be this
+
+368
+00:36:08,680 --> 00:36:14,520
+ expensive should not be this mass-produced it's not a problem of resources it's a problem of allocation
+
+369
+00:36:14,520 --> 00:36:19,800
+ or distribution of resources now this is the whole administration question i mean it raises all the
+
+370
+00:36:19,800 --> 00:36:24,920
+ questions of the infrastructure and the administrative costs and all of those things that are look they're
+
+371
+00:36:24,920 --> 00:36:29,640
+ really really important issues but they're just frankly kind of boring for people outside of
+
+372
+00:36:29,640 --> 00:36:35,560
+ academia they just it just doesn't yeah you know it it just doesn't it's not sexy enough i mean it's
+
+373
+00:36:35,560 --> 00:36:39,880
+ that's where i said it's like football is the opiate of the you know yeah of college of
+
+374
+00:36:39,880 --> 00:36:44,760
+ colleges and universities right because that's all the board of trustees needs to do so game go
+
+375
+00:36:44,760 --> 00:36:52,520
+ cox spencer rattler's a good quarterback right like and and that's and that just induces this euphoria
+
+376
+00:36:53,880 --> 00:36:59,640
+ that allows people to say we don't actually care about the nitty-gritty now here's what here's what
+
+377
+00:36:59,640 --> 00:37:05,800
+ they'll do they'll set up the office for student services um for you know for problems and they'll set
+
+378
+00:37:05,800 --> 00:37:11,400
+ up the liability containment office of counseling and they'll they set up these offices uh under the
+
+379
+00:37:11,400 --> 00:37:18,120
+ auspices of we're creating outlets for students uh but they don't seem to uh effectively do that job
+
+380
+00:37:18,120 --> 00:37:23,720
+ at least from what i can tell i don't know why that is and i have lots of cynical explanations for that
+
+381
+00:37:23,720 --> 00:37:29,480
+ that you guys have heard many times all of mine are cynical yeah but nevertheless they don't accomplish
+
+382
+00:37:29,480 --> 00:37:34,920
+ the thing that they were uh the that the offices were designed to do that i think i think we can
+
+383
+00:37:34,920 --> 00:37:40,680
+ say that fairly clearly yeah diverting a bunch of money to the office of this or that is just never
+
+384
+00:37:40,680 --> 00:37:51,000
+ ever ever going to make up for just good healthy student to professor ratios in class where where
+
+385
+00:37:51,000 --> 00:37:57,800
+ decisions like the one that you're facing yeah are actually personal decisions that most of which
+
+386
+00:37:57,800 --> 00:38:02,920
+ would be forestalled way earlier than this way earlier if we were in a classroom i would have
+
+387
+00:38:02,920 --> 00:38:09,000
+ encountered or rather not encountered the students sufficiently earlier that i i mean the fact of the
+
+388
+00:38:09,000 --> 00:38:15,000
+ matter is here's another part of this i feel like i was not a good teacher insofar as what i here's
+
+389
+00:38:15,000 --> 00:38:20,760
+ what i did not do this semester because you can't do it with 250 people i didn't go through and try
+
+390
+00:38:20,760 --> 00:38:27,000
+ to pick out you know at a midpoint of the semester the ones that are in danger right the ones that are
+
+391
+00:38:27,000 --> 00:38:32,760
+ potentially i didn't do that i i just i don't do that consciously when i teach in class classes
+
+392
+00:38:33,400 --> 00:38:38,600
+ but i do it just by being you just notice right because it's because this dude oh haven't seen
+
+393
+00:38:38,600 --> 00:38:45,640
+ you in a month we need to talk after class right you know uh and so it does as nathaniel said it
+
+394
+00:38:45,640 --> 00:38:52,760
+ forestalls these problems in october rather than pushing them into december um and maybe that doesn't
+
+395
+00:38:52,760 --> 00:38:57,160
+ mean that the person passes the class but maybe it means the person drops the class that's not out
+
+396
+00:38:57,160 --> 00:39:02,920
+ it addresses the problem before the substantial consequence of i'm going to lose my job i'm going
+
+397
+00:39:02,920 --> 00:39:07,160
+ to lose my scholarship and who knows especially when there's mental health driven things like
+
+398
+00:39:07,800 --> 00:39:13,000
+ you know think think think of the possible consequence of how some of these storylines go
+
+399
+00:39:13,000 --> 00:39:22,280
+ and am i going to be okay with living with that fuck me man that's real now i know that's unfair and
+
+400
+00:39:22,280 --> 00:39:27,800
+ that gets a little bit it's a little sort of self-indulgent to think in those terms but it's true yeah
+
+401
+00:39:30,280 --> 00:39:37,000
+ again it's hard to wish it away i mean you know i i here's what i would also say is uh just because
+
+402
+00:39:37,000 --> 00:39:46,520
+ those sort of moralizing calculi machineries are mostly to alleviate a sense of guilt um and i
+
+403
+00:39:46,520 --> 00:39:52,120
+ wouldn't just you know swallow them hook line and sinker but i also probably wouldn't simply dismiss
+
+404
+00:39:52,120 --> 00:39:57,800
+ them you need them to need them to act to just to sleep at night you need take a little dosage of
+
+405
+00:39:57,800 --> 00:40:02,920
+ them i know you don't like i yes yes and that's this is darada's point it's like
+
+406
+00:40:04,040 --> 00:40:10,120
+ at the end of the day you got to make a decision like in other words it the decision will always be
+
+407
+00:40:10,120 --> 00:40:15,960
+ a leap of faith it will always be right it can't not be in other words there's no calculus that's going
+
+408
+00:40:15,960 --> 00:40:24,120
+ to simply tell you what to do um it just can't even even the employment of a calculus is also itself
+
+409
+00:40:24,120 --> 00:40:29,400
+ a leap of faith right like and so that's part of the interesting point where you go like okay
+
+410
+00:40:29,960 --> 00:40:34,280
+ here's the faith that i'm going to commit to is that i created a policy and that's all i can do about
+
+411
+00:40:34,280 --> 00:40:41,080
+ this and i i absolve myself because because you're right i think and and these are you know most of the
+
+412
+00:40:41,080 --> 00:40:45,320
+ decisions that we make are not that big of a deal but and even these are not that huge of a deal but
+
+413
+00:40:45,320 --> 00:40:49,960
+ they're still consequential this they're not like this isn't we aren't surgeons who are opera i mean this is
+
+414
+00:40:49,960 --> 00:40:55,000
+ that my friend tony says this all the time he's like you know hey we're not surgeons saving people's
+
+415
+00:40:55,000 --> 00:40:59,480
+ lives or killing people we're just like you know worrying over their interpretation of nietzsche
+
+416
+00:40:59,480 --> 00:41:04,760
+ um and i'm like yeah on the one hand i get your point but on the other hand i think that we are
+
+417
+00:41:04,760 --> 00:41:11,880
+ consequential in ways you know that the involvement in the institution and the role that that plays in
+
+418
+00:41:11,880 --> 00:41:15,640
+ not just people's development but just their profession you know creating professional
+
+419
+00:41:15,640 --> 00:41:22,520
+ possibilities for them it's it's it's not it's not nothing you know well as a as a sort of silly
+
+420
+00:41:22,520 --> 00:41:26,920
+ thought experiment so take the example of your student right now yeah so you're thinking about
+
+421
+00:41:26,920 --> 00:41:32,200
+ her future right yeah and in the context of you making this decision is going to affect her future
+
+422
+00:41:32,200 --> 00:41:37,720
+ at least in some way either in a in a big way or in a smaller way right but you were thinking about
+
+423
+00:41:37,720 --> 00:41:44,840
+ contingency and the effects of the decision i mean it's possible that you failing her yes you're
+
+424
+00:41:44,840 --> 00:41:49,320
+ right i see where you're going leads to better leads to something more motivation that's right
+
+425
+00:41:49,320 --> 00:41:54,120
+ we're making better decisions yes you're totally right past her she just kind of stays in that
+
+426
+00:41:54,120 --> 00:41:57,640
+ you're totally right there's no way there's no way to know but let's be honest let's
+
+427
+00:41:57,640 --> 00:42:03,720
+ fucking guess on that one right you know what i'm saying like you're right yeah i'm playing
+
+428
+00:42:03,720 --> 00:42:08,120
+ a probability game here and the probability and i understand the problem with probability is that
+
+429
+00:42:08,120 --> 00:42:14,040
+ it's wrong a lot of the time you know but but you're but you're right you're right because that
+
+430
+00:42:14,040 --> 00:42:20,120
+ does happen it does happen that you know a line in the sand becomes a moment of a pedagogical
+
+431
+00:42:20,120 --> 00:42:24,440
+ moment for a person in their life that's right yeah and again the question about the question
+
+432
+00:42:24,440 --> 00:42:29,400
+ isn't about the effect of the decision the question is about the decision the marking of the decision
+
+433
+00:42:29,400 --> 00:42:32,600
+ they're making the marking of the decision the moment of the decision and the cut
+
+434
+00:42:33,880 --> 00:42:37,320
+ and then and that's where then you go to i mean given everything that we're talking about right
+
+435
+00:42:37,320 --> 00:42:42,920
+ now and you go to like for me way too often of late i go to what is the value of the thing that we do then
+
+436
+00:42:43,240 --> 00:42:47,800
+ right like what is that given the circumstances of people's lives that we were talking about and all
+
+437
+00:42:47,800 --> 00:42:51,720
+ the things that are going on it's like what what is this value what do we why do we do this thing and
+
+438
+00:42:52,200 --> 00:42:58,680
+ and and and it's just really important to me in terms of why the three of us do this thing right
+
+439
+00:42:58,680 --> 00:43:03,080
+ like why do we do this why do we do this thing like why is this thing is fun for all three of us we've
+
+440
+00:43:03,080 --> 00:43:08,600
+ all talked about that many many times right but what do what do we do this for right is it is it because
+
+441
+00:43:08,600 --> 00:43:13,640
+ it's fun do we believe that it's important do we believe that developing certain habits of thinking
+
+442
+00:43:13,640 --> 00:43:17,560
+ i mean because here's to me like i'm a person who's immersed and trained in this and here's what
+
+443
+00:43:17,560 --> 00:43:20,920
+ it's produced for me total freaking anxiety about giving a grade
+
+444
+00:43:23,080 --> 00:43:27,320
+ so so so so to me i go well maybe people shouldn't learn that
+
+445
+00:43:29,640 --> 00:43:34,840
+ well maybe people shouldn't be taught in ways that will induce like
+
+446
+00:43:36,040 --> 00:43:42,520
+ limitless anxiety over every possible decision and it's you know infinite consequences
+
+447
+00:43:42,520 --> 00:43:50,760
+ yeah man i mean is that a real question because i feel like your orientation towards this job
+
+448
+00:43:50,760 --> 00:43:57,160
+ obviously changes like mine compared to like my first couple i mean my my my experience is so much
+
+449
+00:43:57,160 --> 00:44:01,720
+ more limited than both yours but yeah well you're just you're just young you're just younger but in 20
+
+450
+00:44:01,720 --> 00:44:07,240
+ years you're gonna be saying what i'm saying now in the trajectory of my teaching experience though i went
+
+451
+00:44:07,240 --> 00:44:13,160
+ from totally not caring to now really enjoying it which i could try to explain through a number of
+
+452
+00:44:13,160 --> 00:44:19,880
+ factors why that happened but i enjoy it i think for a number of like what you would hopefully like
+
+453
+00:44:19,880 --> 00:44:26,120
+ what you would hope are authentic reasons in the sense that you're you're fostering sensibilities in
+
+454
+00:44:26,120 --> 00:44:31,160
+ your students you're allowing them to get interested in stuff and you know having great conversations day
+
+455
+00:44:31,160 --> 00:44:37,480
+ day to day. Yeah. But I would never, I would never assume that my orientation towards my job is like
+
+456
+00:44:37,480 --> 00:44:43,000
+ a noble one. I don't know. I just think it's what I do. Like, it's just, it's just who you are. I
+
+457
+00:44:43,000 --> 00:44:48,920
+ try to be expression of your way of life and you don't have to rationalize it by its nobility. You
+
+458
+00:44:48,920 --> 00:44:54,880
+ just say, this is how I, um, because I, I think that, I think that I will, I would, I think I
+
+459
+00:44:54,880 --> 00:45:01,080
+ would go farther. I think I would argue for the nobility, uh, a little bit. I think that I would
+
+460
+00:45:01,080 --> 00:45:07,380
+ say, no, I think that part of what I am trying to do is create a world in which there is a more
+
+461
+00:45:07,380 --> 00:45:14,700
+ empathetic relationship to alterity, a more attentive or attuned responsiveness to, you know,
+
+462
+00:45:15,040 --> 00:45:21,420
+ others and their different kinds of circumstances. But what I'm saying is here's what one version of
+
+463
+00:45:21,420 --> 00:45:24,300
+ what attentiveness to alterity looks like. Anxiety.
+
+464
+00:45:31,000 --> 00:45:43,960
+ I have an aphorism for us to try to, to bridge. So this is 327 taking seriously for most people.
+
+465
+00:45:43,960 --> 00:45:49,020
+ The intellect is an awkward, gloomy creaking machine. That is hard to start when they want
+
+466
+00:45:49,020 --> 00:45:55,220
+ to work this machine and think, well, they call it taking the matter seriously. Oh, how taxing
+
+467
+00:45:55,220 --> 00:46:00,920
+ thinking must be for them. The lovely human beast seems to lose its good mood when it thinks well.
+
+468
+00:46:00,920 --> 00:46:06,720
+ Well, it becomes serious and where laughter and gaiety are fine thinking is good for nothing.
+
+469
+00:46:07,220 --> 00:46:13,580
+ That is the prejudice of this serious beast against all gay science. Well then let us prove it a
+
+470
+00:46:13,580 --> 00:46:19,140
+ prejudice. And I mean, I, I, I, I've got to that. That's a response in two ways for me. On the one
+
+471
+00:46:19,140 --> 00:46:23,900
+ hand is the, just as a response, I mean, just a personal, purely personal response of the,
+
+472
+00:46:24,100 --> 00:46:27,680
+ you're taking the weight of this very seriously, John. And I think with very good
+
+473
+00:46:27,680 --> 00:46:36,300
+ reason. Um, but sincerity might not be the only way I don't, I don't suggest, you know,
+
+474
+00:46:36,320 --> 00:46:42,120
+ obviously like not caring about it or laughing it off. Um, but different, different kinds of laughter,
+
+475
+00:46:42,120 --> 00:46:47,620
+ right? There are different kinds of laughter. And then, yeah. And then the other one isn't the
+
+476
+00:46:47,620 --> 00:46:53,280
+ question like, what are we doing here? Yeah. Well, like in terms of like, you know, if insofar as I
+
+477
+00:46:53,280 --> 00:47:00,180
+ feel like what I do has a certain nobility to it, it is exactly to, to prove the prejudice of
+
+478
+00:47:00,180 --> 00:47:05,860
+ sincerity against the gay science wrong. Right. Right. I mean, I fully agree. Like if you want,
+
+479
+00:47:05,960 --> 00:47:11,380
+ if you could not pick a, uh, a more appropriate aphorism to summarize what I think of, like why
+
+480
+00:47:11,380 --> 00:47:15,940
+ Nietzsche is important to me and why I do what I do. It's like, because you don't have to be gloomy to
+
+481
+00:47:15,940 --> 00:47:23,000
+ be smart. You don't have to be, you know, stodgy and serious in order to be a thinker. And, and to me,
+
+482
+00:47:23,060 --> 00:47:31,460
+ Nietzsche is truthfully the first person that ever taught me that. Um, and, and still continues to be
+
+483
+00:47:31,460 --> 00:47:37,060
+ the one that I returned to. And I learned from the most on that. It's like that, that sense of the,
+
+484
+00:47:37,260 --> 00:47:43,380
+ that's the book four, right? It's the book four celebration, uh, uh, that affirmation of becoming
+
+485
+00:47:43,380 --> 00:47:51,120
+ that's like, why, why is, why is learning connected to seriousness? Derrida's great on this in, uh,
+
+486
+00:47:51,120 --> 00:47:55,960
+ I mean, signature event context, this is one of the undercurrent arguments there in limited ink is
+
+487
+00:47:55,960 --> 00:48:04,400
+ like, why is seriousness hooked to, or rather there's a history to why, why learning and knowledge
+
+488
+00:48:04,400 --> 00:48:09,980
+ are hooked to seriousness. And it's a contingent history. It is not a necessary history. There can be
+
+489
+00:48:09,980 --> 00:48:17,620
+ other ways of thinking that are joyful and celebratory and laughing. And they're not necessarily
+
+490
+00:48:17,620 --> 00:48:22,640
+ derisive laughter. That's where you have to have different senses, different senses of, of laughter.
+
+491
+00:48:23,120 --> 00:48:30,760
+ Not dismissive, not, but you know, the, the, the deeply felt, you know, sort of belly laughter.
+
+492
+00:48:31,560 --> 00:48:36,560
+ Well, and that's, I feel like, you know, my, at least for me, that's my pedagogy, like my pedagogy,
+
+493
+00:48:36,700 --> 00:48:41,740
+ all of you guys have taken classes with me. It's always like, it's always laughing. It's got to be
+
+494
+00:48:41,740 --> 00:48:47,040
+ laughing. Like if I, if I taught a single class and there wasn't laughter in the class and at some
+
+495
+00:48:47,040 --> 00:48:53,540
+ point it would be like a terrible class, what the fuck am I doing? Yeah. But just think, I mean,
+
+496
+00:48:53,540 --> 00:48:58,580
+ even in terms of this, right. In terms of what we do, like we laugh, right. It's not,
+
+497
+00:48:58,580 --> 00:49:02,440
+ and that's not like a sideline. That's a dimension of what we do. I mean, it's maybe
+
+498
+00:49:02,440 --> 00:49:06,580
+ other people don't think it's funny, but like, fuck them. It's not everybody's company.
+
+499
+00:49:07,000 --> 00:49:12,680
+ But in terms of hooking it to thinking, I do think that some of the best thinking that I've
+
+500
+00:49:12,680 --> 00:49:18,380
+ ever done is a happened on this podcast and B happens at moments of levity where we're making
+
+501
+00:49:18,380 --> 00:49:25,020
+ connections across things and there's a humor to it. There's like, you know, sometimes even is the
+
+502
+00:49:25,020 --> 00:49:32,340
+ humor is the thing that leads to the intelligence that yeah. Yeah. Just would not, um, hence the
+
+503
+00:49:32,340 --> 00:49:37,200
+ importance of Nietzsche, right? Like this is, this is where it's just, it's so, that's where I say
+
+504
+00:49:37,200 --> 00:49:42,980
+ it's so deeply important, not in that earnest sense. In fact, precisely what is the, the aphorism
+
+505
+00:49:42,980 --> 00:49:47,400
+ that begins the gay science is, is, has always been one of my favorites. I don't know if we ever
+
+506
+00:49:47,400 --> 00:49:53,420
+ talked about that one, but it's the, um, no, we did. Yeah. At the, at the wise man who is unable to,
+
+507
+00:49:53,500 --> 00:49:58,400
+ well, I'm not going to find it right now. The purpose of existence? No, no, no. This is the,
+
+508
+00:49:58,400 --> 00:50:04,220
+ the, the aphorism on the front of the book, like on the, the, yeah, the title page or whatever of the
+
+509
+00:50:04,220 --> 00:50:08,960
+ book. I'm not going to find it, but I can quote it. So at the, at the wise man who refuses to laugh
+
+510
+00:50:08,960 --> 00:50:14,380
+ at himself, I laugh. Right. Like, um, I mean, and that's the whole, that's the, that's the intro to
+
+511
+00:50:14,380 --> 00:50:20,620
+ the book is like, here's the, like, if you can't laugh at yourself, then your wisdom is laughable
+
+512
+00:50:20,620 --> 00:50:28,920
+ in the derisive sense. Right. Like, um, so that issue of, and what, you got it? Yeah. This house is
+
+513
+00:50:28,920 --> 00:50:35,940
+ my own and here I dwell. I've never aped nothing from no one and laugh at each master. Mark me well,
+
+514
+00:50:35,940 --> 00:50:41,140
+ who at himself has not poked fun over my life. Okay. That's a wildly different translation
+
+515
+00:50:41,140 --> 00:50:49,160
+ than the Kaufman. Jesus. That is a tortured language. Yeah. I couldn't make sense of any
+
+516
+00:50:49,160 --> 00:50:57,300
+ of that. I'm looking at it. Okay. I live in my own house. So I live in my own house or my
+
+517
+00:50:57,300 --> 00:51:05,860
+ own place. I have never copied anybody, even half. And at any
+
+518
+00:51:05,860 --> 00:51:11,420
+ master who lacks the grace to laugh at himself, I laugh. That's the Kaufman translation. And that's
+
+519
+00:51:11,420 --> 00:51:16,280
+ a fuck ton better than what you just read. Yeah. And it says, and it says over the door
+
+520
+00:51:16,280 --> 00:51:20,880
+ to my house. Right. I live in my own place. I've never copied nobody, even half. And at
+
+521
+00:51:20,880 --> 00:51:26,440
+ any master who lacks the grace to laugh at himself, I laugh, you know? Yeah. And was Nietzsche
+
+522
+00:51:26,440 --> 00:51:32,160
+ the first to really articulate that as a philosophical position? I mean, I'm sure something similar
+
+523
+00:51:32,160 --> 00:51:38,120
+ has been said in literature, poetry, but philosophy, that has to be the first, right? It's the first
+
+524
+00:51:38,120 --> 00:51:42,640
+ that I've ever incorporated. Right. Like I've just, and it's just, I mean, that's where to me,
+
+525
+00:51:42,720 --> 00:51:49,380
+ it's like the most important question in philosophy that Nietzsche diagnoses is the tone, right? What I'm
+
+526
+00:51:49,380 --> 00:51:54,520
+ calling style, you know, in for, for a decade I've been calling style and not writing that book, but,
+
+527
+00:51:55,040 --> 00:52:00,620
+ uh, but the tone of the thinking, you know, what does it, what does the thinking smell like? Does
+
+528
+00:52:00,620 --> 00:52:07,520
+ it smell like earnest and serious and, you know, or does it smell light and dancing and laughing and,
+
+529
+00:52:08,280 --> 00:52:13,940
+ you know, that, that, and that's to me, yeah. So, so that's where I think that there is a nobility
+
+530
+00:52:13,940 --> 00:52:19,880
+ in, um, you know, as I've, I mean, the way that I think the terminology that I've used is I'm
+
+531
+00:52:19,880 --> 00:52:25,880
+ invested in, in fostering ecologies of joy. You know, I've used that expression before recognizing
+
+532
+00:52:25,880 --> 00:52:30,780
+ full well that there's my particular version of joy is not everybody's version of joy, right?
+
+533
+00:52:30,780 --> 00:52:36,040
+ Well, I guess that's, that's what I meant by like bracketing the nobility part. Cause I think I'm,
+
+534
+00:52:36,120 --> 00:52:40,520
+ I'm doing the best I can. I'm trying to foster those kinds of relationships, but it's sort of
+
+535
+00:52:40,520 --> 00:52:44,320
+ impossible to tell. And you're not going to reach everybody. Oh my God. Like there's some people
+
+536
+00:52:44,320 --> 00:52:48,200
+ who just don't like it. They're like, they don't, I don't like you. I don't like what's going on
+
+537
+00:52:48,200 --> 00:52:52,460
+ here. You know, and that's, you're not going to get that relationship out of them. I had at least
+
+538
+00:52:52,460 --> 00:52:58,160
+ like, I had like two students this semester that were kind of like that, where they reacted against
+
+539
+00:52:58,160 --> 00:53:01,840
+ the material, against my disposition. And then that colored the rest of the semester. That's right.
+
+540
+00:53:01,920 --> 00:53:06,220
+ And there's nothing you can do. I don't understand what's going on. Fuck you. But you can't be
+
+541
+00:53:06,220 --> 00:53:10,220
+ their teacher. Like that's the, the, the misunderstanding in terms of education is that
+
+542
+00:53:10,220 --> 00:53:14,200
+ you could just sign up for a class and learn from whoever happens to be the teacher. Like that's,
+
+543
+00:53:14,200 --> 00:53:19,660
+ I mean, if any, anyone sort of thoughtfully looks back on their life, they'll recognize that they had
+
+544
+00:53:19,660 --> 00:53:24,080
+ to choose their teachers and that they, that not everyone who was in front of them with the position
+
+545
+00:53:24,080 --> 00:53:28,380
+ teacher was in fact, one of their teachers, you know, that they had to, they had to select,
+
+546
+00:53:28,440 --> 00:53:31,900
+ or it's not even choosing. It's the teacher choose them. They choose. I don't know who did the
+
+547
+00:53:31,900 --> 00:53:37,580
+ choosing, but it's of the hundred or so teachers that we've had in our life, quote unquote teachers,
+
+548
+00:53:37,940 --> 00:53:42,020
+ like four of them have been teachers. And, and those, when, when you look and they may not have
+
+549
+00:53:42,020 --> 00:53:48,120
+ even been, been quote unquote teachers. They might have been just people in your life who became
+
+550
+00:53:48,120 --> 00:53:53,640
+ formative in how you think about what it is that you do and how you move around in the world. And
+
+551
+00:53:53,640 --> 00:53:57,800
+ like, yeah, that's what we all do. And we all do that with one another as well. We are all
+
+552
+00:53:57,800 --> 00:54:03,100
+ teachers to each other, uh, as well. And students of each other. I mean, that's that sense in which,
+
+553
+00:54:03,200 --> 00:54:06,720
+ you know, we always talk about like, yeah, you're not just a teacher. You're also a student, but like
+
+554
+00:54:06,720 --> 00:54:13,020
+ there is a sense in which that's a bullshit statement that people make to, to, um, pretend
+
+555
+00:54:13,020 --> 00:54:18,020
+ that there's equity in the classroom or something. But at the same time, it's also substantial. Like
+
+556
+00:54:18,020 --> 00:54:23,840
+ I fully feel that way in relationship to the many people that I've have called my students in the
+
+557
+00:54:23,840 --> 00:54:29,760
+ past. Not all of them, right? Not everyone could be my student and not everyone could be my teacher,
+
+558
+00:54:30,000 --> 00:54:34,460
+ right? Like not all of them. In fact, not even most of them, but there are some, some, you know,
+
+559
+00:54:34,520 --> 00:54:40,300
+ significant ones like you guys, obviously, and, and a host of others, you know, that have been
+
+560
+00:54:40,300 --> 00:54:46,980
+ absolutely integral to me developing into the kind of habit. It's not like I took this ecologies of joy
+
+561
+00:54:46,980 --> 00:54:52,120
+ thing and then went out into the world like Jesus to spread the good word, right? Like it's,
+
+562
+00:54:52,200 --> 00:54:58,080
+ it's like it emerged precisely through all the ecologies of joy as a kind of mission is emerged
+
+563
+00:54:58,080 --> 00:55:05,780
+ through itinerant, you know, encounters with lots of different people over many years and lots of
+
+564
+00:55:05,780 --> 00:55:10,020
+ thinking and reading and writing and anxiety and scotch.
+
+565
+00:55:22,040 --> 00:55:26,960
+ Kind of go back to the pedagogy of the class and the sort of the situation that you're, you're looking
+
+566
+00:55:26,960 --> 00:55:33,460
+ at. I mean, this, this is so important to me when I think about, I go back to, um, Deleuze's first
+
+567
+00:55:33,460 --> 00:55:37,180
+ lines of the Nietzsche book. It's like, you know, Nietzsche is the thinker who added sense and value
+
+568
+00:55:37,180 --> 00:55:43,940
+ to, to philosophy. And I'm thinking here more particularly in terms of value or, or perspective.
+
+569
+00:55:44,180 --> 00:55:49,220
+ It's just, you know, this is in, in, in 335, this is, you know, long live physics. And he's talking
+
+570
+00:55:49,220 --> 00:55:56,220
+ about, you know, this presupposition of science that, um, that one, or of like morality in science
+
+571
+00:55:56,220 --> 00:56:01,900
+ or moral science, um, that one's conscience is simply to be obeyed. And that there's this, here's
+
+572
+00:56:01,900 --> 00:56:06,660
+ this precept, here's this unquestioned presupposition. And his, his line is, you know,
+
+573
+00:56:06,660 --> 00:56:13,320
+ that in short, there are a hundred ways to listen to your conscience, you know, um, and he, and he
+
+574
+00:56:13,320 --> 00:56:18,460
+ names a bunch of them. Are you, you know, the fool who obeys because he can't think of any other
+
+575
+00:56:18,460 --> 00:56:26,760
+ objection or are you the one who listens like a good soldier who heeds the commander, um, or like a, a, a beloved
+
+576
+00:56:26,760 --> 00:56:32,820
+ who loves the one who commands or a flatterer or, uh, and coward who fears the commander. And, you know,
+
+577
+00:56:32,820 --> 00:56:40,720
+ the, the, the particular content of the thing is completely unimportant compared to the, the style or the
+
+578
+00:56:40,720 --> 00:56:47,560
+ or the value or the perspective of the way this, of the way that this thing is animated. And, you know,
+
+579
+00:56:47,560 --> 00:56:55,300
+ you talk about sort of wanting to, um, cultivate ecologies of, of, of joy. Yeah. We haven't talked
+
+580
+00:56:55,300 --> 00:57:02,180
+ about 334 though. Uh, yeah, it's on, um, one must learn to love and you like, I'm going to bring this
+
+581
+00:57:02,180 --> 00:57:07,460
+ one back to the, your sort of ennobled vision of what it is to teach and to teach some kind of attention
+
+582
+00:57:07,460 --> 00:57:13,820
+ to alterity. Um, and I had my students write on this, on this aphorism, like when I was at South
+
+583
+00:57:13,820 --> 00:57:18,340
+ Carolina, you know, this one is called one must learn to love. And I feel like if this isn't what
+
+584
+00:57:18,340 --> 00:57:24,560
+ the classroom, I, I, if this is what I see the classroom as doing, and, and I'm pretty sure this
+
+585
+00:57:24,560 --> 00:57:31,060
+ is the way y'all see that your classroom is doing as well. This happens to us in music. First, one must
+
+586
+00:57:31,060 --> 00:57:36,580
+ learn to hear a figure and melody at all, to detect and distinguish it, to isolate and delimit it
+
+587
+00:57:36,580 --> 00:57:44,240
+ as, uh, as a life in itself. Then one needs effort and goodwill to stand it despite its strangeness.
+
+588
+00:57:44,740 --> 00:57:48,600
+ Patience with its appearance and expression and kind heartedness about its oddity.
+
+589
+00:57:49,160 --> 00:57:54,200
+ Finally comes a moment when we are used to it, when we expect it, when we sense that we'd miss it if
+
+590
+00:57:54,200 --> 00:58:00,820
+ it were missing. And now it continues relent, uh, can, now it continues relentlessly to compel and
+
+591
+00:58:00,820 --> 00:58:06,300
+ and enchant us until we have become its humble and enraptured lovers who no longer want
+
+592
+00:58:06,300 --> 00:58:12,620
+ anything better from the world than it and it again. But this happens to us, not only in music,
+
+593
+00:58:12,620 --> 00:58:18,060
+ it is just in just this way that we have learned to love everything we now love. We are always
+
+594
+00:58:18,060 --> 00:58:24,200
+ rewarded in the end for our goodwill, our patience, our fair-mindedness and gentleness with what is
+
+595
+00:58:24,200 --> 00:58:30,140
+ strange as it gradually casts off its veil and presents itself as a new indescribable beauty.
+
+596
+00:58:30,640 --> 00:58:36,960
+ That is its thanks for our hospitality. Even he who loves himself will have learned it this way.
+
+597
+00:58:36,960 --> 00:59:06,940
+ If that's not a pedagogy of difference, I don't, I don't know what is this, this sort of repetition of, of, of, of, of generosity and, and patience that is for the sake of allowing something else to emerge. And by the way, you know, I would add or wrinkle in there and allow for yourself to reemerge in relationship to it as well. That you're not going to be.
+
+598
+00:59:06,940 --> 00:59:16,900
+ You're not this, you know, stable sort of paternalistic. This isn't a paternalistic kind of love wherein I, you know, I have the dominant position and then just allows this otherwise nascent thing.
+
+599
+00:59:16,900 --> 00:59:29,160
+ Quite the opposite, right? Like quite the opposite in this case. It's like it requires patience, fair-mindedness and gentleness with what is strange in order for that to shed its veil and turn into something new and of indescribable beauty.
+
+600
+00:59:29,160 --> 00:59:42,820
+ That is the way it thanks us for our hospitality, right? Like in other words, we have to be capable of welcoming. We have to be capable of welcoming and, and that's learning to love, right? To, to, you know, not just accept, right?
+
+601
+00:59:42,820 --> 00:59:54,620
+ Not just tolerate, you know, I mean, that's, that's a step. Acceptance and tolerance are a step, but learning to love that, which is not, that is not I, you know, that is not me.
+
+602
+00:59:54,620 --> 01:00:08,860
+ My only hesitation around, cause I completely, this is how I try to conduct myself in the classroom. It's like generous readings of my students writing of the conversation in general. I try to be as receptive as possible, not just to appropriate what they're saying.
+
+603
+01:00:08,960 --> 01:00:25,000
+ I try to be open to alterity, but I'm not sure that, I mean, I don't know. I, I feel like I'm doing a pretty good job practically speaking, but just theoretically, you don't know the motivations of your conduct or behavior all the time.
+
+604
+01:00:25,000 --> 01:00:42,420
+ So is this a matter of just willing that, that relation to alterity or trying? Is it like an attempt? Is it a perpetual attempt? Or like, how do you think about it? Because for me, there's a little bit of a disconnect, at least conceptually speaking.
+
+605
+01:00:42,420 --> 01:01:00,420
+ It has to be a continuous attempt. Like you certainly can't know it ahead of time. And I would also say that it can't, because, you know, as, as John said, it's not tolerance or acceptance that there has to be, there, there's a back and forthness to it too, that sometimes, you know, patience and generousness and all these other sorts of things are not, it's not simply openness.
+
+606
+01:01:00,420 --> 01:01:27,160
+ It's not a passivity. Sometimes there needs to be like a challenging, sometimes there needs to be, you know, some, something else that sort of like provoke response. But it's always sort of like a, I mean, this is where it's experimental for me is it's, it's try something and then see how it responds and then adapt to it. And, and, you know, to go back to like, and allow yourself to be changed by the thing that that's coming back to you.
+
+607
+01:01:27,160 --> 01:01:54,180
+ So the sort of experimental, I think that's, I mean, that's, it's the best way that I can think of it too, boo boo, because, because I will say, yeah, there is a kind of will to it, right? There is a kind of a commitment to this, but the commitment is not a resolute one. The commitment is one of, I'm going to try and see how this plays. I thought as an example, when Nathaniel was speaking there, I thought of your prospectus defense and you remember how mad I was at you.
+
+608
+01:01:54,880 --> 01:02:23,440
+ And I said it, right? Like I said it in the thing. I'm like, in the defense, I'm like, this document has made me angry. And I'm going to explain to you, I'm going to explain to you why it has made me angry, because I think it's really important. And, and it's, and that expression of anger was like, that was a form of caring. Right? That was, it was, that was, that was not, because I certainly know in myself, like, if I didn't give a shit, I'd be like, well, fuck it, who cares? You know, is that was a form of care.
+
+609
+01:02:23,440 --> 01:02:42,580
+ Now, there are many ways that that thing could have gone. And who knows? And I would, it's incumbent upon me in that situation, if I am willing and encounter with alterity, to be receptive to how it plays for you. At the same time, I'm only me. I am not an assortment of all possible things.
+
+610
+01:02:42,960 --> 01:02:56,120
+ And so there are things that I'm not going to do. I'm not going to be like the nice, gentle, I'm just not going to be that guy. You know, like, oh, no, anything that you say is really smart and really good. And it's like, no, sometimes it's stupid. And sometimes you're wrong.
+
+611
+01:02:57,420 --> 01:03:08,320
+ And, but that's, it's not good or, it's not better or worse. It's just different. They're just different things. And you as a different kind of organism are going to respond differently to some things.
+
+612
+01:03:09,360 --> 01:03:17,340
+ But I'm wondering, like, in a situation like that, if that was a calculate, like, a calculated risk you took, like, I'm sure he'll be able to handle it.
+
+613
+01:03:17,560 --> 01:03:17,880
+ Absolutely.
+
+614
+01:03:18,040 --> 01:03:21,840
+ Like, would you have done that with somebody else in the same exact way?
+
+615
+01:03:22,540 --> 01:03:26,440
+ Well, I mean, I certainly have done it with other people in similar ways.
+
+616
+01:03:26,620 --> 01:03:27,480
+ No, I know.
+
+617
+01:03:27,600 --> 01:03:29,140
+ But not everybody else. I would say that.
+
+618
+01:03:29,400 --> 01:03:30,820
+ Yeah, certain people you wouldn't do it.
+
+619
+01:03:30,820 --> 01:03:32,760
+ Absolutely. Absolutely not.
+
+620
+01:03:33,000 --> 01:03:35,160
+ Like, there, you know, I learned very much.
+
+621
+01:03:35,500 --> 01:03:47,520
+ I mean, that's to me the great thing about graduate pedagogy that's, at least for me, different from undergraduate pedagogy is we have a long enough period of time that different types of interactions can occur.
+
+622
+01:03:47,520 --> 01:04:03,820
+ It's years. It's not weeks. And the result of that is different things that, for instance, if I discovered, and this has happened to me before, that that kind of exchange makes you shut down, then I don't do that anymore, you know.
+
+623
+01:04:03,940 --> 01:04:09,700
+ Now, again, I'm not all things to all people, so I am limited in my array of possible behaviors.
+
+624
+01:04:09,700 --> 01:04:24,440
+ But, like, that, like, okay, you try some, like, I interact, obviously, with different students differently, you know, and I'm really nice to some students, which is, people find shocking sometimes, you know.
+
+625
+01:04:24,540 --> 01:04:24,700
+ Yeah.
+
+626
+01:04:24,900 --> 01:04:31,820
+ And people find, you know, I've told you the story of the friend of mine who got, like, when I said, hey, this paper is really great, she's like, you're done with me.
+
+627
+01:04:31,880 --> 01:04:32,820
+ You hate me now, right?
+
+628
+01:04:33,080 --> 01:04:35,740
+ I was like, no, no, no, it actually really is great.
+
+629
+01:04:36,280 --> 01:04:40,120
+ You're like, no, this is your dismissive, this is how you're dismissive, you're being complimentary.
+
+630
+01:04:40,540 --> 01:04:42,200
+ And you're like, no, no, I liked it, you know.
+
+631
+01:04:43,280 --> 01:04:50,220
+ So, you know, but I do think that there is a kind of, I don't know, it's a responsibility to me.
+
+632
+01:04:50,340 --> 01:04:54,220
+ And that's, the responsibility comes from, that's the fun part of being alive.
+
+633
+01:04:54,600 --> 01:04:57,580
+ Like, that's, so the responsibility is not one, it's not a weight.
+
+634
+01:04:57,960 --> 01:05:11,040
+ It's like, here's what opens the world to you, is learning how to encounter it as something other than just another version of you, or a failed version of you, or an inadequate version of you, or an idealized version of you.
+
+635
+01:05:11,720 --> 01:05:25,940
+ You know, it's like, I think it's really, for instance, I think about the number of times, I mean, I've been studying and immersed in the English language for 54 years, well, whenever I started talking, but like for, you know, my entire life, right?
+
+636
+01:05:26,460 --> 01:05:29,240
+ And I frequently have misunderstandings with people.
+
+637
+01:05:29,240 --> 01:05:37,920
+ And I will say, almost to, in every, almost in every case, not in every case, because some of them, but I thoroughly enjoy those misunderstandings.
+
+638
+01:05:38,080 --> 01:05:44,680
+ I find them fucking fascinating when I realize, oh my gosh, I see how you heard that thing that I said that way.
+
+639
+01:05:44,840 --> 01:05:47,220
+ I didn't think of it that way, and I didn't mean it that way.
+
+640
+01:05:47,300 --> 01:05:49,780
+ But the way that you heard it, it's, you're not wrong.
+
+641
+01:05:50,600 --> 01:05:51,280
+ Makes sense.
+
+642
+01:05:51,480 --> 01:05:51,620
+ Yeah.
+
+643
+01:05:51,920 --> 01:05:52,220
+ Right?
+
+644
+01:05:52,340 --> 01:05:56,000
+ And I'm like, what happens to me in that moment is I've encountered another.
+
+645
+01:05:57,020 --> 01:06:00,720
+ And it's like, and it's like, wow, that is really cool.
+
+646
+01:06:01,120 --> 01:06:01,440
+ Like, so.
+
+647
+01:06:01,680 --> 01:06:03,080
+ And it's making it a delight.
+
+648
+01:06:03,720 --> 01:06:08,920
+ Yeah, that sense of responsibility is not a weight, it's a fascination, you know, at least for me.
+
+649
+01:06:09,020 --> 01:06:13,880
+ And that's, the teaching, man, like, what is teaching other than that, you know?
+
+650
+01:06:13,920 --> 01:06:18,560
+ It's not getting them to be mini-me's, because fuck, nobody wants that.
+
+651
+01:06:19,580 --> 01:06:20,780
+ I don't want a little.
+
+652
+01:06:21,060 --> 01:06:22,300
+ Well, some of them did, I guess.
+
+653
+01:06:22,300 --> 01:06:29,020
+ Well, I think, in fact, a lot of teachers, yes, I think a lot of teachers, for a lot of teachers, it is, because you could say the same thing about me.
+
+654
+01:06:29,020 --> 01:06:36,520
+ Well, John, you are trying to make them into mini-me's, insofar as the me there is supposed to be this adaptable comportment in relation to others.
+
+655
+01:06:36,580 --> 01:06:37,600
+ I'm like, yeah, okay, you're right.
+
+656
+01:06:37,680 --> 01:06:37,960
+ You win.
+
+657
+01:06:38,020 --> 01:06:39,200
+ On a logic scale, you win.
+
+658
+01:06:39,820 --> 01:06:40,020
+ Right?
+
+659
+01:06:40,220 --> 01:06:41,380
+ You're right.
+
+660
+01:06:41,520 --> 01:06:43,780
+ I am trying to reproduce versions of myself.
+
+661
+01:06:44,320 --> 01:06:45,300
+ But myself, in that case, isn't the content.
+
+662
+01:06:45,300 --> 01:06:50,920
+ Insofar as myself is a self-differentiating, perpetually becoming, yes.
+
+663
+01:06:50,920 --> 01:06:51,480
+ That's right.
+
+664
+01:06:51,480 --> 01:06:59,220
+ With the notion that any mini-me that you sort of create, given enough time, it's going to be completely unrecognizable to both yourself and themself.
+
+665
+01:06:59,220 --> 01:07:00,500
+ Little mini-others.
+
+666
+01:07:00,520 --> 01:07:01,840
+ One would hope, right?
+
+667
+01:07:02,000 --> 01:07:02,880
+ One would hope.
+
+668
+01:07:03,000 --> 01:07:05,140
+ I mean, look, you got, you know, I don't know.
+
+669
+01:07:05,200 --> 01:07:09,440
+ I mean, like, I feel very close to you guys, but you guys are not me, and I'm cool with that.
+
+670
+01:07:09,520 --> 01:07:11,900
+ Like, I'm not only cool with that, like, it's necessary.
+
+671
+01:07:12,060 --> 01:07:12,700
+ It's important.
+
+672
+01:07:12,880 --> 01:07:12,980
+ Yeah.
+
+673
+01:07:13,320 --> 01:07:13,920
+ I don't want you.
+
+674
+01:07:13,920 --> 01:07:15,040
+ It'd be a boring conversation, otherwise.
+
+675
+01:07:15,280 --> 01:07:16,520
+ It wouldn't be a conversation.
+
+676
+01:07:16,660 --> 01:07:17,920
+ It would be a monologue, right?
+
+677
+01:07:17,920 --> 01:07:23,660
+ So here's the end of 339, Vita Femina, or Femina.
+
+678
+01:07:24,200 --> 01:07:33,240
+ I mean to say that the world is brimming with beautiful things, but nevertheless poor, very poor, in beautiful moments, and in the unveilings of those things.
+
+679
+01:07:33,680 --> 01:07:36,700
+ But perhaps that is the strongest magic of life.
+
+680
+01:07:36,700 --> 01:07:45,700
+ It is covered by a veil of beautiful possibilities, woven with the threads of gold, promising, resisting, bashful, mocking, compassionate, and seductive.
+
+681
+01:07:46,620 --> 01:07:47,620
+ Yes, life is a woman.
+
+682
+01:07:47,620 --> 01:07:48,340
+ Life is a woman.
+
+683
+01:07:49,040 --> 01:07:49,740
+ Oh, no.
+
+684
+01:07:49,940 --> 01:07:52,860
+ It's like, everything was really great up to that last sentence.
+
+685
+01:07:52,860 --> 01:07:53,220
+ I know, I know, I know.
+
+686
+01:07:53,600 --> 01:07:56,460
+ Actually, I thought about not reading the last line.
+
+687
+01:07:56,580 --> 01:07:57,360
+ I know, I know.
+
+688
+01:07:57,540 --> 01:07:58,120
+ But it gives you that.
+
+689
+01:07:58,120 --> 01:07:59,160
+ I didn't even get to that shit.
+
+690
+01:07:59,340 --> 01:08:00,820
+ It's the beyond good Nemo, right?
+
+691
+01:08:00,960 --> 01:08:02,520
+ Like, he's supposing to be a woman.
+
+692
+01:08:02,740 --> 01:08:02,800
+ Yeah, it's true.
+
+693
+01:08:02,800 --> 01:08:03,420
+ You know, like, it's.
+
+694
+01:08:03,980 --> 01:08:05,320
+ I think it's some pretty simple thing.
+
+695
+01:08:05,400 --> 01:08:06,440
+ It's just ways, like, what?
+
+696
+01:08:06,480 --> 01:08:08,220
+ Because life's way better than being a man.
+
+697
+01:08:08,680 --> 01:08:09,280
+ I know.
+
+698
+01:08:09,720 --> 01:08:10,740
+ I actually think that.
+
+699
+01:08:10,740 --> 01:08:13,580
+ It's like, life would suck if I was like a man.
+
+700
+01:08:13,960 --> 01:08:14,320
+ Yes.
+
+701
+01:08:14,900 --> 01:08:15,260
+ Yeah.
+
+702
+01:08:16,140 --> 01:08:16,500
+ Yeah.
+
+703
+01:08:17,320 --> 01:08:18,360
+ It's just hard.
+
+704
+01:08:18,360 --> 01:08:20,480
+ It kind of sounds like a Rolling Stones lyric or something.
+
+705
+01:08:22,000 --> 01:08:23,020
+ Life is a woman.
+
+706
+01:08:23,280 --> 01:08:24,020
+ Yeah, it does.
+
+707
+01:08:24,140 --> 01:08:24,800
+ It really does.
+
+708
+01:08:25,080 --> 01:08:25,460
+ And it sounds.
+
+709
+01:08:25,600 --> 01:08:25,700
+ Yeah.
+
+710
+01:08:25,760 --> 01:08:30,640
+ And I recognize all of the ways in which that can be an incredibly patriarchal, condescending
+
+711
+01:08:30,640 --> 01:08:31,500
+ thing to say.
+
+712
+01:08:31,880 --> 01:08:35,400
+ Like, and I recognize all the ways in which it can be heard that way as well.
+
+713
+01:08:35,780 --> 01:08:37,280
+ But I mean, that's just like, no.
+
+714
+01:08:37,800 --> 01:08:38,360
+ Here's the deal.
+
+715
+01:08:38,360 --> 01:08:41,000
+ Life is dissimulation and uncertainty.
+
+716
+01:08:41,580 --> 01:08:48,280
+ And if you treat it with sort of, if you encounter it with patience and interest and fascination,
+
+717
+01:08:48,440 --> 01:08:52,300
+ it will reward you with, you know, you'll be fascinated.
+
+718
+01:08:52,460 --> 01:08:54,920
+ Like, with otherness, right?
+
+719
+01:08:54,920 --> 01:09:09,740
+ Like, and so, yes, the sort of, I don't know, synecdochal reduction of life as a woman is one that's hard to hear anymore for pretty understandable reasons.
+
+720
+01:09:09,740 --> 01:09:13,300
+ Sorry, this is a little tangential, but related to what you're saying.
+
+721
+01:09:13,460 --> 01:09:22,420
+ I mean, Nietzsche, as we all know, or at least as the three of us know, was sick for, and I think we talked about this, was like perpetually sick and ill.
+
+722
+01:09:23,140 --> 01:09:27,060
+ And I think Bataille, I was reading some Bataille who was obsessed with Nietzsche.
+
+723
+01:09:27,520 --> 01:09:33,040
+ And he was basically just highlighting the fact that all of the things were going wrong for this guy.
+
+724
+01:09:33,160 --> 01:09:43,920
+ Like, he could have been a symptom of those things, but he chose to sort of overcome them and enact this, whatever, like laughter in that sense.
+
+725
+01:09:44,280 --> 01:09:52,120
+ As opposed to, like, in relation to other people who are given all of the affordances and still lapse into whatever Christian judgment,
+
+726
+01:09:52,380 --> 01:09:59,360
+ Nietzsche somehow, with all the excuses, was still able to do this other thing, which is just kind of astonishing.
+
+727
+01:09:59,360 --> 01:10:01,180
+ He could have been a dark, cynical guy.
+
+728
+01:10:02,620 --> 01:10:06,080
+ And it's so funny that he's sort of, like, often configured as that.
+
+729
+01:10:06,080 --> 01:10:08,400
+ I know, like, Nietzsche as nihilist.
+
+730
+01:10:08,520 --> 01:10:10,020
+ It's like, eh, you got nihilism.
+
+731
+01:10:10,300 --> 01:10:12,000
+ You clearly didn't read any of this.
+
+732
+01:10:12,000 --> 01:10:12,900
+ I know, I know.
+
+733
+01:10:12,980 --> 01:10:17,660
+ The dark brooding, the dark brooding, like, I've always said, like, in a Hollywood movie,
+
+734
+01:10:17,700 --> 01:10:21,940
+ if you want to have a teenager who's dark and brooding, you have him reading Nietzsche at some point, you know,
+
+735
+01:10:22,040 --> 01:10:24,260
+ and you're like, that's just not in it at all.
+
+736
+01:10:24,260 --> 01:10:28,920
+ Do you think that's residue of him being appropriated by the Nazis?
+
+737
+01:10:29,460 --> 01:10:31,180
+ I think it's the God is dead thing.
+
+738
+01:10:31,480 --> 01:10:33,020
+ I think it's God is dead.
+
+739
+01:10:33,020 --> 01:10:34,200
+ Just that statement.
+
+740
+01:10:34,520 --> 01:10:34,720
+ Yeah.
+
+741
+01:10:35,940 --> 01:10:38,560
+ But then he also has what doesn't kill you makes you stronger.
+
+742
+01:10:38,720 --> 01:10:41,620
+ There's not, you know, that's a huge fucking cultural.
+
+743
+01:10:41,620 --> 01:10:43,940
+ I mean, he's the thinker of affirmation.
+
+744
+01:10:44,120 --> 01:10:49,660
+ But, you know, I will also say, like, I remember when I was reading Nietzsche when I was a teenager,
+
+745
+01:10:49,660 --> 01:11:03,080
+ and I very much had the punk rock, kick ass, break shit, fuck the idols, it wasn't sounding out the idols, you know, it was, let's smash them all, let's fuck up conventional values like that.
+
+746
+01:11:03,740 --> 01:11:04,880
+ You know, I very much had that.
+
+747
+01:11:04,880 --> 01:11:08,460
+ And I still have, I still harbor a deep sympathy for that as well.
+
+748
+01:11:09,120 --> 01:11:18,360
+ But you think of the passages that Nathaniel has just read there, they're very gentle, you know, and they do have that sense of like, oh, an interest in beauty and love.
+
+749
+01:11:18,400 --> 01:11:21,240
+ These are not words that you usually associate with Nietzsche.
+
+750
+01:11:21,680 --> 01:11:25,660
+ And they have a very particular resonance in Nietzsche for that reason.
+
+751
+01:11:26,660 --> 01:11:35,160
+ And so the Nietzsche that appeals to me now and has for the last 20 years is very much a different Nietzsche than the one that, like, initially got me interested.
+
+752
+01:11:36,220 --> 01:11:38,720
+ I almost forgot about the nihilism Nietzsche.
+
+753
+01:11:38,980 --> 01:11:43,240
+ Because what we read, like, with Deleuze's Nietzsche, I was reading Batai's Nietzsche.
+
+754
+01:11:43,360 --> 01:11:45,540
+ This is all the life affirmation stuff.
+
+755
+01:11:46,060 --> 01:11:50,000
+ So, like, I've been so dissociated from the nihilist Nietzsche.
+
+756
+01:11:50,300 --> 01:12:01,800
+ And I don't know Batai's Nietzsche, but I do know that that, I mean, I don't know if this is what you're getting at, Nate, but that notion of sort of, like, he's of a great spirit that sort of overcame all of these other things.
+
+757
+01:12:01,800 --> 01:12:06,140
+ And he had all the excuses, but he was the great soul that overpowered all of it.
+
+758
+01:12:06,880 --> 01:12:15,760
+ I increasingly am suspicious or sort of, like, I distance myself from that version of Nietzsche as well.
+
+759
+01:12:15,880 --> 01:12:27,720
+ Just because it doesn't seem like he's, like, you know, I think it's not my favorite way of thinking about, say, something like the will to power of, like, you know, I am, I'm going to dominate the things around me.
+
+760
+01:12:27,820 --> 01:12:29,360
+ I'm going to be self-controlled.
+
+761
+01:12:29,520 --> 01:12:33,480
+ I'm going to be the sovereign that's able to transcend my, I'm going to be the great man.
+
+762
+01:12:33,620 --> 01:12:34,600
+ I'm going to be the ubermensch.
+
+763
+01:12:34,780 --> 01:12:37,540
+ And that notion of the ubermensch.
+
+764
+01:12:37,540 --> 01:12:43,140
+ And, you know, the nature of affirmation is, like, I will be transformed.
+
+765
+01:12:43,320 --> 01:12:53,320
+ What looks like a terrible health, which is a terrible health for certain kinds of life, I shall affirm to become a great health for a very different kind.
+
+766
+01:12:53,480 --> 01:12:55,320
+ This is my health, not my sickness.
+
+767
+01:12:55,620 --> 01:12:55,960
+ It's my health.
+
+768
+01:12:55,960 --> 01:12:56,640
+ No, yes.
+
+769
+01:12:57,140 --> 01:13:06,680
+ I mean, I think that's what I was trying to say is that instead of devolving into the disposition that he critiques, he had all the excuses in order to lapse into that.
+
+770
+01:13:06,680 --> 01:13:10,160
+ And instead of that, he chose life affirmation, affirmation of difference.
+
+771
+01:13:10,560 --> 01:13:11,260
+ And at the same time.
+
+772
+01:13:11,260 --> 01:13:14,020
+ Which is an impossible disposition at that time.
+
+773
+01:13:14,020 --> 01:13:24,480
+ Think about making, how do you reach out of your own era in order to sort of establish that kind of disorientation that basically he has, you know?
+
+774
+01:13:24,540 --> 01:13:25,580
+ Because it's not an orientation.
+
+775
+01:13:25,980 --> 01:13:27,960
+ It is an anti-orientation.
+
+776
+01:13:28,140 --> 01:13:35,820
+ I do sometimes think, though, that his writing to a posthumous audience is a major thing that allowed him to go forward.
+
+777
+01:13:35,820 --> 01:13:36,700
+ Gave him a review.
+
+778
+01:13:36,820 --> 01:13:39,180
+ He's like, these fucking idiots cannot hear me.
+
+779
+01:13:39,240 --> 01:13:44,660
+ The only way that I'm going to be able to do this thing is imagine a future reader that can hear me.
+
+780
+01:13:45,060 --> 01:13:47,260
+ I think that's a really good point.
+
+781
+01:13:47,440 --> 01:13:56,280
+ Writing to the future as a constitutive element of the philosophy, not a secondary rhetorical element in its usual sense.
+
+782
+01:13:56,920 --> 01:13:59,980
+ Yeah, or just even a pragmatics of the writing as well.
+
+783
+01:14:00,200 --> 01:14:03,840
+ That's how he, like, that's how, one of the ways he affirmed his, his life.
+
+784
+01:14:03,840 --> 01:14:04,440
+ That's cool.
+
+785
+01:14:04,580 --> 01:14:06,060
+ I want to try, I want to try that now.
+
+786
+01:14:06,120 --> 01:14:12,800
+ I wonder, like, I wonder if I think of my writing that way, if that's going to, I mean, that's, that's an interesting thought experiment.
+
+787
+01:14:12,800 --> 01:14:14,520
+ Because I've never thought of it that way.
+
+788
+01:14:14,620 --> 01:14:20,480
+ Like, I always think of myself as writing to sort of, well, like colleagues, right?
+
+789
+01:14:20,520 --> 01:14:27,620
+ Or people in the field or, or, or students, you know, but like not, that's, that's a really interesting thought experiment.
+
+790
+01:14:27,620 --> 01:14:54,080
+ Like, I'll see you next time.
+

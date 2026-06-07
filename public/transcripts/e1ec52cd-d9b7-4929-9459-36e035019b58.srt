@@ -1,0 +1,3156 @@
+1
+00:00:00,000 --> 00:00:27,860
+ so um by way by way of starting off i mean you know and we're we're gonna edit this stuff so
+
+2
+00:00:27,860 --> 00:00:32,240
+ whatever but i mean by way of starting off i thought uh i mean i want to throw it to caddy
+
+3
+00:00:32,240 --> 00:00:36,680
+ but i don't want you to have to jump in right away so i was gonna see uh why other folks might
+
+4
+00:00:36,680 --> 00:00:42,580
+ be interested in de leuze or this book in particular as a sort of like what what we're
+
+5
+00:00:42,580 --> 00:00:48,080
+ looking to get out of it and you know why why we're doing this thing why we're starting into
+
+6
+00:00:48,080 --> 00:00:52,720
+ this thing i mean for the rest of us like particularly after the you know the hegel i
+
+7
+00:00:52,720 --> 00:00:57,720
+ mean there's some i mean i don't know like for me at least having spent the last six months reading
+
+8
+00:00:57,720 --> 00:01:03,540
+ hegel and then moving to this i feel like i can fucking breathe again yeah yeah for sure so it's
+
+9
+00:01:03,540 --> 00:01:10,260
+ like oh yes this is you know sort of something inventive and playful and funny you know um as
+
+10
+00:01:10,260 --> 00:01:20,520
+ opposed to just like meticulously um serious and plotting you know yeah um so yeah but i mean look
+
+11
+00:01:20,520 --> 00:01:26,500
+ you know i mean i i enjoyed the hegel thing i feel like i turned a lot of corners in terms of my
+
+12
+00:01:26,500 --> 00:01:30,640
+ sort of what we would loosely call kind of appreciation of the movement of dialectical
+
+13
+00:01:30,640 --> 00:01:36,540
+ thinking in ways that i was so resistant to it and you know the podcast will kind of i think tell
+
+14
+00:01:36,540 --> 00:01:43,040
+ that story at least on my side of it um for me obviously to lose this stuff that i've been reading
+
+15
+00:01:43,040 --> 00:01:49,040
+ for you know 20 years and uh this is a book that uh i mean nathaniel and i did this about
+
+16
+00:01:49,040 --> 00:01:57,520
+ what was it about 10 plus years ago or something like that yeah eight ten years ago that we we went
+
+17
+00:01:57,520 --> 00:02:02,360
+ through chunks of it and i mean obviously we need to talk some about the structure of the thing but
+
+18
+00:02:02,360 --> 00:02:07,020
+ simply put it just occurred to me like this is clearly a kind of proto version of the plateau
+
+19
+00:02:07,020 --> 00:02:14,000
+ right like i mean this is he's doing plateaus and he's doing them you know it's not series in the
+
+20
+00:02:14,000 --> 00:02:19,760
+ sense of a linear series and it's just sort of i i realized in reading this like without thinking
+
+21
+00:02:19,760 --> 00:02:24,360
+ about this is the model for the style book i'm writing right now like i'm doing just chunks of
+
+22
+00:02:24,360 --> 00:02:30,620
+ five to eight page chunks and i've got like 15 of them or whatever so far but you know like it is
+
+23
+00:02:30,620 --> 00:02:36,140
+ this kind of thinking and i'm also doing it in such a way where like it's not just some of the things
+
+24
+00:02:36,140 --> 00:02:40,880
+ would be one large chunk but i broke them into two but i don't have the first one first and the
+
+25
+00:02:40,880 --> 00:02:45,660
+ second one second i have the second one for you know so like so that the transmission would go
+
+26
+00:02:45,660 --> 00:02:50,680
+ backwards and forwards which in this case just like thousand plateaus there's no real order
+
+27
+00:02:50,680 --> 00:02:56,700
+ uh in which to read it and it doesn't really i think in terms of the series it doesn't really matter
+
+28
+00:02:56,700 --> 00:03:01,800
+ um or rather another way of saying it is it matters a lot which order you read it in but there isn't a
+
+29
+00:03:01,800 --> 00:03:08,200
+ right one um so you know i i think in terms of and we can get to work to this towards the end but
+
+30
+00:03:08,200 --> 00:03:13,520
+ like in terms of where we want to go from here i think jumping around is a perfectly viable strategy
+
+31
+00:03:13,520 --> 00:03:19,760
+ rather than kind of insistently hammering through uh i've always but that's just i've always a i've
+
+32
+00:03:19,760 --> 00:03:25,600
+ always appreciated that uh stylistically about the lose just because it's the emphasis is obviously not
+
+33
+00:03:25,600 --> 00:03:32,400
+ on well it's not uh particularly on comprehension it's about sort of sampling and finding what you
+
+34
+00:03:32,400 --> 00:03:38,840
+ know you can attach to and that's the same as it is in a thousand plateaus obviously so i think i mean
+
+35
+00:03:38,840 --> 00:03:45,840
+ at least for me reading to lose now i'm seeing increasingly similarities between his thinking
+
+36
+00:03:45,840 --> 00:03:50,780
+ and hegel's i know that for a majority of the the hegel podcast we were kind of doing this
+
+37
+00:03:50,780 --> 00:03:56,100
+ a lot of those episodes we would do kind of a compare and contrast you know with the styles of
+
+38
+00:03:56,100 --> 00:04:02,760
+ thinking and um i mean i would say personally i have probably like a cursory knowledge at least
+
+39
+00:04:02,760 --> 00:04:08,720
+ compared to to john and nathaniel uh with the lose i don't know about how much you've read caddy of of
+
+40
+00:04:08,720 --> 00:04:15,460
+ his stuff but i've only read through your classes john you know so so i mean it's not i don't i don't have
+
+41
+00:04:15,460 --> 00:04:22,820
+ a comprehensive you know knowledge of the loses oeuvre but i am excited to kind of refine these these
+
+42
+00:04:22,820 --> 00:04:28,400
+ comparisons that we've been making um for the last few months uh between those kinds of thinking you
+
+43
+00:04:28,400 --> 00:04:34,920
+ know affirmation negation dialectic you know play that kind of those kind of well dialectics really i
+
+44
+00:04:34,920 --> 00:04:40,440
+ mean obviously the stoic dialectic is a different oh yeah for sure one but he's very interested in
+
+45
+00:04:40,440 --> 00:04:47,760
+ dialectics as the the means of of the event right so for sure for sure right yeah i only have the
+
+46
+00:04:47,760 --> 00:04:52,800
+ the greatest hits under my belt um but i've always a pretty heavy playlist
+
+47
+00:04:52,800 --> 00:05:01,700
+ yeah that's true that's true um but i've i've always known that i had to come to the logic of
+
+48
+00:05:01,700 --> 00:05:09,300
+ sense because i mean first off if if you're going to study something like doxa you have to you just
+
+49
+00:05:09,300 --> 00:05:15,000
+ have to live in the realm of becoming like that's just your metaphysics right like it's just becoming
+
+50
+00:05:15,000 --> 00:05:23,240
+ there's really um being being only has an option as becoming playful you know counter whatever
+
+51
+00:05:23,240 --> 00:05:33,400
+ interlocutor right um so i always knew that and i was just so struck reading this um by how
+
+52
+00:05:33,400 --> 00:05:39,980
+ by how apt it is for kind of the i don't know what you want to call it the post-human turn or whatever
+
+53
+00:05:39,980 --> 00:05:49,120
+ but also just kind of thinking about bodies in relation to digitality i mean deluze in this
+
+54
+00:05:49,120 --> 00:05:53,580
+ already and i'm i might tear up because i i'm really excited and that's just what happens when i get
+
+55
+00:05:53,580 --> 00:06:02,540
+ really excited like about research um but like it's it's already incredibly clear to me that for him
+
+56
+00:06:02,540 --> 00:06:14,220
+ sense makes the body sensing kind of this this this digital virtual thing you know like it extends the
+
+57
+00:06:14,220 --> 00:06:22,500
+ body way past the body right and and it just makes so much sense in thinking about um bodies encountering
+
+58
+00:06:22,500 --> 00:06:28,780
+ digitality and then digitality encountering bodies and and all of the sense that kind of goes into that
+
+59
+00:06:28,780 --> 00:06:38,020
+ so this is just a very timely thing i think yeah yeah i i totally agree with this the the way it
+
+60
+00:06:38,020 --> 00:06:44,220
+ resonates with post-human thought i mean i think all the loser stuff does that but this one particularly
+
+61
+00:06:44,220 --> 00:06:49,740
+ does just because you have to radically rethink the way that he's you know articulating the the term
+
+62
+00:06:49,740 --> 00:06:55,580
+ body which like i think the the challenge for me is always to never think of that as exclusively reducive
+
+63
+00:06:55,580 --> 00:07:01,980
+ to human bodies or even living bodies but to think about like an infinite set of overlapping or like
+
+64
+00:07:02,460 --> 00:07:08,940
+ articulations as body or individuation as the making of a body so like you get you know like
+
+65
+00:07:08,940 --> 00:07:14,940
+ what we would in sort of more common parlance call like digital bodies or digital human bodies or whatever
+
+66
+00:07:14,940 --> 00:07:22,620
+ i mean you can get an infinite set of those things and that i i really do like that i also like i mean
+
+67
+00:07:22,620 --> 00:07:32,380
+ because i agree with you john that the sort of plateau series um comparison is is there and um you
+
+68
+00:07:32,380 --> 00:07:36,700
+ know when i first sort of approached a thousand plateaus and i read that you you know you can read
+
+69
+00:07:36,700 --> 00:07:41,180
+ a plateau in any direction and the direction that you read it really matters but you know it doesn't but
+
+70
+00:07:41,180 --> 00:07:49,180
+ it also doesn't matter and i mean i i didn't quite appreciate the power of that until i worked through
+
+71
+00:07:49,180 --> 00:07:57,020
+ this a little bit more where like the the reason for the reason that reading it through in one particular
+
+72
+00:07:57,020 --> 00:08:01,820
+ direction as opposed to another one really matters because he outlines the sort of the process of the
+
+73
+00:08:01,820 --> 00:08:08,540
+ sense making like the way like reading two series in relationship to each other sort of acts as an event
+
+74
+00:08:08,540 --> 00:08:15,500
+ that redistributes and re-evaluates the entire like it resonates through the entire body that you have
+
+75
+00:08:15,500 --> 00:08:15,980
+ have read
+
+76
+00:08:21,900 --> 00:08:29,420
+ there's almost well i mean there's clearly like an ethics attached to um that kind of invitation to
+
+77
+00:08:29,420 --> 00:08:36,540
+ sample and switch around and not read in a linear fashion like it's not demanding that you comprehend the
+
+78
+00:08:36,540 --> 00:08:43,660
+ full text which i think is just a clear sort of it's so much less uh domineering because most texts are
+
+79
+00:08:43,660 --> 00:08:50,220
+ trying to now de leuze does try to intimidate you not maybe not explicitly but you know to the to the
+
+80
+00:08:50,220 --> 00:08:55,580
+ extent that like the language is really dense and the concepts are like sort of all over the place but
+
+81
+00:08:55,580 --> 00:09:00,300
+ i do think i mean i'm going to try to keep the comparisons to hegel to a minimum because i know this
+
+82
+00:09:00,300 --> 00:09:06,700
+ is a separate thing but comparatively like when you contrast that just that simple ethic you know to
+
+83
+00:09:06,700 --> 00:09:11,340
+ hegel's where he's he's commanding your attention and he wants you to read it sort of like like a
+
+84
+00:09:11,980 --> 00:09:18,060
+ what do you call it like in a narrative fashion you know front to back linear the teleology i mean just
+
+85
+00:09:18,060 --> 00:09:24,220
+ simply giving a series is antithetical to that and and invites the reader in a much different way so
+
+86
+00:09:24,220 --> 00:09:33,740
+ yeah yeah well i mean hegel's is very clearly unidirectional right and this is not um and it says
+
+87
+00:09:33,740 --> 00:09:39,180
+ so from the beginning and it's one of the things that i found myself paying attention to was because
+
+88
+00:09:39,180 --> 00:09:44,060
+ interestingly enough there's a there's an intensely authoritative voice here which is
+
+89
+00:09:45,020 --> 00:09:50,940
+ you know the stoics invented the event right that's it these are no one did this before like no one like
+
+90
+00:09:50,940 --> 00:09:56,940
+ they invented a new way of thing you know like um and so he has these incredibly audacious authoritative
+
+91
+00:09:56,940 --> 00:10:07,820
+ sentences in the midst of a thinking that is you know recursive and um multiple and disorienting and
+
+92
+00:10:07,820 --> 00:10:14,220
+ so it's it's just this really interesting kind of juxtaposition of on because it's it seems kind
+
+93
+00:10:14,220 --> 00:10:22,700
+ of ludic but it also seems kind of like insistently ludic you know well i mean in like to compare it
+
+94
+00:10:22,700 --> 00:10:27,420
+ to hegel whereas i feel like hegel would want to substantiate that claim or he would want it to carry
+
+95
+00:10:27,420 --> 00:10:33,420
+ some kind of like weight of truth i i feel like de leuze really only cares about the chain of effects
+
+96
+00:10:33,420 --> 00:10:38,540
+ that the authoritativeness is like the authoritativeness here is a style that is going to
+
+97
+00:10:39,340 --> 00:10:46,060
+ uh resonate with what what follows from it so it's more like a launching off point or a riff that as
+
+98
+00:10:46,060 --> 00:10:52,620
+ it is like a claim to some kind of representational truth like so this is a common style yourself you'll
+
+99
+00:10:52,620 --> 00:10:59,500
+ find it right like this is a common stylistic move that he repeats in other places but uh there were a
+
+100
+00:10:59,500 --> 00:11:05,900
+ couple of instances of this and what we read so far where he'll make a sort of claim that is i don't
+
+101
+00:11:05,900 --> 00:11:09,420
+ really understand exactly what the claim is but it's a very assertive claim and then he'll quote
+
+102
+00:11:09,420 --> 00:11:16,060
+ from lewis carroll a quote that makes no fucking sense whatsoever as an explanation of that claim
+
+103
+00:11:16,060 --> 00:11:21,900
+ but it's just presented there as like see see here's here's my evidence to support the thing that i was
+
+104
+00:11:21,900 --> 00:11:26,620
+ saying when the evidence makes no sense to support the thing and you and well right of course and then
+
+105
+00:11:26,620 --> 00:11:33,260
+ then you realize ah he's doing that right like that this is part of this is part of the mo of of the
+
+106
+00:11:33,260 --> 00:11:37,420
+ writing so i was thinking about this when you were uh nathaniel when you were talking about the body
+
+107
+00:11:37,420 --> 00:11:43,180
+ question and you know it's really explicit in the nietzsche book about like the convergence of two forces
+
+108
+00:11:43,180 --> 00:11:48,140
+ forms a body that's what a body is is the convergence of force it doesn't matter whether it's a social body
+
+109
+00:11:48,140 --> 00:11:54,620
+ uh an organic body and inorganic none of that matters it's just the convergence of forces that creates
+
+110
+00:11:54,620 --> 00:12:00,380
+ any any sense of what a body is um and so and i think that that's true in here as well and you
+
+111
+00:12:00,380 --> 00:12:06,380
+ can see there's kind of a lack of interest in this so-called materiality of the body part of things
+
+112
+00:12:07,180 --> 00:12:12,140
+ you know in its traditional configuration right you know or it's just one of many it's it's
+
+113
+00:12:12,780 --> 00:12:20,220
+ one of an infinite array of possible arrangements of right there's kind of there's kind of a paradox there
+
+114
+00:12:20,220 --> 00:12:29,660
+ where it's like the this like sensing and senses you know takes alice and creates this kind of
+
+115
+00:12:29,660 --> 00:12:38,860
+ virtual sheen right um and extends alice beyond alice body per se right right but but then but by
+
+116
+00:12:38,860 --> 00:12:46,460
+ doing so it also draws attention to just how bodily that body absolutely right and so there's that play
+
+117
+00:12:46,460 --> 00:12:52,940
+ incorpore the incorporeality which again will play out in thousand plateaus in order word stuff and
+
+118
+00:12:52,940 --> 00:12:58,380
+ the sort of the language version you know later on uh with guattari but you see it you see it all here
+
+119
+00:12:58,380 --> 00:13:06,060
+ the sort of emphasis on the so-called incorporeal dimension of of the two dimensions the incorpore i mean
+
+120
+00:13:06,060 --> 00:13:12,140
+ this is where like you know like i mean we've talked about this before but you know what has always drawn me
+
+121
+00:13:12,140 --> 00:13:19,260
+ about delus derda and those types of the the nichean lineage of thinkers is while most thinkers are like
+
+122
+00:13:19,260 --> 00:13:25,100
+ given stuff how do things change is the usual orientation of thinking like given that there's
+
+123
+00:13:25,100 --> 00:13:31,340
+ stuff how do things change and the the interest or the intervention of these types of thinkers is
+
+124
+00:13:31,340 --> 00:13:36,780
+ exactly the opposite of that which is like given that shit is becoming all the time how does how do
+
+125
+00:13:36,780 --> 00:13:42,700
+ things ever stick together right like how do you ever have how do you ever have something like a politics
+
+126
+00:13:42,700 --> 00:13:47,580
+ i mean how do you know given that you've got so it's just a it is presuming i mean as caddy was saying
+
+127
+00:13:47,580 --> 00:13:55,180
+ before that kind of ontology you know in quotation marks of becoming as kind of prior so you have like
+
+128
+00:13:55,180 --> 00:13:57,580
+ how do you ever get stuff
+
+129
+00:14:02,140 --> 00:14:09,420
+ would it be worth reflecting on a little bit about the concept of the podcast and i mean the idea of
+
+130
+00:14:09,420 --> 00:14:14,300
+ thinking with and where it's because we had several explicit conversations about this early on in the
+
+131
+00:14:14,300 --> 00:14:19,660
+ hagel tapes we need to come up with a cool name for this one by the way it's the hagel tapes i think i
+
+132
+00:14:19,660 --> 00:14:24,700
+ like that name but we talked about this you know early on and then sporadically and i think it'll be
+
+133
+00:14:24,700 --> 00:14:29,740
+ helpful for us to reflect on it a little bit more but i think it'll also be good a good moment to do
+
+134
+00:14:29,740 --> 00:14:36,140
+ it introducing caddy to the to the mix uh so that she can have a sense of what's been going on and where
+
+135
+00:14:36,140 --> 00:14:44,380
+ they're going and you know she has to jump in and change the dynamic of it um what what's your take
+
+136
+00:14:44,380 --> 00:14:50,780
+ on how like i mean the the one obvious change that happened is in the first five to six episodes and
+
+137
+00:14:50,780 --> 00:14:58,060
+ we've been doing this for like yeah six over six months um the first half of the episodes we took like
+
+138
+00:14:58,060 --> 00:15:06,940
+ what we took 10 paragraphs for a reading and we were we stuck pretty close to to the text and after we
+
+139
+00:15:06,940 --> 00:15:12,460
+ started to get the groove we we opened up that like we started reading no we were reading like
+
+140
+00:15:13,900 --> 00:15:22,700
+ two we were just doing a a paragraph a paragraph an episode yeah that's right yeah and then it took us
+
+141
+00:15:22,700 --> 00:15:29,900
+ it took us three months to get through i don't know 10 pages yeah wow i'm not even joking and then and
+
+142
+00:15:29,900 --> 00:15:36,780
+ then when we got really like crazy we were doing 10 pages 10 parents that was just wow you know
+
+143
+00:15:36,940 --> 00:15:42,700
+ yeah like that was towards towards the end it was like no holds barred man we're gonna do 10 pages
+
+144
+00:15:42,700 --> 00:15:47,900
+ for next week well we had to start moving just to get to the master slave stuff you know we had to
+
+145
+00:15:47,900 --> 00:15:51,420
+ we had to make some improvements we realized this could be our life
+
+146
+00:15:55,340 --> 00:16:03,340
+ we did this for seven months and we read 140 pages yeah wow and we met pretty much every week i mean
+
+147
+00:16:03,340 --> 00:16:09,500
+ there were a couple of exceptions but we met pretty much every week so that's and so like compared to
+
+148
+00:16:09,500 --> 00:16:16,540
+ that you know we're starting off in warp drive with um we did 11 pages i was like this is insane
+
+149
+00:16:17,820 --> 00:16:24,220
+ too much i i i like i mean i was able to read it twice and read some of the williams and read the
+
+150
+00:16:24,220 --> 00:16:31,820
+ first like that's what i mean i spent i spent a good 10 to 12 hours on these 11 pages with not the 11
+
+151
+00:16:31,820 --> 00:16:36,780
+ pages but just this sort of circle around them to other kinds of stuff yeah yeah i didn't do any
+
+152
+00:16:36,780 --> 00:16:42,860
+ reading around it but i read like the 10 pages and i immediately was like oh fuck we're gonna have
+
+153
+00:16:42,860 --> 00:16:52,060
+ to speed this along because i need this now like y'all i i can jump in again for like the next 10 pages
+
+154
+00:16:52,060 --> 00:16:57,500
+ but i am i'm going like i'm gonna go and then i'm gonna come back and it'll be perfect right because
+
+155
+00:16:57,500 --> 00:17:01,020
+ my senses will be altered my body's will be altered you know that's right
+
+156
+00:17:02,860 --> 00:17:09,020
+ so yeah caddy will just come back every episode with a slightly crazier like wilder look in her eye
+
+157
+00:17:10,860 --> 00:17:13,820
+ i've been beyond you you don't know what i've seen
+
+158
+00:17:16,460 --> 00:17:23,260
+ so are you going to be using this for a book project or how are you oh yeah the big book
+
+159
+00:17:23,260 --> 00:17:28,220
+ project coming up yeah okay you're finishing it you're you're you're revising the disc right into
+
+160
+00:17:28,220 --> 00:17:36,780
+ book form yeah yeah so um the draft of my book is due uh july and i'm about to go into research
+
+161
+00:17:36,780 --> 00:17:43,900
+ leave and the the book project is basically um you know reclaiming docs to kind of think about opinions in
+
+162
+00:17:43,900 --> 00:17:51,660
+ in terms of the the digital age uh and this chapter that i'm just starting um originally was gonna all
+
+163
+00:17:51,660 --> 00:17:58,300
+ each chapter is kind of like doxa and blank like what's some site that we can kind of rethink through
+
+164
+00:17:58,300 --> 00:18:05,340
+ opinion and to make sense of to make sense of some weird digital phenomena right um so it's like doxa and
+
+165
+00:18:05,340 --> 00:18:13,260
+ isolation doxa and space and now i'm at what i thought was going to be doxa and the body but now it is
+
+166
+00:18:13,260 --> 00:18:19,020
+ very clear to me as i as i manically was texting nathaniel it's very clear to me that this is doxa and
+
+167
+00:18:19,020 --> 00:18:26,940
+ sense um which of course makes sense right given like of course you know we always talk about opinion
+
+168
+00:18:26,940 --> 00:18:33,900
+ in terms of of sense right um and this was also the chapter where i was going to kind of think about
+
+169
+00:18:33,900 --> 00:18:42,940
+ what happens when people fall for misinformation um and fall or or don't understand online satire and
+
+170
+00:18:42,940 --> 00:18:49,980
+ it's going to be kind of the conspiracy theory chapter q anon nice so q anon yeah and so yeah
+
+171
+00:18:49,980 --> 00:18:56,700
+ i mean so like deluge with with sense and nonsense and that kind of territorial breach
+
+172
+00:18:57,820 --> 00:19:04,700
+ um like that is just going to be incredibly incredibly useful and and of course reverberating
+
+173
+00:19:04,700 --> 00:19:13,260
+ reverberating through all this is is arent and and thinking about doxa as this sixth sense right and
+
+174
+00:19:13,260 --> 00:19:19,900
+ that was really timely as well because you know she's thinking about sense that sense as something that
+
+175
+00:19:19,900 --> 00:19:27,740
+ fits us into some kind of common world which is mind-blowing that's that's mind-blowing to me
+
+176
+00:19:27,740 --> 00:19:34,780
+ well it's definitely that deluge takes on i think like like straight on the i mean that the notion of
+
+177
+00:19:34,780 --> 00:19:41,020
+ the good sense as like the right direction through a like the the logical field of something and then
+
+178
+00:19:41,020 --> 00:19:47,980
+ the common sense common brings disparate parts and sort of like establishes a common from the uncommon
+
+179
+00:19:47,980 --> 00:19:53,580
+ like that's what he's gonna that's what he totally fucks with in this and that he definitely like
+
+180
+00:19:53,580 --> 00:20:00,700
+ explicitly and difference in repetition especially like those are the the primary targets of those
+
+181
+00:20:00,700 --> 00:20:07,260
+ books are good sense and common sense yeah and with the rent i mean with her emphasis on the sort of
+
+182
+00:20:07,260 --> 00:20:13,980
+ like the polis is the site of action that creates a space of remembering and the possibility of the who to
+
+183
+00:20:13,980 --> 00:20:21,100
+ to to emerge i mean she's pretty committed to the space of the common i mean you know yeah i mean it'll
+
+184
+00:20:21,100 --> 00:20:26,140
+ i mean i i i think that they'll be very interesting people to put in conversation with you uh but
+
+185
+00:20:27,100 --> 00:20:32,540
+ yeah i mean this is this is also kind of the the chapter that that rethinks topical invention which
+
+186
+00:20:32,540 --> 00:20:38,780
+ is just also really perfect because of course that's relational and really bodily right it's an expressing and
+
+187
+00:20:38,780 --> 00:20:45,900
+ not stating and so in that expressing even when people fall through misinformation that's that's
+
+188
+00:20:45,900 --> 00:20:55,980
+ inventive but it's not um definitive right it's not it's it's that kind of sense of sense as not fixed
+
+189
+00:20:55,980 --> 00:21:02,860
+ but in fact discovery right like i i really think that reading de leuze is making me understand the
+
+190
+00:21:02,860 --> 00:21:12,220
+ inventive dimensions of sense in a way that i just wow yeah yeah um yeah so it's it's gonna be fun and
+
+191
+00:21:12,220 --> 00:21:17,580
+ it's gonna move me away from you know that that common reading of aristotle being somebody who's
+
+192
+00:21:17,580 --> 00:21:22,620
+ interested in common sense no aristotle was not interested in common sense aristotle was interested
+
+193
+00:21:22,620 --> 00:21:29,980
+ in uncommon sense like what what the elites say is uncommon like that is not right you know
+
+194
+00:21:29,980 --> 00:21:36,620
+ you know right the konoy yeah yeah yeah yeah i was gonna say i kind of like the idea of the uh um
+
+195
+00:21:36,620 --> 00:21:42,380
+ doxa in the body still though if you just started writing about the body in the way that and so that
+
+196
+00:21:42,380 --> 00:21:46,860
+ like when when body people come to read your thing they're like i don't think these are the bodies we're
+
+197
+00:21:46,860 --> 00:21:53,260
+ writing about she's saying that word but i don't think that word means what i think that word means
+
+198
+00:21:55,260 --> 00:22:00,780
+ no that's true yeah let's start him with that then because i mean i think that the the question of the
+
+199
+00:22:00,780 --> 00:22:08,300
+ bi-directionality of sense uh is i mean obviously he leads with it um and it's going to be a constant
+
+200
+00:22:08,300 --> 00:22:14,460
+ refrain because i i hear you don't necessarily have the ontology that you do in a thousand plateaus but
+
+201
+00:22:14,460 --> 00:22:19,340
+ it's the same thinking which is that and it i mean if you could say it this way you don't get
+
+202
+00:22:19,900 --> 00:22:25,020
+ recognition and identification without misrecognition and misidentification that they are
+
+203
+00:22:25,020 --> 00:22:30,940
+ they're simultaneously parts and and this is i mean the ontological version of it being like
+
+204
+00:22:30,940 --> 00:22:35,180
+ you've got your plane of emissants facing the body without organs and facing the strata
+
+205
+00:22:35,180 --> 00:22:40,460
+ and so you don't form strata without also forming a body without organs so it's not like
+
+206
+00:22:40,460 --> 00:22:46,300
+ you've got this sort of like you know the the heady identified recognizable thing without having
+
+207
+00:22:46,300 --> 00:22:51,900
+ dispersion i mean you there's no you don't get to pick one right like you you know there's never like
+
+208
+00:22:51,900 --> 00:22:59,500
+ hey let's be on the liberatory side like there's no side right like you you you're only ever working in
+
+209
+00:22:59,500 --> 00:23:07,020
+ in uh on both both dimensions if you say it that way i mean he attributes it to plato but i think
+
+210
+00:23:07,020 --> 00:23:11,980
+ interestingly there's just a little shift from plato here like i mean on the on page one where he says
+
+211
+00:23:11,980 --> 00:23:18,300
+ plato plato asks us to choose between these two dimensions one is the recognition identification
+
+212
+00:23:18,300 --> 00:23:24,700
+ or i would call that hegel sorry but recognition identification side and then the mat going mad
+
+213
+00:23:24,700 --> 00:23:33,420
+ batshit crazy side um but that they're not two different things right that they are um that there is a
+
+214
+00:23:33,420 --> 00:23:41,100
+ seamless connection uh among those or another way of saying it is that you know like that those recognizable
+
+215
+00:23:41,100 --> 00:23:48,620
+ identifiable things are comprised or are made up of nothing but going mad right like that that that's
+
+216
+00:23:48,620 --> 00:23:55,500
+ all they are and that's to me that's that's a really big and important idea i mean to to say
+
+217
+00:23:55,500 --> 00:24:03,500
+ that they sort of calcified and edifying moments are not opposed to the becoming mad right they they
+
+218
+00:24:03,500 --> 00:24:08,860
+ are made up of them everything this is where you get like foucault's there's nothing but resistance it's
+
+219
+00:24:08,860 --> 00:24:15,580
+ like no because power is made up of nothing but that's all it is is just force forces of resistance
+
+220
+00:24:16,620 --> 00:24:22,060
+ and whereas and and look a lot of political thinkers that doesn't make sense because we must see them
+
+221
+00:24:22,060 --> 00:24:28,860
+ as opposed forces or opposed sides and i feel like that's one of the really cool i mean we're we start
+
+222
+00:24:28,860 --> 00:24:35,100
+ with that right we start with you don't get bigger without getting smaller right right calcification is
+
+223
+00:24:35,100 --> 00:24:43,340
+ always already a becoming calcified right like it never is calcified and it's never i mean it's it is
+
+224
+00:24:43,340 --> 00:24:51,020
+ always in the process of slowing down or capturing more but there's never it's never stopped right
+
+225
+00:24:51,020 --> 00:24:55,980
+ so it's never cut off from everything else i mean to use the language of being and becoming that we've
+
+226
+00:24:55,980 --> 00:25:05,580
+ been using um you know in the second page uh halfway down that first full paragraph um after he's talking
+
+227
+00:25:05,580 --> 00:25:11,980
+ about the the sort of the different tensions between the model one the copy and the model copy and the
+
+228
+00:25:11,980 --> 00:25:19,580
+ the simulacrum he he turns through the cradle list and the language um it's still via plato and just
+
+229
+00:25:19,580 --> 00:25:25,500
+ like halfway down and after he asked that question sometimes plato wonders whether this pure becoming
+
+230
+00:25:25,500 --> 00:25:31,820
+ might not have a very peculiar uh relation to language this seems to be uh one of the principal
+
+231
+00:25:31,820 --> 00:25:37,900
+ meetings of the cradle list could this relation be perhaps essential to language as in uh in the case
+
+232
+00:25:37,900 --> 00:25:43,900
+ of a flow of speech or a wild discourse which would incessantly slide over its referent without ever
+
+233
+00:25:43,900 --> 00:25:49,260
+ stopping or might there not be two languages and two sorts of names one designating the pauses and
+
+234
+00:25:49,260 --> 00:25:54,620
+ rests which receive the action of the idea and the other expressing the movements or rebel becomeings
+
+235
+00:25:55,500 --> 00:26:00,780
+ or further still is it not possible that there are two distinct dimensions internal to language in general
+
+236
+00:26:00,780 --> 00:26:06,140
+ one always concealed by the other yet continuously coming to the aid or subsisting under the other
+
+237
+00:26:06,140 --> 00:26:11,500
+ i mean to me that was like a really that's that last one yeah yeah i mean the yeah the end of that
+
+238
+00:26:11,500 --> 00:26:18,380
+ is what i i really latched on to because i mean one of the the moves of the sort of like becoming ontologist
+
+239
+00:26:18,380 --> 00:26:24,700
+ is sort of the like i'm done with being get rid of it everything is becoming and here you say like
+
+240
+00:26:24,700 --> 00:26:31,100
+ you can't think one without the other that's right i mean you know when we started talking about flows
+
+241
+00:26:31,100 --> 00:26:38,140
+ and becoming and whatever else it's you're always the capacity to talk about is always only vis-a-vis
+
+242
+00:26:38,140 --> 00:26:45,100
+ the hypostasizing of those forces right and so like the activation of a force it's always going to run
+
+243
+00:26:45,100 --> 00:26:49,900
+ into something else which is always going to create some kind of resistance to use the language that you're
+
+244
+00:26:49,900 --> 00:26:59,820
+ using before so so this is why people need to become better readers of plato i think because it's it's
+
+245
+00:26:59,820 --> 00:27:07,260
+ not it's never that distinct for him even when you know the dialogue whatever dialogue there is like
+
+246
+00:27:07,260 --> 00:27:13,420
+ even when it seems like the distinction is going to be made and cemented and fixed for sure right
+
+247
+00:27:13,420 --> 00:27:20,380
+ there's always it's always thrown into relief by something um kind of poetic about the dialogue or
+
+248
+00:27:20,380 --> 00:27:25,340
+ something you know like about arrangement or even you know the fact that the speaker ends something
+
+249
+00:27:25,340 --> 00:27:30,620
+ with a question mark right you know there's that i i always think about this amazing moment in the
+
+250
+00:27:30,620 --> 00:27:35,820
+ timaeus where timaeus is kind of like okay you know first of all we have to distinguish between being
+
+251
+00:27:35,820 --> 00:27:43,100
+ and becoming right that that there's the intelligible and then the not intelligible um and then he
+
+252
+00:27:43,100 --> 00:27:50,140
+ you know he's kind of like uh maybe we only know that there's intelligible because we sense it
+
+253
+00:27:50,140 --> 00:27:56,300
+ um through through the stuff that is becoming and then he's like oh but you know it's fine like
+
+254
+00:27:56,300 --> 00:28:02,700
+ no worries that that's just my opinion maybe it might you know um and he ends that moment with it's
+
+255
+00:28:02,700 --> 00:28:09,580
+ probably just empty talk all the way down and it's just this great moment where becoming and being like
+
+256
+00:28:09,580 --> 00:28:16,940
+ he knows that that's the fundamental question and cannot make a distinction in of itself yeah so and
+
+257
+00:28:16,940 --> 00:28:22,060
+ i mean to to your point there caddy right above what nathaniel read is that he's like look this
+
+258
+00:28:22,940 --> 00:28:29,340
+ this dualism is not that of the intelligible and the sensible right like it is it is something that
+
+259
+00:28:29,340 --> 00:28:34,700
+ circulates through both the intelligible and the sensible like what i'm interested you know what he's
+
+260
+00:28:34,700 --> 00:28:40,380
+ interested in here is something that's not reducible to that kind of that kind of distinction i mean he
+
+261
+00:28:40,380 --> 00:28:45,180
+ doesn't bring up the timaeus but it's it's the same kind of thinking here i mean look derda's word for
+
+262
+00:28:45,180 --> 00:28:50,700
+ it is difference right uh de leuze's later word for it is desire uh foucault's word for it is right
+
+263
+00:28:50,700 --> 00:28:56,140
+ like it is this sort of pre-ontological movement i mean i always feel like the illocutionary is is a
+
+264
+00:28:56,140 --> 00:29:02,620
+ perfectly good word for it as well right like that that sort of force of movement prior that doesn't
+
+265
+00:29:02,620 --> 00:29:10,380
+ have a particular telos right that is the condition of possibility for all of those kinds of distinctions
+
+266
+00:29:10,380 --> 00:29:18,860
+ between sensible and intelligible etc etc well unlike the uh with the hegel tapes um uh in addition to the
+
+267
+00:29:18,860 --> 00:29:24,460
+ fact that i'm just interested in in reading this stuff and enjoy talking about it with y'all i actually
+
+268
+00:29:24,460 --> 00:29:33,020
+ have a project kind of more explicitly connected to the logic of sense and it's i mean it's a platonic
+
+269
+00:29:33,020 --> 00:29:40,300
+ one caddy's read a draft of it and and i mean that's exactly what i i want to do is sort of activate a
+
+270
+00:29:40,300 --> 00:29:45,900
+ little bit more of a destabilizing thread that i see running throughout the faderest where like
+
+271
+00:29:46,700 --> 00:29:56,700
+ writing in in that discourse writing really sort of undoes its representational sense and i mean in
+
+272
+00:29:56,700 --> 00:30:02,940
+ the way that it is plugged into the myth of the charioteers right writing it writing itself does
+
+273
+00:30:02,940 --> 00:30:10,940
+ that not some additional operation that one has to do correct writing writing itself both establishes
+
+274
+00:30:10,940 --> 00:30:16,380
+ the the fixed coordinates and undoes the establishing of the fixed coordinates that's dera right
+
+275
+00:30:16,700 --> 00:30:22,060
+ well and and this is what i mean i want to focus on the the myth and i want to focus on the stuff
+
+276
+00:30:22,060 --> 00:30:29,980
+ that i mean like darada largely ignores the speeches right he focuses on the myth of writing uh at the end
+
+277
+00:30:29,980 --> 00:30:36,060
+ and he focuses on a few topological things but he he largely ignores the speeches because that's usually
+
+278
+00:30:36,060 --> 00:30:43,580
+ what gets all of the sure the attention and i want to try to to stitch the two sides together a little bit
+
+279
+00:30:43,580 --> 00:30:53,180
+ more um and i i mean i yeah i kind of want to read i want to i want to try to create an event within the
+
+280
+00:30:53,180 --> 00:30:59,580
+ text that is going to sort of produce a new sense of writing that does not eradicate the sort of reductive
+
+281
+00:30:59,580 --> 00:31:05,740
+ version of writing that he comes that that that is often gets taken away from it but it sort of works
+
+282
+00:31:05,740 --> 00:31:16,540
+ along side of it where all of those valuations of you know mere uh remembrance and um you know repetition
+
+283
+00:31:16,540 --> 00:31:24,700
+ and um uh like monuments and yeah that all of those things sort of get re-evaluated as the life-giving
+
+284
+00:31:24,700 --> 00:31:30,860
+ force and energy of of writing itself that these and i end up working as sort of like
+
+285
+00:31:31,660 --> 00:31:38,860
+ the the catalysts of of the movement of thinking itself where the fact that they are contentless
+
+286
+00:31:38,860 --> 00:31:46,460
+ is precisely what allows them to to spark the movement of thinking right now i need to figure out
+
+287
+00:31:47,420 --> 00:31:51,500
+ i mean wait for me turning to this book i don't know how explicitly i want to bring that up i don't
+
+288
+00:31:51,500 --> 00:31:59,260
+ know how i i mean this is my personal side project that i'll welcome y'all's uh advice on is i want to
+
+289
+00:31:59,260 --> 00:32:04,860
+ figure out how to i what i don't want to do is say like here's the logic of sense it's my lens for
+
+290
+00:32:04,860 --> 00:32:10,540
+ reading plato here's what here's my hermeneutic reading of plato vis-a-vis the logic of sense
+
+291
+00:32:10,540 --> 00:32:15,500
+ because that what could be more antithetical to this project than doing that but i don't
+
+292
+00:32:15,500 --> 00:32:21,260
+ i haven't i have not figured out how to finesse the relationship better though have you have you read
+
+293
+00:32:21,260 --> 00:32:29,020
+ the appendix to this book the okay because that's the simulacrum one right that was really formed
+
+294
+00:32:29,020 --> 00:32:36,140
+ it my uh my the plato the reading of the sophists that i do in the invention book um that's all taken
+
+295
+00:32:36,140 --> 00:32:41,900
+ out of that essay and uh and it was also i mean it really forced me to think through plato's logic
+
+296
+00:32:41,900 --> 00:32:47,100
+ of the copy and simulacrum in the republic and in other places but it was really really helpful to me
+
+297
+00:32:47,100 --> 00:32:53,020
+ because it allowed me to realize and this is you know how to lose works by just saying things and
+
+298
+00:32:53,020 --> 00:32:59,420
+ not explaining them very often and uh but being able to understand where because he says a lot of
+
+299
+00:32:59,420 --> 00:33:07,580
+ times that the simulacrum is not a second order copy um right and and realizing why that's crucial
+
+300
+00:33:07,580 --> 00:33:13,820
+ because the copy for plato has an internal resemblance to the model whereas the simulacrum
+
+301
+00:33:14,460 --> 00:33:19,660
+ and the example that he gives of the simulacrum is the the large statue right like a statue that's
+
+302
+00:33:19,660 --> 00:33:24,460
+ built so large that you have to and williams i think uses this example as well and for me i
+
+303
+00:33:25,180 --> 00:33:30,300
+ after part i'm like why is that different what's different about a large statue and i realized the
+
+304
+00:33:30,300 --> 00:33:35,500
+ thing that's different about it is that it brings in the appearance of someone looking at it right
+
+305
+00:33:35,500 --> 00:33:44,780
+ like um in other words a human perceiving a large statue is part of how the simulacrum works so the
+
+306
+00:33:44,780 --> 00:33:51,740
+ perception right it's a different exactly and so it and it it introduces a new variable where the
+
+307
+00:33:51,740 --> 00:33:57,900
+ model and the copy are concerned with internal consistency uh you know the copy is internally
+
+308
+00:33:57,900 --> 00:34:04,940
+ consistent with the model the simulacrum is externally consistent right like it it introduces that external
+
+309
+00:34:04,940 --> 00:34:11,420
+ realm of appearances for a body a human seeing a large statue and that changes everything
+
+310
+00:34:11,980 --> 00:34:15,980
+ right there's a different selection of difference in the repetition of it like i mean it's the selection
+
+311
+00:34:15,980 --> 00:34:21,500
+ and the repetition outside of the of the eternal return whereas like these are sort of like
+
+312
+00:34:21,500 --> 00:34:26,380
+ corresponding points and then repeating that difference produces this kind of thing like when
+
+313
+00:34:26,380 --> 00:34:31,420
+ when that's right internal coherence this is what comes out of it when that difference gets repeated when
+
+314
+00:34:31,420 --> 00:34:38,060
+ external coherence external appearance and copy then this is what comes out of it right well once you
+
+315
+00:34:38,060 --> 00:34:43,660
+ introduce once you once you start thinking about external coherence all bets are off right because with
+
+316
+00:34:43,660 --> 00:34:50,940
+ external coherence you now have uh uh anything could be your body that's perceiving right in this case
+
+317
+00:34:50,940 --> 00:34:56,620
+ it's a human and it's a large statue but that doesn't that's just one possible thing with internal coherence you
+
+318
+00:34:56,620 --> 00:35:02,620
+ have a telos which is i'm going to get this internally correct with external coherence correctness it just
+
+319
+00:35:02,620 --> 00:35:07,740
+ goes out the window right like there's no there's just no question of correctness there's a question of
+
+320
+00:35:07,740 --> 00:35:14,220
+ fidelity to a perception ah well fidelity to perception now there's a limitless number of ways that that
+
+321
+00:35:14,220 --> 00:35:21,740
+ could that could be thought and to me that's where the simulacrum is is truly dangerous from a certain
+
+322
+00:35:21,740 --> 00:35:27,740
+ platonic perspective right right and truly enabling from another platonic perspective right like it's
+
+323
+00:35:27,740 --> 00:35:34,460
+ because it's it really is it it is limitless right it is it is structurally limitless like anything
+
+324
+00:35:34,460 --> 00:35:40,220
+ could be that body and that perception you know anything can serve that role and now you're talking
+
+325
+00:35:40,220 --> 00:35:47,260
+ about creating a statue that's going to look appropriate to infinite number of perspectives well you know that
+
+326
+00:35:47,260 --> 00:35:55,500
+ introduces so much malleability that you lose any sense of like the the impossibility of a relationship
+
+327
+00:35:55,500 --> 00:36:01,500
+ to the model other than through its external coordinate and that changes everything right i mean
+
+328
+00:36:01,500 --> 00:36:08,140
+ i wonder then if plato is the better figure for the the post-human turn right i mean if you're talking
+
+329
+00:36:08,140 --> 00:36:14,780
+ about the the kind of complexity of that that particular view of his ontology makes him it seems like
+
+330
+00:36:14,780 --> 00:36:19,820
+ somebody would have championed him by now well that's what i mean that's darrod's pharmacon essay does
+
+331
+00:36:19,820 --> 00:36:24,860
+ exactly that i realize that but in rhetoric right he's always vilified i mean at least traditionally
+
+332
+00:36:24,860 --> 00:36:29,420
+ i mean my dream has always been to walk into my classical rhetoric class on day one and say like
+
+333
+00:36:29,420 --> 00:36:34,780
+ everyone knows plato's the great champion of rhetoric right like yeah everyone knows that like that's just
+
+334
+00:36:34,780 --> 00:36:39,660
+ what the field believes and in other words installing in students who don't know any better like
+
+335
+00:36:39,660 --> 00:36:45,740
+ that's the starting point the starting point is he is the champion uh of rhetoric rather than the bad
+
+336
+00:36:45,740 --> 00:36:51,420
+ guy that we need to overcome you know i've always yeah yeah we have rhetorical theory because of plato
+
+337
+00:36:51,420 --> 00:36:56,620
+ yeah well i've always found i've always found plato more interesting to read than aristotle and to
+
+338
+00:36:56,620 --> 00:37:01,500
+ me that's enough to champion him over aristotle you know what i mean like that's just just
+
+339
+00:37:01,500 --> 00:37:08,700
+ experientially the reading the reading experience is better so i'm gonna go with plato no i agree but
+
+340
+00:37:08,700 --> 00:37:13,980
+ see that's so but interestingly enough because your affinity for hegel hegel to read to me reads much
+
+341
+00:37:13,980 --> 00:37:21,420
+ more aristotelian like way more aristotelian you know yeah i suppose so but i i still think that i
+
+342
+00:37:21,420 --> 00:37:28,220
+ i mean we don't have this is gonna take us down a whole other i mean i still think hegel is is doing
+
+343
+00:37:28,220 --> 00:37:36,300
+ something stylistically completely different from aristotle but anyway but anyway we don't have to do
+
+344
+00:37:36,300 --> 00:37:42,700
+ that today but yeah i mean i i think there there are certainly good reasons bracketing the certain the
+
+345
+00:37:42,700 --> 00:37:48,460
+ history of philosophy and the history the sort of you know shorter history of rhetoric there are good
+
+346
+00:37:48,460 --> 00:37:54,220
+ reasons for reading plato you know as nathaniel as you're wanting to read him right and and saying like
+
+347
+00:37:54,220 --> 00:38:00,780
+ this is simply right um or or at very least it's a way more interesting starting point for thinking
+
+348
+00:38:00,780 --> 00:38:07,820
+ about the field rather than theory of forms transcendent aristocratic politics right like all of those
+
+349
+00:38:09,420 --> 00:38:14,060
+ all of those usual attributions which by the way i've all i've been curious if recently if that's
+
+350
+00:38:14,060 --> 00:38:19,900
+ changed because you know now that we see what the polis actually is like right in the last few years
+
+351
+00:38:20,700 --> 00:38:27,900
+ uh i just wonder if that aristocratic aversion to the demos makes a lot more sense right i mean you
+
+352
+00:38:27,900 --> 00:38:31,740
+ know because i mean when i was in grad school it was like you know plato hates the demos he doesn't
+
+353
+00:38:31,740 --> 00:38:36,140
+ want the people involved and what an elitist and all this stuff and i was i was always the
+
+354
+00:38:36,140 --> 00:38:41,420
+ asshole in class being like have you met the demos and now i think that you know more people on the left
+
+355
+00:38:41,420 --> 00:38:46,780
+ are like oh yeah the demos is maybe not such a great thing like has that caused people to sort of
+
+356
+00:38:46,780 --> 00:38:53,980
+ reevaluate the alleged elitism or like what's exactly wrong with elitism again because you know
+
+357
+00:38:53,980 --> 00:39:00,780
+ i'm just saying my faith in democracy was eradicated like when i was 19 or 20 and i first read the republic
+
+358
+00:39:00,780 --> 00:39:06,460
+ and plato like made the claim about the like i don't want the demos baking my bread i want
+
+359
+00:39:07,020 --> 00:39:12,460
+ i don't want a baker breaking my damn my damn bread but yes i do too i do too
+
+360
+00:39:17,340 --> 00:39:21,340
+ um you know i look i mean you know my version of this you guys have gotten it plenty of times but
+
+361
+00:39:21,340 --> 00:39:26,300
+ like you know there's a certain certain style or dimension of elitism that's like what's wrong with
+
+362
+00:39:26,300 --> 00:39:34,220
+ that yeah for certain styles of it yeah i mean it was really really hard to i mean yeah to parse them
+
+363
+00:39:34,220 --> 00:39:40,540
+ out but yeah it's certainly not i don't i don't simply have a i don't have a simple aversion to it
+
+364
+00:39:41,420 --> 00:39:45,820
+ i i mean i'm thinking about you know i mean as much as i love it at the end of that um
+
+365
+00:39:46,380 --> 00:39:52,380
+ plato's pharmacy essay and uh the little anecdote uh derrida gives of you know that yeah where you
+
+366
+00:39:52,380 --> 00:39:59,900
+ can lose it plato loses control over shit right i i mean even that isn't derrida walking in and
+
+367
+00:39:59,900 --> 00:40:06,700
+ saying everyone knows that plato is the great champion of of rhetoric even that is like i mean it it
+
+368
+00:40:07,420 --> 00:40:14,380
+ characterizes plato as neurotically compulsively trying to trying to control like yeah just sift out
+
+369
+00:40:14,380 --> 00:40:20,780
+ these two repetitions and so that he can adequately judge the good from the bad and what plato or i
+
+370
+00:40:20,780 --> 00:40:26,620
+ mean what derrida in many ways is doing is saying like look as a sort of inherent feature of writing
+
+371
+00:40:26,620 --> 00:40:32,860
+ and iteration writ large is like that project is impossible and even to the brightest mind it's
+
+372
+00:40:32,860 --> 00:40:38,780
+ going to drive them batty and that i mean i think that you could come you could begin with an even
+
+373
+00:40:38,780 --> 00:40:43,820
+ more affirmative starting point that doesn't begin with like everyone knows plato is the guy that does
+
+374
+00:40:43,820 --> 00:40:49,660
+ this thing oh by the way his writing does something perhaps his writing you know sort of conspires
+
+375
+00:40:49,660 --> 00:40:57,980
+ against him and you know instead like i mean you have to be careful not to reintroduce a certain kind
+
+376
+00:40:57,980 --> 00:41:05,900
+ of intentionality into the thing but i do think that you could like the the the the the general sense of
+
+377
+00:41:05,900 --> 00:41:14,780
+ the thing could be shifted that there is a version of writing where like if you treat writing as a
+
+378
+00:41:14,780 --> 00:41:22,620
+ container of of knowledge then you should be really suspicious of it as that thing right but i mean the
+
+379
+00:41:22,620 --> 00:41:28,540
+ more i read the phaedrus the more i think that it's just a version of writing that plato is is sort of
+
+380
+00:41:29,180 --> 00:41:35,500
+ trying to undo and then he's actually modeling another far more interesting version of writing and
+
+381
+00:41:35,500 --> 00:41:42,140
+ part of it is hidden in the critique um now again i don't know how i don't want to turn but that's where
+
+382
+00:41:42,140 --> 00:41:46,700
+ you can i mean you could the terminology there i mean the the last sentence that you read to is are
+
+383
+00:41:46,700 --> 00:41:52,460
+ there not two dimensions within all language right right there there's a dimension of fixing and there's a
+
+384
+00:41:52,460 --> 00:41:58,220
+ dimension of unfixing and it's not like oh for this part of the plato's writing he's doing fixing and
+
+385
+00:41:58,220 --> 00:42:02,780
+ for this part he's unfixing it's no they're the same always happen they're the same moments right
+
+386
+00:42:02,780 --> 00:42:08,140
+ and that that's where you know i mean that that i think maybe it's that second point that is the
+
+387
+00:42:08,140 --> 00:42:13,820
+ hard one to think about right like it's one thing to say well there are times where plato is more
+
+388
+00:42:13,820 --> 00:42:20,300
+ exploratory and times when he's more fixated but to say no no it's when he's most fixated that he's also most
+
+389
+00:42:20,300 --> 00:42:25,500
+ exploratory that's i think maybe the harder thing that's what i'm saying about like as a place to
+
+390
+00:42:25,500 --> 00:42:31,020
+ jump in that two dimensions at once like as alice gets bigger she also gets smaller but not because
+
+391
+00:42:31,020 --> 00:42:36,940
+ she's getting bigger and smaller at the same time so i mean that that to me is i mean it's crucial in
+
+392
+00:42:36,940 --> 00:42:41,420
+ terms of this is that there you don't get to pick one right you don't get to go with the just getting
+
+393
+00:42:41,420 --> 00:42:46,620
+ bigger i only want to get bigger or i only want you know to fix it's you know well that
+
+394
+00:42:46,620 --> 00:42:53,020
+ that's always yeah yeah that simultaneity is just difficult to accept i think for most theorists
+
+395
+00:42:53,020 --> 00:42:57,500
+ even good theorists you know it's like it's either there are bodies or there are no bodies or there's
+
+396
+00:42:57,500 --> 00:43:03,980
+ consistency or only inconsistency why can't you hold them together you know it yeah it i mean it feels
+
+397
+00:43:03,980 --> 00:43:10,140
+ necessary in to lose to do that obviously he foregrounds that that move you know i think
+
+398
+00:43:10,140 --> 00:43:16,460
+ what i want to do then is really drop that in spite of himself like in spite of plato you know this is
+
+399
+00:43:16,460 --> 00:43:21,660
+ still operating at the level of writing and just like drop the intentionality all together like no
+
+400
+00:43:21,660 --> 00:43:27,660
+ everyone knows that this is like these things are happening at the same time and who cares if plato
+
+401
+00:43:27,660 --> 00:43:32,380
+ was working against it or with it or whatever else i'm not going to focus on or you just have a have a
+
+402
+00:43:32,380 --> 00:43:37,740
+ i mean i would just talk about that i would just you know like just address that question is the
+
+403
+00:43:37,740 --> 00:43:44,060
+ tendency would be to phrase this as plato's writing working against what plato is trying to do
+
+404
+00:43:44,940 --> 00:43:51,340
+ i want to resist this because that presumes a distinction between the two that i that i want
+
+405
+00:43:51,340 --> 00:43:59,020
+ to question you know yeah yeah i i definitely no matter how you handle it i definitely think you need
+
+406
+00:43:59,020 --> 00:44:06,380
+ to use logic of sense to to to handle it not and i agree not like as a lens or a hermeneutic but
+
+407
+00:44:06,380 --> 00:44:12,060
+ definitely as a way of just kind of pointing to like this is a process of destratifying right i mean
+
+408
+00:44:12,060 --> 00:44:19,980
+ this is a process of um you know maybe maybe in this moment plato was organizing like some kind
+
+409
+00:44:19,980 --> 00:44:26,060
+ of intensities around this concept and it's and it seems really fixed and it seems really um intentional
+
+410
+00:44:26,060 --> 00:44:34,860
+ but even in that moment that's gonna become knocked around and destratified by sensuality by sensual
+
+411
+00:44:34,860 --> 00:44:41,980
+ relations and by the very process of structuring it right yeah yeah exactly exactly and and and that
+
+412
+00:44:41,980 --> 00:44:48,860
+ is is also going to be an emergent moment where another body forms like oh there's another one you
+
+413
+00:44:48,860 --> 00:44:56,140
+ know and it's like that's the delusian battery yeah exactly and this is just an aside but like
+
+414
+00:44:56,140 --> 00:45:02,140
+ who is plato the person i mean this is an obvious statement but like there can't be a plato behind
+
+415
+00:45:02,140 --> 00:45:06,700
+ the writing i mean he was writing thousands of years ago we have no idea what he looked like what his
+
+416
+00:45:06,700 --> 00:45:14,140
+ motivations were any of that so like writing is yeah he was a big guy he washes hair every day he washed it
+
+417
+00:45:14,140 --> 00:45:23,980
+ every day loser what a loser his hair was always frizzy disgusting that comment wins the day
+
+418
+00:45:27,980 --> 00:45:32,300
+ yeah but i mean you can do whatever you can do whatever you want with him the issue is that
+
+419
+00:45:32,300 --> 00:45:37,820
+ there is the historical tradition at least in rhetoric of like cementing him in this one so you do have to
+
+420
+00:45:37,820 --> 00:45:43,980
+ respond to that i guess it's in some way and react against that if you want to but i mean like
+
+421
+00:45:43,980 --> 00:45:49,900
+ derrida did you can do something interesting with plato i mean why not it's it's there for the taking
+
+422
+00:45:49,900 --> 00:45:55,020
+ it's just like i always think it's always weird to me when people talk about them as people as like
+
+423
+00:45:55,020 --> 00:46:02,300
+ people we know aristotle and plato they're not people it's just text right yeah well they're words i mean
+
+424
+00:46:02,300 --> 00:46:06,780
+ they're they're words that serve an organizing function right i mean this is foucault on right
+
+425
+00:46:06,780 --> 00:46:11,900
+ author stuff it's you know and yeah plato is a word that has an organizing function a pretty big one
+
+426
+00:46:11,900 --> 00:46:17,180
+ and certainly within the field of rhetoric and yes someone like robin's book and other things like
+
+427
+00:46:17,180 --> 00:46:24,380
+ that are are complicating the ways in which um those things get hurt and yet at the same time it's a long
+
+428
+00:46:24,380 --> 00:46:31,100
+ process right like turning around an oil tanker doesn't take a book right yeah it's just uh so
+
+429
+00:46:31,100 --> 00:46:37,900
+ so-called tradition changes um or again i mean i also when i really sit down and think about it i'm
+
+430
+00:46:37,900 --> 00:46:42,460
+ like i don't even fucking know what the tradition i mean i you know when i'm really really serious
+
+431
+00:46:42,460 --> 00:46:48,860
+ about it i use phrases like the i use phrases like the field yeah you know and phrases like you
+
+432
+00:46:48,860 --> 00:46:53,740
+ know things like the discipline or whatever and i'm like but what am i actually talking about because
+
+433
+00:46:54,380 --> 00:46:59,660
+ you know i'm just talking about i mean in caddy's terms like the sort of doxa that i hear at
+
+434
+00:46:59,660 --> 00:47:04,380
+ conferences and that i occasionally read which is incredibly limited right it's just me and i don't
+
+435
+00:47:04,380 --> 00:47:11,340
+ like reading so i don't read very much stuff you know so i i mean that it it makes just as much
+
+436
+00:47:11,340 --> 00:47:16,700
+ sense to me really to go in and say look i recognize that a lot of people think that plato is this
+
+437
+00:47:16,700 --> 00:47:21,100
+ aristocratic leader blah blah blah but i also think that there are just as many people who think
+
+438
+00:47:21,660 --> 00:47:26,140
+ that that's a that's a really reductive version that has done a disservice to the field of rhetoric
+
+439
+00:47:26,140 --> 00:47:32,300
+ and that in fact we could reposition this whether philosophy likes it or not like we could reposition
+
+440
+00:47:32,300 --> 00:47:38,380
+ this figure to do different kinds of intellectual work you know because it's there to be i mean this
+
+441
+00:47:38,380 --> 00:47:45,580
+ is what this tells you if not plato is that it it can't prevent itself this is where uh zizek's
+
+442
+00:47:45,580 --> 00:47:50,140
+ argument against de leuze is like de leuze is the thinker of late capitalism there's no i mean i think
+
+443
+00:47:50,140 --> 00:47:55,580
+ his quote is there's nothing in the book anti-odipus that prevents it from being taken up as a sort of
+
+444
+00:47:55,580 --> 00:48:02,460
+ learning tool for wall street wall street traders and i was like that that's a good thing right like
+
+445
+00:48:02,460 --> 00:48:06,460
+ there's nothing that prevents anything from being read there's nothing that prevents nietzsche from
+
+446
+00:48:06,460 --> 00:48:11,740
+ being the nazi philosopher like and and darada is really great about insisting upon that is that
+
+447
+00:48:11,740 --> 00:48:17,900
+ i'm not going to protect nietzsche from having been appropriated by nazis because all writing can go
+
+448
+00:48:17,900 --> 00:48:26,140
+ anywhere it does go right like it and so anyone you know the the most sort of open-minded you know for
+
+449
+00:48:26,140 --> 00:48:33,180
+ me personally that is the tyranny of the left these days is an emphasis on being open and it is it's
+
+450
+00:48:33,180 --> 00:48:40,220
+ it's just as tyrannical and just as fascistic and just just as dangerous really you know to me so
+
+451
+00:48:40,220 --> 00:48:47,740
+ right yeah which doesn't make me fucking jordan peterson or some shit right like i mean
+
+452
+00:48:47,900 --> 00:48:54,060
+ you know you don't you don't have farthest thing from jordan peterson you're not telling
+
+453
+00:48:54,060 --> 00:48:59,660
+ people to make their beds you know that's like the key to success right but i'm just you know you
+
+454
+00:48:59,660 --> 00:49:04,940
+ know i'm just saying is like look no there's there i mean and i i take that to be one of the arguments
+
+455
+00:49:04,940 --> 00:49:11,340
+ of anti-odipus right is that uh there are fascism of the of the left and they're just as real and
+
+456
+00:49:11,340 --> 00:49:17,340
+ fascist as the fascism of the right and they're just as scary and just as dangerous i mean i see i see
+
+457
+00:49:17,340 --> 00:49:22,300
+ it in my own little you know experiences through the world like that's some scary
+
+458
+00:49:22,300 --> 00:49:26,460
+ shit that you're doing in the interest of liberation which to me makes it way scarier
+
+459
+00:49:26,460 --> 00:49:32,460
+ you know it's well it's more subtle too or at least for them like it the the issue always is for me like
+
+460
+00:49:32,460 --> 00:49:40,940
+ the illusion uh that you're not morally compromised which is right yes the purity yes what people on the
+
+461
+00:49:40,940 --> 00:49:46,780
+ or like certain theorists uh progressive people kind of tend to do is they assume the moral
+
+462
+00:49:46,780 --> 00:49:54,220
+ high ground which i'm not equating that with like the right i mean i think there's degrees of of uh
+
+463
+00:49:54,220 --> 00:50:00,780
+ you know moral ambiguity but it is it is at least just annoying when people assume that they're sort
+
+464
+00:50:00,780 --> 00:50:07,020
+ of outside of that uh you know moral engagement whatever it's the rebel alliance in star wars right
+
+465
+00:50:07,020 --> 00:50:16,540
+ like the rebel is the unquestioning good that always has a moral high ground yeah and so far i mean i saw i
+
+466
+00:50:16,540 --> 00:50:21,660
+ see it in response to the new york times thing like a couple of days ago right like every single one of
+
+467
+00:50:21,660 --> 00:50:27,740
+ my friends has been posting about their support for you know the uh women doctor position you know the
+
+468
+00:50:27,740 --> 00:50:33,580
+ non-medical doctor thing and i see this and on the one hand it's like yeah i i actually quite agree with
+
+469
+00:50:33,580 --> 00:50:38,540
+ that right like and i agree with the critique this is a fucking moron who shouldn't it just should never
+
+470
+00:50:38,540 --> 00:50:42,300
+ be published right the real issue is not that they're a moron wrote this it's that the wall
+
+471
+00:50:42,300 --> 00:50:47,980
+ street journal published this but whatever that's money i mean i get it you know but but you see i at
+
+472
+00:50:47,980 --> 00:50:53,420
+ the same time that i see this kind of and feel an agreement or an alliance with this position that's
+
+473
+00:50:53,420 --> 00:51:00,060
+ critiquing this i also am like i feel like we're getting a little too uh you know full of ourselves
+
+474
+00:51:00,060 --> 00:51:05,660
+ here and a little too comfortable with our self-righteous position yes you know that that like
+
+475
+00:51:05,660 --> 00:51:11,500
+ everyone is on board with this and we're so dismissive about it like not not because there's value to it
+
+476
+00:51:11,500 --> 00:51:16,220
+ but just like wait wait wait let's settle down on the community building work that we're that is
+
+477
+00:51:16,220 --> 00:51:22,700
+ happening in response to this uh new york times op-ed or the wall street journal op-ed you know so i think
+
+478
+00:51:22,700 --> 00:51:31,020
+ this is how we might get undergrads to understand something like logic of sense is by scaffolding that
+
+479
+00:51:31,020 --> 00:51:39,500
+ with demagoguery yeah right what's that's right it is the perfect concept for foreign under anybody to
+
+480
+00:51:39,500 --> 00:51:45,980
+ understand how there is no difference well right there's difference there's difference there's
+
+481
+00:51:45,980 --> 00:51:52,620
+ difference right but but that you know there is you know that that game um of moral high ground
+
+482
+00:51:52,620 --> 00:51:59,420
+ or taking the high ground you know it's just not um an option and and or once you start playing it
+
+483
+00:51:59,420 --> 00:52:04,620
+ you're playing the same game as everybody else but that's exactly right that was my response and i posted
+
+484
+00:52:04,620 --> 00:52:10,780
+ on a couple of friends facebook's feeds is like guys like i mean i i don't disagree with you but
+
+485
+00:52:11,820 --> 00:52:16,700
+ let's let's settle down here a second like we are positioning ourselves now as these sort of
+
+486
+00:52:16,700 --> 00:52:22,780
+ authorities who are being respectful of women because we call them doctor you know right like hold on a
+
+487
+00:52:22,780 --> 00:52:27,740
+ second let's exactly there's so much to point there there's there's not only the implications there's
+
+488
+00:52:27,740 --> 00:52:34,460
+ also the style in which people are putting out the support you know there's all of that is is
+
+489
+00:52:34,460 --> 00:52:39,980
+ just the kind of stuff that we might critique if somebody else were doing absolutely i mean that's
+
+490
+00:52:39,980 --> 00:52:45,500
+ the key point is like yeah doesn't this doesn't the tone of this tribe sound a lot like the tone
+
+491
+00:52:45,500 --> 00:52:50,140
+ of the tribe that you're you know like the the point is different that's why i'm writing about style
+
+492
+00:52:50,140 --> 00:52:56,620
+ the point the content is different right but the tone and the gathering of the forces and the incredible
+
+493
+00:52:56,620 --> 00:53:01,180
+ like i didn't hear anyone i didn't read a single person saying well hold on a second let's take a step
+
+494
+00:53:01,180 --> 00:53:07,020
+ like not a single person was saying everyone was jumping on to condemn the ridiculousness and i was
+
+495
+00:53:07,020 --> 00:53:13,420
+ like hey tribes jumping on to condemn stuff that sounds familiar well nobody's able to like contextualize
+
+496
+00:53:13,420 --> 00:53:20,380
+ their rage or even just their dispositions you know and for me like i tend to just not care about
+
+497
+00:53:20,380 --> 00:53:25,820
+ everything you know or at least not feel personally invested in a lot of these debates but i realized that
+
+498
+00:53:26,380 --> 00:53:31,340
+ i mean at least recently i was like i think that that also comes from a place of privilege you know
+
+499
+00:53:31,340 --> 00:53:38,140
+ like if i were sure a marginalized person i would obviously be invested in some of these conversations
+
+500
+00:53:38,140 --> 00:53:46,380
+ so my my being able to not care is because i hold a certain position now but the point is like people
+
+501
+00:53:47,500 --> 00:53:53,740
+ on any spectrum of the conversation don't seem to be able to make that move and just put their own
+
+502
+00:53:53,740 --> 00:53:59,660
+ perspective into the larger context you know what i mean right i'm gonna that's where it's a practical
+
+503
+00:53:59,660 --> 00:54:04,620
+ question no but now you're you're you're doing the hegel self-awareness move right like you're saying
+
+504
+00:54:04,620 --> 00:54:09,020
+ you know you're you're you're a little bit more elevated because you recognize the extent to which
+
+505
+00:54:09,020 --> 00:54:14,220
+ your position is embedded in a context and if more people recognized that their position was embedded
+
+506
+00:54:14,220 --> 00:54:19,660
+ in a context but you just have the same problem at a different level you know yeah i don't think
+
+507
+00:54:19,660 --> 00:54:23,340
+ i don't think i don't think it would solve the issue if every everybody was able to contextualize their own
+
+508
+00:54:23,340 --> 00:54:29,260
+ opinions but it would maybe it would maybe make people less annoying i think it would make them less
+
+509
+00:54:29,260 --> 00:54:34,780
+ annoying and less something that commentating is always less annoying but i think that i mean i i
+
+510
+00:54:35,660 --> 00:54:40,700
+ right yeah always but but i think to lose this if we take to lose this point here is that
+
+511
+00:54:40,700 --> 00:54:46,540
+ it's not less annoying right it's always going to work both ways it's always like that's the hard that's
+
+512
+00:54:46,540 --> 00:54:51,260
+ what i'm saying i think it's hard to really get your head around like it really is always going
+
+513
+00:54:51,260 --> 00:54:59,180
+ to go both directions at once it you can't ever try to to block the kind of retrograde there's just no
+
+514
+00:54:59,180 --> 00:55:05,500
+ possibility of that happening that anything that you do and say is going to go it's going to be larger
+
+515
+00:55:05,500 --> 00:55:12,860
+ and smaller you know but i do think being aware of the tendency to calcify a position which is sort
+
+516
+00:55:12,860 --> 00:55:18,940
+ of the problem that we're talking about or around like that even just the kind of general awareness
+
+517
+00:55:18,940 --> 00:55:26,140
+ of that leads to a more interesting engagement doesn't it i mean like as opposed to just calcifying
+
+518
+00:55:26,140 --> 00:55:32,060
+ the opinion right you know like just i just don't think i just think it it becomes just as uninteresting
+
+519
+00:55:32,060 --> 00:55:37,820
+ at a different level like i don't think that it's i mean look for you and me yeah right like i mean for
+
+520
+00:55:37,820 --> 00:55:43,100
+ us right like you know people who like to think about public opinions i think it's a more interesting
+
+521
+00:55:43,100 --> 00:55:47,340
+ you do end up having a more interesting conversation but i just think that the plot
+
+522
+00:55:47,340 --> 00:55:51,500
+ problem is just going to redouble at a different level like you're just never going to be able
+
+523
+00:55:51,500 --> 00:55:56,540
+ in other words i'm going to then say well nate's not sufficiently self-aware or he's contextualizing
+
+524
+00:55:56,540 --> 00:56:01,820
+ himself in a very selective way if he contextualized himself more fully he would see you know what i mean
+
+525
+00:56:01,820 --> 00:56:08,380
+ like we're always going to end up playing that that kind of right oscillating game and again the point
+
+526
+00:56:08,380 --> 00:56:14,300
+ is not stop playing the game the point is i mean at all the point is that's the only game in town
+
+527
+00:56:14,300 --> 00:56:20,300
+ so you just play it right at some level you could say that this is a kind of argument against constant
+
+528
+00:56:20,300 --> 00:56:26,220
+ self-awareness against this sort of hegelian elevation it's like everything now returns to
+
+529
+00:56:26,220 --> 00:56:31,900
+ the surface yeah there's nothing to be gained like it's just another it's just another right it's just
+
+530
+00:56:31,900 --> 00:56:38,780
+ another move in the game it's not uh it's not a heightened level of meta awareness now meta is just
+
+531
+00:56:38,780 --> 00:56:44,220
+ the new you know whatever right like it's just the new the new surface you're playing on exactly it's
+
+532
+00:56:44,220 --> 00:56:49,180
+ it's so interesting to think about like i mean just the concepts that we could again these are just
+
+533
+00:56:49,180 --> 00:56:57,420
+ attributes right so um the concept of of nonsense or the or or even the attribute of annoying right is
+
+534
+00:56:57,420 --> 00:57:08,300
+ is just a momentary configuration of certain intensities right um that is is fleeting and that is
+
+535
+00:57:08,300 --> 00:57:15,420
+ you know it's it's gonna be sensed and re-sensed as as people kind of come in and out of of that
+
+536
+00:57:15,420 --> 00:57:23,900
+ in incensed incensed yeah there you go exactly exactly so it's interesting that there's there
+
+537
+00:57:23,900 --> 00:57:28,060
+ there are those concepts and then there are also kind of like these these concepts that we're using
+
+538
+00:57:28,060 --> 00:57:34,540
+ almost in a kind of meta way to then judge the formation of those concepts it's really i don't
+
+539
+00:57:34,540 --> 00:57:40,700
+ know it's interesting which is yet just another sort of like intersection of forms on a flat plane that's
+
+540
+00:57:40,700 --> 00:57:47,980
+ just going to create now a new that's right sense in a new direction i mean i to to not rescue but to
+
+541
+00:57:47,980 --> 00:57:54,060
+ i mean return to the the value of of self-reflection might i mean you would have to think of it as
+
+542
+00:57:54,060 --> 00:57:59,900
+ flattened out which is to say like it's not simply better to do it but it does always create a unique
+
+543
+00:57:59,900 --> 00:58:05,180
+ line of differences and if you if you posit it as better or higher then i agree though that the same
+
+544
+00:58:05,180 --> 00:58:11,820
+ blockages are going to happen at at a different level but if you flatten it out because the right
+
+545
+00:58:11,820 --> 00:58:18,300
+ answer then is to say well self-reflection doesn't do this thing that we thought we did so don't do it
+
+546
+00:58:18,300 --> 00:58:25,420
+ but you're like no self-reflection is a variable that sort of that opens up a set of lines of flight
+
+547
+00:58:25,420 --> 00:58:32,780
+ and and closes down others like anything else like anything like anything else and unlike anything
+
+548
+00:58:32,780 --> 00:58:38,620
+ else well a distinctive a singular right a singular line of flight but i mean everything is comprised of
+
+549
+00:58:38,620 --> 00:58:43,180
+ lines of flight in that regard so correct it's singular but this is where like this is that version of
+
+550
+00:58:43,180 --> 00:58:50,140
+ elitism that you know that we're i think less comfortable with which is if you only did this better
+
+551
+00:58:50,140 --> 00:58:57,980
+ thing then everything would be better like if you only got educated and learn to better self-reflect
+
+552
+00:58:57,980 --> 00:59:06,380
+ and learn to you know tame your doxa or you know civilize your your style then then you know the
+
+553
+00:59:06,380 --> 00:59:13,660
+ the political body would be a better political body well that's right that you know we that was probably
+
+554
+00:59:13,660 --> 00:59:19,420
+ true for in some configurations in some places but as soon as you universalize it you're gonna have
+
+555
+00:59:20,140 --> 00:59:25,260
+ i mean have you seen all the calls for like in the last year or so i've seen so many calls for
+
+556
+00:59:25,260 --> 00:59:30,220
+ renewing the enlightenment project right i mean because because to me i really felt like there was a
+
+557
+00:59:30,220 --> 00:59:37,100
+ historical moment and i would mark it as like adorno and those types of figures um for whom
+
+558
+00:59:37,820 --> 00:59:46,700
+ you know the world war ii just marked the end of the end right it put paid to the idea the
+
+559
+00:59:46,700 --> 00:59:52,940
+ hobbermazian idea right that like more communicative rationality would lead to better right like think
+
+560
+00:59:52,940 --> 01:00:00,220
+ people would be nicer and nicer and i've i've seen the sort of i've read you know the the end run around
+
+561
+01:00:00,220 --> 01:00:06,940
+ that like well no we need more people need more education and i'm like oh my god like no right i mean
+
+562
+01:00:06,940 --> 01:00:13,260
+ i thought we learned the lesson collectively that no education is not is not the solution
+
+563
+01:00:13,900 --> 01:00:19,260
+ there there isn't actually a solution right shockingly there might not be a final solution
+
+564
+01:00:20,220 --> 01:00:26,140
+ right that's that's right and we should have learned that lesson if nothing else it's a desire for us
+
+565
+01:00:26,140 --> 01:00:34,860
+ it's a desire for a solution that is the dangerous yeah yeah you know exactly exactly i mean there's no
+
+566
+01:00:34,860 --> 01:00:39,900
+ prescription here at least in these first two series certainly not but i mean there's definitely a
+
+567
+01:00:39,900 --> 01:00:46,780
+ pedagogy i mean it you don't have to you don't have to call it reflection but he is encouraging and
+
+568
+01:00:46,780 --> 01:00:52,300
+ attention to the dynamics he's laying out right i mean why would he write about them if if he weren't
+
+569
+01:00:52,300 --> 01:00:59,020
+ like so the dynamics of language and then the the simultaneity of the of becoming and being that that
+
+570
+01:00:59,020 --> 01:01:06,700
+ we've kind of uh outlined i mean he's he's asking us to look at that now whether we can like internalize
+
+571
+01:01:06,700 --> 01:01:11,660
+ it or incorporate that into our disposition that's a that's a different question not even really a
+
+572
+01:01:11,660 --> 01:01:20,300
+ necessary one but i mean i i do think i don't know i don't think it's as apart from the hegelian move
+
+573
+01:01:20,300 --> 01:01:25,500
+ as we might think or well i mean look it's there's a big difference between a pedagogy of climbing a
+
+574
+01:01:25,500 --> 01:01:32,220
+ ladder and a pedagogy of uh go moving laterally on the surface and yeah and that to me is that's a big
+
+575
+01:01:32,220 --> 01:01:38,620
+ fucking difference the the difference is the difference is not that one is a pedagogy and one is not
+
+576
+01:01:39,180 --> 01:01:42,860
+ right they are both pedagogies and i agree with you to me pedagogy is
+
+577
+01:01:43,420 --> 01:01:50,860
+ what i would be my term for the force of intervention you know um so it's a response um but it's it's not
+
+578
+01:01:50,860 --> 01:01:57,100
+ a response in this sense i would say look there's a question of emphasis going on here in duleus
+
+579
+01:01:57,100 --> 01:02:03,180
+ on the uh you know what we would call the bodies of that organ side or the going mad side or right
+
+580
+01:02:03,180 --> 01:02:08,860
+ it's a question of emphasis while still not trying to maintain that other thing that he's writing he's
+
+581
+01:02:08,860 --> 01:02:16,380
+ producing he's making he's not describing he's making right an intervention into into thinking
+
+582
+01:02:16,940 --> 01:02:23,260
+ and it is a pedagogy in such and and all things in this regard are a pedagogy right everything that
+
+583
+01:02:23,260 --> 01:02:30,780
+ you do say think is a pedagogy of something meaning it's an intervention into an existing system of
+
+584
+01:02:30,780 --> 01:02:35,340
+ forces in order to configure them in one way or another and that's all i mean to me that's what
+
+585
+01:02:35,340 --> 01:02:42,220
+ he's doing is he's saying here's what happens right here's how here's how things work there are just a
+
+586
+01:02:42,220 --> 01:02:47,500
+ series of interventions into things so it's not it's not like hey people stop complaining about the wall
+
+587
+01:02:47,500 --> 01:02:53,180
+ street journal article um you know that's not necessarily my complaint right the complaint is
+
+588
+01:02:53,180 --> 01:03:00,300
+ like look at how look at how the the problem replicates itself on the side that you'd think would know
+
+589
+01:03:00,300 --> 01:03:07,180
+ better right but but but just doesn't right that that like okay so now it's our gang who's going to
+
+590
+01:03:07,180 --> 01:03:12,940
+ you know whatever i mean so it's not i mean in that sense it's an intervention but it's not a
+
+591
+01:03:12,940 --> 01:03:19,260
+ here's the right way of doing it but you just do what you do you do what you do that is i mean so to
+
+592
+01:03:19,260 --> 01:03:25,980
+ point that out john i think is a an intervention but it's also a reflective it's a meta-reflective
+
+593
+01:03:25,980 --> 01:03:30,140
+ intervention to say like hey look the thing that you're complaining about them we're doing the
+
+594
+01:03:30,140 --> 01:03:34,940
+ exact same thing i mean you can only make that claim from taking the distance to be able to look
+
+595
+01:03:34,940 --> 01:03:42,300
+ at sure sure sides so i want to ask this as a as a practical question then at the bottom of three
+
+596
+01:03:42,940 --> 01:03:51,180
+ where um deliz jesus we already got to the third page we are moving i know where he i mean we kind
+
+597
+01:03:51,180 --> 01:03:56,620
+ of touched on this earlier but where he again introduces paradox as a thing that destroys good
+
+598
+01:03:56,620 --> 01:04:02,700
+ sense as the only direction but also that which destroys common sense as the a signation uh assignation
+
+599
+01:04:02,700 --> 01:04:13,580
+ of fixed identity identities and i mean if i mean like what's not presumed that the function of good and
+
+600
+01:04:13,580 --> 01:04:19,980
+ common sense aren't you know actual functions that operate on this flat playing and that they have
+
+601
+01:04:19,980 --> 01:04:28,860
+ pretty you know weighty like they have quite a bit of of weight and yes they they rely on paradox but
+
+602
+01:04:28,860 --> 01:04:35,180
+ in some ways i kind of see this relationship as an invitation of sort of exploding their hold and one
+
+603
+01:04:35,180 --> 01:04:42,060
+ way of exploding that the force exploding not exploiting exploding but maybe exploiting um the force of the
+
+604
+01:04:42,060 --> 01:04:47,740
+ common and the good sense would be to meta reflect and say haha see how this thing is the same as this
+
+605
+01:04:47,740 --> 01:04:55,180
+ thing but there would seem to be other i think part of what deleuze is doing here is is exploring other
+
+606
+01:04:55,180 --> 01:05:04,620
+ mechanisms by which paradox sort of undoes and and destroys good and common sense and one of the ways i mean
+
+607
+01:05:04,620 --> 01:05:09,900
+ um nate you got me thinking about this is just the way that there's this interesting oscillation between
+
+608
+01:05:09,900 --> 01:05:14,780
+ i mean look the two touchstones that he has in this book is lewis carroll and especially alice in
+
+609
+01:05:14,780 --> 01:05:23,020
+ wonderland and then the stoics right and like this second series reads like a repetition of the first
+
+610
+01:05:23,020 --> 01:05:30,940
+ but mobilizing but sort of like as taken up within this in this the topo way of the of the stoics and
+
+611
+01:05:30,940 --> 01:05:37,900
+ and like i i wonder if there's a a lesson to be learned in the way that he moves from these two
+
+612
+01:05:37,900 --> 01:05:45,900
+ sites back and forth without trying to like there is a kind of sublation might be the wrong word for
+
+613
+01:05:45,900 --> 01:05:52,860
+ it but i mean it's not a teleological progression but there definitely is a continuing ever evolving
+
+614
+01:05:52,860 --> 01:06:00,380
+ sense in the way that these two um sort of like points are are revolving or orbiting around each
+
+615
+01:06:00,380 --> 01:06:09,260
+ other right yeah that's a i mean that's a lot to throw out there as a question but i'm hoping it'll
+
+616
+01:06:10,140 --> 01:06:18,540
+ i mean he he does seem to read the stoics as like sort of proto deconstructionist thinkers right i mean
+
+617
+01:06:18,540 --> 01:06:24,860
+ i don't know how the stoics are usually taken up but they're i don't know if like would you call
+
+618
+01:06:25,420 --> 01:06:31,180
+ could you say that the lose is like saving the stoics here in a way like or is he just mobilizing
+
+619
+01:06:31,180 --> 01:06:35,820
+ them in a completely different way than they have before because i'd never read about the stoics in
+
+620
+01:06:35,820 --> 01:06:41,100
+ this uh like register you know what i mean neither have i this totally feared me the first time i read
+
+621
+01:06:41,100 --> 01:06:45,820
+ this when he brought up the stoics because i mean the stoics and the epicureans are only ever brought
+
+622
+01:06:45,820 --> 01:06:51,740
+ up in my in my training which granted like you know my training and in this era was it was was pretty
+
+623
+01:06:51,740 --> 01:06:57,420
+ limited to my undergraduate degree but it's only ever brought up in a sort of like within the context
+
+624
+01:06:57,420 --> 01:07:04,380
+ of an explicit ethics never yes it really take i mean when you get like the glossary version of the
+
+625
+01:07:04,380 --> 01:07:12,300
+ sort of like on like ontological metaphysical side of things with atomism and by um it's only ever a
+
+626
+01:07:12,300 --> 01:07:17,820
+ gloss and it was interesting to me that he didn't like it didn't wasn't obvious that he was taking
+
+627
+01:07:17,820 --> 01:07:22,940
+ them up in an ethical grasp but when you read the williams book like that's the first thing he hits
+
+628
+01:07:22,940 --> 01:07:29,340
+ you was like this is a book about ethics and life and but but i think that's a but but by the way like
+
+629
+01:07:29,340 --> 01:07:33,820
+ at least in terms of my association with the stoics truthfully it pretty much comes from this book so
+
+630
+01:07:34,860 --> 01:07:39,020
+ like you know i haven't spent a whole lot of time with marcus really you know like so i don't have that
+
+631
+01:07:39,020 --> 01:07:44,380
+ sort of that kind of background but i think that's the point which is to say because they're ethical
+
+632
+01:07:44,380 --> 01:07:51,420
+ thinkers first and foremost that's their ontology so the the baseline question here is not what stuff
+
+633
+01:07:51,420 --> 01:07:58,060
+ is the cosmos made of but what do you do when faced with this problem right like and that's their
+
+634
+01:07:58,060 --> 01:08:03,180
+ that's their starting point and they don't need a starting point prior to that or there's no need for
+
+635
+01:08:03,180 --> 01:08:08,700
+ an investigation of the nature of matter in order to get to those questions of what do you do when
+
+636
+01:08:08,700 --> 01:08:15,820
+ faced with a decision uh in life and that's exactly i think that's the starting that's the surface quality
+
+637
+01:08:15,820 --> 01:08:21,420
+ is precisely we don't need any of that uh cosmology or the better way of saying would be all those
+
+638
+01:08:21,420 --> 01:08:27,820
+ cosmologies presented themselves as preparatory for an ethics in a sense but they are just other terrains
+
+639
+01:08:27,820 --> 01:08:34,700
+ of ethics right so that those cosmologies have historically lended a sense of the depth background
+
+640
+01:08:34,700 --> 01:08:41,660
+ premises to ethical decision making right but they have never been anything other than ethical decision
+
+641
+01:08:41,660 --> 01:08:46,780
+ making right when you're making a cosmology you're doing the same thing like you know what role should
+
+642
+01:08:46,780 --> 01:08:52,860
+ god have here is functionally the exact same question is what do i do in this case right it is the same
+
+643
+01:08:52,860 --> 01:08:57,660
+ question and that's i think what he locates in the stoics is precisely the thing that you guys are
+
+644
+01:08:57,660 --> 01:09:02,620
+ associating which is just that they're not real philosophers they're just sort of people who are
+
+645
+01:09:02,620 --> 01:09:09,500
+ telling you how to live he's like yeah that's what real philosophy is so that's fascinating because
+
+646
+01:09:09,500 --> 01:09:16,380
+ then he's kind of in some ways he's setting up in in knowing that this is going to be read right he's
+
+647
+01:09:16,380 --> 01:09:24,940
+ setting up a performance where he's taking he's taking an ethic that is only sensible it is an only
+
+648
+01:09:24,940 --> 01:09:33,740
+ sensible ethic right and what he's asking us is i mean well not asking but he knows what's going to
+
+649
+01:09:33,740 --> 01:09:43,180
+ happen is in this encounter in this event um we are going to kind of we're going to sense that ethic
+
+650
+01:09:43,180 --> 01:09:49,100
+ right it's because there's an there's an imminence there that's not that's right that will it's yet
+
+651
+01:09:49,100 --> 01:09:56,060
+ to be right um and so to kind of go back to to the question of you know dr jill biden and and and
+
+652
+01:09:56,060 --> 01:10:02,140
+ and what are we to do with with the style of engagement i think de luz would just be like actually i'm
+
+653
+01:10:02,140 --> 01:10:07,580
+ just really curious about the feeling that these people were trying to escape by forming this like
+
+654
+01:10:07,580 --> 01:10:15,500
+ yeah staunch thing in this moment because that that sense the response yeah yeah there's like the
+
+655
+01:10:15,500 --> 01:10:23,660
+ need for solid the need for solidarity of women academics right yeah yeah so i mean that's one of the
+
+656
+01:10:23,660 --> 01:10:29,420
+ effects is that you have a kind of you know calcifying of women academics as an identity
+
+657
+01:10:30,060 --> 01:10:35,420
+ i mean not that it hasn't been there before but you know yeah i don't think diagnosing responses
+
+658
+01:10:35,420 --> 01:10:41,340
+ has to be metareflective either i mean i i don't think like we can think of that on the flat plane
+
+659
+01:10:41,340 --> 01:10:46,860
+ as nathaniel was saying that the lose kind of lays out right i mean it's just tracing responses and
+
+660
+01:10:46,860 --> 01:10:52,700
+ the effects and the affects uh and how they uh you know act on one another so i don't think you have
+
+661
+01:10:52,700 --> 01:10:58,060
+ to think of it as like i'm getting on top of my own response to this situation no no you're absolutely
+
+662
+01:10:58,060 --> 01:11:05,180
+ right but that's why it's not hegel because for hegel you do right i don't i don't think i don't
+
+663
+01:11:06,300 --> 01:11:11,500
+ it's not a ladder well i mean i do we we don't i don't know i don't think we have enough time
+
+664
+01:11:14,700 --> 01:11:18,540
+ i think you can read hegel differently just as you can read plato differently
+
+665
+01:11:18,540 --> 01:11:23,580
+ right yeah but i don't think you can get away from the notion i don't think you i mean i don't think
+
+666
+01:11:23,580 --> 01:11:27,420
+ you can get away from the notion of reflection is advancement and progress in hegel i don't think
+
+667
+01:11:27,420 --> 01:11:33,260
+ that that you can say that that's not i mean you can say it but i mean but it's a it's a perpetual
+
+668
+01:11:33,260 --> 01:11:40,140
+ interrogation of the capacity to err you know which is different from succeeding in a meta-reflective
+
+669
+01:11:40,140 --> 01:11:46,220
+ move um i i know that we've like kind of talked you you think it's the two sides of the same coin
+
+670
+01:11:46,220 --> 01:11:51,180
+ where it's like that's going on in the logic of sense here is that you like the the notion of of
+
+671
+01:11:51,180 --> 01:12:00,700
+ airing cannot is is is not sensible without the possibility of right of success i mean i get that
+
+672
+01:12:00,700 --> 01:12:09,660
+ which in which is like cannot help but bring in a whole teleology and and it means ends logic yeah
+
+673
+01:12:09,660 --> 01:12:16,380
+ no i mean again that reading the reading is valid i i just think there is there's nothing but error
+
+674
+01:12:16,380 --> 01:12:21,820
+ in hegel and i and i think to a certain extent if you if you grant that then it's it's sort of the
+
+675
+01:12:21,820 --> 01:12:27,660
+ same thing for to lose i mean like but he just chooses not to use the terminology i mean like there's
+
+676
+01:12:27,660 --> 01:12:35,740
+ no success what is it all success for to lose no there's no no it's all success it's all and it's all
+
+677
+01:12:35,740 --> 01:12:41,260
+ error like yeah there's no i mean it's just whatever happens is what happens there's no progress
+
+678
+01:12:41,900 --> 01:12:49,340
+ see i would i would say that yeah i agree i would say that the the metric of success and error
+
+679
+01:12:49,980 --> 01:12:56,780
+ is is nonsensical at the level of thinking yeah that's the flat plane of imminent that they are both
+
+680
+01:12:56,780 --> 01:13:02,460
+ moves that that operate that can operate and frankly they can be disassociated with each other too
+
+681
+01:13:02,460 --> 01:13:08,380
+ on the flat plane but when when you start talking about them as the metric for judging the movement
+
+682
+01:13:08,380 --> 01:13:14,780
+ of the dialectic yeah then they're standing outside of the thing and even if the answer is always wrong
+
+683
+01:13:14,780 --> 01:13:20,140
+ that the wrong answer is only ever possible in relationship to the right answer or the right
+
+684
+01:13:20,140 --> 01:13:26,940
+ move even if the right move is impossible that the very possibility of of conceptualizing
+
+685
+01:13:26,940 --> 01:13:33,980
+ the wrong response the error is only made possible because of even the impossible possibility of
+
+686
+01:13:34,540 --> 01:13:40,860
+ of the the success right and that's to me that's the difference is that you know even if
+
+687
+01:13:42,300 --> 01:13:48,860
+ i i can i can divorce success and error from sort of like an evolutionary teleology where like you can be
+
+688
+01:13:48,860 --> 01:13:54,700
+ like right like course like success and error at the level of correspondence which you wouldn't have to think
+
+689
+01:13:54,700 --> 01:14:03,820
+ about teleologically um and i could but i i can't think of error without success at that sort of meta-reflective
+
+690
+01:14:06,060 --> 01:14:14,220
+ from the perspective of the metric that is judging right i mean i do think you know he kind of you that
+
+691
+01:14:14,220 --> 01:14:21,500
+ last passage at the end of uh page two i think um where he talks about paradox being sort of essential
+
+692
+01:14:21,500 --> 01:14:28,300
+ where was that you read it but uh that was at the bottom of three that i read but he said he brings
+
+693
+01:14:28,300 --> 01:14:33,660
+ it up earlier bottom of three but i mean paradox to me first of all this is interesting to like
+
+694
+01:14:33,660 --> 01:14:41,420
+ ontologize that term you know so paradox is not just a word for a linguistic phenomenon it's like it's a
+
+695
+01:14:41,420 --> 01:14:46,780
+ structural phenomenon of like life um which is just kind of cool in itself and i don't think i've ever
+
+696
+01:14:46,780 --> 01:14:51,900
+ really heard it used that way but i do think and this is you guys aren't going to like this but
+
+697
+01:14:51,900 --> 01:14:59,820
+ i do think that kind of presupposes the error success dynamic right i mean in terms of the success of
+
+698
+01:14:59,820 --> 01:15:07,980
+ individuation versus the error the necessary error of the inconsistency of relations now again you don't
+
+699
+01:15:07,980 --> 01:15:13,100
+ need those terms i just think they do kind of they slide in there if you want i don't think there would
+
+700
+01:15:13,100 --> 01:15:18,540
+ be any there's no notion of a successful or unsuccessful individuation right because
+
+701
+01:15:18,540 --> 01:15:23,820
+ any individuation is also simultaneously a de-individuation i think i mean i think that's
+
+702
+01:15:23,820 --> 01:15:30,460
+ precisely the thing is that you can't be on one more or less on one side of the movement than the other
+
+703
+01:15:30,460 --> 01:15:34,940
+ and where hegel's always was to say you're always on the wrong side you're always erring you're always
+
+704
+01:15:34,940 --> 01:15:42,300
+ failing to totalize there's like totalities off the table here and so that's right non-totality as
+
+705
+01:15:42,300 --> 01:15:49,820
+ well right i mean and and the the paradox you know he opens up with it like you know um what does it
+
+706
+01:15:49,820 --> 01:15:56,140
+ mean to say you know becomes larger and what's its necessary relationship with becoming smaller what does a
+
+707
+01:15:56,140 --> 01:16:02,460
+ success or a failure even look like within that paradoxical because that's the paradox the
+
+708
+01:16:02,460 --> 01:16:09,260
+ simultaneous becoming smaller larger right like right let's let's have to introduce let's stick with
+
+709
+01:16:09,260 --> 01:16:14,860
+ that for a second you said i because i i just went down that rabbit hole and you said you did as well
+
+710
+01:16:14,860 --> 01:16:21,100
+ i'm curious what i mean i'm sort of setting aside the hegel question right now because for several
+
+711
+01:16:21,100 --> 01:16:25,900
+ reasons not least of which is that katie wasn't subjected to us we've had these
+
+712
+01:16:25,900 --> 01:16:33,500
+ conversations for six months and uh nate is interested in hanging on to a conceptual itinerary
+
+713
+01:16:33,500 --> 01:16:39,340
+ that nathaniel and i don't think that we want to leave behind i think he's trying to say this
+
+714
+01:16:39,340 --> 01:16:43,980
+ fairly he could keep going with it he could keep going with it as long as he puts as long as he slaps
+
+715
+01:16:43,980 --> 01:16:53,740
+ a quote from alice in wonderland right right right and it's just in short course it is the the logic of
+
+716
+01:16:53,740 --> 01:16:59,580
+ you see it in lacan and zizek the logic of the necessary failure to totalize that is subjectivity
+
+717
+01:16:59,580 --> 01:17:04,780
+ right you know the reason everything is always contingent is because you can never fully totalize
+
+718
+01:17:04,780 --> 01:17:12,460
+ this thing and it requires it requires a presumption of an ideal totality in lacan it's the real uh that
+
+719
+01:17:12,460 --> 01:17:17,740
+ at least hypothetically could exist and and what nathaniel and i are saying is that one of one of the things
+
+720
+01:17:17,740 --> 01:17:24,300
+ that we like about the kind of delusian itinerary is that there is no uh totality imagined real or
+
+721
+01:17:24,300 --> 01:17:29,340
+ otherwise so there's no success or there's no failure i mean it doesn't matter which term you use
+
+722
+01:17:29,340 --> 01:17:34,620
+ there's no success or failure it's just right because there is no sort of idealized model that that's the
+
+723
+01:17:34,620 --> 01:17:40,220
+ background for that conversation um but uh nathaniel i want to ask about like so what did you come up with
+
+724
+01:17:40,220 --> 01:17:45,260
+ in terms of because that really did i mean i really i was like i'm gonna figure this thing out like what
+
+725
+01:17:45,260 --> 01:17:51,100
+ is this what does this mean and by the way one of the things that interests me is my desire to figure
+
+726
+01:17:51,100 --> 01:17:57,580
+ it out right my desire to what we would call that is resolving the paradox in other words to take the
+
+727
+01:17:57,580 --> 01:18:06,460
+ paradox out of the realm of paradox right and make it into simply opposing doxes right and and not
+
+728
+01:18:06,460 --> 01:18:11,180
+ simultaneous doxes and there's by the way i don't know if you if you read this caddy but there's an
+
+729
+01:18:11,180 --> 01:18:17,340
+ article i came across i cite it in the book but uh it's a really good article on paradox and it it goes
+
+730
+01:18:17,340 --> 01:18:23,420
+ through like the types of paradoxes and it basically says the only true paradox is the ones that are
+
+731
+01:18:23,420 --> 01:18:29,420
+ really really really unresolvable and those are the ones that interest him here and i i'll find it for
+
+732
+01:18:29,420 --> 01:18:34,380
+ i'll find the site for you but it's really cool because he's like most paradoxes really aren't paradoxes
+
+733
+01:18:34,380 --> 01:18:39,100
+ they're just sort of like you haven't thought yeah hard enough about them because if you think about
+
+734
+01:18:39,100 --> 01:18:43,740
+ them you can resolve them and he's but the thing that he says in there and this is the quote that i
+
+735
+01:18:43,740 --> 01:18:48,540
+ think i took from him in the book is like but if you stick with and that's his phrasing you have to
+
+736
+01:18:48,540 --> 01:18:54,380
+ stick with the paradox like stay with it as paradox that's when it gets really interesting and i think
+
+737
+01:18:54,380 --> 01:18:59,260
+ that's what's to lose us after here is if you stick with it as a paradox in other words don't do
+
+738
+01:18:59,260 --> 01:19:05,100
+ what nathaniel and i are about to talk about you know doing which is like i want to understand it i
+
+739
+01:19:05,100 --> 01:19:10,700
+ want to get my head around it so that i can say because i was able to resolve it and what did you
+
+740
+01:19:10,700 --> 01:19:15,340
+ resolve it nathaniel what did you come up with for the alice is getting bigger and getting smaller but
+
+741
+01:19:15,340 --> 01:19:21,340
+ not at the same time because she's always getting bigger than she was but smaller than she will
+
+742
+01:19:21,340 --> 01:19:27,340
+ become and so this is why the becoming always eludes the the present because as soon as you
+
+743
+01:19:27,340 --> 01:19:32,460
+ articulate it within the present it ceases to be a becoming and it's a being but like what could what
+
+744
+01:19:32,460 --> 01:19:38,540
+ could that um being ever look what could becoming ever look like as a being it would have to have one
+
+745
+01:19:38,540 --> 01:19:43,660
+ foot in the future and one that's right in the past right so there's like a kind of a stretching that
+
+746
+01:19:43,660 --> 01:19:49,900
+ that that happens so i mean that's so yeah it's like how do you that took me two hours it took him
+
+747
+01:19:49,900 --> 01:19:56,620
+ 30 seconds to say it it took me two hours to figure that out well john like alice i have no interest
+
+748
+01:19:56,620 --> 01:19:59,100
+ in books i don't have conversations or pictures
+
+749
+01:20:04,460 --> 01:20:10,060
+ so that that's my uh i mean the reality is i've been trying to articulate that forever and i was like
+
+750
+01:20:10,060 --> 01:20:14,540
+ pretty convinced when you asked me that i was just gonna go on like a word vomit for about
+
+751
+01:20:14,540 --> 01:20:20,380
+ 45 seconds and just say nothing because the only way i've i've tried i've been trying to yeah right
+
+752
+01:20:20,380 --> 01:20:25,660
+ in the margins and i've like and this is you know like the first time i read i had it as a pdf and then
+
+753
+01:20:25,660 --> 01:20:30,300
+ i finally got research money i could buy books and so this is the second time working through it
+
+754
+01:20:30,300 --> 01:20:36,300
+ with with the book yeah like i mean it is amazing to me how much energy it takes just to
+
+755
+01:20:36,300 --> 01:20:40,940
+ think through this at the sentence level and i have to really like get in the flow of the thing
+
+756
+01:20:40,940 --> 01:20:45,420
+ because i tried reading it last night and it was just like words on a page and then when i re-read
+
+757
+01:20:45,420 --> 01:20:50,940
+ it today it was like last night helped as a preparatory thing and then today i was able to actually
+
+758
+01:20:52,540 --> 01:20:57,580
+ the the language that's why i started with the being and becoming stuff today is like the simultaneity of
+
+759
+01:20:57,580 --> 01:21:06,780
+ the like to hype like part of the paradox is trying to hypothesize the the the becoming right coming
+
+760
+01:21:06,780 --> 01:21:13,260
+ right because it's like well that means that she's bigger than she was and she's smaller than she will
+
+761
+01:21:13,260 --> 01:21:19,340
+ become at the same time right which means that it she is in the state of not having fixed boundaries
+
+762
+01:21:19,340 --> 01:21:24,620
+ as a state which is why that's this whole thing that's why i love this phrase about how all of this
+
+763
+01:21:24,620 --> 01:21:31,100
+ contests alice's personal identity and makes her lose her proper name yep yep and what she hates
+
+764
+01:21:31,100 --> 01:21:36,300
+ little boys because they're too deep they couldn't handle they get they get eradicated not lewis carroll
+
+765
+01:21:36,300 --> 01:21:41,260
+ hates little boys is that in the section that we read today i think yeah right right because they
+
+766
+01:21:41,260 --> 01:21:45,900
+ would just get their their depth would get eradicated by this they couldn't handle these paradoxes so
+
+767
+01:21:45,900 --> 01:21:52,380
+ they would either ignore them or try to obliterate them or resolve them um yeah yeah this is what i was
+
+768
+01:21:52,380 --> 01:22:02,140
+ saying with like but it it's it honestly she is made more fleshy as she is made less as as virtual
+
+769
+01:22:02,140 --> 01:22:11,100
+ as possible she is literally virtual at the same time that you are thinking about cuts and you know like
+
+770
+01:22:11,100 --> 01:22:17,580
+ it's so interesting to me that those limp those limits are just blah they're constantly yeah so i i
+
+771
+01:22:17,580 --> 01:22:21,420
+ didn't follow you the first time but this time that makes more sense because i've been thinking about
+
+772
+01:22:21,420 --> 01:22:25,820
+ like the image that i just showed where she's stretching and like there's this whole dialogue
+
+773
+01:22:25,820 --> 01:22:30,380
+ that she has with herself and she's like and she can see she's not growing all that she's not growing
+
+774
+01:22:30,380 --> 01:22:34,780
+ proportionally so she like she sees her feet and they're not proportional she is like that statue
+
+775
+01:22:34,780 --> 01:22:38,700
+ they're not proportional to her head and she's like imagining having to send them
+
+776
+01:22:38,700 --> 01:22:44,540
+ like gifts and a constantly like new sets of shoes like every so many seconds and she's imagining like
+
+777
+01:22:44,540 --> 01:22:49,340
+ the letter that she would send them and then she notices realizes how ridiculous it is but i mean
+
+778
+01:22:49,900 --> 01:22:55,420
+ you know but she is both losing the sort of like the conflation of her body with her name with
+
+779
+01:22:55,420 --> 01:23:01,420
+ herself at the very same time that she's becoming sort of like far more conscious of her corporal
+
+780
+01:23:01,420 --> 01:23:06,540
+ corporeality in its sort of stretching and bending which is that that's an interesting
+
+781
+01:23:07,820 --> 01:23:14,060
+ uh juxtaposition i think totally so as in a sense it's like as she's losing a normative
+
+782
+01:23:14,060 --> 01:23:20,460
+ conception of the body she becomes more bodily correct yeah right i mean that's what caddy said the like
+
+783
+01:23:20,460 --> 01:23:24,460
+ 10 minutes ago and i did not understand what she meant and then when she said it was like an hour and a
+
+784
+01:23:24,460 --> 01:23:28,940
+ half it was like an hour and a half ago an hour and a half ago but that's cool this is what i'm saying
+
+785
+01:23:28,940 --> 01:23:35,900
+ this book like i mean it's really honestly like to understand digitality like i would it's making me
+
+786
+01:23:35,900 --> 01:23:41,340
+ think rethink like how would i teach digital rhetoric like i would i might start with these
+
+787
+01:23:41,340 --> 01:23:58,700
+ alice in wonderland these two series and like you know q anon
+
+788
+01:24:05,260 --> 01:24:07,260
+ you
+
+789
+01:24:11,340 --> 01:24:13,340
+ you
+

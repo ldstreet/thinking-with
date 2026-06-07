@@ -1,0 +1,1324 @@
+1
+00:00:00,000 --> 00:00:25,580
+ Hi, everyone, and welcome to our new podcast, Thinking With.
+
+2
+00:00:27,380 --> 00:00:31,040
+ There are three of us that are thinking.
+
+3
+00:00:34,120 --> 00:00:35,020
+ You're fired!
+
+4
+00:00:35,380 --> 00:00:37,100
+ I know. All right, let's try that again.
+
+5
+00:00:37,580 --> 00:00:38,880
+ John's dancing in the background.
+
+6
+00:00:39,220 --> 00:00:40,660
+ I know. I'm just trying to fuck with him.
+
+7
+00:00:40,820 --> 00:00:41,460
+ They can't see that.
+
+8
+00:00:45,420 --> 00:00:49,860
+ Hi, everyone, and welcome to our new podcast, Thinking With.
+
+9
+00:00:50,240 --> 00:00:54,100
+ We are Nate DeProspo, John Mucklebauer, and Nathaniel Street.
+
+10
+00:00:55,320 --> 00:01:02,280
+ Nate is a current graduate student at the University of South Carolina in rhetoric and composition,
+
+11
+00:01:02,280 --> 00:01:12,000
+ and he is in the process of writing his dissertation on the role of new materialism and post-humanism in rhetorical theory,
+
+12
+00:01:12,120 --> 00:01:16,240
+ and especially its relationship to Karen Barad and Hegel.
+
+13
+00:01:17,060 --> 00:01:25,980
+ John Mucklebauer is an associate professor at the University of South Carolina and on Nate's dissertation committee.
+
+14
+00:01:26,920 --> 00:01:38,020
+ He has a well-known book, The Future of an Invention, and someday will publish his second book on style,
+
+15
+00:01:38,020 --> 00:01:42,660
+ style, which you will hear us talk about here and there and in the podcast.
+
+16
+00:01:43,800 --> 00:01:52,100
+ And I am Nathaniel Street, and I am an assistant professor at Mount St. Vincent University in Nova Scotia,
+
+17
+00:01:52,180 --> 00:01:59,100
+ but I finished my graduate work at the University of South Carolina in 2016,
+
+18
+00:01:59,100 --> 00:02:02,380
+ and John was the advisor for my dissertation.
+
+19
+00:02:02,380 --> 00:02:12,760
+ So I was, I mean, because it started with you guys reading my proposal for my dissertation,
+
+20
+00:02:13,380 --> 00:02:18,440
+ and I kind of referenced Hegel opaquely or through Zizek.
+
+21
+00:02:18,620 --> 00:02:26,920
+ Like, through Zizek and Malibu, I was referencing the Hegelian system and using it as kind of a launching pad
+
+22
+00:02:26,920 --> 00:02:33,500
+ into this different theoretical apparatus than I was, like, sort of trained in or that I was really familiar with.
+
+23
+00:02:33,500 --> 00:02:40,580
+ But I was kind of diving into this apparatus or whatever you want to call it in order to, as you guys know,
+
+24
+00:02:41,040 --> 00:02:48,120
+ challenge or complicate what I see as a more dominant strain of thinking in rhetoric and composition.
+
+25
+00:02:48,440 --> 00:02:54,940
+ You could call it materialist or post-humanist, but to me it's just, like, trying to synthesize those
+
+26
+00:02:54,940 --> 00:03:04,400
+ and now trying to back away from my polemical reaction against post-humanism through Hegel, through Butler, through Foucault.
+
+27
+00:03:04,880 --> 00:03:10,040
+ I mean, and so you guys, I think, liked the proposal or were interested in it,
+
+28
+00:03:10,320 --> 00:03:13,580
+ and so that was kind of the inception of this podcast.
+
+29
+00:03:13,580 --> 00:03:20,240
+ And I think it's really grown, I mean, I've really grown personally in terms of my disposition
+
+30
+00:03:20,240 --> 00:03:24,060
+ and my approach towards those different discourses.
+
+31
+00:03:24,500 --> 00:03:29,460
+ And so, I mean, you guys have, like, really helped that process, thinking through the dissertation
+
+32
+00:03:29,460 --> 00:03:34,340
+ and then through your guys' various dispositions as well, you know.
+
+33
+00:03:34,340 --> 00:03:41,460
+ Yeah, I mean, I would say in some ways that the podcast was born of a couple of impulses.
+
+34
+00:03:41,460 --> 00:03:48,460
+ So, I mean, the first, I don't think we can understate the role of the pandemic in the genesis of the podcast.
+
+35
+00:03:48,460 --> 00:04:00,340
+ That, you know, the three of us felt pretty intellectually isolated and, you know, some of the first initial ideas
+
+36
+00:04:00,340 --> 00:04:07,980
+ were to try to coordinate reading groups or opportunities for scholars across rhetoric and composition to, you know,
+
+37
+00:04:07,980 --> 00:04:09,580
+ talk about this or that text.
+
+38
+00:04:09,580 --> 00:04:19,260
+ And what it eventually fell into was the three of us doing this reading group inspired by Nate's dissertation proposal defense.
+
+39
+00:04:20,220 --> 00:04:24,340
+ And so that was the kind of the agitation.
+
+40
+00:04:24,460 --> 00:04:33,860
+ And I think there was also a certain dissatisfaction with the state of institutionalized education
+
+41
+00:04:33,860 --> 00:04:40,020
+ that, you know, we wanted to imagine an engagement with these texts.
+
+42
+00:04:40,020 --> 00:04:42,560
+ And in this case, it turned out to be Hegel to begin with.
+
+43
+00:04:43,160 --> 00:04:51,020
+ Imagine an engagement with them that isn't simply about trying to explain or demonstrate a mastery of the text
+
+44
+00:04:51,020 --> 00:04:58,300
+ or even develop a mastery of the text, but to imagine an educational pedagogical orientation to reading and conversation
+
+45
+00:04:58,300 --> 00:05:09,040
+ that is first and foremost designed to or is interested in provoking thinking between us, between us and the text.
+
+46
+00:05:09,220 --> 00:05:13,320
+ And, you know, that's where the title Thinking With came out of, where, you know,
+
+47
+00:05:14,100 --> 00:05:19,540
+ as anybody who listens to this podcast will quickly understand, none of us are experts on Hegel.
+
+48
+00:05:20,000 --> 00:05:25,100
+ We often aren't talking about Hegel or the text explicitly.
+
+49
+00:05:25,100 --> 00:05:30,340
+ We're not trying to explain the concepts or giving context for Hegel's philosophy,
+
+50
+00:05:30,340 --> 00:05:40,220
+ that we are using the chunks of readings that drive each of the episodes as catalysts for thinking about a whole range of things.
+
+51
+00:05:40,820 --> 00:05:44,860
+ A lot of it just so happens to be Hegel explicitly, but a lot of it isn't.
+
+52
+00:05:45,580 --> 00:05:51,480
+ I mean, John, you had some other, like, a few episodes back when we were talking about doing this introduction,
+
+53
+00:05:51,700 --> 00:06:00,740
+ you kind of expanded on the institutional, like, situation and how this offered us a different kind of approach.
+
+54
+00:06:00,900 --> 00:06:03,100
+ And you just hit on that a little bit.
+
+55
+00:06:03,180 --> 00:06:11,480
+ But, I mean, you were saying basically that the way that the institution functioned doesn't allow conversations like this really to happen,
+
+56
+00:06:11,640 --> 00:06:14,940
+ either because of the authoritative position of the teacher or the instructor.
+
+57
+00:06:14,940 --> 00:06:18,700
+ I don't know, you phrased it much more interestingly than I just tried to summarize.
+
+58
+00:06:19,740 --> 00:06:25,800
+ Yeah, I mean, I don't remember what I said, but if I'm responding to that question, I mean, you know,
+
+59
+00:06:25,840 --> 00:06:29,400
+ I would reemphasize, begin by reemphasizing the thing that Nathaniel just said,
+
+60
+00:06:29,460 --> 00:06:34,860
+ which is this is not an introduction to, and it's not an attempt to teach in that sense.
+
+61
+00:06:35,340 --> 00:06:39,640
+ So, you know, teaching is, like, here are the basic principles that you need to understand.
+
+62
+00:06:39,820 --> 00:06:44,520
+ I mean, none of us are Hegel experts, and none of us are philosophers, right?
+
+63
+00:06:44,620 --> 00:06:45,620
+ Like, we aren't.
+
+64
+00:06:47,020 --> 00:06:51,140
+ So it's not an introduction to, and it doesn't serve that function.
+
+65
+00:06:51,300 --> 00:06:54,920
+ But it is also not, like, an advanced level either, right?
+
+66
+00:06:54,980 --> 00:06:58,260
+ It's not, you know, it's not like, okay, well, if it's not an introduction to,
+
+67
+00:06:58,320 --> 00:07:00,280
+ it must be something that's a higher level.
+
+68
+00:07:00,280 --> 00:07:01,780
+ It's like, it's not really that either.
+
+69
+00:07:01,940 --> 00:07:05,180
+ It is much more just of a mix mash of theory.
+
+70
+00:07:05,820 --> 00:07:12,300
+ So we are a bunch of folks at different stages of our intellectual and professional careers, right?
+
+71
+00:07:12,380 --> 00:07:14,840
+ Like, you know, Nate's just getting started still in grad school.
+
+72
+00:07:15,060 --> 00:07:20,100
+ Nathaniel's been out for, you know, a while, and I'm, you know, tenured heading towards full.
+
+73
+00:07:20,200 --> 00:07:22,160
+ So you've got three folks at different stages.
+
+74
+00:07:22,500 --> 00:07:27,200
+ And there aren't really platforms for having the kind of conversations
+
+75
+00:07:27,200 --> 00:07:30,560
+ about these conceptual questions.
+
+76
+00:07:31,240 --> 00:07:34,600
+ You know, like, conferences, I guess, theoretically could work that way.
+
+77
+00:07:35,260 --> 00:07:39,380
+ They just haven't, in my experience, because someone goes and gives their work,
+
+78
+00:07:39,420 --> 00:07:40,780
+ and then you respond to their work.
+
+79
+00:07:40,860 --> 00:07:44,320
+ So what you don't have is people thinking through things together.
+
+80
+00:07:44,840 --> 00:07:49,000
+ You have, here's my version of things, and then other people ask questions.
+
+81
+00:07:49,140 --> 00:07:51,600
+ And then you can have good conversations, I mean, certainly.
+
+82
+00:07:52,320 --> 00:07:54,580
+ But conferences are really the only place.
+
+83
+00:07:54,880 --> 00:08:00,540
+ And so, and it doesn't, at least in my experience, it is that very, you know, unidirectional.
+
+84
+00:08:00,820 --> 00:08:02,760
+ It's like my paper and others respond.
+
+85
+00:08:02,880 --> 00:08:07,760
+ Whereas this was sort of three people at different stages just, you know, reading some stuff
+
+86
+00:08:07,760 --> 00:08:09,740
+ who have read a bunch of different things, right?
+
+87
+00:08:09,800 --> 00:08:16,280
+ As we'll become clear is that, like, you know, Nate's itinerary, conceptual itinerary is just
+
+88
+00:08:16,280 --> 00:08:17,160
+ different than mine.
+
+89
+00:08:17,260 --> 00:08:21,640
+ And you've read things that I haven't read, and you like things that I don't like, and
+
+90
+00:08:21,640 --> 00:08:22,300
+ vice versa.
+
+91
+00:08:22,580 --> 00:08:24,460
+ And so our touchstones are different.
+
+92
+00:08:24,880 --> 00:08:30,480
+ And so part of it, you know, we have to learn how to meld our, you know, our vocabularies
+
+93
+00:08:30,480 --> 00:08:34,460
+ and respond to one another and engage one another.
+
+94
+00:08:34,680 --> 00:08:40,860
+ Even though none of us have thesis statements, we all, all three of us have intellectual projects
+
+95
+00:08:40,860 --> 00:08:42,600
+ that this intersects with.
+
+96
+00:08:42,660 --> 00:08:45,040
+ So you guys talked for a moment about yours.
+
+97
+00:08:45,120 --> 00:08:50,920
+ For me, the biggest thing is that I have been, for my entire sort of professional intellectual
+
+98
+00:08:50,920 --> 00:08:54,880
+ life, been kind of consumed with this question of what Nietzschean affirmation is.
+
+99
+00:08:55,440 --> 00:08:59,700
+ And a big component of that is thinking its relationship to negation.
+
+100
+00:09:00,440 --> 00:09:06,180
+ And I have had a, I haven't really had good purchase for how to think that, you know, and
+
+101
+00:09:06,180 --> 00:09:10,100
+ it's specifically Nietzsche in that regard of the guy who's like, you know, he's one of
+
+102
+00:09:10,100 --> 00:09:15,160
+ the most polemical thinkers around and dismisses all kinds of stuff and yet always says, what
+
+103
+00:09:15,160 --> 00:09:16,420
+ do I have to do with negation?
+
+104
+00:09:16,500 --> 00:09:17,580
+ I am pure affirmation.
+
+105
+00:09:17,680 --> 00:09:19,200
+ He makes those comments all the time.
+
+106
+00:09:19,300 --> 00:09:21,320
+ And I'm like, how do you square that, right?
+
+107
+00:09:21,340 --> 00:09:23,020
+ How do you square those two things?
+
+108
+00:09:23,020 --> 00:09:29,200
+ And obviously Hegel is the figure, uh, for thinking about negation as an engine.
+
+109
+00:09:29,200 --> 00:09:34,000
+ So that, that has been the draw for me of like wanting to kind of get involved with this,
+
+110
+00:09:34,180 --> 00:09:36,000
+ this, this thinking.
+
+111
+00:09:36,000 --> 00:09:41,160
+ So again, a project like that has nothing to do, for instance, with your new materialist
+
+112
+00:09:41,160 --> 00:09:44,680
+ interest, uh, Nathaniel's pedagogical, you know, interest.
+
+113
+00:09:44,800 --> 00:09:50,300
+ So it just doesn't, um, and so this was for me, at least what has been really cool about
+
+114
+00:09:50,300 --> 00:09:54,100
+ it, and I think it's what we hoped would be cool is just three folks who have read a bunch
+
+115
+00:09:54,100 --> 00:09:56,300
+ of stuff who are, who are just curious.
+
+116
+00:09:56,300 --> 00:10:01,080
+ Like none of us have really agendas that we're trying to, I mean, to a certain extent, I'm
+
+117
+00:10:01,080 --> 00:10:06,600
+ trying to get Nate away from a certain type of project, but, but not really, right?
+
+118
+00:10:06,600 --> 00:10:09,840
+ Like, um, and, and so we don't really have agendas.
+
+119
+00:10:09,980 --> 00:10:13,740
+ It's just kind of like, we're sort of, when I said before, it's not, we're not, it's not
+
+120
+00:10:13,740 --> 00:10:17,640
+ a beginner, it's not an intro to, but neither is it an expert level.
+
+121
+00:10:17,640 --> 00:10:22,660
+ It's just a kind of in the middle mix of a, a few different, you know, three different
+
+122
+00:10:22,660 --> 00:10:26,120
+ sort of mixes and throw bouncing things off of each other.
+
+123
+00:10:26,120 --> 00:10:31,260
+ And that as a mode of learning, I mean, that's where I think like, I don't come out of this
+
+124
+00:10:31,260 --> 00:10:36,580
+ saying, I, I know the institutional version of Hegel any better.
+
+125
+00:10:36,740 --> 00:10:37,720
+ I don't feel that way.
+
+126
+00:10:37,760 --> 00:10:41,500
+ Although interestingly enough, I did end up having a, I have had a recent conversation with
+
+127
+00:10:41,500 --> 00:10:44,060
+ this guy who's writing his dissertation in London on Hegel.
+
+128
+00:10:44,540 --> 00:10:50,380
+ Um, and I was like, oh, I know what he's talking about, you know, better than I did, but I
+
+129
+00:10:50,380 --> 00:10:51,460
+ don't think that's it.
+
+130
+00:10:51,540 --> 00:10:56,140
+ I think that for me, what I've come out of it with is a whole series of really provocative
+
+131
+00:10:56,140 --> 00:11:00,120
+ ideas and lines of thinking that really, I wasn't terribly familiar with that.
+
+132
+00:11:00,220 --> 00:11:06,100
+ I feel like, I mean, it, it introduced for me of like thoughts, ideas, directions.
+
+133
+00:11:06,620 --> 00:11:08,660
+ Uh, that's been the really cool thing for me.
+
+134
+00:11:08,660 --> 00:11:14,040
+ So really what I've come out of this with is seeds for, you know, essays or, I mean, I
+
+135
+00:11:14,040 --> 00:11:18,040
+ don't know if it's going to be essays or it's just sort of things to scribble around about
+
+136
+00:11:18,040 --> 00:11:19,120
+ and think about maybe.
+
+137
+00:11:19,780 --> 00:11:20,680
+ Um, but yeah.
+
+138
+00:11:20,800 --> 00:11:25,700
+ Well, I mean, I would reiterate that, you know, none of us have a thesis statement or a claim
+
+139
+00:11:25,700 --> 00:11:28,820
+ or a project that we are trying to articulate to each other.
+
+140
+00:11:28,900 --> 00:11:34,280
+ I mean, this project that the podcast as a project, you know, obviously intersects our own independent,
+
+141
+00:11:34,280 --> 00:11:41,960
+ um, uh, enterprises by it's not a means by which we are realizing any of those things.
+
+142
+00:11:41,960 --> 00:11:45,360
+ We're not trying to make our arguments to each other.
+
+143
+00:11:45,360 --> 00:11:51,020
+ And, you know, so on the one hand, I think I really like that thinking with title as a,
+
+144
+00:11:51,020 --> 00:11:52,800
+ as a provocation in a couple of ways.
+
+145
+00:11:52,880 --> 00:11:58,180
+ One, it is that we aren't trying to teach something that we have mastery of.
+
+146
+00:11:58,180 --> 00:12:02,640
+ On the other hand, it functions as, I think, an invitation.
+
+147
+00:12:03,460 --> 00:12:12,560
+ I think it, in, if it positions our, the three of us to each other and the three of us to
+
+148
+00:12:12,560 --> 00:12:21,060
+ the text and the three of us to the, our audience as an invitation to think along, to think within
+
+149
+00:12:21,060 --> 00:12:25,760
+ this kind of circuitry that we have developed.
+
+150
+00:12:25,760 --> 00:12:33,180
+ Um, and, and, and as an invitation, I mean, I think that that has had a, um, a really powerful
+
+151
+00:12:33,180 --> 00:12:43,020
+ pedagogical, um, uh, there's been a very powerful pedagogical dimension to these sessions with
+
+152
+00:12:43,020 --> 00:12:52,360
+ each other in that it, um, uh, it or, I know it orients me differently to the two of you and
+
+153
+00:12:52,360 --> 00:13:00,540
+ to the, the, the Hegel text where, you know, I, I, I've found that I have become more willing and
+
+154
+00:13:00,540 --> 00:13:08,020
+ more interested in allowing, um, y'all's comments and perspectives to sort of hit me.
+
+155
+00:13:08,020 --> 00:13:13,720
+ I don't need, there's nothing, I feel less defensive when I'm doing these, um, these podcasts
+
+156
+00:13:13,720 --> 00:13:17,820
+ because I'm, I, I'm not, I'm not advancing something that I need to defend.
+
+157
+00:13:18,100 --> 00:13:21,280
+ I, I, I feel like in some ways I'm more porous in this way.
+
+158
+00:13:21,960 --> 00:13:28,420
+ Um, and that, that's, you know, we had this conversation when we listened to the first
+
+159
+00:13:28,420 --> 00:13:31,620
+ couple of episodes, like, wow, none of us are listening to each other.
+
+160
+00:13:32,060 --> 00:13:37,100
+ Uh, and then, and one, I think that we've gotten better at listening to each other and gotten
+
+161
+00:13:37,100 --> 00:13:40,560
+ better at being, learning to be affected by each other.
+
+162
+00:13:41,020 --> 00:13:47,040
+ Um, on the other hand, John and I had this conversation, um, via text of a week or so
+
+163
+00:13:47,040 --> 00:13:51,940
+ ago, just about the very question of conversation, like the, the listening model of conversation
+
+164
+00:13:51,940 --> 00:13:57,360
+ where, you know, the idea is I say something and everyone else sort of decodes what I said
+
+165
+00:13:57,360 --> 00:13:59,880
+ and then attends to the content of what I said.
+
+166
+00:13:59,880 --> 00:14:03,320
+ And, and, and what was sort of, I think what we've sort of discovered in editing these and
+
+167
+00:14:03,320 --> 00:14:10,760
+ listening back to the podcast is that listening, I don't think listening is so much what is
+
+168
+00:14:10,760 --> 00:14:17,860
+ happening in, in those interactions that we are poking and potting, prodding and provoking
+
+169
+00:14:17,860 --> 00:14:25,740
+ and, you know, each other and eliciting responses and, you know, not eliciting predetermined responses,
+
+170
+00:14:26,000 --> 00:14:28,920
+ but eliciting responses nonetheless.
+
+171
+00:14:29,320 --> 00:14:37,300
+ And, you know, um, I think that that sort of reveals a very interesting dimension of care
+
+172
+00:14:37,300 --> 00:14:45,540
+ and nuance in the way that we have built an intellectual set of relationships.
+
+173
+00:14:45,540 --> 00:14:52,560
+ And I, I, so I just think, you know, you mentioned, you know, my, my scholarly pursuits tend to
+
+174
+00:14:52,560 --> 00:14:54,880
+ focus on pedagogical questions.
+
+175
+00:14:54,880 --> 00:15:00,960
+ And, and one of the most central ones is how does, how do our orientations and styles of
+
+176
+00:15:00,960 --> 00:15:07,220
+ writing and speaking and, and the forms of our written engagement, how do they work on
+
+177
+00:15:07,220 --> 00:15:13,180
+ us pedagogically to shape and habitually our orientation to, to others, to otherness.
+
+178
+00:15:13,700 --> 00:15:18,380
+ And, you know, I, I think that this has been a profound lesson in, in exactly, you know,
+
+179
+00:15:18,380 --> 00:15:19,960
+ along those lines.
+
+180
+00:15:21,020 --> 00:15:26,660
+ And one of the, I mean, the other impetus for me to just to talk about Hegel is that our
+
+181
+00:15:26,660 --> 00:15:30,620
+ field doesn't really have an orientation towards Hegel, broadly speaking.
+
+182
+00:15:31,040 --> 00:15:36,420
+ I mean, for the field of philosophy, Hegel is a singular figure, uh, and the importance of
+
+183
+00:15:36,420 --> 00:15:37,620
+ Hegel is basically on question.
+
+184
+00:15:37,620 --> 00:15:41,200
+ But for rhetoric, it's much, it's much more confusing for me.
+
+185
+00:15:41,300 --> 00:15:42,960
+ He's basically ignored, right?
+
+186
+00:15:43,040 --> 00:15:48,620
+ I mean, like he's either sort of viciously denied as a figure for a kind of humanist mode
+
+187
+00:15:48,620 --> 00:15:52,960
+ of thinking that we have assumed to have gotten past, right?
+
+188
+00:15:53,040 --> 00:15:54,500
+ Or he's simply ignored.
+
+189
+00:15:55,000 --> 00:15:59,260
+ And so I think for me, again, it, this doesn't, it doesn't have to, he doesn't have to function
+
+190
+00:15:59,260 --> 00:16:00,340
+ this way for you guys.
+
+191
+00:16:00,340 --> 00:16:06,280
+ But for me, he continually functions basically as a warning, as a, as a warning of a figure
+
+192
+00:16:06,280 --> 00:16:13,760
+ for a kind of thinking that, that I presume still kind of exists and, and infects and infiltrates,
+
+193
+00:16:13,760 --> 00:16:20,900
+ um, some of the, what I, what I continue to call a more materialist bent, uh, of like contemporary
+
+194
+00:16:20,900 --> 00:16:21,520
+ theory.
+
+195
+00:16:22,200 --> 00:16:28,380
+ So, I mean, we, we talk about in most of these, uh, podcasts, we come back to this point
+
+196
+00:16:28,380 --> 00:16:33,260
+ where, I mean, you guys, you guys are agitated by Hegel and I am as well.
+
+197
+00:16:33,380 --> 00:16:37,180
+ I, I kind of play the, the defender occasionally, right?
+
+198
+00:16:37,200 --> 00:16:39,080
+ Or the foil for, for you guys.
+
+199
+00:16:39,080 --> 00:16:45,340
+ But I mean, I'm basically on board with your suspicions, but my orientation is to kind of
+
+200
+00:16:45,340 --> 00:16:49,820
+ lean into those suspicions and say that they, you know, Hegel is still with us.
+
+201
+00:16:49,820 --> 00:16:54,220
+ That's, that's probably a bad thing, but I think we need to still attend to that, you
+
+202
+00:16:54,220 --> 00:16:54,980
+ know, to.
+
+203
+00:16:55,340 --> 00:17:00,120
+ I mean, I, uh, bracketing Hegel for a second and, but this is responding to what you're
+
+204
+00:17:00,120 --> 00:17:00,560
+ saying.
+
+205
+00:17:01,040 --> 00:17:08,580
+ Um, I, I feel like the most, um, satisfying and compelling, uh, intellectual interactions
+
+206
+00:17:08,580 --> 00:17:13,480
+ I've had in my professional career have almost all been when I'm writing almost all.
+
+207
+00:17:14,040 --> 00:17:17,260
+ Um, and I say, in other words, not in a classroom, right?
+
+208
+00:17:17,260 --> 00:17:18,840
+ It just doesn't happen very often.
+
+209
+00:17:18,840 --> 00:17:21,060
+ It does sometimes, but, but not very often.
+
+210
+00:17:21,360 --> 00:17:26,760
+ And this is the first sort of non-writing interaction that has felt like writing.
+
+211
+00:17:27,400 --> 00:17:32,960
+ Um, so, so that in, in what I like about when I write is that the writing talks back to me
+
+212
+00:17:32,960 --> 00:17:36,620
+ and it, it, it leads me down directions that I'm like, I'm not sure if I wanted to go there
+
+213
+00:17:36,620 --> 00:17:40,400
+ and, and, and you guys are serving that function, right?
+
+214
+00:17:40,400 --> 00:17:46,260
+ Like, I mean, in terms of my thinking that this is for me, at least this has been the
+
+215
+00:17:46,260 --> 00:17:53,160
+ only kind of intellectual sort of, you know, stabilized space, repeated space or repeated
+
+216
+00:17:53,160 --> 00:17:57,980
+ interactions that feels that I experienced like the experience of writing.
+
+217
+00:17:58,520 --> 00:18:03,500
+ And, and for that, I mean, it's invaluable to me in that regard because I, you don't, again,
+
+218
+00:18:03,500 --> 00:18:07,260
+ you do get that sometimes in a classroom, there'll be moments, you know, where it's like, okay,
+
+219
+00:18:07,260 --> 00:18:11,140
+ it's clicking and people are engaging, but it doesn't happen regularly.
+
+220
+00:18:11,680 --> 00:18:15,600
+ And it's certainly not something that you can program because it's so dependent on who happens
+
+221
+00:18:15,600 --> 00:18:19,780
+ to be in your classroom and who has slept well that day and who's eaten and, you know,
+
+222
+00:18:19,840 --> 00:18:20,700
+ those kinds of things.
+
+223
+00:18:21,100 --> 00:18:25,580
+ Um, and, and so to me, I mean, I, that's how I think of this is I feel like we're writing,
+
+224
+00:18:25,820 --> 00:18:31,020
+ like not we're preparing to write, but, but we're writing and that's what we're doing in
+
+225
+00:18:31,020 --> 00:18:31,160
+ here.
+
+226
+00:18:31,240 --> 00:18:35,100
+ So there's a way in which, you know, you can certainly make the argument that these are, um,
+
+227
+00:18:35,480 --> 00:18:38,540
+ unedited essays in a, in a, in a sense, right.
+
+228
+00:18:38,540 --> 00:18:42,040
+ Um, even though we're going to edit them so people don't have to listen to all of the
+
+229
+00:18:42,040 --> 00:18:46,120
+ NBA talk and various other things that we talk about.
+
+230
+00:18:46,140 --> 00:18:48,800
+ Damien Lillard raining threes in the bubble talk.
+
+231
+00:18:49,400 --> 00:18:49,800
+ Right.
+
+232
+00:18:49,980 --> 00:18:51,720
+ But that's what, that's what it feels like to me.
+
+233
+00:18:51,740 --> 00:18:55,800
+ It's like drafting through drafting the phase of writing where you're sort of just thinking
+
+234
+00:18:55,800 --> 00:18:56,340
+ through stuff.
+
+235
+00:18:56,340 --> 00:19:00,820
+ You're not, not making a product that you're going to then send out to a journal or a press
+
+236
+00:19:00,820 --> 00:19:03,680
+ or whatever, but the sort of thinking through process of writing.
+
+237
+00:19:03,680 --> 00:19:08,140
+ I feel like that's what, that's what's happens with us in our interactions.
+
+238
+00:19:08,140 --> 00:19:12,860
+ And I, I think that's, that certainly has a huge value to me and I know it does to you
+
+239
+00:19:12,860 --> 00:19:14,840
+ guys, but I think it would for a listener.
+
+240
+00:19:14,980 --> 00:19:21,260
+ I mean, I think that sort of learning, learning from the kind of interactions we have is a
+
+241
+00:19:21,260 --> 00:19:23,900
+ different way of thinking of learning because it's not a content.
+
+242
+00:19:23,980 --> 00:19:27,120
+ You're not going to come out of this and say, okay, I learned three things about Hegel.
+
+243
+00:19:27,320 --> 00:19:30,900
+ Instead, you'd be like, oh, there are some directions that I hooked into that I didn't
+
+244
+00:19:30,900 --> 00:19:32,060
+ know existed.
+
+245
+00:19:32,540 --> 00:19:32,900
+ Right.
+
+246
+00:19:32,940 --> 00:19:35,940
+ There are going to be things that I don't understand and I'll just let those go.
+
+247
+00:19:35,940 --> 00:19:40,880
+ And, you know, so, so that to me, that's the sense in which it, the feeling like writing
+
+248
+00:19:40,880 --> 00:19:44,000
+ has, is my closest way to describe what we do.
+
+249
+00:19:44,380 --> 00:19:44,540
+ Yeah.
+
+250
+00:19:44,860 --> 00:19:46,780
+ And I'll, I'll, I'll hit briefly on that.
+
+251
+00:19:47,180 --> 00:19:48,060
+ Sorry, Nathaniel.
+
+252
+00:19:48,220 --> 00:19:49,560
+ Um, just, just briefly.
+
+253
+00:19:49,900 --> 00:19:52,880
+ Uh, I mean, again, like what people want is conversation.
+
+254
+00:19:52,880 --> 00:19:54,660
+ And you mentioned this at the beginning, Nathaniel.
+
+255
+00:19:54,660 --> 00:19:59,480
+ You know, one of the, the, you know, catalysts for this was that the, the pandemic and we felt
+
+256
+00:19:59,480 --> 00:20:02,400
+ a little bit disconnected from our colleagues from the classroom.
+
+257
+00:20:02,400 --> 00:20:04,220
+ Most of us weren't teaching in person.
+
+258
+00:20:04,440 --> 00:20:06,100
+ I was teaching asynchronously.
+
+259
+00:20:06,100 --> 00:20:10,060
+ So I'm literally not even interfacing with anyone on a day-to-day basis.
+
+260
+00:20:10,600 --> 00:20:15,380
+ So having actual engaged conversation is valuable in and of itself.
+
+261
+00:20:15,380 --> 00:20:21,100
+ And I think people, I mean, hopefully people will enjoy listening to that, you know, and
+
+262
+00:20:21,100 --> 00:20:25,660
+ I certainly do that when I look for a podcast to listen to, I'm not looking for a lecture.
+
+263
+00:20:26,160 --> 00:20:28,060
+ You know, I'm not, I don't want to be taught something.
+
+264
+00:20:28,140 --> 00:20:32,440
+ I want to listen to two or three people, four people have an engaged conversation.
+
+265
+00:20:32,440 --> 00:20:39,560
+ So, I mean, I was going to say, I think it provides a, as an invitation, the, the, the format provides
+
+266
+00:20:39,560 --> 00:20:43,960
+ a different, um, orientation to listening as well.
+
+267
+00:20:44,080 --> 00:20:48,600
+ Whereas I think that we, we have the way that this has been structured in the way that our
+
+268
+00:20:48,600 --> 00:20:53,760
+ conversations have taken place is that following, you know, the specific moves of our conversation
+
+269
+00:20:53,760 --> 00:20:59,300
+ and getting at the content of what we're talking about is while often valuable, not really always
+
+270
+00:20:59,300 --> 00:21:05,520
+ the most important thing that, that, you know, I think listen, I find when I listen back to
+
+271
+00:21:05,520 --> 00:21:11,360
+ these things, you know, I find myself constantly riffing off of what the two of you say and even
+
+272
+00:21:11,360 --> 00:21:16,440
+ riffing off of what I say, like, and, you know, the recorded me and the me that is listening
+
+273
+00:21:16,440 --> 00:21:19,260
+ to it are, there's a distance between them.
+
+274
+00:21:19,260 --> 00:21:24,940
+ And, you know, there is an, there is, there's a difference that sort of like prompts me to
+
+275
+00:21:24,940 --> 00:21:26,680
+ think as, as a listener.
+
+276
+00:21:26,680 --> 00:21:31,760
+ And so that sometimes means that I'm really in the same groove as our conversation.
+
+277
+00:21:31,940 --> 00:21:36,520
+ Sometimes it's spinning me out in a different direction and then I'll come back and then,
+
+278
+00:21:36,600 --> 00:21:39,200
+ you know, either get back into that groove or get spun out again.
+
+279
+00:21:39,320 --> 00:21:47,000
+ And that's just, I mean, that's not a model of listening that privileges following along and
+
+280
+00:21:47,000 --> 00:21:53,020
+ sort of representing the content of the conversation in my mind that, you know, treats me as like
+
+281
+00:21:53,020 --> 00:21:58,020
+ a data recorder, but you know, it, it, it treats me as a respondent.
+
+282
+00:21:58,020 --> 00:22:05,860
+ And I, I, I, I find, I found that listening to our own stuff that to be really the primary draw.
+
+283
+00:22:05,860 --> 00:22:13,820
+ I mean, that to me just, I mean, just speaks to the Deleuzian influence of, I mean, me as
+
+284
+00:22:13,820 --> 00:22:19,580
+ well, but especially you guys, like the, the emphasis on response and sort of like finding
+
+285
+00:22:19,580 --> 00:22:27,260
+ linkages and appendages to, to bounce off from rather than a linear temporal representational
+
+286
+00:22:27,260 --> 00:22:29,000
+ kind of mode of thinking and listening.
+
+287
+00:22:29,000 --> 00:22:31,700
+ And okay, John said this, we just learned that.
+
+288
+00:22:31,860 --> 00:22:36,880
+ How do we build on that, uh, you know, piece of knowledge and then follow through?
+
+289
+00:22:37,040 --> 00:22:42,060
+ I mean, it's much more association, uh, associative, uh, than it is.
+
+290
+00:22:42,160 --> 00:22:47,120
+ So it's like, it's, I mean, I mean, it seems like a natural, exactly right.
+
+291
+00:22:47,120 --> 00:22:49,100
+ And that's how, that's how it always has been with me.
+
+292
+00:22:49,100 --> 00:22:54,040
+ It's like, it's more of a sampling process, a sample and response and see where it goes
+
+293
+00:22:54,040 --> 00:23:00,260
+ rather than building some sort of grand narrative that I had already planned out, you know, before
+
+294
+00:23:00,260 --> 00:23:01,380
+ the writing process.
+
+295
+00:23:01,800 --> 00:23:06,040
+ We're also, there's also a particular, so for instance, we have a text and we are working
+
+296
+00:23:06,040 --> 00:23:07,020
+ with the text, right?
+
+297
+00:23:07,040 --> 00:23:10,360
+ In other words, it's not a conversation that you just have in the hallway with someone,
+
+298
+00:23:10,460 --> 00:23:10,640
+ right?
+
+299
+00:23:10,640 --> 00:23:15,980
+ Like you, we have a, a concrete jumping off point, even though we don't, we jump off, right?
+
+300
+00:23:15,980 --> 00:23:20,240
+ We don't spend a lot of time on that thing, but we have a concrete jumping off point.
+
+301
+00:23:20,440 --> 00:23:26,000
+ Plus we're also, all three of us are sort of consistently self-reflexive about the form
+
+302
+00:23:26,000 --> 00:23:28,080
+ of our interactions as well.
+
+303
+00:23:28,220 --> 00:23:32,800
+ So the combination of those two things just provides for this, you know, to me, you know,
+
+304
+00:23:32,820 --> 00:23:35,300
+ this sort of eddies of, of energetic exchanges.
+
+305
+00:23:36,160 --> 00:23:41,400
+ So, but, you know, I mean, I think we all agree, like this has been incredibly generative,
+
+306
+00:23:41,640 --> 00:23:45,420
+ um, for all of us, which is the whole reason that we're putting it out, you know,
+
+307
+00:23:45,540 --> 00:23:51,200
+ into, into anywhere beyond the three of us is because other people might find it.
+
+308
+00:23:51,200 --> 00:23:53,120
+ It might, it might do that kind of work for other people.
+
+309
+00:23:53,220 --> 00:23:54,600
+ It's that, it's that simple.
+
+310
+00:23:54,600 --> 00:24:04,220
+ It might, it might do that kind of work for other people.
+
+311
+00:24:04,220 --> 00:24:04,260
+ It might do that kind of work for other people.
+
+312
+00:24:04,260 --> 00:24:06,040
+ It might do that kind of work for other people.
+
+313
+00:24:06,040 --> 00:24:07,140
+ It might do that kind of work for other people.
+
+314
+00:24:07,140 --> 00:24:08,160
+ It might do that kind of work for other people.
+
+315
+00:24:08,160 --> 00:24:09,160
+ It might do that kind of work for other people.
+
+316
+00:24:09,160 --> 00:24:11,100
+ It might do that kind of work for other people.
+
+317
+00:24:11,100 --> 00:24:12,160
+ It might do that kind of work for other people.
+
+318
+00:24:12,160 --> 00:24:13,280
+ It might do that kind of work for other people.
+
+319
+00:24:13,280 --> 00:24:15,280
+ It might do that kind of work for other people.
+
+320
+00:24:15,280 --> 00:24:17,360
+ It might do that kind of work for other people.
+
+321
+00:24:17,360 --> 00:24:19,320
+ It might do that kind of work for other people.
+
+322
+00:24:19,320 --> 00:24:20,300
+ It might do that kind of work for other people.
+
+323
+00:24:20,300 --> 00:24:21,200
+ It might do that kind of work for other people.
+
+324
+00:24:21,200 --> 00:24:22,260
+ It might do that kind of work for other people.
+
+325
+00:24:22,260 --> 00:24:23,200
+ It might do that kind of work for other people.
+
+326
+00:24:23,200 --> 00:24:25,200
+ It might do that kind of work for other people.
+
+327
+00:24:25,200 --> 00:24:26,200
+ It might do that kind of work for other people.
+
+328
+00:24:26,200 --> 00:24:27,200
+ It might do that kind of work for other people.
+
+329
+00:24:27,200 --> 00:24:28,200
+ It might do that kind of work for other people.
+
+330
+00:24:28,200 --> 00:24:29,200
+ It might do that kind of work for other people.
+
+331
+00:24:29,200 --> 00:24:30,200
+ It might do that kind of work for other people.
+

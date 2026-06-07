@@ -1,0 +1,415 @@
+Hi, everyone, and welcome to our new podcast, Thinking With.
+
+There are three of us that are thinking.
+
+You're fired!
+
+I know.
+
+All right, let's try that again.
+
+John's dancing in the background.
+
+I know.
+
+I'm just trying to fuck with him.
+
+They can't see that.
+
+Hi, everyone, and welcome to our new podcast, Thinking With.
+
+We are Nate DeProspo, John Muckelbauer, and Nathaniel Street.
+
+Nate is a current graduate student at the University of South Carolina in rhetoric and composition, and he is in the process of writing his dissertation on the role of new materialism and post-humanism in rhetorical theory, and especially its relationship to Karen Barad and Hegel.
+
+John Muckelbauer is an associate professor at the University of South Carolina and on Nate's dissertation committee.
+
+He has a well-known book, The Future of an Invention, and someday will publish his second book on style, style, which you will hear us talk about here and there and in the podcast.
+
+And I am Nathaniel Street, and I am an assistant professor at Mount St.
+
+Vincent University in Nova Scotia, but I finished my graduate work at the University of South Carolina in 2016, and John was the advisor for my dissertation.
+
+So I was, I mean, because it started with you guys reading my proposal for my dissertation, and I kind of referenced Hegel opaquely or through Žižek.
+
+Like, through Žižek and Malabou, I was referencing the Hegelian system and using it as kind of a launching pad into this different theoretical apparatus than I was, like, sort of trained in or that I was really familiar with.
+
+But I was kind of diving into this apparatus or whatever you want to call it in order to, as you guys know, challenge or complicate what I see as a more dominant strain of thinking in rhetoric and composition.
+
+You could call it materialist or post-humanist, but to me it's just, like, trying to synthesize those and now trying to back away from my polemical reaction against post-humanism through Hegel, through Butler, through Foucault.
+
+I mean, and so you guys, I think, liked the proposal or were interested in it, and so that was kind of the inception of this podcast.
+
+And I think it's really grown, I mean, I've really grown personally in terms of my disposition and my approach towards those different discourses.
+
+And so, I mean, you guys have, like, really helped that process, thinking through the dissertation and then through your guys' various dispositions as well, you know.
+
+Yeah, I mean, I would say in some ways that the podcast was born of a couple of impulses.
+
+So, I mean, the first, I don't think we can understate the role of the pandemic in the genesis of the podcast.
+
+That, you know, the three of us felt pretty intellectually isolated and, you know, some of the first initial ideas were to try to coordinate reading groups or opportunities for scholars across rhetoric and composition to, you know, talk about this or that text.
+
+And what it eventually fell into was the three of us doing this reading group inspired by Nate's dissertation proposal defense.
+
+And so that was the kind of the agitation.
+
+And I think there was also a certain dissatisfaction with the state of institutionalized education that, you know, we wanted to imagine an engagement with these texts.
+
+And in this case, it turned out to be Hegel to begin with.
+
+Imagine an engagement with them that isn't simply about trying to explain or demonstrate a mastery of the text or even develop a mastery of the text, but to imagine an educational pedagogical orientation to reading and conversation that is first and foremost designed to or is interested in provoking thinking between us, between us and the text.
+
+And, you know, that's where the title Thinking With came out of, where, you know, as anybody who listens to this podcast will quickly understand, none of us are experts on Hegel.
+
+We often aren't talking about Hegel or the text explicitly.
+
+We're not trying to explain the concepts or giving context for Hegel's philosophy, that we are using the chunks of readings that drive each of the episodes as catalysts for thinking about a whole range of things.
+
+A lot of it just so happens to be Hegel explicitly, but a lot of it isn't.
+
+I mean, John, you had some other, like, a few episodes back when we were talking about doing this introduction, you kind of expanded on the institutional, like, situation and how this offered us a different kind of approach.
+
+And you just hit on that a little bit.
+
+But, I mean, you were saying basically that the way that the institution functioned doesn't allow conversations like this really to happen, either because of the authoritative position of the teacher or the instructor.
+
+I don't know, you phrased it much more interestingly than I just tried to summarize.
+
+Yeah, I mean, I don't remember what I said, but if I'm responding to that question, I mean, you know, I would reemphasize, begin by reemphasizing the thing that Nathaniel just said, which is this is not an introduction to, and it's not an attempt to teach in that sense.
+
+So, you know, teaching is, like, here are the basic principles that you need to understand.
+
+I mean, none of us are Hegel experts, and none of us are philosophers, right?
+
+Like, we aren't.
+
+So it's not an introduction to, and it doesn't serve that function.
+
+But it is also not, like, an advanced level either, right?
+
+It's not, you know, it's not like, okay, well, if it's not an introduction to, it must be something that's a higher level.
+
+It's like, it's not really that either.
+
+It is much more just of a mix mash of theory.
+
+So we are a bunch of folks at different stages of our intellectual and professional careers, right?
+
+Like, you know, Nate's just getting started still in grad school.
+
+Nathaniel's been out for, you know, a while, and I'm, you know, tenured heading towards full.
+
+So you've got three folks at different stages.
+
+And there aren't really platforms for having the kind of conversations about these conceptual questions.
+
+You know, like, conferences, I guess, theoretically could work that way.
+
+They just haven't, in my experience, because someone goes and gives their work, and then you respond to their work.
+
+So what you don't have is people thinking through things together.
+
+You have, here's my version of things, and then other people ask questions.
+
+And then you can have good conversations, I mean, certainly.
+
+But conferences are really the only place.
+
+And so, and it doesn't, at least in my experience, it is that very, you know, unidirectional.
+
+It's like my paper and others respond.
+
+Whereas this was sort of three people at different stages just, you know, reading some stuff who have read a bunch of different things, right?
+
+As we'll become clear is that, like, you know, Nate's itinerary, conceptual itinerary is just different than mine.
+
+And you've read things that I haven't read, and you like things that I don't like, and vice versa.
+
+And so our touchstones are different.
+
+And so part of it, you know, we have to learn how to meld our, you know, our vocabularies and respond to one another and engage one another.
+
+Even though none of us have thesis statements, we all, all three of us, have intellectual projects that this intersects with.
+
+So you guys talked for a moment about yours.
+
+For me, the biggest thing is that I have been, for my entire sort of professional intellectual life, been kind of consumed with this question of what Nietzschean affirmation is.
+
+And a big component of that is thinking its relationship to negation.
+
+And I have had a, I haven't really had good purchase for how to think that, you know, and It's specifically Nietzsche in that regard of the guy who's like, you know, he's one of the most polemical thinkers around and dismisses all kinds of stuff and yet always says, what do I have to do with negation?
+
+I am pure affirmation.
+
+He makes those comments all the time.
+
+And I'm like, how do you square that, right?
+
+How do you square those two things?
+
+And obviously Hegel is the figure, uh, for thinking about negation as an engine.
+
+So that, that has been the draw for me of like wanting to kind of get involved with this, this, this thinking.
+
+So again, a project like that has nothing to do, for instance, with your new materialist interest, uh, Nathaniel's pedagogical, you know, interest.
+
+So it just doesn't, um, and so this was for me, at least what has been really cool about it, and I think it's what we hoped would be cool is just three folks who have read a bunch of stuff who are, who are just curious.
+
+Like none of us have really agendas that we're trying to, I mean, to a certain extent, I'm trying to get Nate away from a certain type of project, but, but not really, right?
+
+Like, um, and, and so we don't really have agendas.
+
+It's just kind of like, we're sort of, when I said before, it's not, we're not, it's not a beginner, it's not an intro to, but neither is it an expert level.
+
+It's just a kind of in the middle mix of a, a few different, you know, three different sort of mixes and throw bouncing things off of each other.
+
+And that as a mode of learning, I mean, that's where I think like, I don't come out of this saying, I, I know the institutional version of Hegel any better.
+
+I don't feel that way.
+
+Although interestingly enough, I did end up having a, I have had a recent conversation with this guy who's writing his dissertation in London on Hegel.
+
+Um, and I was like, oh, I know what he's talking about, you know, better than I did, but I don't think that's it.
+
+I think that for me, what I've come out of it with is a whole series of really provocative ideas and lines of thinking that really, I wasn't terribly familiar with that.
+
+I feel like, I mean, it, it introduced for me of like thoughts, ideas, directions.
+
+Uh, that's been the really cool thing for me.
+
+So really what I've come out of this with is seeds for, you know, essays or, I mean, I don't know if it's going to be essays or it's just sort of things to scribble around about and think about maybe.
+
+Um, but yeah.
+
+Well, I mean, I would reiterate that, you know, none of us have a thesis statement or a claim or a project that we are trying to articulate to each other.
+
+I mean, this project that the podcast as a project, you know, obviously intersects our own independent, um, uh, enterprises, but it's not a means by which we are realizing any of those things.
+
+We're not trying to make our arguments to each other.
+
+And, you know, so on the one hand, I think I really like that Thinking With title as a, as a provocation in a couple of ways.
+
+One, it is that we aren't trying to teach something that we have mastery of.
+
+On the other hand, it functions as, I think, an invitation.
+
+I think it, in, if it positions our, the three of us to each other and the three of us to the text and the three of us to the, our audience as an invitation to think along, to think within this kind of circuitry that we have developed.
+
+Um, and, and, and as an invitation, I mean, I think that that has had a, um, a really powerful pedagogical, um, uh, there's been a very powerful pedagogical dimension to these sessions with each other in that it, um, uh, it or, I know it orients me differently to the two of you and to the, the, the Hegel text where, you know, I, I, I've found that I have become more willing and more interested in allowing, um, y'all's comments and perspectives to sort of hit me.
+
+I don't need, there's nothing, I feel less defensive when I'm doing these, um, these podcasts because I'm, I, I'm not, I'm not advancing something that I need to defend.
+
+I, I, I feel like in some ways I'm more porous in this way.
+
+Um, and that, that's, you know, we had this conversation when we listened to the first couple of episodes, like, wow, none of us are listening to each other.
+
+Uh, and then, and one, I think that we've gotten better at listening to each other and gotten better at being, learning to be affected by each other.
+
+Um, on the other hand, John and I had this conversation, um, via text of a week or so ago, just about the very question of conversation, like the, the listening model of conversation where, you know, the idea is I say something and everyone else sort of decodes what I said and then attends to the content of what I said.
+
+And, and, and what was sort of, I think what we've sort of discovered in editing these and listening back to the podcast is that listening, I don't think listening is so much what is happening in, in those interactions that we are poking and potting, prodding and provoking and, you know, each other and eliciting responses and, you know, not eliciting predetermined responses, but eliciting responses nonetheless.
+
+And, you know, um, I think that that sort of reveals a very interesting dimension of care and nuance in the way that we have built an intellectual set of relationships.
+
+And I, I, so I just think, you know, you mentioned, you know, my, my scholarly pursuits tend to focus on pedagogical questions.
+
+And, and one of the most central ones is how does, how do our orientations and styles of writing and speaking and, and the forms of our written engagement, how do they work on us pedagogically to shape and habitually our orientation to, to others, to otherness.
+
+And, you know, I, I think that this has been a profound lesson in, in exactly, you know, along those lines.
+
+And one of the, I mean, the other impetus for me to just to talk about Hegel is that our field doesn't really have an orientation towards Hegel, broadly speaking.
+
+I mean, for the field of philosophy, Hegel is a singular figure, uh, and the importance of Hegel is basically on question.
+
+But for rhetoric, it's much, it's much more confusing for me.
+
+He's basically ignored, right?
+
+I mean, like he's either sort of viciously denied as a figure for a kind of humanist mode of thinking that we have assumed to have gotten past, right?
+
+Or he's simply ignored.
+
+And so I think for me, again, it, this doesn't, it doesn't have to, he doesn't have to function this way for you guys.
+
+But for me, he continually functions basically as a warning, as a, as a warning of a figure for a kind of thinking that, that I presume still kind of exists and, and infects and infiltrates, um, some of the, what I, what I continue to call a more materialist bent, uh, of like contemporary theory.
+
+So, I mean, we, we talk about in most of these, uh, podcasts, we come back to this point where, I mean, you guys, you guys are agitated by Hegel and I am as well.
+
+I, I kind of play the, the defender occasionally, right?
+
+Or the foil for, for you guys.
+
+But I mean, I'm basically on board with your suspicions, but my orientation is to kind of lean into those suspicions and say that they, you know, Hegel is still with us.
+
+That's, that's probably a bad thing, but I think we need to still attend to that, you know, to.
+
+I mean, I, uh, bracketing Hegel for a second and, but this is responding to what you're saying.
+
+Um, I, I feel like the most, um, satisfying and compelling, uh, intellectual interactions I've had in my professional career have almost all been when I'm writing almost all.
+
+Um, and I say, in other words, not in a classroom, right?
+
+It just doesn't happen very often.
+
+It does sometimes, but, but not very often.
+
+And this is the first sort of non-writing interaction that has felt like writing.
+
+Um, so, so that in, in what I like about when I write is that the writing talks back to me and it, it, it leads me down directions that I'm like, I'm not sure if I wanted to go there and, and, and you guys are serving that function, right?
+
+Like, I mean, in terms of my thinking that this is for me, at least this has been the only kind of intellectual sort of, you know, stabilized space, repeated space or repeated interactions that feels that I experienced like the experience of writing.
+
+And, and for that, I mean, it's invaluable to me in that regard because I, you don't, again, you do get that sometimes in a classroom, there'll be moments, you know, where it's like, okay, it's clicking and people are engaging, but it doesn't happen regularly.
+
+And it's certainly not something that you can program because it's so dependent on who happens to be in your classroom and who has slept well that day and who's eaten and, you know, those kinds of things.
+
+Um, and, and so to me, I mean, I, that's how I think of this is I feel like we're writing, like not we're preparing to write, but, but we're writing and that's what we're doing in here.
+
+So there's a way in which, you know, you can certainly make the argument that these are, um, unedited essays in a, in a, in a sense, right.
+
+Um, even though we're going to edit them so people don't have to listen to all of the NBA talk and various other things that we talk about.
+
+Damien Lillard raining threes in the bubble talk.
+
+Right.
+
+But that's what, that's what it feels like to me.
+
+It's like drafting through drafting the phase of writing where you're sort of just thinking through stuff.
+
+You're not, not making a product that you're going to then send out to a journal or a press or whatever, but the sort of thinking through process of writing.
+
+I feel like that's what, that's what's happens with us in our interactions.
+
+And I, I think that's, that's certainly has a huge value to me and I know it does to you guys, but I think it would for a listener.
+
+I mean, I think that sort of learning, learning from the kind of interactions we have is a different way of thinking of learning because it's not a content.
+
+You're not going to come out of this and say, okay, I learned three things about Hegel.
+
+Instead, you'd be like, oh, there are some directions that I hooked into that I didn't know existed.
+
+Right.
+
+There are going to be things that I don't understand and I'll just let those go.
+
+And, you know, so, so that to me, that's the sense in which it, the feeling like writing has, is my closest way to describe what we do.
+
+Yeah.
+
+And I'll, I'll, I'll hit briefly on that.
+
+Sorry, Nathaniel.
+
+Um, just, just briefly.
+
+Uh, I mean, again, like what people want is conversation.
+
+And you mentioned this at the beginning, Nathaniel.
+
+You know, one of the, the, you know, catalysts for this was that the, the pandemic and we felt a little bit disconnected from our colleagues from the classroom.
+
+Most of us weren't teaching in person.
+
+I was teaching asynchronously.
+
+So I'm literally not even interfacing with anyone on a day-to-day basis.
+
+So having actual engaged conversation is valuable in and of itself.
+
+And I think people, I mean, hopefully people will enjoy listening to that, you know, and I certainly do that when I look for a podcast to listen to, I'm not looking for a lecture.
+
+You know, I'm not, I don't want to be taught something.
+
+I want to listen to two or three people, four people have an engaged conversation.
+
+So, I mean, I was going to say, I think it provides a, as an invitation, the, the, the format provides a different, um, orientation to listening as well.
+
+Whereas I think that we, we have the way that this has been structured in the way that our conversations have taken place is that following, you know, the specific moves of our conversation and getting at the content of what we're talking about is while often valuable, not really always the most important thing that, that, you know, I think listen, I find when I listen back to these things, you know, I find myself constantly riffing off of what the two of you say and even riffing off of what I say, like, and, you know, the recorded me and the me that is listening to it are, there's a distance between them.
+
+And, you know, there is an, there is, there's a difference that sort of like prompts me to think as, as a listener.
+
+And so that sometimes means that I'm really in the same groove as our conversation.
+
+Sometimes it's spinning me out in a different direction and then I'll come back and then, you know, either get back into that groove or get spun out again.
+
+And that's just, I mean, that's not a model of listening that privileges following along and sort of representing the content of the conversation in my mind that, you know, treats me as like a data recorder, but you know, it, it, it treats me as a respondent.
+
+And I, I, I, I find, I found that listening to our own stuff, that to be really the primary draw.
+
+I mean, that to me just, I mean, just speaks to the Deleuzian influence of, I mean, me as well, but especially you guys, like the, the emphasis on response and sort of like finding linkages and appendages to, to bounce off from rather than a linear temporal representational kind of mode of thinking and listening.
+
+And okay, John said this, we just learned that.
+
+How do we build on that, uh, you know, piece of knowledge and then follow through?
+
+I mean, it's much more association, uh, associative, uh, than it is.
+
+So it's like, it's, I mean, I mean, it seems like a natural, exactly right.
+
+And that's how, that's how it always has been with me.
+
+It's like, it's more of a sampling process, a sample and response and see where it goes rather than building some sort of grand narrative that I had already planned out, you know, before the writing process.
+
+We're also, there's also a particular, so for instance, we have a text and we are working with the text, right?
+
+In other words, it's not a conversation that you just have in the hallway with someone, right?
+
+Like you, we have a, a concrete jumping off point, even though we don't, we jump off, right?
+
+We don't spend a lot of time on that thing, but we have a concrete jumping off point.
+
+Plus we're also, all three of us are sort of consistently self-reflexive about the form of our interactions as well.
+
+So the combination of those two things just provides for this, you know, to me, you know, this sort of eddies of, of energetic exchanges.
+
+So, but, you know, I mean, I think we all agree, like this has been incredibly generative, um, for all of us, which is the whole reason that we're putting it out, you know, into, into anywhere beyond the three of us is because other people might find it.
+
+It might, it might do that kind of work for other people.
+
+It's that, it's that simple.
+
+It might, it might do that kind of work for other people.
+
+It might do that kind of work for other people.
+
+It might do that kind of work for other people.
+
+It might do that kind of work for other people.
+
+It might do that kind of work for other people.
+
+It might do that kind of work for other people.
+
+It might do that kind of work for other people.
+
+It might do that kind of work for other people.
+
+It might do that kind of work for other people.
+
+It might do that kind of work for other people.
+
+It might do that kind of work for other people.
+
+It might do that kind of work for other people.
+
+It might do that kind of work for other people.
+
+It might do that kind of work for other people.
+
+It might do that kind of work for other people.
+
+It might do that kind of work for other people.
+
+It might do that kind of work for other people.
+
+It might do that kind of work for other people.
+
+It might do that kind of work for other people.
+
+It might do that kind of work for other people.
+
+It might do that kind of work for other people.
+
+It might do that kind of work for other people.

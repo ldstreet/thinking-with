@@ -1,0 +1,187 @@
+---
+// Interactive, timestamped transcript reader.
+// Fetches a WebVTT file client-side, renders cues as clickable lines, and
+// keeps them in sync with the given <audio> element (seek on click, highlight
+// + auto-scroll the active cue as it plays).
+interface Props {
+  vttUrl: string;
+  /** id of the <audio> element this transcript drives. */
+  audioId: string;
+  /** Optional download links shown above the transcript. */
+  downloads?: { label: string; href: string }[];
+  note?: string;
+}
+const { vttUrl, audioId, downloads = [], note } = Astro.props;
+---
+
+<section class="transcript" data-vtt={vttUrl} data-audio={audioId}>
+  <div class="t-head">
+    <h2 class="t-title">Transcript</h2>
+    <div class="t-tools">
+      <label class="t-follow">
+        <input type="checkbox" class="t-follow-input" checked />
+        Follow playback
+      </label>
+      {downloads.length > 0 && (
+        <span class="t-downloads">
+          {downloads.map((d) => (
+            <a href={d.href} download>{d.label}</a>
+          ))}
+        </span>
+      )}
+    </div>
+  </div>
+  {note && <p class="t-note">{note}</p>}
+  <input class="t-search" type="search" placeholder="Search this transcript…" aria-label="Search transcript" />
+  <ol class="t-cues" aria-live="off">
+    <li class="t-loading">Loading transcript…</li>
+  </ol>
+</section>
+
+<script>
+  function fmtTime(s: number): string {
+    const h = Math.floor(s / 3600);
+    const m = Math.floor((s % 3600) / 60);
+    const sec = Math.floor(s % 60);
+    const mm = String(m).padStart(2, '0');
+    const ss = String(sec).padStart(2, '0');
+    return h ? `${h}:${mm}:${ss}` : `${m}:${ss}`;
+  }
+
+  function parseTimestamp(t: string): number {
+    // HH:MM:SS.mmm or MM:SS.mmm
+    const parts = t.trim().split(':');
+    let s = 0;
+    for (const p of parts) s = s * 60 + parseFloat(p.replace(',', '.'));
+    return s;
+  }
+
+  interface Cue { start: number; end: number; text: string; }
+
+  function parseVtt(raw: string): Cue[] {
+    const cues: Cue[] = [];
+    const blocks = raw.replace(/\r/g, '').split('\n\n');
+    for (const block of blocks) {
+      const lines = block.split('\n').filter(Boolean);
+      const timing = lines.find((l) => l.includes('-->'));
+      if (!timing) continue;
+      const [a, b] = timing.split('-->');
+      const start = parseTimestamp(a);
+      const end = parseTimestamp(b.trim().split(' ')[0]);
+      const text = lines.slice(lines.indexOf(timing) + 1).join(' ').trim();
+      if (!text) continue;
+      cues.push({ start, end, text });
+    }
+    return cues;
+  }
+
+  function initTranscript(root: HTMLElement) {
+    const vttUrl = root.dataset.vtt!;
+    const audio = document.getElementById(root.dataset.audio!) as HTMLAudioElement | null;
+    const list = root.querySelector('.t-cues') as HTMLOListElement;
+    const follow = root.querySelector('.t-follow-input') as HTMLInputElement;
+    const search = root.querySelector('.t-search') as HTMLInputElement;
+
+    fetch(vttUrl)
+      .then((r) => (r.ok ? r.text() : Promise.reject(r.status)))
+      .then((raw) => {
+        const cues = parseVtt(raw);
+        list.innerHTML = '';
+        const items: HTMLLIElement[] = cues.map((c) => {
+          const li = document.createElement('li');
+          li.className = 't-cue';
+          li.dataset.start = String(c.start);
+          li.dataset.end = String(c.end);
+          const time = document.createElement('button');
+          time.className = 't-time';
+          time.type = 'button';
+          time.textContent = fmtTime(c.start);
+          time.addEventListener('click', () => {
+            if (!audio) return;
+            audio.currentTime = c.start;
+            audio.play();
+          });
+          const span = document.createElement('span');
+          span.className = 't-text';
+          span.textContent = c.text;
+          li.append(time, span);
+          list.appendChild(li);
+          return li;
+        });
+
+        // Highlight + autoscroll the active cue during playback.
+        let active = -1;
+        const sync = () => {
+          if (!audio) return;
+          const t = audio.currentTime;
+          let idx = -1;
+          // linear scan is fine for a single episode's cue count
+          for (let i = 0; i < cues.length; i++) {
+            if (t >= cues[i].start && t < cues[i].end) { idx = i; break; }
+            if (t >= cues[i].start) idx = i;
+          }
+          if (idx === active) return;
+          if (active >= 0) items[active]?.classList.remove('is-active');
+          active = idx;
+          if (idx >= 0) {
+            const el = items[idx];
+            el.classList.add('is-active');
+            if (follow.checked) el.scrollIntoView({ block: 'center', behavior: 'smooth' });
+          }
+        };
+        audio?.addEventListener('timeupdate', sync);
+
+        // Pause autoscroll if the user manually scrolls the page.
+        // (kept lightweight — toggle remains the source of truth)
+
+        // Search filter.
+        search.addEventListener('input', () => {
+          const q = search.value.trim().toLowerCase();
+          for (const li of items) {
+            const txt = (li.querySelector('.t-text') as HTMLElement).textContent!.toLowerCase();
+            (li as HTMLElement).style.display = !q || txt.includes(q) ? '' : 'none';
+          }
+        });
+      })
+      .catch(() => {
+        list.innerHTML = '<li class="t-loading">Transcript could not be loaded.</li>';
+      });
+  }
+
+  document.querySelectorAll<HTMLElement>('.transcript').forEach(initTranscript);
+</script>
+
+<style>
+  .transcript { margin-top: 2.5rem; }
+  .t-head {
+    display: flex; flex-wrap: wrap; align-items: baseline; justify-content: space-between;
+    gap: 0.8rem; border-bottom: 1px solid var(--line-soft); padding-bottom: 0.6rem;
+  }
+  .t-title { margin: 0; font-size: 1.5rem; }
+  .t-tools { display: flex; align-items: center; gap: 1rem; font-size: 0.85rem; }
+  .t-follow { display: flex; align-items: center; gap: 0.35rem; color: var(--ink-soft); cursor: pointer; }
+  .t-downloads { display: flex; gap: 0.7rem; }
+  .t-downloads a { color: var(--accent); text-decoration: none; font-weight: 600; }
+  .t-downloads a:hover { text-decoration: underline; }
+  .t-note { color: var(--ink-faint); font-size: 0.82rem; font-style: italic; margin: 0.6rem 0 0; }
+  .t-search {
+    width: 100%; margin: 1rem 0 0.4rem; padding: 0.55rem 0.8rem;
+    border: 1px solid var(--line-soft); border-radius: var(--radius); background: var(--paper-2);
+    font: inherit; font-size: 0.92rem;
+  }
+  .t-cues { list-style: none; margin: 0.6rem 0 0; padding: 0; max-width: 46rem; }
+  .t-loading { color: var(--ink-faint); padding: 0.6rem 0; }
+  .t-cue {
+    display: grid; grid-template-columns: 3.6rem 1fr; gap: 0.7rem;
+    padding: 0.28rem 0.5rem; border-radius: var(--radius); scroll-margin: 40vh;
+  }
+  .t-cue.is-active { background: color-mix(in srgb, var(--accent) 14%, transparent); }
+  .t-time {
+    background: none; border: none; padding: 0; cursor: pointer;
+    font-family: var(--font-body); font-size: 0.78rem; font-variant-numeric: tabular-nums;
+    color: var(--accent); text-align: left; line-height: 1.7;
+  }
+  .t-time:hover { text-decoration: underline; }
+  .t-text { color: var(--ink); line-height: 1.7; }
+  .t-cue.is-active .t-text { color: var(--ink); font-weight: 500; }
+</style>

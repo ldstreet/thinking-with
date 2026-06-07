@@ -1,0 +1,12440 @@
+1
+00:00:00,000 --> 00:00:27,380
+ I mean, because, you know, you read a bunch of people, Foucault, Nietzsche, I mean, all
+
+2
+00:00:27,380 --> 00:00:32,980
+ of these thinkers have connections, but like, the lineage seems so clear to me, like, I
+
+3
+00:00:32,980 --> 00:00:41,440
+ find it almost impossible to delineate the thread or the type of thinking between some
+
+4
+00:00:41,440 --> 00:00:45,740
+ of these people, it feels like they just kind of fall into each other in productive ways,
+
+5
+00:00:45,740 --> 00:00:51,880
+ not just in some sort of melange of nothingness, but like, all of the arguments or the sort
+
+6
+00:00:51,880 --> 00:00:59,380
+ of impressionistic stuff in this series of lectures is like, I see that Foucault, I see
+
+7
+00:00:59,380 --> 00:01:03,260
+ that a little bit in Hegel, I for sure see it in Nietzsche.
+
+8
+00:01:03,260 --> 00:01:10,760
+ And it's funny, because Heidegger basically says that throughout the series of lectures as
+
+9
+00:01:10,760 --> 00:01:10,760
+ well.
+
+10
+00:01:10,760 --> 00:01:17,720
+ It's like, this is the one question of all of philosophy, and for me and for everybody, this
+
+11
+00:01:17,720 --> 00:01:20,480
+ is the only question is, what does it mean to think?
+
+12
+00:01:20,740 --> 00:01:22,480
+ What does it mean to be a human being?
+
+13
+00:01:23,780 --> 00:01:31,220
+ But on the flip side, just real quick, I did find this first lecture a little bit circular,
+
+14
+00:01:31,220 --> 00:01:33,660
+ and it took me a while to kind of dig into it.
+
+15
+00:01:34,180 --> 00:01:38,980
+ You know, the style, I mean, we've critiqued his style here and there, but I found it like,
+
+16
+00:01:39,480 --> 00:01:40,940
+ okay, you're saying the same thing.
+
+17
+00:01:40,980 --> 00:01:43,880
+ And I get that, you know, it's all auto referential.
+
+18
+00:01:43,880 --> 00:01:46,020
+ And that's part of the thesis, basically.
+
+19
+00:01:46,020 --> 00:01:50,020
+ But I'm like, can you try to say something else besides repeating yourself?
+
+20
+00:01:50,680 --> 00:01:53,360
+ Like, just add, I don't know, just an example, anything.
+
+21
+00:01:53,620 --> 00:01:59,280
+ Like, I felt, the second one for today, I kind of dug into, I was able to get some stuff
+
+22
+00:01:59,280 --> 00:01:59,440
+ out.
+
+23
+00:01:59,460 --> 00:02:03,480
+ But the first one, it just kind of felt like it plotted, plotted along.
+
+24
+00:02:04,420 --> 00:02:10,100
+ Well, I liked it because it gave me a completely different sense of the way that he's thinking
+
+25
+00:02:10,100 --> 00:02:11,020
+ of calling here.
+
+26
+00:02:12,100 --> 00:02:17,200
+ And so, like, a lot of the sort of everyday usages of, like, what calls us to think, you
+
+27
+00:02:17,200 --> 00:02:20,240
+ know, like, I had a sense of, like, okay, this is going to meet, there's going to be
+
+28
+00:02:20,240 --> 00:02:24,980
+ the invitation, you know, what calls us to think, is calling us to become involved with
+
+29
+00:02:24,980 --> 00:02:25,140
+ it.
+
+30
+00:02:25,180 --> 00:02:32,240
+ But he had a lot of that, those kind of, like, common sort of articulations of his questions
+
+31
+00:02:32,240 --> 00:02:38,600
+ where I just wasn't, I was hearing calling sort of, like, very telegraphically and not,
+
+32
+00:02:38,780 --> 00:02:40,760
+ you know, in his relationship to a naming.
+
+33
+00:02:41,200 --> 00:02:47,240
+ And I kind of liked what he did with the relationship between, say, calling something a name and what
+
+34
+00:02:47,240 --> 00:02:48,280
+ calls to us.
+
+35
+00:02:48,620 --> 00:02:53,760
+ And especially, like, when he started talking about the sense of command, right?
+
+36
+00:02:53,820 --> 00:02:58,840
+ So, like, not a command as giving an order that is an imperative placed upon you, but
+
+37
+00:02:58,840 --> 00:03:02,440
+ more like an invitation or an entrustment.
+
+38
+00:03:02,500 --> 00:03:08,520
+ You have been entrusted with a particular requirement to care for a particular kind of thing.
+
+39
+00:03:09,240 --> 00:03:18,060
+ So, you know, it definitely helped me reorient myself to the way that he's using the call
+
+40
+00:03:18,060 --> 00:03:18,400
+ here.
+
+41
+00:03:19,120 --> 00:03:23,060
+ You know, so we're starting with, this is, you know, we're on part two of the two-part
+
+42
+00:03:23,060 --> 00:03:23,800
+ lecture series.
+
+43
+00:03:23,800 --> 00:03:26,760
+ And we're just doing lecture one and lecture two.
+
+44
+00:03:26,960 --> 00:03:31,180
+ And, you know, lecture one is he's sort of, like, restarting up the question, what is called
+
+45
+00:03:31,180 --> 00:03:31,620
+ thinking?
+
+46
+00:03:31,780 --> 00:03:37,700
+ Like, all right, there are four, this breaks itself up into four, you know, primary questions.
+
+47
+00:03:37,820 --> 00:03:44,160
+ What do we mean by, you know, this question or this, what thinking, what does it signify,
+
+48
+00:03:44,280 --> 00:03:45,640
+ this word thinking?
+
+49
+00:03:49,140 --> 00:03:54,400
+ What is sort of, like, commonly said or what's the traditional doctrine of what we usually mean
+
+50
+00:03:54,400 --> 00:03:56,680
+ when we talk about what thinking is?
+
+51
+00:03:57,100 --> 00:04:02,920
+ What are the sort of prerequisites that are required in order to take up the activity of
+
+52
+00:04:02,920 --> 00:04:03,220
+ thinking?
+
+53
+00:04:03,760 --> 00:04:10,540
+ And then what is calling us or what is the call itself to take up thinking?
+
+54
+00:04:10,680 --> 00:04:13,620
+ And he's, like, speculating, although it seems like it's not actually speculating.
+
+55
+00:04:14,180 --> 00:04:21,620
+ That fourth question is the privileged one insofar as it is bringing up the other three.
+
+56
+00:04:21,780 --> 00:04:23,100
+ It's involving the other three.
+
+57
+00:04:23,540 --> 00:04:23,820
+ Right.
+
+58
+00:04:23,920 --> 00:04:25,740
+ That's sort of the organizing question.
+
+59
+00:04:26,220 --> 00:04:32,240
+ And all the other questions in some way spawn from it, or they're all related, but it seems
+
+60
+00:04:32,240 --> 00:04:33,860
+ like that is the sort of foundational.
+
+61
+00:04:33,860 --> 00:04:44,380
+ Because it's involving that command or compulsion or that push, that drive towards being and
+
+62
+00:04:44,380 --> 00:04:45,300
+ thinking, right?
+
+63
+00:04:45,360 --> 00:04:51,360
+ It's like all the other ones are at least a little bit superficial in regard to that primary
+
+64
+00:04:51,360 --> 00:04:52,300
+ question.
+
+65
+00:04:53,540 --> 00:04:57,740
+ But it definitely, I mean, the way that he takes on call there, which, you know, he's really
+
+66
+00:04:57,740 --> 00:05:01,860
+ careful with how he uses the word command, and he doesn't, I think, want to think of it
+
+67
+00:05:01,860 --> 00:05:08,560
+ as a compulsion, that, you know, it is much more of an invitation or an entrustment.
+
+68
+00:05:08,660 --> 00:05:14,060
+ And that is a, that gives a very different flavor or character to thinking that, as opposed
+
+69
+00:05:14,060 --> 00:05:18,060
+ to, like, the what we've been, how we've been thinking of it, almost as, like, a coping
+
+70
+00:05:18,060 --> 00:05:20,020
+ mechanism, sort of, like, in that Zizek.
+
+71
+00:05:20,360 --> 00:05:20,700
+ Right.
+
+72
+00:05:20,880 --> 00:05:24,100
+ Well, the compulsion would be the common thinking.
+
+73
+00:05:24,460 --> 00:05:30,480
+ I think that's kind of how he treats that here, where it's like, we tend towards representational
+
+74
+00:05:30,480 --> 00:05:37,000
+ thinking, because it's more convenient, because it's eases communication, engagement, it just
+
+75
+00:05:37,000 --> 00:05:41,720
+ fits into modern techno-social society better, representational thinking.
+
+76
+00:05:42,560 --> 00:05:42,720
+ Right.
+
+77
+00:05:42,720 --> 00:05:45,940
+ So you slide into that as a compulsion, almost.
+
+78
+00:05:46,080 --> 00:05:52,820
+ And he wants to get away from that with the more essential type of thinking.
+
+79
+00:05:53,180 --> 00:05:59,700
+ Which, to me, like, and this has been an objection of John's, I think, throughout this.
+
+80
+00:06:00,020 --> 00:06:02,420
+ I'm sitting, I'm sitting quietly here, just kind of waiting.
+
+81
+00:06:02,420 --> 00:06:07,620
+ I know, because the opposition, I mean, we don't have to totally get into the weeds right
+
+82
+00:06:07,620 --> 00:06:08,040
+ up front.
+
+83
+00:06:08,140 --> 00:06:18,300
+ But, like, the opposition between common, commonness and Heideggerian-ness is, like, why, why is
+
+84
+00:06:18,300 --> 00:06:19,180
+ there that opposition?
+
+85
+00:06:19,380 --> 00:06:23,400
+ Like, it doesn't, I understand that representational thinking is a problem.
+
+86
+00:06:23,940 --> 00:06:32,180
+ That, articulating it as a problem is fine, but treating it as unnatural and as improper seems
+
+87
+00:06:32,180 --> 00:06:36,240
+ like just kind of a strange argument, if that's the way that everybody thinks.
+
+88
+00:06:36,740 --> 00:06:40,400
+ If that's the way that everybody does things, how can you call that unnatural?
+
+89
+00:06:40,640 --> 00:06:44,020
+ Just by virtue of the numbers, you know?
+
+90
+00:06:44,460 --> 00:06:52,360
+ Yeah, I mean, it's interesting, because I had read this before when we were continuing, and
+
+91
+00:06:52,360 --> 00:06:57,620
+ I remember at the time reading it and being like, okay, there's the annoying return to the
+
+92
+00:06:57,620 --> 00:07:02,760
+ metaphorics of what I would just loosely call the metaphorics of authenticity or propriety
+
+93
+00:07:02,760 --> 00:07:03,400
+ or whatever.
+
+94
+00:07:04,220 --> 00:07:09,460
+ But it didn't bug me, because I was interested in the train going from the Nietzschean lineage
+
+95
+00:07:09,460 --> 00:07:14,000
+ not, but now we took two months off, and I read it again last night, and I'm just like,
+
+96
+00:07:14,100 --> 00:07:20,960
+ Jesus fucking Christ, like, honestly, like, I couldn't get through it without crossing out
+
+97
+00:07:20,960 --> 00:07:28,300
+ and also just the relentlessness of his desire to say, you know, it's a story of alienation
+
+98
+00:07:28,300 --> 00:07:34,000
+ that Heidegger perpetually tells, you know, which is, once we were authentically in language
+
+99
+00:07:34,000 --> 00:07:39,760
+ in relation to being, and now we're not, and we've fallen out of, and so his desire is
+
+100
+00:07:39,760 --> 00:07:42,880
+ to return to the proper domain of language and all these things.
+
+101
+00:07:43,740 --> 00:07:49,140
+ And this is partly in response to the Daniel Gross stuff I read this weekend, but, like,
+
+102
+00:07:49,840 --> 00:07:53,580
+ to me, that commitment, the fascism is right there, right?
+
+103
+00:07:53,660 --> 00:08:01,080
+ Like, the notion that there is a proper relation that most people, you know, have fallen away
+
+104
+00:08:01,080 --> 00:08:03,880
+ from that he wants to try to return us to.
+
+105
+00:08:04,040 --> 00:08:12,340
+ Like, how is that not the basis of purity, propriety, all of the sort of deep metaphoric, and I
+
+106
+00:08:12,340 --> 00:08:16,460
+ understand that there are ways of complicating the notion of essence in these things, but
+
+107
+00:08:16,460 --> 00:08:21,620
+ everything about it seems to shout, like, we've fallen away.
+
+108
+00:08:21,680 --> 00:08:23,580
+ Like, it's a Garden of Eden story.
+
+109
+00:08:23,680 --> 00:08:23,900
+ Right.
+
+110
+00:08:24,100 --> 00:08:24,260
+ Right.
+
+111
+00:08:24,840 --> 00:08:25,140
+ Pre-lapsed area.
+
+112
+00:08:25,140 --> 00:08:26,180
+ Once upon a time.
+
+113
+00:08:26,440 --> 00:08:26,640
+ Right.
+
+114
+00:08:26,760 --> 00:08:27,120
+ Exactly.
+
+115
+00:08:27,280 --> 00:08:29,880
+ And in this case, it's not that we were in the state of pure presence.
+
+116
+00:08:29,880 --> 00:08:32,300
+ We were in the state of pure non-presence, right?
+
+117
+00:08:32,420 --> 00:08:35,660
+ Like, and we've fallen into the state of presence and representation.
+
+118
+00:08:35,840 --> 00:08:35,960
+ Right.
+
+119
+00:08:36,260 --> 00:08:36,380
+ Yeah.
+
+120
+00:08:36,760 --> 00:08:41,460
+ And we have to try to get back to, which, I mean, Nate, I can't agree with you more.
+
+121
+00:08:41,640 --> 00:08:44,900
+ Like, it's so unnecessary in terms of the thinking.
+
+122
+00:08:45,080 --> 00:08:47,060
+ You could just say, these are different ways of thinking.
+
+123
+00:08:47,200 --> 00:08:47,500
+ Right.
+
+124
+00:08:47,940 --> 00:08:50,800
+ And this one affords something that this one doesn't afford.
+
+125
+00:08:50,880 --> 00:08:52,540
+ So you can still make the distinction.
+
+126
+00:08:52,960 --> 00:08:57,040
+ And again, if he did that, then I would want to say, well, does the distinction really hold
+
+127
+00:08:57,040 --> 00:08:57,320
+ up?
+
+128
+00:08:57,400 --> 00:09:01,060
+ You know, you'd want to do those kinds of moves of, like, or is it a temporary provisional
+
+129
+00:09:01,060 --> 00:09:04,980
+ distinction where you want to say, oh, in fact, representation does something more than
+
+130
+00:09:04,980 --> 00:09:06,660
+ represent, right, would be the next move.
+
+131
+00:09:06,760 --> 00:09:09,460
+ But he doesn't even go, you know, it doesn't even go to that.
+
+132
+00:09:09,540 --> 00:09:14,860
+ It really is a sort of, I mean, the language of, have to make an effort to live properly
+
+133
+00:09:14,860 --> 00:09:15,540
+ with language.
+
+134
+00:09:16,000 --> 00:09:17,660
+ Language properly inhabited.
+
+135
+00:09:18,000 --> 00:09:22,860
+ What language really says, even though rare signification is the real one, right?
+
+136
+00:09:22,920 --> 00:09:26,220
+ Like, the recurrence, and that's on one page, right?
+
+137
+00:09:26,420 --> 00:09:30,840
+ The recurrence of this terminology of, like, this is the right, authentic, true, proper,
+
+138
+00:09:31,000 --> 00:09:33,660
+ primary way of relating to language.
+
+139
+00:09:33,840 --> 00:09:35,960
+ And it's like, that's a commitment.
+
+140
+00:09:36,180 --> 00:09:37,900
+ It seems to be just strange.
+
+141
+00:09:38,100 --> 00:09:38,840
+ Go ahead, Nathaniel.
+
+142
+00:09:39,060 --> 00:09:39,840
+ I'll pick that up.
+
+143
+00:09:39,840 --> 00:09:43,780
+ I was just going to say, there are a couple of passages that I think kind of, like, you
+
+144
+00:09:43,780 --> 00:09:44,560
+ mentioned cross things out.
+
+145
+00:09:44,560 --> 00:09:44,980
+ It's theological.
+
+146
+00:09:45,360 --> 00:09:49,840
+ By the way, it's just, it's like, I can't read this without thinking of God.
+
+147
+00:09:50,200 --> 00:09:51,700
+ Like, I can't read it without that.
+
+148
+00:09:52,140 --> 00:09:52,300
+ Yeah.
+
+149
+00:09:52,420 --> 00:09:53,220
+ No, I agree.
+
+150
+00:09:53,340 --> 00:09:57,540
+ Like, the very first line of lecture two, what is most thought-provoking gives food for
+
+151
+00:09:57,540 --> 00:10:00,860
+ thought in the original sense that it gives us over delivers us to thought.
+
+152
+00:10:00,920 --> 00:10:02,440
+ I just crossed out original.
+
+153
+00:10:02,440 --> 00:10:05,800
+ And I was like, now, like, in this sense, right?
+
+154
+00:10:06,400 --> 00:10:12,560
+ But, like, he's got a couple of lines here that I think complicate it just a little bit.
+
+155
+00:10:12,600 --> 00:10:14,500
+ I don't think enough, but just a little bit.
+
+156
+00:10:14,800 --> 00:10:21,800
+ Like, on the bottom of 127, where he has been talking about sort of, like, the commonness
+
+157
+00:10:21,800 --> 00:10:23,060
+ of the common, which I just love.
+
+158
+00:10:23,260 --> 00:10:26,940
+ Like, he's just, like, people are floundering in the commonness of the common.
+
+159
+00:10:28,300 --> 00:10:30,420
+ Such a, I know, I know.
+
+160
+00:10:30,560 --> 00:10:33,040
+ Such a disdain for the common.
+
+161
+00:10:33,680 --> 00:10:33,800
+ Yeah.
+
+162
+00:10:33,800 --> 00:10:34,800
+ For every human.
+
+163
+00:10:35,860 --> 00:10:36,560
+ Yeah, yeah.
+
+164
+00:10:37,320 --> 00:10:41,860
+ Well, yeah, and I, but interestingly and relevantly, the disdain comes from the fact that they
+
+165
+00:10:41,860 --> 00:10:47,820
+ think that they're individual isolated entities, that they aren't mitzah, they aren't being
+
+166
+00:10:47,820 --> 00:10:49,220
+ in the world in common, right?
+
+167
+00:10:49,300 --> 00:10:55,100
+ Like, that's the, so the problem with the common man is that they're not common, right?
+
+168
+00:10:55,680 --> 00:10:56,320
+ Yeah, yeah.
+
+169
+00:10:56,620 --> 00:11:00,700
+ Well, I mean, but to speak to the fascism kind of built in here, you know, this is the
+
+170
+00:11:00,700 --> 00:11:08,080
+ third paragraph on 126, lecture two, where, you know, he's basically giving an account
+
+171
+00:11:08,080 --> 00:11:13,960
+ of the draw, or, like, I would say, like, the performative force of the common, like, the
+
+172
+00:11:13,960 --> 00:11:15,760
+ infinitive verb, to common.
+
+173
+00:11:15,760 --> 00:11:21,460
+ Like, that paragraph reads, whether we are in any given case capable of thinking, that
+
+174
+00:11:21,460 --> 00:11:25,660
+ is, whether we accomplish it in this fitting manner, depends on whether we are inclined
+
+175
+00:11:25,660 --> 00:11:31,480
+ to think, whether that, whether that is, we will let ourselves become involved with the
+
+176
+00:11:31,480 --> 00:11:32,280
+ nature of thinking.
+
+177
+00:11:32,620 --> 00:11:38,420
+ It could be that we are inclined too slightly and too rarely to let ourselves become so involved,
+
+178
+00:11:38,700 --> 00:11:43,900
+ and that is not so because we are all too indolent or occupied with other matters and disinclined
+
+179
+00:11:43,900 --> 00:11:49,200
+ to think, but because the involvement with thought is itself a rare thing, reserved for few people.
+
+180
+00:11:49,560 --> 00:11:54,060
+ And he so frequently talks about thinking as the essence of human nature.
+
+181
+00:11:54,240 --> 00:11:59,820
+ So, if you have this rare, if the essence of human nature is rare at the sort of level
+
+182
+00:11:59,820 --> 00:12:06,960
+ of, like, who has access to it and who doesn't, then you have to, like, that by definition leads
+
+183
+00:12:06,960 --> 00:12:09,340
+ to the claim that most people aren't humans.
+
+184
+00:12:09,460 --> 00:12:11,060
+ Most humans aren't humans, right?
+
+185
+00:12:11,060 --> 00:12:11,460
+ Yeah.
+
+186
+00:12:11,460 --> 00:12:12,680
+ I mean, it's, yeah.
+
+187
+00:12:13,300 --> 00:12:13,580
+ Yeah.
+
+188
+00:12:15,440 --> 00:12:22,760
+ I just wonder, like, if some of the terminology were just slightly shifted, if the message would
+
+189
+00:12:22,760 --> 00:12:25,620
+ be less fascistic or just less...
+
+190
+00:12:25,620 --> 00:12:27,500
+ Oh, I think it, like, requires, like, a two-degree shift.
+
+191
+00:12:27,860 --> 00:12:27,980
+ Right.
+
+192
+00:12:28,400 --> 00:12:31,540
+ And, like, get rid of all the proper propriety.
+
+193
+00:12:31,540 --> 00:12:31,680
+ Yeah.
+
+194
+00:12:31,680 --> 00:12:35,540
+ Get rid of all that language and just talk about differential relations.
+
+195
+00:12:35,720 --> 00:12:35,840
+ Yeah.
+
+196
+00:12:36,120 --> 00:12:36,440
+ Relationality.
+
+197
+00:12:36,440 --> 00:12:36,600
+ Yeah.
+
+198
+00:12:36,600 --> 00:12:37,800
+ You could do that, right?
+
+199
+00:12:37,940 --> 00:12:38,320
+ I mean...
+
+200
+00:12:38,320 --> 00:12:39,260
+ You could totally do that here.
+
+201
+00:12:39,300 --> 00:12:39,860
+ You could just make those...
+
+202
+00:12:39,860 --> 00:12:41,120
+ I don't think you'd have to add a word.
+
+203
+00:12:41,240 --> 00:12:42,320
+ You would just have to...
+
+204
+00:12:42,320 --> 00:12:45,240
+ You'd have to just remove a bunch of adjectives and adverbs.
+
+205
+00:12:45,600 --> 00:12:45,780
+ Right.
+
+206
+00:12:45,860 --> 00:12:48,780
+ And you did that, and you've got something really interesting.
+
+207
+00:12:48,780 --> 00:12:49,020
+ But that's...
+
+208
+00:12:49,020 --> 00:12:53,440
+ I mean, think of the difference for me with Nietzsche and interpretation and the genealogy
+
+209
+00:12:53,440 --> 00:12:56,960
+ of morals when he describes interpretation, which is just, like, what is interpretation?
+
+210
+00:12:57,260 --> 00:13:00,300
+ It's just picking something up here and putting it somewhere else, right?
+
+211
+00:13:00,380 --> 00:13:01,640
+ That that's what it is.
+
+212
+00:13:01,640 --> 00:13:05,360
+ And there's no question of an originary or an authentic or a prior...
+
+213
+00:13:05,360 --> 00:13:06,840
+ Like, he makes fun of that.
+
+214
+00:13:06,920 --> 00:13:09,580
+ He's like, no, that whole question makes no sense.
+
+215
+00:13:09,860 --> 00:13:12,280
+ The originary would just be another placement, right?
+
+216
+00:13:12,380 --> 00:13:17,560
+ Like, so there is no first placement, and the first placement has no priority, whereas
+
+217
+00:13:17,560 --> 00:13:20,080
+ it so clearly does for Heidegger, right?
+
+218
+00:13:20,080 --> 00:13:20,400
+ Yeah, yeah.
+
+219
+00:13:20,400 --> 00:13:24,660
+ Or what he claims to be, and he finds it in the Greeks with his sort of etymological...
+
+220
+00:13:24,660 --> 00:13:30,720
+ And I'm all down with the etymological jujitsu, except for that it's an attempt to capture
+
+221
+00:13:30,720 --> 00:13:31,740
+ an originary sense.
+
+222
+00:13:31,880 --> 00:13:33,300
+ Like, it just doesn't...
+
+223
+00:13:33,300 --> 00:13:34,560
+ You just don't need to do that.
+
+224
+00:13:34,620 --> 00:13:35,620
+ But at least...
+
+225
+00:13:35,620 --> 00:13:42,000
+ I mean, for me, it's relevant that he does do that, and it is relevant to what makes Heidegger
+
+226
+00:13:42,000 --> 00:13:42,300
+ Heidegger.
+
+227
+00:13:42,420 --> 00:13:42,820
+ Exactly.
+
+228
+00:13:42,820 --> 00:13:45,560
+ You know, and I find myself...
+
+229
+00:13:45,560 --> 00:13:47,020
+ I'm so interested in...
+
+230
+00:13:47,020 --> 00:13:48,220
+ For instance, he's one of the...
+
+231
+00:13:48,220 --> 00:13:51,460
+ I keep returning to this, because you guys know my style disposition stuff.
+
+232
+00:13:51,560 --> 00:13:57,140
+ Like, it's all over this, the how one inhabits the question, or how one hears, you know,
+
+233
+00:13:57,140 --> 00:13:59,120
+ the call, or whatever.
+
+234
+00:13:59,420 --> 00:14:03,980
+ It's like, I love all of that stuff, except for that he wants to say there's an original
+
+235
+00:14:03,980 --> 00:14:09,080
+ right, proper way, and then everything else is a secondary sort of derivative manifestation
+
+236
+00:14:09,080 --> 00:14:09,680
+ thereof.
+
+237
+00:14:09,680 --> 00:14:14,800
+ And you're like, that is the whole metaphysics of the sort of appearance-reality dynamic
+
+238
+00:14:14,800 --> 00:14:18,540
+ that you're supposedly problematizing.
+
+239
+00:14:19,140 --> 00:14:25,540
+ But I don't, you know, that's the Lutheran sensibility, or I mean, whatever, the particular...
+
+240
+00:14:25,540 --> 00:14:26,300
+ It's just...
+
+241
+00:14:26,300 --> 00:14:26,460
+ Yeah.
+
+242
+00:14:27,040 --> 00:14:32,940
+ It's the only thing that saves it or makes it more interesting than any of the, you know,
+
+243
+00:14:33,100 --> 00:14:37,240
+ pre-Enlightenment or even Enlightenment, like pre-Descartes and including Descartes,
+
+244
+00:14:37,300 --> 00:14:39,760
+ is that this is still an ontology of difference.
+
+245
+00:14:39,760 --> 00:14:45,720
+ So, when he talks about the ambiguity of the question not just being a result of linguistic
+
+246
+00:14:45,720 --> 00:14:48,820
+ ambiguity, but that it's an ontological ambiguity.
+
+247
+00:14:48,960 --> 00:14:49,300
+ That's right.
+
+248
+00:14:49,320 --> 00:14:51,600
+ The structure of relations is ambiguous.
+
+249
+00:14:52,800 --> 00:15:00,620
+ Sentences like that kind of pull me out of the more vulgar sentences in these lectures,
+
+250
+00:15:00,800 --> 00:15:01,460
+ but you're right.
+
+251
+00:15:02,180 --> 00:15:10,880
+ I don't know if he just vacillates between fascism and difference, or if they are, you know...
+
+252
+00:15:10,880 --> 00:15:13,000
+ No, I think that there's a fascism of difference.
+
+253
+00:15:13,540 --> 00:15:13,560
+ Right.
+
+254
+00:15:13,560 --> 00:15:15,680
+ Like, I mean, no, but I think that that's the point, right?
+
+255
+00:15:15,720 --> 00:15:16,880
+ Like, for me, that's the point.
+
+256
+00:15:16,940 --> 00:15:18,540
+ In other words, the kind of...
+
+257
+00:15:18,540 --> 00:15:20,920
+ And I totally agree with you, because that's what I said before.
+
+258
+00:15:21,840 --> 00:15:26,660
+ He has a beef here with the common way of doing things, but the common way of doing things
+
+259
+00:15:26,660 --> 00:15:29,440
+ is that it doesn't take its commonality seriously enough.
+
+260
+00:15:29,480 --> 00:15:33,760
+ It doesn't think of its commonality as fundamentally constitutive.
+
+261
+00:15:33,940 --> 00:15:37,480
+ So, that second part, you'd be like, oh, here's a pluralist politics.
+
+262
+00:15:37,680 --> 00:15:40,640
+ Like, here's a way, you know, that sounds great.
+
+263
+00:15:40,840 --> 00:15:45,900
+ Except for the whole, in my terminology, the style that gets him to that kind of claim
+
+264
+00:15:45,900 --> 00:15:50,540
+ is one that's organized around a scarcity, a rarity, an exception,
+
+265
+00:15:51,720 --> 00:15:55,360
+ and specifically one that's thought in terms of purity and propriety.
+
+266
+00:16:00,620 --> 00:16:04,880
+ Look at the bottom of 118, and this last paragraph on 118
+
+267
+00:16:04,880 --> 00:16:08,620
+ is almost an articulation of, like, say, Derrida's difference,
+
+268
+00:16:09,140 --> 00:16:11,440
+ or some kind of, like, linguistic drift,
+
+269
+00:16:11,540 --> 00:16:15,640
+ except for, you know, the iteration, the citationality,
+
+270
+00:16:15,720 --> 00:16:17,360
+ that kind of linguistic drift here
+
+271
+00:16:17,360 --> 00:16:19,100
+ is, for Heidegger, a movement
+
+272
+00:16:19,100 --> 00:16:21,380
+ away from something that is
+
+273
+00:16:21,380 --> 00:16:23,300
+ more primary, rather than just
+
+274
+00:16:23,300 --> 00:16:25,560
+ a movement that is away from
+
+275
+00:16:25,560 --> 00:16:27,000
+ where it, you know,
+
+276
+00:16:27,100 --> 00:16:28,600
+ from the last point, right?
+
+277
+00:16:28,680 --> 00:16:31,520
+ But, I mean, that paragraph reads,
+
+278
+00:16:32,360 --> 00:16:54,280
+ And, you know, that's obviously like His language speaks us, we don't speak language,
+
+279
+00:16:54,400 --> 00:16:57,320
+ but here's the more pertinent lines.
+
+280
+00:16:58,200 --> 00:17:00,600
+ For language plays with our speech.
+
+281
+00:17:00,960 --> 00:17:03,760
+ It likes to let our speech drift away
+
+282
+00:17:03,760 --> 00:17:06,460
+ into the more obvious meaning of words.
+
+283
+00:17:06,820 --> 00:17:09,140
+ It is as though man had to make
+
+284
+00:17:09,140 --> 00:17:11,940
+ an effort to live properly with language.
+
+285
+00:17:12,440 --> 00:17:14,000
+ It is as though such a dwelling
+
+286
+00:17:14,000 --> 00:17:15,220
+ were especially prone
+
+287
+00:17:15,220 --> 00:17:17,620
+ to succumb to the danger of commonness.
+
+288
+00:17:18,220 --> 00:17:19,280
+ And, you know, I mean,
+
+289
+00:17:20,440 --> 00:17:23,400
+ I have a certain sympathy for that,
+
+290
+00:17:23,500 --> 00:17:24,080
+ but I'll get to,
+
+291
+00:17:24,140 --> 00:17:25,800
+ I'm going to save that for a little bit later.
+
+292
+00:17:25,900 --> 00:17:27,700
+ I'm going to begin with the critique first,
+
+293
+00:17:27,800 --> 00:17:29,900
+ is just that, you know,
+
+294
+00:17:29,960 --> 00:17:30,960
+ there is, like,
+
+295
+00:17:31,380 --> 00:17:32,760
+ there is a, that,
+
+296
+00:17:32,940 --> 00:17:34,740
+ there's an essential ambiguity
+
+297
+00:17:34,740 --> 00:17:37,740
+ at the heart of real language,
+
+298
+00:17:37,940 --> 00:17:39,860
+ and that real language
+
+299
+00:17:39,860 --> 00:17:42,700
+ constantly sort of inclines itself
+
+300
+00:17:42,700 --> 00:17:44,420
+ to calcification, to reification.
+
+301
+00:17:44,720 --> 00:17:45,800
+ It sounds very Nietzschean
+
+302
+00:17:45,800 --> 00:17:47,180
+ in a certain kind of ways, you know,
+
+303
+00:17:47,180 --> 00:17:48,740
+ like, what are words there,
+
+304
+00:17:48,880 --> 00:17:49,780
+ there, there, you know,
+
+305
+00:17:49,880 --> 00:17:50,620
+ these sense imprints
+
+306
+00:17:50,620 --> 00:17:52,400
+ that have lost all of their sensory value
+
+307
+00:17:52,400 --> 00:17:54,460
+ if they've just been worn away.
+
+308
+00:17:55,740 --> 00:17:56,760
+ But, you know,
+
+309
+00:17:56,920 --> 00:17:59,480
+ for the way that Heidegger's articulating it here
+
+310
+00:17:59,480 --> 00:18:01,400
+ is that is almost always a problem.
+
+311
+00:18:01,560 --> 00:18:03,140
+ He saves at one sort of, like,
+
+312
+00:18:03,200 --> 00:18:04,900
+ false bit of praise, you know,
+
+313
+00:18:04,940 --> 00:18:06,820
+ in the second lecture
+
+314
+00:18:06,820 --> 00:18:08,340
+ where he says,
+
+315
+00:18:09,220 --> 00:18:10,060
+ you know, such,
+
+316
+00:18:10,220 --> 00:18:11,860
+ this is the bottom of 127,
+
+317
+00:18:12,640 --> 00:18:14,280
+ such communication does not want
+
+318
+00:18:14,280 --> 00:18:15,560
+ to lose time tearing
+
+319
+00:18:15,560 --> 00:18:17,420
+ over the sense of individual words.
+
+320
+00:18:17,500 --> 00:18:18,360
+ I thought of Hegel there.
+
+321
+00:18:18,960 --> 00:18:20,500
+ Instead, words are constantly
+
+322
+00:18:20,500 --> 00:18:22,000
+ thrown around on the cheap
+
+323
+00:18:22,000 --> 00:18:23,260
+ and in the process
+
+324
+00:18:23,260 --> 00:18:24,100
+ are worn out.
+
+325
+00:18:24,220 --> 00:18:24,960
+ I thought of Nietzsche there.
+
+326
+00:18:25,240 --> 00:18:27,140
+ There is a curious advantage in that.
+
+327
+00:18:27,260 --> 00:18:28,520
+ With worn out language,
+
+328
+00:18:28,660 --> 00:18:30,080
+ everybody can talk about everything.
+
+329
+00:18:30,940 --> 00:18:31,100
+ Right.
+
+330
+00:18:31,200 --> 00:18:31,740
+ So it's like,
+
+331
+00:18:32,140 --> 00:18:33,380
+ there is a value to it.
+
+332
+00:18:33,460 --> 00:18:35,100
+ It does allow us to be able to,
+
+333
+00:18:35,160 --> 00:18:36,540
+ by the reduction of language,
+
+334
+00:18:36,620 --> 00:18:37,740
+ allows for a certain kind of
+
+335
+00:18:37,740 --> 00:18:39,060
+ pragmatism of language,
+
+336
+00:18:39,200 --> 00:18:40,620
+ but it's not
+
+337
+00:18:40,620 --> 00:18:42,800
+ a particularly valuable value.
+
+338
+00:18:42,860 --> 00:18:44,040
+ The reductive capacity
+
+339
+00:18:44,040 --> 00:18:46,180
+ is precisely what he's critiquing
+
+340
+00:18:46,180 --> 00:18:47,600
+ and what Heidegger wants
+
+341
+00:18:47,600 --> 00:18:48,500
+ to get away from.
+
+342
+00:18:48,800 --> 00:18:50,780
+ And this is the not-
+
+343
+00:18:50,780 --> 00:18:51,400
+ It's not thinking.
+
+344
+00:18:51,720 --> 00:18:51,980
+ Right.
+
+345
+00:18:52,120 --> 00:18:53,520
+ This is the not-so-subtle
+
+346
+00:18:53,520 --> 00:18:55,140
+ but kind of subtle difference
+
+347
+00:18:55,140 --> 00:18:56,980
+ between Heidegger's position
+
+348
+00:18:56,980 --> 00:18:58,520
+ and if you want to couple him
+
+349
+00:18:58,520 --> 00:18:59,500
+ with Nietzsche and Foucault,
+
+350
+00:18:59,620 --> 00:18:59,940
+ whoever,
+
+351
+00:19:00,480 --> 00:19:02,160
+ and that crew
+
+352
+00:19:02,160 --> 00:19:03,180
+ and Hegel,
+
+353
+00:19:03,340 --> 00:19:05,000
+ because Hegel provides
+
+354
+00:19:05,000 --> 00:19:05,880
+ no alternative
+
+355
+00:19:05,880 --> 00:19:06,800
+ to reduction
+
+356
+00:19:06,800 --> 00:19:08,000
+ or appropriation.
+
+357
+00:19:08,220 --> 00:19:08,340
+ Right.
+
+358
+00:19:08,420 --> 00:19:09,680
+ So if you want to think
+
+359
+00:19:09,680 --> 00:19:10,780
+ about the last man
+
+360
+00:19:10,780 --> 00:19:11,600
+ as the guy
+
+361
+00:19:11,600 --> 00:19:12,760
+ or the woman
+
+362
+00:19:12,760 --> 00:19:13,400
+ or whoever
+
+363
+00:19:13,400 --> 00:19:16,180
+ who is invested in
+
+364
+00:19:16,180 --> 00:19:17,420
+ or enthralled
+
+365
+00:19:17,420 --> 00:19:19,060
+ to representational
+
+366
+00:19:19,060 --> 00:19:20,220
+ thinking being,
+
+367
+00:19:20,760 --> 00:19:21,760
+ for Hegel,
+
+368
+00:19:22,140 --> 00:19:23,360
+ that's all there is.
+
+369
+00:19:23,760 --> 00:19:24,620
+ And for Heidegger,
+
+370
+00:19:24,920 --> 00:19:25,680
+ there is,
+
+371
+00:19:26,360 --> 00:19:26,580
+ you know,
+
+372
+00:19:26,620 --> 00:19:27,520
+ we talked about the overman
+
+373
+00:19:27,520 --> 00:19:28,660
+ in the previous chapters
+
+374
+00:19:28,660 --> 00:19:28,940
+ and that,
+
+375
+00:19:29,060 --> 00:19:30,220
+ there is something else
+
+376
+00:19:30,220 --> 00:19:31,660
+ and that's what he's after
+
+377
+00:19:31,660 --> 00:19:32,660
+ this whole time
+
+378
+00:19:32,660 --> 00:19:34,300
+ is the other thing
+
+379
+00:19:34,300 --> 00:19:35,160
+ that's not represented.
+
+380
+00:19:35,160 --> 00:19:35,300
+ I mean,
+
+381
+00:19:35,300 --> 00:19:35,860
+ think about the,
+
+382
+00:19:36,240 --> 00:19:37,340
+ but think about that difference
+
+383
+00:19:37,340 --> 00:19:37,780
+ right there.
+
+384
+00:19:37,960 --> 00:19:38,100
+ Like,
+
+385
+00:19:38,260 --> 00:19:38,820
+ for Nietzsche,
+
+386
+00:19:39,640 --> 00:19:40,580
+ it's the overman
+
+387
+00:19:40,580 --> 00:19:41,560
+ which is the speculative
+
+388
+00:19:41,560 --> 00:19:42,500
+ future point.
+
+389
+00:19:42,860 --> 00:19:43,360
+ For Heidegger,
+
+390
+00:19:43,500 --> 00:19:44,200
+ it's the Greeks
+
+391
+00:19:44,200 --> 00:19:45,160
+ which is the speculative
+
+392
+00:19:45,160 --> 00:19:46,260
+ historical point.
+
+393
+00:19:46,540 --> 00:19:46,640
+ Right,
+
+394
+00:19:46,700 --> 00:19:46,920
+ like,
+
+395
+00:19:47,300 --> 00:19:47,960
+ it's backwards,
+
+396
+00:19:48,220 --> 00:19:48,840
+ not forwards.
+
+397
+00:19:49,080 --> 00:19:49,400
+ And I mean,
+
+398
+00:19:49,480 --> 00:19:49,740
+ to me,
+
+399
+00:19:49,800 --> 00:19:51,200
+ that makes a huge difference,
+
+400
+00:19:51,320 --> 00:19:51,520
+ right?
+
+401
+00:19:51,580 --> 00:19:51,800
+ Like,
+
+402
+00:19:52,140 --> 00:19:53,600
+ we've lost some
+
+403
+00:19:53,600 --> 00:19:55,060
+ original primordial
+
+404
+00:19:55,060 --> 00:19:57,040
+ versus we could achieve
+
+405
+00:19:57,040 --> 00:19:58,500
+ some other kind of something.
+
+406
+00:19:58,740 --> 00:19:58,960
+ No,
+
+407
+00:19:59,060 --> 00:19:59,640
+ that is a key.
+
+408
+00:19:59,720 --> 00:19:59,940
+ I mean,
+
+409
+00:20:00,040 --> 00:20:00,380
+ Heidegger,
+
+410
+00:20:00,540 --> 00:20:01,660
+ the fetishizing
+
+411
+00:20:01,660 --> 00:20:02,340
+ of the Greeks,
+
+412
+00:20:02,660 --> 00:20:03,860
+ I just don't understand.
+
+413
+00:20:03,860 --> 00:20:04,500
+ I mean,
+
+414
+00:20:04,560 --> 00:20:04,720
+ like,
+
+415
+00:20:05,020 --> 00:20:06,060
+ I get that,
+
+416
+00:20:06,320 --> 00:20:06,560
+ like,
+
+417
+00:20:06,620 --> 00:20:07,800
+ a lot of people do it.
+
+418
+00:20:08,240 --> 00:20:08,640
+ Like,
+
+419
+00:20:08,680 --> 00:20:10,060
+ a lot of people look back
+
+420
+00:20:10,060 --> 00:20:10,820
+ towards the Greeks
+
+421
+00:20:10,820 --> 00:20:12,340
+ as fulfilling some sort of
+
+422
+00:20:12,340 --> 00:20:13,000
+ essence.
+
+423
+00:20:13,300 --> 00:20:13,320
+ I mean,
+
+424
+00:20:13,340 --> 00:20:13,700
+ Nietzsche,
+
+425
+00:20:13,840 --> 00:20:14,120
+ right?
+
+426
+00:20:14,280 --> 00:20:14,460
+ Like,
+
+427
+00:20:14,660 --> 00:20:15,200
+ they all kind of,
+
+428
+00:20:15,240 --> 00:20:16,100
+ even Hegel does it.
+
+429
+00:20:16,180 --> 00:20:16,440
+ I mean,
+
+430
+00:20:16,500 --> 00:20:16,800
+ you know,
+
+431
+00:20:16,900 --> 00:20:18,020
+ he sees Aristotle
+
+432
+00:20:18,020 --> 00:20:19,160
+ as like the guy
+
+433
+00:20:19,160 --> 00:20:19,620
+ and like,
+
+434
+00:20:19,720 --> 00:20:20,620
+ he sees his work
+
+435
+00:20:20,620 --> 00:20:21,520
+ as an extension
+
+436
+00:20:21,520 --> 00:20:23,240
+ of Aristotle's work
+
+437
+00:20:23,240 --> 00:20:24,520
+ which it's just not.
+
+438
+00:20:24,880 --> 00:20:25,140
+ I mean,
+
+439
+00:20:25,140 --> 00:20:26,480
+ it's just a complete break
+
+440
+00:20:26,480 --> 00:20:27,240
+ in certain ways
+
+441
+00:20:27,240 --> 00:20:28,440
+ that he doesn't even recognize.
+
+442
+00:20:29,660 --> 00:20:30,800
+ That's such an arrogant thing
+
+443
+00:20:30,800 --> 00:20:32,100
+ to say about,
+
+444
+00:20:32,320 --> 00:20:32,460
+ like,
+
+445
+00:20:32,740 --> 00:20:33,900
+ Hegel doesn't even realize
+
+446
+00:20:33,900 --> 00:20:34,660
+ the brilliance of it.
+
+447
+00:20:34,840 --> 00:20:35,040
+ Whatever.
+
+448
+00:20:35,980 --> 00:20:36,380
+ But,
+
+449
+00:20:36,580 --> 00:20:37,240
+ but yeah,
+
+450
+00:20:37,280 --> 00:20:37,560
+ you're right.
+
+451
+00:20:37,660 --> 00:20:38,840
+ I just think it's a useful.
+
+452
+00:20:38,840 --> 00:20:39,240
+ But Niccolo,
+
+453
+00:20:39,360 --> 00:20:40,280
+ you'll get your philosophy.
+
+454
+00:20:41,880 --> 00:20:42,560
+ That's me.
+
+455
+00:20:42,820 --> 00:20:43,260
+ MVP,
+
+456
+00:20:43,540 --> 00:20:43,820
+ baby.
+
+457
+00:20:46,700 --> 00:20:47,540
+ But yeah,
+
+458
+00:20:47,740 --> 00:20:47,920
+ like,
+
+459
+00:20:48,400 --> 00:20:48,780
+ like what,
+
+460
+00:20:48,980 --> 00:20:49,900
+ the paragraph
+
+461
+00:20:49,900 --> 00:20:50,840
+ you just brought up,
+
+462
+00:20:50,900 --> 00:20:51,320
+ Nathaniel,
+
+463
+00:20:51,420 --> 00:20:52,920
+ I like highlighted a bunch
+
+464
+00:20:52,920 --> 00:20:55,460
+ because I think like
+
+465
+00:20:55,460 --> 00:20:57,840
+ to critique commonness,
+
+466
+00:20:58,060 --> 00:20:58,740
+ representation,
+
+467
+00:20:59,160 --> 00:21:00,140
+ whatever you want to call it,
+
+468
+00:21:00,320 --> 00:21:01,540
+ is fine and good
+
+469
+00:21:01,540 --> 00:21:02,400
+ and pretty much
+
+470
+00:21:02,400 --> 00:21:03,060
+ every philosopher
+
+471
+00:21:03,060 --> 00:21:03,800
+ post-Descartes
+
+472
+00:21:03,800 --> 00:21:05,320
+ does some variation of that.
+
+473
+00:21:05,620 --> 00:21:07,120
+ But why don't you
+
+474
+00:21:07,120 --> 00:21:08,020
+ take it seriously?
+
+475
+00:21:08,380 --> 00:21:09,700
+ If that's the guiding
+
+476
+00:21:09,700 --> 00:21:10,980
+ mode of thinking
+
+477
+00:21:10,980 --> 00:21:14,060
+ from then until now,
+
+478
+00:21:14,560 --> 00:21:14,760
+ like,
+
+479
+00:21:14,900 --> 00:21:15,860
+ why not like,
+
+480
+00:21:16,540 --> 00:21:17,640
+ live in that a little bit
+
+481
+00:21:17,640 --> 00:21:18,100
+ or at least
+
+482
+00:21:18,100 --> 00:21:20,540
+ allow for its
+
+483
+00:21:20,540 --> 00:21:21,760
+ endurance,
+
+484
+00:21:22,180 --> 00:21:22,460
+ right?
+
+485
+00:21:22,480 --> 00:21:23,520
+ As opposed to
+
+486
+00:21:23,520 --> 00:21:24,620
+ offering some sort
+
+487
+00:21:24,620 --> 00:21:25,720
+ of prescriptive policy
+
+488
+00:21:25,720 --> 00:21:27,260
+ in Heidegger's case
+
+489
+00:21:27,260 --> 00:21:28,740
+ of like stripping it
+
+490
+00:21:28,740 --> 00:21:29,780
+ and getting back
+
+491
+00:21:29,780 --> 00:21:30,680
+ to the bare essence
+
+492
+00:21:30,680 --> 00:21:31,960
+ of human being.
+
+493
+00:21:32,720 --> 00:21:33,040
+ This is,
+
+494
+00:21:33,400 --> 00:21:33,880
+ yeah.
+
+495
+00:21:34,420 --> 00:21:34,960
+ But like,
+
+496
+00:21:35,100 --> 00:21:36,800
+ I wouldn't say,
+
+497
+00:21:37,160 --> 00:21:37,320
+ I mean,
+
+498
+00:21:37,400 --> 00:21:38,320
+ my approach
+
+499
+00:21:38,320 --> 00:21:39,700
+ would not be that
+
+500
+00:21:39,700 --> 00:21:41,180
+ because I feel like
+
+501
+00:21:41,180 --> 00:21:41,500
+ there is,
+
+502
+00:21:41,640 --> 00:21:42,500
+ there's an advantage
+
+503
+00:21:42,500 --> 00:21:43,040
+ or there,
+
+504
+00:21:43,140 --> 00:21:43,920
+ it's a tactical,
+
+505
+00:21:44,300 --> 00:21:45,020
+ again,
+
+506
+00:21:45,200 --> 00:21:45,720
+ stylistic.
+
+507
+00:21:45,880 --> 00:21:46,140
+ It's just
+
+508
+00:21:46,380 --> 00:21:47,300
+ comportment question,
+
+509
+00:21:47,400 --> 00:21:47,760
+ but like,
+
+510
+00:21:48,100 --> 00:21:49,200
+ I see an advantage
+
+511
+00:21:49,200 --> 00:21:49,840
+ in saying,
+
+512
+00:21:50,740 --> 00:21:51,960
+ so I had this moment
+
+513
+00:21:51,960 --> 00:21:53,040
+ in my undergrad class
+
+514
+00:21:53,040 --> 00:21:54,000
+ this semester
+
+515
+00:21:54,000 --> 00:21:54,480
+ where something
+
+516
+00:21:54,480 --> 00:21:55,360
+ sort of clicked for me
+
+517
+00:21:55,360 --> 00:21:56,020
+ and I was trying
+
+518
+00:21:56,020 --> 00:21:56,600
+ to understand
+
+519
+00:21:56,600 --> 00:21:58,540
+ why every single time
+
+520
+00:21:58,540 --> 00:21:59,840
+ I've ever taught
+
+521
+00:21:59,840 --> 00:22:00,620
+ anything like
+
+522
+00:22:00,620 --> 00:22:01,500
+ social construction,
+
+523
+00:22:01,640 --> 00:22:02,580
+ just the basic logic
+
+524
+00:22:02,580 --> 00:22:03,320
+ of social construction,
+
+525
+00:22:03,440 --> 00:22:04,400
+ gender is socially constructed,
+
+526
+00:22:04,480 --> 00:22:05,200
+ doesn't matter what,
+
+527
+00:22:05,640 --> 00:22:07,340
+ people automatically
+
+528
+00:22:07,340 --> 00:22:08,360
+ go,
+
+529
+00:22:08,540 --> 00:22:08,840
+ oh yeah,
+
+530
+00:22:08,940 --> 00:22:09,820
+ then it's free for all.
+
+531
+00:22:09,940 --> 00:22:10,820
+ It has no truth,
+
+532
+00:22:10,920 --> 00:22:11,580
+ there is no meaning,
+
+533
+00:22:11,800 --> 00:22:11,940
+ right?
+
+534
+00:22:12,000 --> 00:22:13,460
+ That's the default move
+
+535
+00:22:13,460 --> 00:22:14,220
+ is there's nothing,
+
+536
+00:22:14,380 --> 00:22:14,560
+ you know,
+
+537
+00:22:14,640 --> 00:22:15,500
+ then there's nothing.
+
+538
+00:22:15,820 --> 00:22:17,100
+ If it's socially constructed,
+
+539
+00:22:17,200 --> 00:22:18,160
+ then it's not real
+
+540
+00:22:18,160 --> 00:22:18,980
+ or something like that
+
+541
+00:22:18,980 --> 00:22:20,140
+ and I'm just trying
+
+542
+00:22:20,140 --> 00:22:20,840
+ to get my head around
+
+543
+00:22:20,840 --> 00:22:22,080
+ why is that the default?
+
+544
+00:22:22,220 --> 00:22:22,340
+ Like,
+
+545
+00:22:22,480 --> 00:22:23,720
+ why is that the move
+
+546
+00:22:23,720 --> 00:22:25,260
+ that just about every human
+
+547
+00:22:25,260 --> 00:22:26,120
+ that I've ever taught
+
+548
+00:22:26,120 --> 00:22:26,860
+ that idea to
+
+549
+00:22:26,860 --> 00:22:28,220
+ automatically goes to
+
+550
+00:22:28,220 --> 00:22:29,040
+ is that you're saying
+
+551
+00:22:29,040 --> 00:22:30,180
+ that it's not real
+
+552
+00:22:30,180 --> 00:22:30,920
+ and one of the things
+
+553
+00:22:30,920 --> 00:22:31,700
+ I realized
+
+554
+00:22:31,700 --> 00:22:32,680
+ and I talked about this
+
+555
+00:22:32,680 --> 00:22:33,520
+ with my undergrad class,
+
+556
+00:22:33,580 --> 00:22:34,100
+ they didn't get any
+
+557
+00:22:34,100 --> 00:22:34,500
+ of this shit,
+
+558
+00:22:34,600 --> 00:22:35,900
+ but I was like,
+
+559
+00:22:36,180 --> 00:22:37,280
+ I think something
+
+560
+00:22:37,280 --> 00:22:38,500
+ important here,
+
+561
+00:22:39,000 --> 00:22:40,400
+ when I use the term
+
+562
+00:22:40,400 --> 00:22:41,400
+ life,
+
+563
+00:22:41,640 --> 00:22:42,100
+ let's say,
+
+564
+00:22:42,260 --> 00:22:42,380
+ just,
+
+565
+00:22:43,300 --> 00:22:44,000
+ you can pick anywhere,
+
+566
+00:22:44,100 --> 00:22:44,540
+ pick death,
+
+567
+00:22:44,620 --> 00:22:45,200
+ it doesn't matter,
+
+568
+00:22:45,280 --> 00:22:46,040
+ like a term,
+
+569
+00:22:46,700 --> 00:22:48,100
+ when I use the term death,
+
+570
+00:22:48,840 --> 00:22:49,440
+ you guys think
+
+571
+00:22:49,440 --> 00:22:50,060
+ that I'm referring
+
+572
+00:22:50,060 --> 00:22:51,220
+ to something in the world.
+
+573
+00:22:51,640 --> 00:22:52,360
+ I think
+
+574
+00:22:52,360 --> 00:22:53,120
+ that I'm referring
+
+575
+00:22:53,120 --> 00:22:54,020
+ to a concept
+
+576
+00:22:54,020 --> 00:22:54,740
+ that attempts
+
+577
+00:22:54,740 --> 00:22:55,700
+ to group together
+
+578
+00:22:55,700 --> 00:22:56,780
+ a disparate series
+
+579
+00:22:56,780 --> 00:22:57,680
+ of things in the world.
+
+580
+00:22:58,360 --> 00:22:59,100
+ So when I talk
+
+581
+00:22:59,100 --> 00:22:59,660
+ about death,
+
+582
+00:22:59,800 --> 00:23:02,720
+ I am fully cognizant
+
+583
+00:23:02,720 --> 00:23:03,420
+ that I am talking
+
+584
+00:23:03,420 --> 00:23:04,520
+ about a concept
+
+585
+00:23:04,520 --> 00:23:05,620
+ that attempts
+
+586
+00:23:05,620 --> 00:23:07,160
+ to intersect
+
+587
+00:23:07,160 --> 00:23:07,900
+ with the world.
+
+588
+00:23:08,300 --> 00:23:08,820
+ They think
+
+589
+00:23:08,820 --> 00:23:09,520
+ they are directly
+
+590
+00:23:09,520 --> 00:23:10,260
+ talking about
+
+591
+00:23:10,260 --> 00:23:11,240
+ the world that way.
+
+592
+00:23:11,320 --> 00:23:11,940
+ So any claim
+
+593
+00:23:11,940 --> 00:23:12,420
+ that I would make
+
+594
+00:23:12,420 --> 00:23:12,800
+ about death,
+
+595
+00:23:13,060 --> 00:23:13,680
+ and so therefore,
+
+596
+00:23:14,000 --> 00:23:15,240
+ when you undo it,
+
+597
+00:23:15,600 --> 00:23:16,840
+ they think it goes away,
+
+598
+00:23:17,160 --> 00:23:18,280
+ whereas for me,
+
+599
+00:23:18,360 --> 00:23:19,140
+ if you undo it,
+
+600
+00:23:19,260 --> 00:23:19,800
+ you just need
+
+601
+00:23:19,800 --> 00:23:20,440
+ another concept,
+
+602
+00:23:20,560 --> 00:23:21,580
+ like, you know,
+
+603
+00:23:21,680 --> 00:23:23,000
+ nothing has gone away
+
+604
+00:23:23,000 --> 00:23:23,980
+ just because you undo
+
+605
+00:23:23,980 --> 00:23:25,560
+ the concept of death,
+
+606
+00:23:25,660 --> 00:23:25,860
+ right?
+
+607
+00:23:25,980 --> 00:23:27,280
+ Like, so in other words,
+
+608
+00:23:27,840 --> 00:23:28,620
+ the extent to which
+
+609
+00:23:28,620 --> 00:23:30,480
+ I so fully buy
+
+610
+00:23:30,480 --> 00:23:32,080
+ a kind of Nietzschean
+
+611
+00:23:32,080 --> 00:23:33,260
+ logic of,
+
+612
+00:23:33,420 --> 00:23:34,980
+ conceptual construction,
+
+613
+00:23:35,320 --> 00:23:35,860
+ right,
+
+614
+00:23:36,400 --> 00:23:39,320
+ it's impossible
+
+615
+00:23:39,320 --> 00:23:41,240
+ for me to really,
+
+616
+00:23:43,000 --> 00:23:44,140
+ or it's possible
+
+617
+00:23:44,140 --> 00:23:44,720
+ for me to have
+
+618
+00:23:44,720 --> 00:23:45,560
+ an intervention
+
+619
+00:23:45,560 --> 00:23:46,400
+ in that
+
+620
+00:23:46,400 --> 00:23:47,540
+ that's not external
+
+621
+00:23:47,540 --> 00:23:48,280
+ in a sense,
+
+622
+00:23:48,400 --> 00:23:48,520
+ right?
+
+623
+00:23:48,580 --> 00:23:49,780
+ Like, I'm always
+
+624
+00:23:49,780 --> 00:23:50,340
+ going to be
+
+625
+00:23:50,340 --> 00:23:51,460
+ a kind of loggerheads
+
+626
+00:23:51,460 --> 00:23:52,180
+ because they're just
+
+627
+00:23:52,180 --> 00:23:53,700
+ at a kind of
+
+628
+00:23:53,700 --> 00:23:54,120
+ different,
+
+629
+00:23:54,560 --> 00:23:55,480
+ their relation
+
+630
+00:23:55,480 --> 00:23:56,840
+ between the concept
+
+631
+00:23:56,840 --> 00:23:57,260
+ and the world
+
+632
+00:23:57,260 --> 00:23:57,660
+ for them
+
+633
+00:23:57,660 --> 00:23:58,660
+ is intuitively
+
+634
+00:23:58,660 --> 00:23:59,540
+ and fundamentally
+
+635
+00:23:59,540 --> 00:24:00,780
+ something that is
+
+636
+00:24:00,780 --> 00:24:01,960
+ intuitively fundamentally
+
+637
+00:24:01,960 --> 00:24:03,000
+ different than mine,
+
+638
+00:24:03,560 --> 00:24:03,780
+ right?
+
+639
+00:24:03,920 --> 00:24:05,480
+ Like, now my intuitive
+
+640
+00:24:05,480 --> 00:24:06,300
+ and fundamental thing
+
+641
+00:24:06,300 --> 00:24:07,000
+ has been learned,
+
+642
+00:24:07,100 --> 00:24:07,220
+ right?
+
+643
+00:24:07,280 --> 00:24:08,160
+ Like, I'm not saying
+
+644
+00:24:08,160 --> 00:24:08,880
+ I was six
+
+645
+00:24:08,880 --> 00:24:09,620
+ and I had this,
+
+646
+00:24:09,680 --> 00:24:09,820
+ right?
+
+647
+00:24:09,880 --> 00:24:12,180
+ Like, so, of course,
+
+648
+00:24:12,260 --> 00:24:12,900
+ this intuitive
+
+649
+00:24:12,900 --> 00:24:13,800
+ and fundamental thing
+
+650
+00:24:13,800 --> 00:24:14,520
+ is trainable.
+
+651
+00:24:14,520 --> 00:24:15,900
+ It's changeable
+
+652
+00:24:15,900 --> 00:24:16,920
+ in that regard.
+
+653
+00:24:17,680 --> 00:24:18,380
+ So, so, so to me
+
+654
+00:24:18,380 --> 00:24:19,300
+ I go like, okay,
+
+655
+00:24:20,160 --> 00:24:21,640
+ my project can't be
+
+656
+00:24:21,640 --> 00:24:22,860
+ then to inhabit
+
+657
+00:24:22,860 --> 00:24:24,560
+ that mode of thinking
+
+658
+00:24:24,560 --> 00:24:25,700
+ because I can't.
+
+659
+00:24:25,760 --> 00:24:26,560
+ I just can't.
+
+660
+00:24:26,620 --> 00:24:26,980
+ I can't.
+
+661
+00:24:27,040 --> 00:24:27,980
+ It's not possible
+
+662
+00:24:27,980 --> 00:24:29,180
+ for me to think
+
+663
+00:24:29,180 --> 00:24:29,660
+ of death
+
+664
+00:24:29,660 --> 00:24:30,500
+ as referring
+
+665
+00:24:30,500 --> 00:24:32,460
+ simply to events
+
+666
+00:24:32,460 --> 00:24:32,900
+ in the world.
+
+667
+00:24:33,540 --> 00:24:33,660
+ Right.
+
+668
+00:24:34,740 --> 00:24:36,940
+ And, and so I have
+
+669
+00:24:36,940 --> 00:24:37,800
+ to come at it
+
+670
+00:24:37,800 --> 00:24:39,080
+ from, again,
+
+671
+00:24:39,280 --> 00:24:40,020
+ a position that's
+
+672
+00:24:40,020 --> 00:24:40,840
+ kind of external
+
+673
+00:24:40,840 --> 00:24:42,080
+ to that epistemology,
+
+674
+00:24:42,180 --> 00:24:43,820
+ that sort of epistemology.
+
+675
+00:24:44,020 --> 00:24:44,900
+ Like, I just have to.
+
+676
+00:24:45,140 --> 00:24:45,200
+ Yeah.
+
+677
+00:24:45,680 --> 00:24:46,620
+ So the question
+
+678
+00:24:46,620 --> 00:24:47,040
+ then becomes
+
+679
+00:24:47,040 --> 00:24:48,040
+ what are the different
+
+680
+00:24:48,040 --> 00:24:49,660
+ ways of doing that?
+
+681
+00:24:49,720 --> 00:24:50,700
+ And what I, like,
+
+682
+00:24:50,720 --> 00:24:51,500
+ what I just articulated
+
+683
+00:24:51,500 --> 00:24:52,960
+ there is a self-conscious way.
+
+684
+00:24:53,000 --> 00:24:54,000
+ It would be a very Hegelian.
+
+685
+00:24:54,120 --> 00:24:55,600
+ Like, I've become aware
+
+686
+00:24:55,600 --> 00:24:57,160
+ of the conceptual difference
+
+687
+00:24:57,160 --> 00:24:58,300
+ between concepts
+
+688
+00:24:58,300 --> 00:24:59,700
+ for me and for that.
+
+689
+00:25:00,020 --> 00:25:01,260
+ Diagnostic, sort of.
+
+690
+00:25:01,540 --> 00:25:02,060
+ That's right.
+
+691
+00:25:02,280 --> 00:25:02,600
+ Right.
+
+692
+00:25:02,800 --> 00:25:03,320
+ That's right.
+
+693
+00:25:03,440 --> 00:25:04,460
+ So it's, but it's still,
+
+694
+00:25:04,560 --> 00:25:05,760
+ I mean, you're quite right
+
+695
+00:25:05,760 --> 00:25:06,500
+ in this, say, like,
+
+696
+00:25:06,620 --> 00:25:07,780
+ here's a difference, right?
+
+697
+00:25:07,780 --> 00:25:08,600
+ Here's a difference.
+
+698
+00:25:08,800 --> 00:25:10,180
+ And, and it's a difference
+
+699
+00:25:10,180 --> 00:25:11,580
+ that I think
+
+700
+00:25:11,580 --> 00:25:12,320
+ is really important
+
+701
+00:25:12,320 --> 00:25:13,360
+ and it, a lot
+
+702
+00:25:13,360 --> 00:25:14,360
+ follows from that.
+
+703
+00:25:14,560 --> 00:25:15,520
+ If you start thinking
+
+704
+00:25:15,520 --> 00:25:16,100
+ of concepts
+
+705
+00:25:16,100 --> 00:25:17,240
+ as being ways
+
+706
+00:25:17,240 --> 00:25:18,580
+ in which humans
+
+707
+00:25:18,580 --> 00:25:20,020
+ organize a disparate
+
+708
+00:25:20,020 --> 00:25:21,040
+ series of actions
+
+709
+00:25:21,040 --> 00:25:22,100
+ as opposed to
+
+710
+00:25:22,100 --> 00:25:23,660
+ representations of the world,
+
+711
+00:25:25,100 --> 00:25:25,420
+ they're not,
+
+712
+00:25:25,780 --> 00:25:26,100
+ I mean,
+
+713
+00:25:26,200 --> 00:25:27,440
+ because ways in which
+
+714
+00:25:27,440 --> 00:25:29,000
+ humans organize actions,
+
+715
+00:25:29,400 --> 00:25:29,720
+ you know,
+
+716
+00:25:29,780 --> 00:25:30,480
+ can itself be
+
+717
+00:25:30,480 --> 00:25:31,700
+ representations of the world.
+
+718
+00:25:31,780 --> 00:25:32,300
+ It's just,
+
+719
+00:25:32,660 --> 00:25:33,120
+ you're taking
+
+720
+00:25:33,120 --> 00:25:34,940
+ an epistemological step,
+
+721
+00:25:35,460 --> 00:25:36,500
+ which I would say
+
+722
+00:25:36,500 --> 00:25:37,820
+ is an ontological one
+
+723
+00:25:37,820 --> 00:25:38,260
+ via Heidegger,
+
+724
+00:25:38,340 --> 00:25:38,980
+ but it doesn't matter.
+
+725
+00:25:38,980 --> 00:25:40,300
+ You know,
+
+726
+00:25:40,680 --> 00:25:42,580
+ but it is a step
+
+727
+00:25:42,580 --> 00:25:43,360
+ that's different
+
+728
+00:25:43,360 --> 00:25:43,940
+ than the step
+
+729
+00:25:43,940 --> 00:25:44,580
+ that they're on
+
+730
+00:25:44,580 --> 00:25:45,280
+ and so therefore
+
+731
+00:25:45,280 --> 00:25:46,020
+ teaching them
+
+732
+00:25:46,020 --> 00:25:47,220
+ the logic of construction
+
+733
+00:25:47,220 --> 00:25:48,640
+ at the point
+
+734
+00:25:48,640 --> 00:25:49,360
+ that they are
+
+735
+00:25:49,360 --> 00:25:50,660
+ is going to send them
+
+736
+00:25:50,660 --> 00:25:51,540
+ somewhere different
+
+737
+00:25:51,540 --> 00:25:52,620
+ that's not here.
+
+738
+00:25:52,780 --> 00:25:53,040
+ Yeah.
+
+739
+00:25:53,180 --> 00:25:53,360
+ Right?
+
+740
+00:25:53,480 --> 00:25:53,640
+ I mean,
+
+741
+00:25:53,740 --> 00:25:55,160
+ and that's that sense
+
+742
+00:25:55,160 --> 00:25:55,780
+ in which, like,
+
+743
+00:25:55,920 --> 00:25:56,220
+ ah,
+
+744
+00:25:57,060 --> 00:25:58,680
+ there is a process here
+
+745
+00:25:58,680 --> 00:25:59,220
+ and there,
+
+746
+00:25:59,360 --> 00:26:00,160
+ it's a process
+
+747
+00:26:00,160 --> 00:26:00,860
+ and I don't think
+
+748
+00:26:00,860 --> 00:26:01,820
+ it's an intrinsic one,
+
+749
+00:26:01,820 --> 00:26:02,740
+ but if you're
+
+750
+00:26:02,740 --> 00:26:03,740
+ at this relation
+
+751
+00:26:03,740 --> 00:26:04,820
+ and you're taught
+
+752
+00:26:04,820 --> 00:26:05,620
+ this idea,
+
+753
+00:26:06,020 --> 00:26:07,040
+ that will go here,
+
+754
+00:26:07,500 --> 00:26:08,360
+ not here.
+
+755
+00:26:08,780 --> 00:26:08,880
+ Yeah.
+
+756
+00:26:08,960 --> 00:26:09,140
+ Right?
+
+757
+00:26:09,220 --> 00:26:09,400
+ Like,
+
+758
+00:26:09,640 --> 00:26:10,360
+ that's where,
+
+759
+00:26:10,720 --> 00:26:11,540
+ this is going to be good
+
+760
+00:26:11,540 --> 00:26:12,120
+ on a podcast,
+
+761
+00:26:12,300 --> 00:26:13,000
+ the here and the here
+
+762
+00:26:13,000 --> 00:26:13,520
+ and the,
+
+763
+00:26:13,520 --> 00:26:14,520
+ the hand motion.
+
+764
+00:26:14,880 --> 00:26:15,020
+ Yeah.
+
+765
+00:26:15,480 --> 00:26:16,020
+ But you know what I'm saying?
+
+766
+00:26:16,020 --> 00:26:17,000
+ It didn't go to a date together.
+
+767
+00:26:17,120 --> 00:26:17,220
+ Yeah.
+
+768
+00:26:17,300 --> 00:26:18,240
+ No, I definitely do.
+
+769
+00:26:18,780 --> 00:26:18,960
+ Yeah.
+
+770
+00:26:19,040 --> 00:26:19,540
+ Which is to say,
+
+771
+00:26:19,640 --> 00:26:19,760
+ like,
+
+772
+00:26:19,820 --> 00:26:20,040
+ you don't.
+
+773
+00:26:20,040 --> 00:26:20,740
+ There's a process.
+
+774
+00:26:21,000 --> 00:26:21,120
+ Yeah.
+
+775
+00:26:21,380 --> 00:26:22,160
+ To say that there are
+
+776
+00:26:22,160 --> 00:26:22,960
+ inclinations
+
+777
+00:26:22,960 --> 00:26:24,120
+ and orientations
+
+778
+00:26:24,120 --> 00:26:25,000
+ isn't to say
+
+779
+00:26:25,000 --> 00:26:26,560
+ that they are natural
+
+780
+00:26:26,560 --> 00:26:27,680
+ or embedded
+
+781
+00:26:27,680 --> 00:26:28,780
+ or, like,
+
+782
+00:26:28,920 --> 00:26:29,440
+ necessary,
+
+783
+00:26:29,640 --> 00:26:30,640
+ especially necessary,
+
+784
+00:26:30,780 --> 00:26:30,960
+ right?
+
+785
+00:26:31,140 --> 00:26:31,980
+ No, certainly not necessary.
+
+786
+00:26:32,000 --> 00:26:32,000
+ But, like,
+
+787
+00:26:32,020 --> 00:26:32,980
+ given one
+
+788
+00:26:32,980 --> 00:26:33,960
+ style
+
+789
+00:26:33,960 --> 00:26:35,180
+ or kind of construction,
+
+790
+00:26:35,520 --> 00:26:35,720
+ you know,
+
+791
+00:26:35,760 --> 00:26:37,260
+ introducing a new element to it
+
+792
+00:26:37,260 --> 00:26:38,040
+ is going to shoot it off
+
+793
+00:26:38,040 --> 00:26:39,100
+ in one direction
+
+794
+00:26:39,100 --> 00:26:40,380
+ rather than the other direction.
+
+795
+00:26:40,540 --> 00:26:40,880
+ Right?
+
+796
+00:26:41,020 --> 00:26:41,380
+ And that's...
+
+797
+00:26:41,380 --> 00:26:42,120
+ And it always,
+
+798
+00:26:42,300 --> 00:26:42,500
+ I mean,
+
+799
+00:26:42,520 --> 00:26:42,820
+ you guys,
+
+800
+00:26:42,940 --> 00:26:43,340
+ I'm sure,
+
+801
+00:26:43,380 --> 00:26:44,200
+ have had that experience.
+
+802
+00:26:44,320 --> 00:26:45,360
+ You teach the logic
+
+803
+00:26:45,360 --> 00:26:45,900
+ of construction
+
+804
+00:26:45,900 --> 00:26:47,340
+ and the default thought
+
+805
+00:26:47,340 --> 00:26:48,280
+ for literally
+
+806
+00:26:48,280 --> 00:26:49,620
+ every single student
+
+807
+00:26:49,620 --> 00:26:50,120
+ is,
+
+808
+00:26:50,380 --> 00:26:50,460
+ oh,
+
+809
+00:26:50,480 --> 00:26:51,320
+ that means it's not real.
+
+810
+00:26:51,760 --> 00:26:51,940
+ Yeah,
+
+811
+00:26:51,940 --> 00:26:53,060
+ that's exactly what I run into.
+
+812
+00:26:53,080 --> 00:26:54,040
+ that's what makes it real,
+
+813
+00:26:54,120 --> 00:26:54,260
+ right?
+
+814
+00:26:54,300 --> 00:26:54,460
+ Like,
+
+815
+00:26:54,460 --> 00:26:55,440
+ that's what makes it real.
+
+816
+00:26:55,720 --> 00:26:56,940
+ But my approach
+
+817
+00:26:56,940 --> 00:26:57,260
+ is to be,
+
+818
+00:26:57,380 --> 00:26:57,840
+ is to say,
+
+819
+00:26:57,920 --> 00:26:58,060
+ like,
+
+820
+00:26:58,560 --> 00:26:59,520
+ we are in a building
+
+821
+00:26:59,520 --> 00:27:01,060
+ that has been constructed
+
+822
+00:27:01,060 --> 00:27:02,500
+ and by God,
+
+823
+00:27:02,540 --> 00:27:03,300
+ I hope it's real
+
+824
+00:27:03,300 --> 00:27:03,900
+ because otherwise
+
+825
+00:27:03,900 --> 00:27:04,840
+ we're all going to collapse
+
+826
+00:27:04,840 --> 00:27:06,040
+ here pretty soon.
+
+827
+00:27:06,520 --> 00:27:06,920
+ And,
+
+828
+00:27:07,060 --> 00:27:07,320
+ you know,
+
+829
+00:27:07,400 --> 00:27:07,520
+ like,
+
+830
+00:27:07,600 --> 00:27:09,260
+ because part of the fear
+
+831
+00:27:09,260 --> 00:27:10,000
+ of the,
+
+832
+00:27:10,100 --> 00:27:10,440
+ of the,
+
+833
+00:27:10,500 --> 00:27:11,320
+ it's all constructed
+
+834
+00:27:11,320 --> 00:27:12,340
+ is that it can be,
+
+835
+00:27:12,520 --> 00:27:14,180
+ it can be changed
+
+836
+00:27:14,180 --> 00:27:15,060
+ arbitrarily,
+
+837
+00:27:15,260 --> 00:27:15,740
+ willy-nilly,
+
+838
+00:27:15,960 --> 00:27:16,100
+ like,
+
+839
+00:27:16,160 --> 00:27:16,820
+ it can be completely,
+
+840
+00:27:16,940 --> 00:27:17,600
+ it can be,
+
+841
+00:27:17,600 --> 00:27:18,220
+ because it's not real.
+
+842
+00:27:18,780 --> 00:27:18,900
+ Yeah,
+
+843
+00:27:18,960 --> 00:27:19,240
+ exactly.
+
+844
+00:27:19,380 --> 00:27:19,980
+ It's not real
+
+845
+00:27:19,980 --> 00:27:20,620
+ so it can become
+
+846
+00:27:20,620 --> 00:27:21,640
+ something radically
+
+847
+00:27:21,640 --> 00:27:22,400
+ different tomorrow.
+
+848
+00:27:22,500 --> 00:27:22,640
+ I'm like,
+
+849
+00:27:22,680 --> 00:27:22,820
+ well,
+
+850
+00:27:23,140 --> 00:27:24,640
+ we can change this building
+
+851
+00:27:24,640 --> 00:27:27,180
+ but it requires time
+
+852
+00:27:27,180 --> 00:27:27,800
+ and labor
+
+853
+00:27:27,800 --> 00:27:28,820
+ and material
+
+854
+00:27:28,820 --> 00:27:29,660
+ and,
+
+855
+00:27:29,660 --> 00:27:30,280
+ you know,
+
+856
+00:27:30,320 --> 00:27:31,000
+ you're constrained
+
+857
+00:27:31,000 --> 00:27:31,660
+ by certain,
+
+858
+00:27:31,820 --> 00:27:32,040
+ you know,
+
+859
+00:27:32,120 --> 00:27:32,760
+ whatever else
+
+860
+00:27:32,760 --> 00:27:32,920
+ and,
+
+861
+00:27:33,020 --> 00:27:33,200
+ you know,
+
+862
+00:27:33,520 --> 00:27:34,140
+ and we're,
+
+863
+00:27:34,260 --> 00:27:34,380
+ you know,
+
+864
+00:27:34,420 --> 00:27:34,900
+ this building
+
+865
+00:27:34,900 --> 00:27:36,300
+ is 70 years old
+
+866
+00:27:36,300 --> 00:27:36,960
+ but the concepts
+
+867
+00:27:36,960 --> 00:27:37,980
+ that we're talking about
+
+868
+00:27:37,980 --> 00:27:39,580
+ are thousands of years old
+
+869
+00:27:39,580 --> 00:27:40,400
+ and have mutated
+
+870
+00:27:40,400 --> 00:27:41,520
+ over that time
+
+871
+00:27:41,520 --> 00:27:42,200
+ but,
+
+872
+00:27:42,400 --> 00:27:43,240
+ you know,
+
+873
+00:27:43,380 --> 00:27:43,780
+ but it,
+
+874
+00:27:44,140 --> 00:27:44,400
+ again,
+
+875
+00:27:44,460 --> 00:27:45,140
+ it requires,
+
+876
+00:27:45,320 --> 00:27:45,560
+ you know,
+
+877
+00:27:45,640 --> 00:27:47,500
+ a kind of labor
+
+878
+00:27:47,500 --> 00:27:48,360
+ and it is real
+
+879
+00:27:48,360 --> 00:27:49,400
+ because it's constructed
+
+880
+00:27:49,400 --> 00:27:49,940
+ and guess what?
+
+881
+00:27:50,260 --> 00:27:51,160
+ Trees constructed
+
+882
+00:27:51,160 --> 00:27:52,080
+ themselves too
+
+883
+00:27:52,080 --> 00:27:52,660
+ and,
+
+884
+00:27:53,140 --> 00:27:53,300
+ well,
+
+885
+00:27:53,400 --> 00:27:53,540
+ and it,
+
+886
+00:27:53,760 --> 00:27:55,040
+ so you say something like,
+
+887
+00:27:55,180 --> 00:27:55,660
+ and I did,
+
+888
+00:27:55,740 --> 00:27:56,200
+ I said this,
+
+889
+00:27:56,280 --> 00:27:56,700
+ I said,
+
+890
+00:27:57,080 --> 00:27:58,540
+ death is a concept
+
+891
+00:27:58,540 --> 00:28:00,020
+ and they're like,
+
+892
+00:28:00,260 --> 00:28:00,640
+ whoa,
+
+893
+00:28:00,760 --> 00:28:01,140
+ and I'm like,
+
+894
+00:28:01,220 --> 00:28:02,360
+ that's not a heady thing,
+
+895
+00:28:02,420 --> 00:28:02,600
+ like,
+
+896
+00:28:02,760 --> 00:28:03,560
+ I'm not,
+
+897
+00:28:03,740 --> 00:28:05,100
+ I'm not saying anything
+
+898
+00:28:05,100 --> 00:28:06,500
+ really big
+
+899
+00:28:06,500 --> 00:28:07,200
+ when I say it
+
+900
+00:28:07,200 --> 00:28:07,560
+ or at least
+
+901
+00:28:07,560 --> 00:28:08,720
+ I don't think that I am.
+
+902
+00:28:08,820 --> 00:28:09,420
+ It's just a way
+
+903
+00:28:09,420 --> 00:28:09,960
+ of grouping together.
+
+904
+00:28:10,080 --> 00:28:10,140
+ Like,
+
+905
+00:28:10,500 --> 00:28:11,320
+ you look at that,
+
+906
+00:28:11,520 --> 00:28:12,420
+ that tree outside
+
+907
+00:28:12,420 --> 00:28:13,360
+ that's turning brown
+
+908
+00:28:13,360 --> 00:28:14,300
+ and doesn't have leaves
+
+909
+00:28:14,300 --> 00:28:15,200
+ and you look at,
+
+910
+00:28:15,280 --> 00:28:15,480
+ like,
+
+911
+00:28:15,580 --> 00:28:15,780
+ you know,
+
+912
+00:28:15,820 --> 00:28:16,560
+ an old person
+
+913
+00:28:16,560 --> 00:28:17,000
+ or something
+
+914
+00:28:17,000 --> 00:28:17,760
+ and you say,
+
+915
+00:28:18,300 --> 00:28:18,640
+ hey,
+
+916
+00:28:19,140 --> 00:28:20,400
+ what's happening
+
+917
+00:28:20,400 --> 00:28:21,000
+ to these things
+
+918
+00:28:21,000 --> 00:28:21,720
+ is similar enough
+
+919
+00:28:21,720 --> 00:28:22,140
+ that we're going to
+
+920
+00:28:22,140 --> 00:28:23,000
+ call it the same thing,
+
+921
+00:28:23,060 --> 00:28:23,160
+ right?
+
+922
+00:28:23,180 --> 00:28:23,560
+ It's straight,
+
+923
+00:28:23,780 --> 00:28:24,940
+ straight truth and lies,
+
+924
+00:28:25,020 --> 00:28:25,180
+ right?
+
+925
+00:28:25,300 --> 00:28:26,380
+ So that's a concept
+
+926
+00:28:26,380 --> 00:28:27,080
+ called death
+
+927
+00:28:27,080 --> 00:28:28,360
+ that I am homogenizing
+
+928
+00:28:28,360 --> 00:28:29,080
+ what is clearly
+
+929
+00:28:29,080 --> 00:28:30,860
+ an incredibly different thing
+
+930
+00:28:30,860 --> 00:28:32,140
+ for that tree
+
+931
+00:28:32,140 --> 00:28:33,600
+ than it is for that person,
+
+932
+00:28:33,700 --> 00:28:33,880
+ right?
+
+933
+00:28:33,940 --> 00:28:34,080
+ Like,
+
+934
+00:28:34,140 --> 00:28:35,660
+ it's incredibly different
+
+935
+00:28:35,660 --> 00:28:36,120
+ but we're going to
+
+936
+00:28:36,120 --> 00:28:36,920
+ treat it homogenously.
+
+937
+00:28:37,000 --> 00:28:37,220
+ I mean,
+
+938
+00:28:37,320 --> 00:28:38,360
+ I think the issue
+
+939
+00:28:38,360 --> 00:28:39,160
+ and this is what
+
+940
+00:28:39,160 --> 00:28:39,880
+ Heidegger points to
+
+941
+00:28:39,880 --> 00:28:40,660
+ is that most people
+
+942
+00:28:40,660 --> 00:28:41,840
+ just don't want to do
+
+943
+00:28:41,840 --> 00:28:43,160
+ what we see
+
+944
+00:28:43,160 --> 00:28:44,240
+ as just a little bit
+
+945
+00:28:44,240 --> 00:28:44,960
+ more work,
+
+946
+00:28:45,200 --> 00:28:45,460
+ you know?
+
+947
+00:28:45,520 --> 00:28:46,340
+ Because you say
+
+948
+00:28:46,340 --> 00:28:47,120
+ the construction
+
+949
+00:28:47,120 --> 00:28:47,720
+ of gender,
+
+950
+00:28:47,840 --> 00:28:48,540
+ of death or whatever
+
+951
+00:28:48,540 --> 00:28:50,320
+ is a construction
+
+952
+00:28:50,320 --> 00:28:51,860
+ but that it has import,
+
+953
+00:28:51,940 --> 00:28:52,640
+ it has purchase
+
+954
+00:28:52,640 --> 00:28:53,240
+ in the world
+
+955
+00:28:53,240 --> 00:28:54,240
+ and so that doesn't
+
+956
+00:28:54,240 --> 00:28:55,460
+ make it any less real
+
+957
+00:28:55,460 --> 00:28:56,980
+ than an empirical phenomenon.
+
+958
+00:28:57,440 --> 00:28:58,180
+ it's just that,
+
+959
+00:28:58,180 --> 00:28:58,460
+ you know,
+
+960
+00:28:58,500 --> 00:28:59,400
+ you have to kind of do,
+
+961
+00:28:59,720 --> 00:29:01,180
+ people want an easy way out.
+
+962
+00:29:01,420 --> 00:29:01,760
+ So like,
+
+963
+00:29:01,800 --> 00:29:03,220
+ if you say constructions
+
+964
+00:29:03,220 --> 00:29:04,860
+ make everything meaningless,
+
+965
+00:29:04,860 --> 00:29:06,240
+ then it's just nihilism
+
+966
+00:29:06,240 --> 00:29:06,940
+ and then you can,
+
+967
+00:29:07,120 --> 00:29:07,820
+ you can just kind of
+
+968
+00:29:07,820 --> 00:29:08,920
+ buy your way out that way.
+
+969
+00:29:09,020 --> 00:29:09,660
+ You can reject it.
+
+970
+00:29:09,860 --> 00:29:10,760
+ Or you can say
+
+971
+00:29:10,760 --> 00:29:11,900
+ that death is only
+
+972
+00:29:11,900 --> 00:29:13,020
+ strictly an empirical
+
+973
+00:29:13,020 --> 00:29:13,900
+ phenomenon
+
+974
+00:29:13,900 --> 00:29:14,820
+ that's measurable
+
+975
+00:29:14,820 --> 00:29:15,340
+ and you know,
+
+976
+00:29:15,380 --> 00:29:16,360
+ the biological body
+
+977
+00:29:16,360 --> 00:29:17,240
+ expires,
+
+978
+00:29:17,380 --> 00:29:18,200
+ whatever it is,
+
+979
+00:29:18,200 --> 00:29:19,480
+ and you can identify
+
+980
+00:29:19,480 --> 00:29:20,060
+ it that way,
+
+981
+00:29:20,160 --> 00:29:20,820
+ capture it
+
+982
+00:29:20,820 --> 00:29:22,140
+ and solidify it
+
+983
+00:29:22,140 --> 00:29:23,100
+ in your head.
+
+984
+00:29:23,660 --> 00:29:24,280
+ And so it's like
+
+985
+00:29:24,280 --> 00:29:24,560
+ people,
+
+986
+00:29:24,700 --> 00:29:25,800
+ there's a slowness
+
+987
+00:29:25,800 --> 00:29:27,760
+ and you have to be invested
+
+988
+00:29:27,760 --> 00:29:28,940
+ in your own thinking
+
+989
+00:29:28,940 --> 00:29:30,380
+ to even get to
+
+990
+00:29:30,380 --> 00:29:31,220
+ what we see
+
+991
+00:29:31,220 --> 00:29:32,280
+ as kind of a basic
+
+992
+00:29:32,280 --> 00:29:33,960
+ conceptual intervention
+
+993
+00:29:33,960 --> 00:29:35,820
+ in constructionism.
+
+994
+00:29:35,880 --> 00:29:35,920
+ I agree.
+
+995
+00:29:36,640 --> 00:29:37,400
+ Well, yeah,
+
+996
+00:29:37,460 --> 00:29:37,660
+ I mean,
+
+997
+00:29:37,680 --> 00:29:39,400
+ I completely agree
+
+998
+00:29:39,400 --> 00:29:39,940
+ in that,
+
+999
+00:29:40,120 --> 00:29:40,360
+ you know,
+
+1000
+00:29:40,360 --> 00:29:41,680
+ we like to think
+
+1001
+00:29:41,680 --> 00:29:43,520
+ like the intervention
+
+1002
+00:29:43,520 --> 00:29:45,940
+ that people who think
+
+1003
+00:29:45,940 --> 00:29:47,300
+ like us tend to make
+
+1004
+00:29:47,300 --> 00:29:48,560
+ is to resist
+
+1005
+00:29:48,560 --> 00:29:49,080
+ that sort of
+
+1006
+00:29:49,080 --> 00:29:50,280
+ representational orientation
+
+1007
+00:29:50,280 --> 00:29:51,320
+ of language
+
+1008
+00:29:51,320 --> 00:29:51,880
+ and say no,
+
+1009
+00:29:51,960 --> 00:29:52,480
+ like language
+
+1010
+00:29:52,480 --> 00:29:53,380
+ is one force
+
+1011
+00:29:53,380 --> 00:29:54,460
+ among others
+
+1012
+00:29:54,460 --> 00:29:55,600
+ that is sort of,
+
+1013
+00:29:55,680 --> 00:29:55,860
+ you know,
+
+1014
+00:29:55,900 --> 00:29:57,040
+ working on and with
+
+1015
+00:29:57,040 --> 00:29:57,520
+ the world
+
+1016
+00:29:57,520 --> 00:29:58,280
+ and it's not sort of
+
+1017
+00:29:58,280 --> 00:29:58,820
+ transcendent
+
+1018
+00:29:58,820 --> 00:29:59,740
+ and representing it.
+
+1019
+00:30:00,140 --> 00:30:00,460
+ But that,
+
+1020
+00:30:01,240 --> 00:30:03,180
+ like language as medium,
+
+1021
+00:30:03,360 --> 00:30:04,700
+ language as conceptual medium,
+
+1022
+00:30:04,820 --> 00:30:05,960
+ accounting for the world
+
+1023
+00:30:05,960 --> 00:30:06,740
+ is,
+
+1024
+00:30:07,400 --> 00:30:08,700
+ you have to pass through that
+
+1025
+00:30:08,700 --> 00:30:10,160
+ before you can complicate it
+
+1026
+00:30:10,160 --> 00:30:10,840
+ and, you know,
+
+1027
+00:30:10,880 --> 00:30:11,820
+ I look at the way that like
+
+1028
+00:30:11,820 --> 00:30:14,440
+ Lachlan engages language
+
+1029
+00:30:14,440 --> 00:30:15,580
+ and, you know,
+
+1030
+00:30:15,600 --> 00:30:16,680
+ like a lot of our students
+
+1031
+00:30:16,680 --> 00:30:17,200
+ are engaged.
+
+1032
+00:30:17,320 --> 00:30:19,500
+ Like they are also engaged
+
+1033
+00:30:19,500 --> 00:30:21,120
+ in an immediacy of language
+
+1034
+00:30:21,120 --> 00:30:22,680
+ that there's not even
+
+1035
+00:30:22,680 --> 00:30:24,160
+ a representational function
+
+1036
+00:30:24,160 --> 00:30:25,000
+ for language.
+
+1037
+00:30:25,400 --> 00:30:26,260
+ Like death,
+
+1038
+00:30:26,760 --> 00:30:27,500
+ the word death,
+
+1039
+00:30:27,560 --> 00:30:28,280
+ the concept death
+
+1040
+00:30:28,280 --> 00:30:29,920
+ is also just death.
+
+1041
+00:30:30,140 --> 00:30:32,000
+ Like the empirical,
+
+1042
+00:30:32,620 --> 00:30:32,920
+ you know,
+
+1043
+00:30:32,980 --> 00:30:34,240
+ collection of phenomenon
+
+1044
+00:30:34,240 --> 00:30:34,960
+ that we've labeled,
+
+1045
+00:30:35,080 --> 00:30:37,260
+ like the work of the,
+
+1046
+00:30:37,360 --> 00:30:38,680
+ the work of the concept
+
+1047
+00:30:38,680 --> 00:30:39,240
+ of death
+
+1048
+00:30:39,240 --> 00:30:43,020
+ is so thoroughly constructing
+
+1049
+00:30:43,020 --> 00:30:44,800
+ in, you know,
+
+1050
+00:30:44,920 --> 00:30:47,500
+ the life world
+
+1051
+00:30:47,500 --> 00:30:48,640
+ of, you know,
+
+1052
+00:30:48,700 --> 00:30:49,680
+ like the immature
+
+1053
+00:30:49,680 --> 00:30:51,300
+ linguistic user
+
+1054
+00:30:51,300 --> 00:30:51,900
+ is that
+
+1055
+00:30:51,900 --> 00:30:53,340
+ it completely hides
+
+1056
+00:30:53,340 --> 00:30:54,000
+ its seams.
+
+1057
+00:30:54,280 --> 00:30:55,040
+ Is that,
+
+1058
+00:30:55,420 --> 00:30:55,720
+ you know,
+
+1059
+00:30:55,780 --> 00:30:56,320
+ the difference between
+
+1060
+00:30:56,320 --> 00:30:57,380
+ language in the world,
+
+1061
+00:30:58,080 --> 00:30:59,380
+ it is imminent,
+
+1062
+00:30:59,500 --> 00:31:00,140
+ just not imminent
+
+1063
+00:31:00,140 --> 00:31:00,960
+ in the way that
+
+1064
+00:31:00,960 --> 00:31:01,880
+ we have sort of
+
+1065
+00:31:01,880 --> 00:31:02,800
+ reasoned ourself
+
+1066
+00:31:02,800 --> 00:31:04,000
+ to see it.
+
+1067
+00:31:04,400 --> 00:31:04,920
+ Like they have to...
+
+1068
+00:31:04,920 --> 00:31:05,360
+ I don't know.
+
+1069
+00:31:05,580 --> 00:31:05,900
+ I mean,
+
+1070
+00:31:05,940 --> 00:31:06,460
+ I actually,
+
+1071
+00:31:06,660 --> 00:31:08,040
+ I actually kind of feel
+
+1072
+00:31:08,040 --> 00:31:08,660
+ the opposite.
+
+1073
+00:31:09,220 --> 00:31:09,420
+ Yeah.
+
+1074
+00:31:09,540 --> 00:31:09,860
+ Like,
+
+1075
+00:31:10,240 --> 00:31:10,500
+ yeah,
+
+1076
+00:31:10,560 --> 00:31:10,980
+ like I,
+
+1077
+00:31:11,020 --> 00:31:11,380
+ I mean,
+
+1078
+00:31:11,800 --> 00:31:12,260
+ and I,
+
+1079
+00:31:12,260 --> 00:31:12,940
+ I can't be wrong
+
+1080
+00:31:12,940 --> 00:31:13,280
+ about this,
+
+1081
+00:31:13,300 --> 00:31:14,060
+ so this is not a,
+
+1082
+00:31:14,180 --> 00:31:15,160
+ I'm not going to be
+
+1083
+00:31:15,160 --> 00:31:15,760
+ dogmatic about it,
+
+1084
+00:31:15,760 --> 00:31:16,740
+ but like I kind of feel
+
+1085
+00:31:16,740 --> 00:31:17,540
+ like it's,
+
+1086
+00:31:18,020 --> 00:31:18,240
+ you know,
+
+1087
+00:31:18,400 --> 00:31:19,260
+ I'll give you an example.
+
+1088
+00:31:20,320 --> 00:31:20,820
+ When I,
+
+1089
+00:31:20,960 --> 00:31:21,220
+ a long,
+
+1090
+00:31:21,320 --> 00:31:21,900
+ long time ago
+
+1091
+00:31:21,900 --> 00:31:23,200
+ when Aubrey was
+
+1092
+00:31:23,200 --> 00:31:24,280
+ a year and a half old
+
+1093
+00:31:24,280 --> 00:31:25,360
+ and this is when
+
+1094
+00:31:25,360 --> 00:31:26,320
+ I'm dating Sharon,
+
+1095
+00:31:26,320 --> 00:31:27,340
+ this is back in grad school
+
+1096
+00:31:27,340 --> 00:31:28,000
+ and I'm dating Sharon
+
+1097
+00:31:28,000 --> 00:31:28,660
+ and Aubrey's a year
+
+1098
+00:31:28,660 --> 00:31:29,100
+ and a half old
+
+1099
+00:31:29,100 --> 00:31:29,840
+ and I'm babysitting
+
+1100
+00:31:29,840 --> 00:31:30,640
+ with her and a friend
+
+1101
+00:31:30,640 --> 00:31:31,100
+ one day
+
+1102
+00:31:31,100 --> 00:31:33,240
+ and she and her,
+
+1103
+00:31:33,360 --> 00:31:34,180
+ like I'm reading out
+
+1104
+00:31:34,180 --> 00:31:34,680
+ in the living room
+
+1105
+00:31:34,680 --> 00:31:35,580
+ and she and her friend,
+
+1106
+00:31:35,820 --> 00:31:35,960
+ you know,
+
+1107
+00:31:35,980 --> 00:31:36,740
+ another two-year-old
+
+1108
+00:31:36,740 --> 00:31:37,060
+ or whatever
+
+1109
+00:31:37,060 --> 00:31:38,180
+ are playing in the back room
+
+1110
+00:31:38,180 --> 00:31:38,840
+ and,
+
+1111
+00:31:38,900 --> 00:31:39,420
+ you know,
+
+1112
+00:31:39,480 --> 00:31:40,140
+ I'm just sitting there
+
+1113
+00:31:40,140 --> 00:31:40,800
+ reading and suddenly
+
+1114
+00:31:40,800 --> 00:31:41,740
+ there's all this screaming
+
+1115
+00:31:41,740 --> 00:31:43,020
+ and I'm like,
+
+1116
+00:31:43,080 --> 00:31:43,660
+ and I jump up
+
+1117
+00:31:43,660 --> 00:31:44,300
+ and I run back there.
+
+1118
+00:31:44,380 --> 00:31:44,860
+ I'm terrified,
+
+1119
+00:31:45,040 --> 00:31:45,240
+ right?
+
+1120
+00:31:45,600 --> 00:31:46,360
+ And they're just,
+
+1121
+00:31:46,420 --> 00:31:47,020
+ they're just both
+
+1122
+00:31:47,020 --> 00:31:47,700
+ looking up at me
+
+1123
+00:31:47,700 --> 00:31:48,000
+ and I'm like,
+
+1124
+00:31:48,160 --> 00:31:49,100
+ what the hell's going on?
+
+1125
+00:31:49,120 --> 00:31:49,380
+ And they're like,
+
+1126
+00:31:49,480 --> 00:31:49,660
+ oh,
+
+1127
+00:31:49,800 --> 00:31:49,940
+ well,
+
+1128
+00:31:49,940 --> 00:31:50,440
+ we were playing
+
+1129
+00:31:50,440 --> 00:31:51,280
+ a screaming game.
+
+1130
+00:31:51,680 --> 00:31:52,040
+ I'm like,
+
+1131
+00:31:52,120 --> 00:31:52,380
+ oh,
+
+1132
+00:31:52,380 --> 00:31:52,700
+ fuck.
+
+1133
+00:31:53,300 --> 00:31:53,620
+ Okay,
+
+1134
+00:31:53,880 --> 00:31:54,240
+ okay,
+
+1135
+00:31:54,420 --> 00:31:55,100
+ do me a favor.
+
+1136
+00:31:55,440 --> 00:31:56,880
+ No more screaming game,
+
+1137
+00:31:56,960 --> 00:31:57,260
+ okay?
+
+1138
+00:31:57,380 --> 00:31:57,740
+ And they're like,
+
+1139
+00:32:01,100 --> 00:32:02,200
+ so I go out
+
+1140
+00:32:02,200 --> 00:32:02,780
+ and I sit down
+
+1141
+00:32:02,780 --> 00:32:03,600
+ and two minutes later,
+
+1142
+00:32:03,980 --> 00:32:04,340
+ ah,
+
+1143
+00:32:04,640 --> 00:32:05,420
+ all the screaming,
+
+1144
+00:32:05,520 --> 00:32:05,960
+ all the screaming
+
+1145
+00:32:05,960 --> 00:32:06,980
+ and I run back there
+
+1146
+00:32:06,980 --> 00:32:07,200
+ and they're like,
+
+1147
+00:32:07,260 --> 00:32:08,060
+ what's going on,
+
+1148
+00:32:08,100 --> 00:32:08,520
+ you guys?
+
+1149
+00:32:08,700 --> 00:32:09,260
+ And they're like,
+
+1150
+00:32:09,300 --> 00:32:09,600
+ what?
+
+1151
+00:32:09,960 --> 00:32:10,460
+ And I was like,
+
+1152
+00:32:10,880 --> 00:32:11,680
+ why were you screaming?
+
+1153
+00:32:11,760 --> 00:32:12,080
+ They're like,
+
+1154
+00:32:12,260 --> 00:32:12,500
+ no,
+
+1155
+00:32:12,600 --> 00:32:13,200
+ we were playing
+
+1156
+00:32:13,200 --> 00:32:14,160
+ a shouting game.
+
+1157
+00:32:16,160 --> 00:32:16,520
+ Wow.
+
+1158
+00:32:17,300 --> 00:32:18,660
+ And it was this moment,
+
+1159
+00:32:19,120 --> 00:32:20,160
+ they're two years old,
+
+1160
+00:32:20,160 --> 00:32:21,020
+ I'm not exaggerating,
+
+1161
+00:32:21,300 --> 00:32:21,460
+ right?
+
+1162
+00:32:21,520 --> 00:32:21,660
+ Like,
+
+1163
+00:32:21,720 --> 00:32:22,380
+ they're two years old
+
+1164
+00:32:22,380 --> 00:32:23,020
+ and they're like,
+
+1165
+00:32:23,300 --> 00:32:23,860
+ and they were just
+
+1166
+00:32:23,860 --> 00:32:24,960
+ dumbfounded
+
+1167
+00:32:24,960 --> 00:32:25,720
+ that I would have
+
+1168
+00:32:25,720 --> 00:32:26,720
+ mixed up
+
+1169
+00:32:26,720 --> 00:32:28,340
+ screaming and shouting
+
+1170
+00:32:28,340 --> 00:32:29,420
+ because they sounded
+
+1171
+00:32:29,420 --> 00:32:30,760
+ awfully frickin' similar.
+
+1172
+00:32:31,100 --> 00:32:32,280
+ And to me,
+
+1173
+00:32:32,540 --> 00:32:32,860
+ I'm like,
+
+1174
+00:32:32,900 --> 00:32:33,040
+ well,
+
+1175
+00:32:33,080 --> 00:32:33,840
+ who's the one
+
+1176
+00:32:33,840 --> 00:32:34,600
+ who's smoothing
+
+1177
+00:32:34,600 --> 00:32:35,320
+ over differences?
+
+1178
+00:32:36,100 --> 00:32:36,200
+ Yeah.
+
+1179
+00:32:36,300 --> 00:32:36,480
+ Right?
+
+1180
+00:32:36,680 --> 00:32:37,340
+ It's me,
+
+1181
+00:32:37,680 --> 00:32:37,980
+ right?
+
+1182
+00:32:38,100 --> 00:32:38,280
+ Like,
+
+1183
+00:32:38,380 --> 00:32:39,540
+ for practical purposes
+
+1184
+00:32:39,540 --> 00:32:40,260
+ and for totally
+
+1185
+00:32:40,260 --> 00:32:41,140
+ understandable ones,
+
+1186
+00:32:41,180 --> 00:32:42,920
+ but I am not making
+
+1187
+00:32:42,920 --> 00:32:43,420
+ a distinction
+
+1188
+00:32:43,420 --> 00:32:44,240
+ between screaming
+
+1189
+00:32:44,240 --> 00:32:44,740
+ and shouting
+
+1190
+00:32:44,740 --> 00:32:45,700
+ for the purposes
+
+1191
+00:32:45,700 --> 00:32:46,320
+ of them
+
+1192
+00:32:46,320 --> 00:32:47,460
+ and my concern
+
+1193
+00:32:47,460 --> 00:32:48,280
+ for their well-being,
+
+1194
+00:32:48,400 --> 00:32:48,640
+ right?
+
+1195
+00:32:48,780 --> 00:32:49,720
+ But they did
+
+1196
+00:32:49,720 --> 00:32:51,140
+ and they had no problem
+
+1197
+00:32:51,140 --> 00:32:52,080
+ making that distinction.
+
+1198
+00:32:52,340 --> 00:32:52,340
+ So,
+
+1199
+00:32:52,480 --> 00:32:53,060
+ and I also,
+
+1200
+00:32:53,300 --> 00:32:53,460
+ I mean,
+
+1201
+00:32:53,520 --> 00:32:53,900
+ to me,
+
+1202
+00:32:54,140 --> 00:32:54,880
+ and this is just
+
+1203
+00:32:54,880 --> 00:32:56,180
+ sort of phenomenologically,
+
+1204
+00:32:56,300 --> 00:32:56,880
+ experientially,
+
+1205
+00:32:57,200 --> 00:32:58,520
+ I always find,
+
+1206
+00:32:58,860 --> 00:32:59,100
+ like,
+
+1207
+00:32:59,200 --> 00:32:59,880
+ the concepts
+
+1208
+00:32:59,880 --> 00:33:00,600
+ with which I'm
+
+1209
+00:33:00,600 --> 00:33:01,460
+ understanding things
+
+1210
+00:33:01,460 --> 00:33:02,600
+ to make no sense,
+
+1211
+00:33:02,900 --> 00:33:03,540
+ to be so,
+
+1212
+00:33:03,760 --> 00:33:03,980
+ like,
+
+1213
+00:33:04,080 --> 00:33:05,100
+ just in my routine
+
+1214
+00:33:05,100 --> 00:33:06,440
+ everyday interaction.
+
+1215
+00:33:06,960 --> 00:33:07,340
+ And I'm saying
+
+1216
+00:33:07,340 --> 00:33:09,300
+ when I was 15 years old,
+
+1217
+00:33:09,380 --> 00:33:10,740
+ that was just as true
+
+1218
+00:33:10,740 --> 00:33:11,180
+ as it is
+
+1219
+00:33:11,180 --> 00:33:12,120
+ when I'm 50 years old.
+
+1220
+00:33:12,520 --> 00:33:12,760
+ Like,
+
+1221
+00:33:12,980 --> 00:33:14,320
+ these concepts of,
+
+1222
+00:33:14,400 --> 00:33:14,840
+ you know,
+
+1223
+00:33:14,920 --> 00:33:15,420
+ institution,
+
+1224
+00:33:15,940 --> 00:33:16,300
+ person,
+
+1225
+00:33:16,600 --> 00:33:16,920
+ scholar,
+
+1226
+00:33:17,180 --> 00:33:17,480
+ all these,
+
+1227
+00:33:17,560 --> 00:33:17,760
+ I'm like,
+
+1228
+00:33:17,840 --> 00:33:18,720
+ these just don't make
+
+1229
+00:33:18,720 --> 00:33:19,680
+ any sense to me.
+
+1230
+00:33:19,760 --> 00:33:20,980
+ They seem so coarse
+
+1231
+00:33:20,980 --> 00:33:22,380
+ and homogenizing.
+
+1232
+00:33:22,560 --> 00:33:23,500
+ So that's where I say,
+
+1233
+00:33:23,600 --> 00:33:23,760
+ like,
+
+1234
+00:33:24,060 --> 00:33:24,720
+ I'm not sure
+
+1235
+00:33:24,720 --> 00:33:25,380
+ that it's easier
+
+1236
+00:33:25,380 --> 00:33:26,160
+ and I'm not sure
+
+1237
+00:33:26,160 --> 00:33:27,420
+ that it's our natural inclination.
+
+1238
+00:33:27,540 --> 00:33:27,860
+ In fact,
+
+1239
+00:33:27,920 --> 00:33:29,060
+ maybe quite the opposite,
+
+1240
+00:33:29,260 --> 00:33:29,420
+ right?
+
+1241
+00:33:29,440 --> 00:33:30,240
+ That there's a kind of
+
+1242
+00:33:30,240 --> 00:33:31,760
+ training into
+
+1243
+00:33:31,760 --> 00:33:33,720
+ ignorance of difference.
+
+1244
+00:33:34,280 --> 00:33:34,320
+ Oh,
+
+1245
+00:33:34,320 --> 00:33:35,140
+ I think there's a training
+
+1246
+00:33:35,140 --> 00:33:35,740
+ in the ignorance
+
+1247
+00:33:35,740 --> 00:33:36,680
+ of difference,
+
+1248
+00:33:36,820 --> 00:33:37,180
+ but like,
+
+1249
+00:33:37,220 --> 00:33:37,360
+ you know,
+
+1250
+00:33:37,380 --> 00:33:38,240
+ I hear that story
+
+1251
+00:33:38,240 --> 00:33:39,280
+ and I hear that,
+
+1252
+00:33:39,560 --> 00:33:39,860
+ you know,
+
+1253
+00:33:40,340 --> 00:33:41,460
+ yelling and screaming
+
+1254
+00:33:41,460 --> 00:33:42,800
+ are two different ways
+
+1255
+00:33:42,800 --> 00:33:43,700
+ of categorizing
+
+1256
+00:33:43,700 --> 00:33:44,940
+ two different phenomena
+
+1257
+00:33:44,940 --> 00:33:45,700
+ in the world.
+
+1258
+00:33:46,020 --> 00:33:47,000
+ That yelling
+
+1259
+00:33:47,000 --> 00:33:48,060
+ is this,
+
+1260
+00:33:48,220 --> 00:33:49,160
+ not represents this,
+
+1261
+00:33:49,360 --> 00:33:49,820
+ is this,
+
+1262
+00:33:50,000 --> 00:33:50,540
+ and shouting,
+
+1263
+00:33:50,840 --> 00:33:51,200
+ screaming,
+
+1264
+00:33:51,360 --> 00:33:52,320
+ is this,
+
+1265
+00:33:52,420 --> 00:33:52,680
+ right?
+
+1266
+00:33:53,140 --> 00:33:54,100
+ And like,
+
+1267
+00:33:54,240 --> 00:33:54,520
+ I mean,
+
+1268
+00:33:54,640 --> 00:33:56,320
+ it's a profound literalness.
+
+1269
+00:33:56,320 --> 00:33:56,760
+ That's fair.
+
+1270
+00:33:57,340 --> 00:33:58,080
+ That's fair.
+
+1271
+00:33:58,300 --> 00:33:58,780
+ I mean,
+
+1272
+00:33:59,580 --> 00:34:00,540
+ what I find with Lachlan
+
+1273
+00:34:00,540 --> 00:34:01,880
+ is that he's at the stage now
+
+1274
+00:34:01,880 --> 00:34:03,720
+ where he has to develop,
+
+1275
+00:34:05,140 --> 00:34:06,220
+ in order to account
+
+1276
+00:34:06,220 --> 00:34:07,400
+ for what is basically
+
+1277
+00:34:07,400 --> 00:34:08,500
+ chaos in his life,
+
+1278
+00:34:08,580 --> 00:34:09,520
+ he has to account
+
+1279
+00:34:09,520 --> 00:34:10,280
+ for rules.
+
+1280
+00:34:10,400 --> 00:34:10,860
+ Even if those,
+
+1281
+00:34:11,060 --> 00:34:11,200
+ like,
+
+1282
+00:34:11,280 --> 00:34:11,980
+ he has to develop,
+
+1283
+00:34:12,180 --> 00:34:12,980
+ find rules
+
+1284
+00:34:12,980 --> 00:34:14,380
+ that explain
+
+1285
+00:34:14,380 --> 00:34:16,280
+ why this is like this
+
+1286
+00:34:16,280 --> 00:34:18,040
+ and why this is like this.
+
+1287
+00:34:18,040 --> 00:34:18,680
+ And he,
+
+1288
+00:34:18,800 --> 00:34:19,380
+ like,
+
+1289
+00:34:19,440 --> 00:34:20,380
+ has a certain kind
+
+1290
+00:34:20,380 --> 00:34:21,240
+ of will
+
+1291
+00:34:21,240 --> 00:34:22,680
+ toward figuring out
+
+1292
+00:34:22,680 --> 00:34:23,780
+ some kind of system
+
+1293
+00:34:23,780 --> 00:34:24,960
+ that can explain
+
+1294
+00:34:24,960 --> 00:34:26,780
+ why does this thing change
+
+1295
+00:34:26,780 --> 00:34:28,780
+ but this one over here
+
+1296
+00:34:28,780 --> 00:34:29,420
+ doesn't.
+
+1297
+00:34:29,800 --> 00:34:29,940
+ And,
+
+1298
+00:34:30,020 --> 00:34:30,120
+ you know,
+
+1299
+00:34:30,160 --> 00:34:30,260
+ he,
+
+1300
+00:34:30,340 --> 00:34:30,540
+ like,
+
+1301
+00:34:30,600 --> 00:34:31,660
+ learns language of,
+
+1302
+00:34:31,860 --> 00:34:31,900
+ like,
+
+1303
+00:34:32,220 --> 00:34:32,480
+ you know,
+
+1304
+00:34:32,540 --> 00:34:33,420
+ when it's like this,
+
+1305
+00:34:33,560 --> 00:34:34,340
+ it's like this.
+
+1306
+00:34:34,380 --> 00:34:35,900
+ Or sometimes it's like this
+
+1307
+00:34:35,900 --> 00:34:37,260
+ and other times
+
+1308
+00:34:37,260 --> 00:34:37,840
+ it's like that.
+
+1309
+00:34:37,900 --> 00:34:39,020
+ And he just has to find
+
+1310
+00:34:39,020 --> 00:34:39,660
+ these little,
+
+1311
+00:34:39,800 --> 00:34:39,960
+ like,
+
+1312
+00:34:39,980 --> 00:34:41,060
+ he has to find for him
+
+1313
+00:34:41,060 --> 00:34:42,000
+ whatever the little,
+
+1314
+00:34:42,000 --> 00:34:42,300
+ sort of,
+
+1315
+00:34:42,500 --> 00:34:44,680
+ the machinic hinges are
+
+1316
+00:34:44,680 --> 00:34:45,180
+ that...
+
+1317
+00:34:45,180 --> 00:34:46,440
+ The if-then statements.
+
+1318
+00:34:46,880 --> 00:34:47,220
+ Yeah,
+
+1319
+00:34:47,360 --> 00:34:47,700
+ right?
+
+1320
+00:34:47,880 --> 00:34:48,080
+ Yeah,
+
+1321
+00:34:48,140 --> 00:34:48,340
+ like,
+
+1322
+00:34:48,340 --> 00:34:49,540
+ whatever kind of this...
+
+1323
+00:34:49,540 --> 00:34:50,160
+ And they're like,
+
+1324
+00:34:50,360 --> 00:34:51,120
+ they're absurd
+
+1325
+00:34:51,120 --> 00:34:52,400
+ if-then statements.
+
+1326
+00:34:53,000 --> 00:34:55,180
+ But at least it gives him
+
+1327
+00:34:55,180 --> 00:34:56,540
+ traction into the thing.
+
+1328
+00:34:56,580 --> 00:34:57,820
+ And he's totally fine
+
+1329
+00:34:57,820 --> 00:34:59,620
+ replacing them later on.
+
+1330
+00:34:59,740 --> 00:35:00,520
+ But he just needs
+
+1331
+00:35:00,520 --> 00:35:01,320
+ to be provided
+
+1332
+00:35:01,320 --> 00:35:02,140
+ with a pathway
+
+1333
+00:35:02,140 --> 00:35:03,120
+ of how to get from
+
+1334
+00:35:03,120 --> 00:35:04,260
+ this little machine,
+
+1335
+00:35:04,380 --> 00:35:05,440
+ explanatory machinery
+
+1336
+00:35:05,440 --> 00:35:08,000
+ to that explanatory machinery.
+
+1337
+00:35:08,260 --> 00:35:09,660
+ And that's exactly where,
+
+1338
+00:35:09,760 --> 00:35:09,960
+ I mean,
+
+1339
+00:35:10,080 --> 00:35:10,560
+ you know,
+
+1340
+00:35:10,660 --> 00:35:11,340
+ we are just,
+
+1341
+00:35:11,780 --> 00:35:12,020
+ I mean,
+
+1342
+00:35:12,040 --> 00:35:13,060
+ I find myself frequently,
+
+1343
+00:35:13,160 --> 00:35:13,740
+ it's just the truth
+
+1344
+00:35:13,740 --> 00:35:14,160
+ and lies,
+
+1345
+00:35:14,240 --> 00:35:14,440
+ I say,
+
+1346
+00:35:14,520 --> 00:35:14,640
+ right?
+
+1347
+00:35:14,700 --> 00:35:15,940
+ What concepts give you,
+
+1348
+00:35:16,240 --> 00:35:17,260
+ concepts of race difference
+
+1349
+00:35:17,260 --> 00:35:18,020
+ and they give you
+
+1350
+00:35:18,020 --> 00:35:19,640
+ a sense of order
+
+1351
+00:35:19,640 --> 00:35:21,540
+ and regularity.
+
+1352
+00:35:21,660 --> 00:35:22,740
+ And there are different ways
+
+1353
+00:35:22,740 --> 00:35:23,140
+ of living
+
+1354
+00:35:23,140 --> 00:35:24,520
+ in the realm of concepts
+
+1355
+00:35:24,520 --> 00:35:25,720
+ and one is believing
+
+1356
+00:35:25,720 --> 00:35:26,320
+ in them
+
+1357
+00:35:26,320 --> 00:35:27,500
+ and the other is
+
+1358
+00:35:27,500 --> 00:35:28,880
+ playing with them
+
+1359
+00:35:28,880 --> 00:35:29,540
+ or using them
+
+1360
+00:35:29,540 --> 00:35:30,220
+ provisionally,
+
+1361
+00:35:30,300 --> 00:35:30,840
+ we would say,
+
+1362
+00:35:31,040 --> 00:35:31,260
+ right?
+
+1363
+00:35:31,380 --> 00:35:32,300
+ Although I would say
+
+1364
+00:35:32,300 --> 00:35:33,740
+ kind of counter Nietzsche there
+
+1365
+00:35:33,740 --> 00:35:34,460
+ is that,
+
+1366
+00:35:34,600 --> 00:35:34,820
+ you know,
+
+1367
+00:35:34,860 --> 00:35:35,820
+ they can be
+
+1368
+00:35:35,820 --> 00:35:37,660
+ simply mobilized pragmatically.
+
+1369
+00:35:37,820 --> 00:35:37,960
+ Like,
+
+1370
+00:35:38,020 --> 00:35:39,420
+ don't play the screaming game.
+
+1371
+00:35:39,480 --> 00:35:39,880
+ By the way,
+
+1372
+00:35:39,940 --> 00:35:41,240
+ I also mean the yelling game,
+
+1373
+00:35:41,320 --> 00:35:41,960
+ the shouting game.
+
+1374
+00:35:41,980 --> 00:35:43,460
+ It covers everything.
+
+1375
+00:35:43,720 --> 00:35:44,000
+ It covers everything that is,
+
+1376
+00:35:44,300 --> 00:35:44,540
+ yeah.
+
+1377
+00:35:45,100 --> 00:35:45,540
+ But what I,
+
+1378
+00:35:45,700 --> 00:35:46,900
+ but like Lachlan's line
+
+1379
+00:35:46,900 --> 00:35:47,600
+ of questioning,
+
+1380
+00:35:47,740 --> 00:35:49,320
+ like his insatiable curiosity
+
+1381
+00:35:49,320 --> 00:35:49,920
+ is like,
+
+1382
+00:35:50,420 --> 00:35:50,960
+ all right,
+
+1383
+00:35:51,300 --> 00:35:52,380
+ you just gave me
+
+1384
+00:35:52,380 --> 00:35:53,100
+ a concept
+
+1385
+00:35:53,100 --> 00:35:54,220
+ or a category.
+
+1386
+00:35:54,720 --> 00:35:55,040
+ Now,
+
+1387
+00:35:55,280 --> 00:35:57,000
+ that has some implications to it.
+
+1388
+00:35:57,140 --> 00:35:58,060
+ So let's follow through
+
+1389
+00:35:58,060 --> 00:35:58,920
+ with those implications
+
+1390
+00:35:58,920 --> 00:35:59,700
+ and what does it mean
+
+1391
+00:35:59,700 --> 00:36:00,400
+ for these other things?
+
+1392
+00:36:00,420 --> 00:36:00,860
+ Because I thought
+
+1393
+00:36:00,860 --> 00:36:01,480
+ I had a handle
+
+1394
+00:36:01,480 --> 00:36:02,380
+ on these other things
+
+1395
+00:36:02,380 --> 00:36:03,760
+ but I clearly don't now
+
+1396
+00:36:03,760 --> 00:36:04,480
+ because you've messed
+
+1397
+00:36:04,480 --> 00:36:05,300
+ with that system
+
+1398
+00:36:05,300 --> 00:36:06,340
+ and then that one's
+
+1399
+00:36:06,340 --> 00:36:06,700
+ going to lead
+
+1400
+00:36:06,700 --> 00:36:07,400
+ to the next one
+
+1401
+00:36:07,400 --> 00:36:08,340
+ and it's the infinite
+
+1402
+00:36:08,340 --> 00:36:09,640
+ and it's not even just like,
+
+1403
+00:36:09,740 --> 00:36:09,860
+ you know,
+
+1404
+00:36:09,900 --> 00:36:11,000
+ he's not two years old anymore
+
+1405
+00:36:11,000 --> 00:36:12,520
+ where it's just Y, Y, Y, Y, Y, Y.
+
+1406
+00:36:12,640 --> 00:36:13,200
+ It's like,
+
+1407
+00:36:13,280 --> 00:36:13,880
+ okay,
+
+1408
+00:36:14,300 --> 00:36:15,100
+ given X,
+
+1409
+00:36:15,260 --> 00:36:16,200
+ then what does that have to do
+
+1410
+00:36:16,200 --> 00:36:17,680
+ with Y over here?
+
+1411
+00:36:18,020 --> 00:36:18,980
+ And then you just realize
+
+1412
+00:36:18,980 --> 00:36:19,900
+ that like following
+
+1413
+00:36:19,900 --> 00:36:21,720
+ that conceptual rabbit hole,
+
+1414
+00:36:22,180 --> 00:36:22,540
+ you know,
+
+1415
+00:36:23,080 --> 00:36:23,560
+ like,
+
+1416
+00:36:24,120 --> 00:36:24,840
+ you're just talking about
+
+1417
+00:36:24,840 --> 00:36:26,040
+ who's smoothing over differences?
+
+1418
+00:36:26,440 --> 00:36:26,800
+ It's like,
+
+1419
+00:36:27,020 --> 00:36:28,320
+ this game needs to stop
+
+1420
+00:36:28,320 --> 00:36:29,340
+ because we need to be able
+
+1421
+00:36:29,340 --> 00:36:29,960
+ to have dinner
+
+1422
+00:36:29,960 --> 00:36:32,720
+ or I am just not explaining,
+
+1423
+00:36:32,720 --> 00:36:33,120
+ you know,
+
+1424
+00:36:33,160 --> 00:36:34,480
+ this concept to you
+
+1425
+00:36:34,480 --> 00:36:35,680
+ which I know if I,
+
+1426
+00:36:35,860 --> 00:36:36,320
+ if, you know,
+
+1427
+00:36:36,340 --> 00:36:37,660
+ as soon as you can get this concept,
+
+1428
+00:36:37,760 --> 00:36:38,320
+ you're going to push it
+
+1429
+00:36:38,320 --> 00:36:39,060
+ to the next one
+
+1430
+00:36:39,060 --> 00:36:41,120
+ and it's ad infinitum.
+
+1431
+00:36:41,360 --> 00:36:42,260
+ I mean,
+
+1432
+00:36:42,300 --> 00:36:43,160
+ it's fun as shit
+
+1433
+00:36:43,160 --> 00:36:44,200
+ until it's not.
+
+1434
+00:36:45,020 --> 00:36:45,200
+ Well,
+
+1435
+00:36:45,260 --> 00:36:45,900
+ does he find,
+
+1436
+00:36:46,040 --> 00:36:47,480
+ does he seem to enjoy
+
+1437
+00:36:47,480 --> 00:36:48,360
+ like the process?
+
+1438
+00:36:48,600 --> 00:36:48,700
+ Like,
+
+1439
+00:36:48,720 --> 00:36:50,260
+ is he invested in an answer
+
+1440
+00:36:50,260 --> 00:36:51,120
+ or like,
+
+1441
+00:36:51,160 --> 00:36:52,900
+ does he want to just keep questioning?
+
+1442
+00:36:53,000 --> 00:36:53,100
+ Like,
+
+1443
+00:36:53,140 --> 00:36:54,520
+ does he just like the line?
+
+1444
+00:36:54,520 --> 00:36:55,580
+ He wants to keep questioning.
+
+1445
+00:36:55,800 --> 00:36:56,260
+ Like the thing,
+
+1446
+00:36:56,420 --> 00:36:57,780
+ like the most recent example,
+
+1447
+00:36:58,060 --> 00:36:59,120
+ so my mom is visiting
+
+1448
+00:36:59,120 --> 00:37:00,360
+ for the first time in two years,
+
+1449
+00:37:00,360 --> 00:37:01,800
+ which has been great
+
+1450
+00:37:01,800 --> 00:37:02,840
+ because the pandemic
+
+1451
+00:37:02,840 --> 00:37:03,340
+ has kept this,
+
+1452
+00:37:03,840 --> 00:37:03,960
+ you know,
+
+1453
+00:37:03,960 --> 00:37:04,720
+ we went to the park
+
+1454
+00:37:04,720 --> 00:37:05,860
+ and down at the,
+
+1455
+00:37:05,860 --> 00:37:08,660
+ at the harbor front,
+
+1456
+00:37:08,760 --> 00:37:10,560
+ there's like this big play structure
+
+1457
+00:37:10,560 --> 00:37:11,720
+ that's like shaped
+
+1458
+00:37:11,720 --> 00:37:12,420
+ like a submarine
+
+1459
+00:37:12,420 --> 00:37:15,000
+ and he basically like
+
+1460
+00:37:15,000 --> 00:37:16,420
+ interrogated my mom
+
+1461
+00:37:16,420 --> 00:37:18,240
+ about every last piece
+
+1462
+00:37:18,240 --> 00:37:19,800
+ of the submarine
+
+1463
+00:37:19,800 --> 00:37:22,520
+ and the main driving questioning
+
+1464
+00:37:22,520 --> 00:37:23,300
+ was sort of like,
+
+1465
+00:37:23,380 --> 00:37:23,660
+ all right,
+
+1466
+00:37:23,960 --> 00:37:25,020
+ what is,
+
+1467
+00:37:25,380 --> 00:37:27,180
+ what about this structure,
+
+1468
+00:37:27,280 --> 00:37:28,720
+ like this play structure submarine,
+
+1469
+00:37:29,080 --> 00:37:31,300
+ it resembles a real submarine
+
+1470
+00:37:31,300 --> 00:37:32,760
+ and what makes it
+
+1471
+00:37:32,760 --> 00:37:33,800
+ its play structure-ness
+
+1472
+00:37:33,800 --> 00:37:35,000
+ and how would that be different
+
+1473
+00:37:35,000 --> 00:37:36,360
+ from a real submarine
+
+1474
+00:37:36,360 --> 00:37:37,400
+ and,
+
+1475
+00:37:37,700 --> 00:37:38,280
+ you know,
+
+1476
+00:37:38,340 --> 00:37:39,260
+ trying to figure out
+
+1477
+00:37:39,260 --> 00:37:40,260
+ the logics of
+
+1478
+00:37:40,260 --> 00:37:41,580
+ why this one
+
+1479
+00:37:41,580 --> 00:37:42,720
+ is done this way
+
+1480
+00:37:42,720 --> 00:37:43,840
+ for the sake of play
+
+1481
+00:37:43,840 --> 00:37:44,620
+ and the other one
+
+1482
+00:37:44,620 --> 00:37:45,660
+ is done for the sake
+
+1483
+00:37:45,660 --> 00:37:46,580
+ of something else
+
+1484
+00:37:46,580 --> 00:37:47,340
+ and by the way,
+
+1485
+00:37:47,500 --> 00:37:48,140
+ do real submarines
+
+1486
+00:37:48,140 --> 00:37:49,000
+ have wheels on them
+
+1487
+00:37:49,000 --> 00:37:49,740
+ in case they get stuck
+
+1488
+00:37:49,740 --> 00:37:50,240
+ in the mud
+
+1489
+00:37:50,240 --> 00:37:51,660
+ and like,
+
+1490
+00:37:52,140 --> 00:37:53,240
+ if he was invested
+
+1491
+00:37:53,240 --> 00:37:53,940
+ in an answer,
+
+1492
+00:37:54,120 --> 00:37:55,060
+ I feel like
+
+1493
+00:37:55,060 --> 00:37:56,780
+ we would have hit upon one
+
+1494
+00:37:56,780 --> 00:37:58,260
+ that would satisfy him
+
+1495
+00:37:58,260 --> 00:37:59,180
+ but he's never been
+
+1496
+00:37:59,180 --> 00:38:00,060
+ satisfied yet.
+
+1497
+00:38:00,520 --> 00:38:00,760
+ There is,
+
+1498
+00:38:00,840 --> 00:38:01,940
+ every single case
+
+1499
+00:38:01,940 --> 00:38:02,500
+ been like
+
+1500
+00:38:02,500 --> 00:38:03,920
+ an arbitrary reason
+
+1501
+00:38:03,920 --> 00:38:04,400
+ to,
+
+1502
+00:38:04,660 --> 00:38:05,520
+ either he's been
+
+1503
+00:38:05,520 --> 00:38:06,360
+ just sort of directed
+
+1504
+00:38:06,360 --> 00:38:07,140
+ into another line
+
+1505
+00:38:07,140 --> 00:38:08,180
+ of reasoning
+
+1506
+00:38:08,180 --> 00:38:08,940
+ that culminates
+
+1507
+00:38:08,940 --> 00:38:10,120
+ in food or sleep
+
+1508
+00:38:10,120 --> 00:38:11,460
+ or,
+
+1509
+00:38:11,460 --> 00:38:12,720
+ or it's been,
+
+1510
+00:38:12,780 --> 00:38:12,980
+ you know,
+
+1511
+00:38:13,060 --> 00:38:13,940
+ cut off by,
+
+1512
+00:38:14,040 --> 00:38:14,260
+ you know,
+
+1513
+00:38:14,320 --> 00:38:15,180
+ whoever the adult is.
+
+1514
+00:38:15,180 --> 00:38:15,680
+ I feel like
+
+1515
+00:38:15,680 --> 00:38:16,340
+ that's exactly
+
+1516
+00:38:16,340 --> 00:38:17,040
+ how I live.
+
+1517
+00:38:17,180 --> 00:38:17,360
+ Like,
+
+1518
+00:38:17,400 --> 00:38:18,280
+ you just described
+
+1519
+00:38:18,280 --> 00:38:19,120
+ my life.
+
+1520
+00:38:19,920 --> 00:38:20,140
+ Yeah.
+
+1521
+00:38:20,440 --> 00:38:20,600
+ Yeah.
+
+1522
+00:38:20,600 --> 00:38:20,860
+ Like,
+
+1523
+00:38:20,880 --> 00:38:21,280
+ I'm just trying
+
+1524
+00:38:21,280 --> 00:38:21,720
+ to figure out
+
+1525
+00:38:21,720 --> 00:38:22,440
+ why these things
+
+1526
+00:38:22,440 --> 00:38:22,980
+ are connected
+
+1527
+00:38:22,980 --> 00:38:23,400
+ and why,
+
+1528
+00:38:23,500 --> 00:38:23,680
+ like,
+
+1529
+00:38:23,780 --> 00:38:24,240
+ what sense
+
+1530
+00:38:24,240 --> 00:38:24,940
+ it possibly makes
+
+1531
+00:38:24,940 --> 00:38:25,640
+ until I get
+
+1532
+00:38:25,640 --> 00:38:26,440
+ to food or sleep.
+
+1533
+00:38:33,620 --> 00:38:34,620
+ I actually think
+
+1534
+00:38:34,620 --> 00:38:36,100
+ like lots of kids
+
+1535
+00:38:36,100 --> 00:38:36,600
+ are curious
+
+1536
+00:38:36,600 --> 00:38:37,140
+ and questioning
+
+1537
+00:38:37,140 --> 00:38:37,800
+ and in fact
+
+1538
+00:38:37,800 --> 00:38:38,760
+ what education does
+
+1539
+00:38:38,760 --> 00:38:39,840
+ is stop that,
+
+1540
+00:38:40,080 --> 00:38:40,220
+ right?
+
+1541
+00:38:40,220 --> 00:38:42,860
+ it stifles it
+
+1542
+00:38:42,860 --> 00:38:44,800
+ or it channels it
+
+1543
+00:38:44,800 --> 00:38:45,620
+ in such a way
+
+1544
+00:38:45,620 --> 00:38:47,800
+ as to make the kids
+
+1545
+00:38:47,800 --> 00:38:48,900
+ not want to ask
+
+1546
+00:38:48,900 --> 00:38:49,360
+ questions,
+
+1547
+00:38:49,500 --> 00:38:49,720
+ you know?
+
+1548
+00:38:49,780 --> 00:38:50,580
+ The whole structure
+
+1549
+00:38:50,580 --> 00:38:52,240
+ of education,
+
+1550
+00:38:52,620 --> 00:38:54,260
+ even in primary school,
+
+1551
+00:38:54,420 --> 00:38:54,980
+ probably starting
+
+1552
+00:38:54,980 --> 00:38:55,680
+ in kindergarten,
+
+1553
+00:38:55,780 --> 00:38:56,740
+ it starts to stifle
+
+1554
+00:38:56,740 --> 00:38:57,040
+ that.
+
+1555
+00:38:57,480 --> 00:38:57,640
+ I mean,
+
+1556
+00:38:57,740 --> 00:38:58,220
+ and this is,
+
+1557
+00:38:58,340 --> 00:38:58,680
+ by the way,
+
+1558
+00:38:58,720 --> 00:38:59,480
+ this is exactly
+
+1559
+00:38:59,480 --> 00:39:00,060
+ what Heidegger
+
+1560
+00:39:00,060 --> 00:39:00,600
+ would say.
+
+1561
+00:39:00,660 --> 00:39:00,860
+ Yeah.
+
+1562
+00:39:01,020 --> 00:39:03,540
+ I just repeated
+
+1563
+00:39:03,540 --> 00:39:04,700
+ a mantra of it
+
+1564
+00:39:04,700 --> 00:39:05,420
+ like education
+
+1565
+00:39:05,420 --> 00:39:06,700
+ is what reduces us
+
+1566
+00:39:06,700 --> 00:39:07,580
+ into the realm
+
+1567
+00:39:07,580 --> 00:39:08,260
+ of representation
+
+1568
+00:39:08,260 --> 00:39:09,500
+ in technological thinking.
+
+1569
+00:39:09,900 --> 00:39:10,020
+ Yeah.
+
+1570
+00:39:10,200 --> 00:39:10,300
+ Yeah.
+
+1571
+00:39:10,400 --> 00:39:10,720
+ I,
+
+1572
+00:39:10,900 --> 00:39:12,160
+ and it's hard
+
+1573
+00:39:12,160 --> 00:39:12,880
+ not to agree
+
+1574
+00:39:12,880 --> 00:39:13,260
+ with that
+
+1575
+00:39:13,260 --> 00:39:13,840
+ for a certain,
+
+1576
+00:39:14,540 --> 00:39:16,160
+ from a,
+
+1577
+00:39:16,300 --> 00:39:17,380
+ to a certain degree
+
+1578
+00:39:17,380 --> 00:39:18,680
+ except that,
+
+1579
+00:39:18,900 --> 00:39:19,120
+ you know,
+
+1580
+00:39:19,120 --> 00:39:19,760
+ I think as we just
+
+1581
+00:39:19,760 --> 00:39:20,480
+ demonstrated,
+
+1582
+00:39:20,720 --> 00:39:20,860
+ you know,
+
+1583
+00:39:20,880 --> 00:39:21,700
+ I brought up like,
+
+1584
+00:39:21,820 --> 00:39:22,000
+ yes,
+
+1585
+00:39:22,020 --> 00:39:22,440
+ I'm biased.
+
+1586
+00:39:22,440 --> 00:39:23,060
+ I think Lachlan
+
+1587
+00:39:23,060 --> 00:39:23,960
+ is freaking awesome
+
+1588
+00:39:23,960 --> 00:39:25,560
+ but I also just think
+
+1589
+00:39:25,560 --> 00:39:26,760
+ that it's the internal
+
+1590
+00:39:26,760 --> 00:39:28,120
+ structure of the
+
+1591
+00:39:28,120 --> 00:39:29,360
+ categorical impulse
+
+1592
+00:39:29,360 --> 00:39:29,860
+ as well.
+
+1593
+00:39:29,900 --> 00:39:30,360
+ I just think about
+
+1594
+00:39:30,360 --> 00:39:31,100
+ the Socratic
+
+1595
+00:39:31,100 --> 00:39:32,640
+ like dialectic
+
+1596
+00:39:32,640 --> 00:39:32,800
+ is,
+
+1597
+00:39:32,920 --> 00:39:33,000
+ you know,
+
+1598
+00:39:33,000 --> 00:39:33,460
+ just think about
+
+1599
+00:39:33,460 --> 00:39:34,480
+ how many
+
+1600
+00:39:34,480 --> 00:39:36,440
+ Platonists
+
+1601
+00:39:36,440 --> 00:39:38,240
+ arbitrarily stop
+
+1602
+00:39:38,240 --> 00:39:40,260
+ the dialectical process
+
+1603
+00:39:40,260 --> 00:39:41,000
+ at a certain point
+
+1604
+00:39:41,000 --> 00:39:41,560
+ when they found
+
+1605
+00:39:41,560 --> 00:39:41,980
+ the answer
+
+1606
+00:39:41,980 --> 00:39:42,620
+ that they like
+
+1607
+00:39:42,620 --> 00:39:43,760
+ and then ignore
+
+1608
+00:39:43,760 --> 00:39:44,400
+ the X number
+
+1609
+00:39:44,400 --> 00:39:45,340
+ of pages afterwards
+
+1610
+00:39:45,340 --> 00:39:45,840
+ where,
+
+1611
+00:39:46,160 --> 00:39:46,520
+ you know,
+
+1612
+00:39:46,580 --> 00:39:47,460
+ the thing got turned
+
+1613
+00:39:47,460 --> 00:39:48,180
+ upside down.
+
+1614
+00:39:48,320 --> 00:39:48,600
+ Like in the
+
+1615
+00:39:48,600 --> 00:39:49,080
+ Gorgias,
+
+1616
+00:39:49,160 --> 00:39:49,620
+ for example,
+
+1617
+00:39:49,760 --> 00:39:49,940
+ like,
+
+1618
+00:39:50,300 --> 00:39:50,600
+ you know,
+
+1619
+00:39:50,700 --> 00:39:52,060
+ the rhetoric
+
+1620
+00:39:52,060 --> 00:39:53,540
+ as flattery
+
+1621
+00:39:53,540 --> 00:39:54,720
+ analogy.
+
+1622
+00:39:54,880 --> 00:39:55,000
+ I'm like,
+
+1623
+00:39:55,040 --> 00:39:55,200
+ all right,
+
+1624
+00:39:55,220 --> 00:39:55,320
+ well,
+
+1625
+00:39:55,320 --> 00:39:56,200
+ we found Socrates'
+
+1626
+00:39:56,200 --> 00:39:56,740
+ answer
+
+1627
+00:39:56,740 --> 00:39:57,560
+ and you don't realize
+
+1628
+00:39:57,560 --> 00:39:58,180
+ that's only halfway
+
+1629
+00:39:58,180 --> 00:39:59,080
+ through the dialogue
+
+1630
+00:39:59,080 --> 00:40:00,220
+ and shit changes.
+
+1631
+00:40:00,220 --> 00:40:01,360
+ not even that
+
+1632
+00:40:01,360 --> 00:40:02,380
+ and a lot of shit
+
+1633
+00:40:02,380 --> 00:40:04,060
+ happens between one
+
+1634
+00:40:04,060 --> 00:40:04,800
+ and the other
+
+1635
+00:40:04,800 --> 00:40:05,440
+ and the machinery
+
+1636
+00:40:05,440 --> 00:40:06,960
+ just never ends
+
+1637
+00:40:06,960 --> 00:40:07,440
+ and that sort of
+
+1638
+00:40:07,440 --> 00:40:08,280
+ like that impulse,
+
+1639
+00:40:08,440 --> 00:40:09,980
+ that categorical impulse,
+
+1640
+00:40:10,160 --> 00:40:11,100
+ which is always a
+
+1641
+00:40:11,100 --> 00:40:12,160
+ differential impulse,
+
+1642
+00:40:12,360 --> 00:40:12,620
+ right,
+
+1643
+00:40:13,060 --> 00:40:13,720
+ that, you know,
+
+1644
+00:40:13,720 --> 00:40:14,700
+ it's always producing
+
+1645
+00:40:14,700 --> 00:40:15,800
+ a difference,
+
+1646
+00:40:16,160 --> 00:40:16,480
+ like,
+
+1647
+00:40:16,660 --> 00:40:17,940
+ is insatiable
+
+1648
+00:40:17,940 --> 00:40:19,140
+ and it doesn't
+
+1649
+00:40:19,140 --> 00:40:20,160
+ have to be
+
+1650
+00:40:20,160 --> 00:40:22,320
+ used sort of like
+
+1651
+00:40:22,320 --> 00:40:23,340
+ purely for pragmatic
+
+1652
+00:40:23,340 --> 00:40:23,860
+ purposes.
+
+1653
+00:40:24,000 --> 00:40:24,320
+ and in fact,
+
+1654
+00:40:24,320 --> 00:40:25,220
+ if you follow it
+
+1655
+00:40:25,220 --> 00:40:25,640
+ strictly,
+
+1656
+00:40:26,060 --> 00:40:27,160
+ it never allows
+
+1657
+00:40:27,160 --> 00:40:27,920
+ itself to rest
+
+1658
+00:40:27,920 --> 00:40:28,400
+ long enough
+
+1659
+00:40:28,400 --> 00:40:29,200
+ to be used
+
+1660
+00:40:29,200 --> 00:40:31,060
+ satisfyingly
+
+1661
+00:40:31,060 --> 00:40:31,680
+ for pragmatic
+
+1662
+00:40:31,680 --> 00:40:32,080
+ purposes.
+
+1663
+00:40:32,480 --> 00:40:32,500
+ Now,
+
+1664
+00:40:32,540 --> 00:40:33,440
+ I do remember
+
+1665
+00:40:33,440 --> 00:40:34,440
+ like as a kid
+
+1666
+00:40:34,440 --> 00:40:35,380
+ kind of following
+
+1667
+00:40:35,380 --> 00:40:36,200
+ that line of
+
+1668
+00:40:36,200 --> 00:40:36,600
+ questioning
+
+1669
+00:40:36,600 --> 00:40:37,440
+ with my parents,
+
+1670
+00:40:37,540 --> 00:40:37,660
+ like,
+
+1671
+00:40:37,740 --> 00:40:38,320
+ I remember I would
+
+1672
+00:40:38,320 --> 00:40:39,000
+ do it to my dad
+
+1673
+00:40:39,000 --> 00:40:39,380
+ a lot,
+
+1674
+00:40:39,460 --> 00:40:40,280
+ like what you're
+
+1675
+00:40:40,280 --> 00:40:41,200
+ describing with Lachlan,
+
+1676
+00:40:41,300 --> 00:40:41,900
+ like I would just
+
+1677
+00:40:41,900 --> 00:40:42,780
+ incessantly
+
+1678
+00:40:42,780 --> 00:40:43,960
+ ask questions
+
+1679
+00:40:43,960 --> 00:40:44,700
+ and it was not
+
+1680
+00:40:44,700 --> 00:40:46,140
+ with the telos
+
+1681
+00:40:46,140 --> 00:40:47,460
+ of satisfying
+
+1682
+00:40:47,460 --> 00:40:48,440
+ with an answer,
+
+1683
+00:40:48,880 --> 00:40:49,140
+ right,
+
+1684
+00:40:49,180 --> 00:40:49,700
+ you're just kind of
+
+1685
+00:40:49,700 --> 00:40:50,520
+ playing with connections
+
+1686
+00:40:50,520 --> 00:40:51,880
+ and seeing where they go
+
+1687
+00:40:51,880 --> 00:40:53,420
+ and trying to be creative
+
+1688
+00:40:53,420 --> 00:40:54,020
+ and whatever,
+
+1689
+00:40:54,220 --> 00:40:55,320
+ but I do find that,
+
+1690
+00:40:55,500 --> 00:40:56,500
+ or at least I remember,
+
+1691
+00:40:56,940 --> 00:40:57,600
+ there were certain
+
+1692
+00:40:57,600 --> 00:40:58,880
+ questions that I did
+
+1693
+00:40:58,880 --> 00:40:59,620
+ want an answer
+
+1694
+00:40:59,620 --> 00:41:00,940
+ and I wanted one
+
+1695
+00:41:00,940 --> 00:41:01,940
+ desperately,
+
+1696
+00:41:02,120 --> 00:41:03,100
+ like we brought up
+
+1697
+00:41:03,100 --> 00:41:04,160
+ the question of death,
+
+1698
+00:41:04,680 --> 00:41:05,400
+ like as a,
+
+1699
+00:41:05,400 --> 00:41:06,580
+ as like a three
+
+1700
+00:41:06,580 --> 00:41:07,340
+ or four year old
+
+1701
+00:41:07,340 --> 00:41:07,960
+ or whatever,
+
+1702
+00:41:08,140 --> 00:41:08,500
+ for me,
+
+1703
+00:41:08,580 --> 00:41:09,880
+ like this was a,
+
+1704
+00:41:10,180 --> 00:41:10,460
+ you know,
+
+1705
+00:41:10,480 --> 00:41:11,420
+ it's a terrifying concept
+
+1706
+00:41:11,420 --> 00:41:12,720
+ for any child,
+
+1707
+00:41:12,980 --> 00:41:13,940
+ but like I remember
+
+1708
+00:41:13,940 --> 00:41:14,900
+ just being like
+
+1709
+00:41:14,900 --> 00:41:16,040
+ so confounded
+
+1710
+00:41:16,040 --> 00:41:18,640
+ that this would all end
+
+1711
+00:41:18,640 --> 00:41:19,720
+ at some point
+
+1712
+00:41:19,720 --> 00:41:20,460
+ and so I would just
+
+1713
+00:41:20,460 --> 00:41:21,620
+ like be telling my mom
+
+1714
+00:41:21,620 --> 00:41:21,800
+ like,
+
+1715
+00:41:21,880 --> 00:41:21,960
+ well,
+
+1716
+00:41:22,020 --> 00:41:22,300
+ what the,
+
+1717
+00:41:22,440 --> 00:41:22,940
+ what the fuck
+
+1718
+00:41:22,940 --> 00:41:23,520
+ do you mean?
+
+1719
+00:41:23,580 --> 00:41:24,680
+ And I said that exactly,
+
+1720
+00:41:24,800 --> 00:41:25,380
+ what the fuck
+
+1721
+00:41:25,380 --> 00:41:26,200
+ do you mean mom
+
+1722
+00:41:26,200 --> 00:41:27,580
+ at four years old?
+
+1723
+00:41:27,620 --> 00:41:28,000
+ What do you mean
+
+1724
+00:41:28,000 --> 00:41:28,580
+ we're gonna die?
+
+1725
+00:41:28,860 --> 00:41:29,260
+ Level with me.
+
+1726
+00:41:29,480 --> 00:41:30,620
+ And like the only way
+
+1727
+00:41:30,620 --> 00:41:32,420
+ she could soothe me
+
+1728
+00:41:32,420 --> 00:41:33,000
+ out of that
+
+1729
+00:41:33,000 --> 00:41:33,500
+ is by,
+
+1730
+00:41:33,660 --> 00:41:33,960
+ you know,
+
+1731
+00:41:34,020 --> 00:41:34,380
+ lying
+
+1732
+00:41:34,380 --> 00:41:34,720
+ and it,
+
+1733
+00:41:34,720 --> 00:41:35,040
+ and it,
+
+1734
+00:41:35,420 --> 00:41:35,880
+ it did.
+
+1735
+00:41:36,020 --> 00:41:37,040
+ I remember like
+
+1736
+00:41:37,040 --> 00:41:38,440
+ this exact conversation
+
+1737
+00:41:38,440 --> 00:41:39,000
+ she goes,
+
+1738
+00:41:39,400 --> 00:41:40,220
+ now by the time
+
+1739
+00:41:40,220 --> 00:41:40,660
+ you're older,
+
+1740
+00:41:40,760 --> 00:41:42,080
+ like science has progressed
+
+1741
+00:41:42,080 --> 00:41:42,700
+ to the point
+
+1742
+00:41:42,700 --> 00:41:43,320
+ where they will have
+
+1743
+00:41:43,320 --> 00:41:43,800
+ a pill,
+
+1744
+00:41:43,920 --> 00:41:45,500
+ that will allow you
+
+1745
+00:41:45,500 --> 00:41:46,440
+ to live forever
+
+1746
+00:41:46,440 --> 00:41:47,640
+ and that's the only way
+
+1747
+00:41:47,640 --> 00:41:48,160
+ she could get me
+
+1748
+00:41:48,160 --> 00:41:49,020
+ to shut the hell up
+
+1749
+00:41:49,020 --> 00:41:49,980
+ and like go to sleep
+
+1750
+00:41:49,980 --> 00:41:50,840
+ and be comforted
+
+1751
+00:41:50,840 --> 00:41:51,320
+ and I was like,
+
+1752
+00:41:51,520 --> 00:41:52,060
+ okay,
+
+1753
+00:41:52,660 --> 00:41:53,520
+ like by the time
+
+1754
+00:41:53,520 --> 00:41:54,160
+ I'm an adult,
+
+1755
+00:41:54,380 --> 00:41:55,540
+ we will never die.
+
+1756
+00:41:57,440 --> 00:41:57,840
+ well,
+
+1757
+00:41:57,840 --> 00:41:58,160
+ you know,
+
+1758
+00:41:58,160 --> 00:42:00,060
+ similar to that heaven story,
+
+1759
+00:42:00,260 --> 00:42:00,400
+ you know,
+
+1760
+00:42:00,440 --> 00:42:01,820
+ like I got the actual
+
+1761
+00:42:01,820 --> 00:42:02,660
+ heaven story,
+
+1762
+00:42:02,880 --> 00:42:03,180
+ you know,
+
+1763
+00:42:03,220 --> 00:42:04,060
+ when I would insistently
+
+1764
+00:42:04,060 --> 00:42:05,060
+ ask about that
+
+1765
+00:42:05,060 --> 00:42:05,660
+ as a kid
+
+1766
+00:42:05,660 --> 00:42:07,140
+ and that one scared me
+
+1767
+00:42:07,140 --> 00:42:07,920
+ more than death
+
+1768
+00:42:07,920 --> 00:42:10,160
+ because it was like,
+
+1769
+00:42:10,420 --> 00:42:10,620
+ you know,
+
+1770
+00:42:10,700 --> 00:42:12,100
+ heaven is a happy place
+
+1771
+00:42:12,100 --> 00:42:13,540
+ where we all are sort of
+
+1772
+00:42:13,540 --> 00:42:14,680
+ like living in the radiance
+
+1773
+00:42:14,680 --> 00:42:15,320
+ of God
+
+1774
+00:42:15,320 --> 00:42:16,120
+ and I was like,
+
+1775
+00:42:16,200 --> 00:42:16,740
+ holy shit,
+
+1776
+00:42:16,940 --> 00:42:17,800
+ so heaven is where
+
+1777
+00:42:17,800 --> 00:42:18,640
+ you have to be in church
+
+1778
+00:42:18,640 --> 00:42:19,300
+ all the time?
+
+1779
+00:42:19,420 --> 00:42:20,780
+ I hate being at church.
+
+1780
+00:42:21,220 --> 00:42:22,280
+ That's the last place
+
+1781
+00:42:22,280 --> 00:42:23,880
+ I want to be.
+
+1782
+00:42:25,300 --> 00:42:25,740
+ Eternally.
+
+1783
+00:42:26,240 --> 00:42:26,640
+ Yeah,
+
+1784
+00:42:26,720 --> 00:42:27,400
+ eternally,
+
+1785
+00:42:27,520 --> 00:42:27,840
+ like,
+
+1786
+00:42:28,020 --> 00:42:28,240
+ yeah,
+
+1787
+00:42:28,340 --> 00:42:29,220
+ can I die?
+
+1788
+00:42:29,540 --> 00:42:30,520
+ Can we go back
+
+1789
+00:42:30,520 --> 00:42:31,200
+ to the death thing?
+
+1790
+00:42:31,380 --> 00:42:31,840
+ My parents,
+
+1791
+00:42:31,960 --> 00:42:32,620
+ we didn't have the whole
+
+1792
+00:42:32,620 --> 00:42:34,220
+ God structure
+
+1793
+00:42:34,220 --> 00:42:34,820
+ in my family
+
+1794
+00:42:34,820 --> 00:42:35,680
+ so we went,
+
+1795
+00:42:35,800 --> 00:42:36,520
+ she went science,
+
+1796
+00:42:36,620 --> 00:42:36,900
+ she went,
+
+1797
+00:42:37,020 --> 00:42:37,820
+ there will be a pill.
+
+1798
+00:42:39,820 --> 00:42:40,520
+ No heaven,
+
+1799
+00:42:40,880 --> 00:42:41,640
+ there may be a pill.
+
+1800
+00:42:43,380 --> 00:42:45,060
+ It raises a question for me
+
+1801
+00:42:45,060 --> 00:42:46,000
+ because one of the ways
+
+1802
+00:42:46,000 --> 00:42:46,900
+ of responding to this
+
+1803
+00:42:46,900 --> 00:42:48,720
+ in both of your guys' examples
+
+1804
+00:42:48,720 --> 00:42:50,240
+ is to emphasize
+
+1805
+00:42:50,240 --> 00:42:51,520
+ the provisional quality
+
+1806
+00:42:51,520 --> 00:42:52,220
+ of all thinking,
+
+1807
+00:42:52,360 --> 00:42:52,540
+ right?
+
+1808
+00:42:52,680 --> 00:42:52,800
+ Like,
+
+1809
+00:42:52,900 --> 00:42:54,480
+ that it's sort of,
+
+1810
+00:42:55,080 --> 00:42:55,220
+ but,
+
+1811
+00:42:55,360 --> 00:42:57,480
+ and that seems like,
+
+1812
+00:42:57,540 --> 00:42:57,720
+ you know,
+
+1813
+00:42:57,800 --> 00:42:58,660
+ I've got a chapter
+
+1814
+00:42:58,660 --> 00:42:59,600
+ that I'm working on right now
+
+1815
+00:42:59,600 --> 00:43:00,640
+ called provisional thinking
+
+1816
+00:43:00,640 --> 00:43:01,160
+ and I want to say,
+
+1817
+00:43:01,260 --> 00:43:01,360
+ like,
+
+1818
+00:43:01,420 --> 00:43:01,580
+ look,
+
+1819
+00:43:01,640 --> 00:43:02,800
+ all thinking is provisional,
+
+1820
+00:43:02,880 --> 00:43:03,640
+ depends on the nexus
+
+1821
+00:43:03,640 --> 00:43:04,540
+ in which you're engaged
+
+1822
+00:43:04,540 --> 00:43:06,260
+ in the sort of circumstances
+
+1823
+00:43:06,260 --> 00:43:07,860
+ and the extraction
+
+1824
+00:43:07,860 --> 00:43:09,260
+ of any chunk of that
+
+1825
+00:43:09,260 --> 00:43:09,960
+ from one place
+
+1826
+00:43:09,960 --> 00:43:11,120
+ and putting it somewhere else
+
+1827
+00:43:11,120 --> 00:43:12,800
+ is an act,
+
+1828
+00:43:12,960 --> 00:43:13,180
+ right?
+
+1829
+00:43:13,280 --> 00:43:15,900
+ It is that one is doing something
+
+1830
+00:43:15,900 --> 00:43:16,680
+ when one does that.
+
+1831
+00:43:17,160 --> 00:43:18,460
+ But it kind of,
+
+1832
+00:43:18,460 --> 00:43:20,060
+ it kind of begs the question
+
+1833
+00:43:20,060 --> 00:43:22,040
+ of what counts as provisional
+
+1834
+00:43:22,040 --> 00:43:22,960
+ and for how long,
+
+1835
+00:43:23,060 --> 00:43:23,240
+ right?
+
+1836
+00:43:23,340 --> 00:43:23,620
+ Like,
+
+1837
+00:43:23,820 --> 00:43:24,580
+ you know,
+
+1838
+00:43:24,640 --> 00:43:24,800
+ like,
+
+1839
+00:43:25,020 --> 00:43:26,380
+ how long is the length
+
+1840
+00:43:26,380 --> 00:43:27,200
+ of a provision,
+
+1841
+00:43:27,500 --> 00:43:27,700
+ right?
+
+1842
+00:43:27,780 --> 00:43:29,080
+ If provisional just means
+
+1843
+00:43:29,080 --> 00:43:30,600
+ for pragmatic purposes
+
+1844
+00:43:30,600 --> 00:43:32,480
+ and it hooks me right back
+
+1845
+00:43:32,480 --> 00:43:33,720
+ into the question of context,
+
+1846
+00:43:33,800 --> 00:43:34,060
+ you say,
+
+1847
+00:43:34,260 --> 00:43:34,700
+ well,
+
+1848
+00:43:34,700 --> 00:43:35,540
+ in this context,
+
+1849
+00:43:35,540 --> 00:43:36,680
+ I was dealing with this question.
+
+1850
+00:43:36,800 --> 00:43:36,900
+ It's like,
+
+1851
+00:43:36,960 --> 00:43:37,100
+ well,
+
+1852
+00:43:37,200 --> 00:43:38,700
+ where does that context end?
+
+1853
+00:43:38,860 --> 00:43:39,720
+ Does it end at the end
+
+1854
+00:43:39,720 --> 00:43:40,240
+ of the chapter?
+
+1855
+00:43:40,380 --> 00:43:40,980
+ Does it end at the end
+
+1856
+00:43:40,980 --> 00:43:41,400
+ of the book?
+
+1857
+00:43:41,460 --> 00:43:42,060
+ Does it end at the end
+
+1858
+00:43:42,060 --> 00:43:42,720
+ of your life,
+
+1859
+00:43:42,820 --> 00:43:43,000
+ right?
+
+1860
+00:43:43,060 --> 00:43:43,280
+ Like,
+
+1861
+00:43:43,760 --> 00:43:45,100
+ what is the point
+
+1862
+00:43:45,100 --> 00:43:46,500
+ at which provisionality
+
+1863
+00:43:46,500 --> 00:43:47,500
+ is no,
+
+1864
+00:43:47,640 --> 00:43:47,860
+ you know,
+
+1865
+00:43:48,060 --> 00:43:48,560
+ becomes,
+
+1866
+00:43:48,980 --> 00:43:50,040
+ becomes universal
+
+1867
+00:43:50,040 --> 00:43:51,880
+ or the flip side
+
+1868
+00:43:51,880 --> 00:43:52,260
+ would be
+
+1869
+00:43:52,260 --> 00:43:53,500
+ is universality
+
+1870
+00:43:53,500 --> 00:43:55,760
+ just a provisionality
+
+1871
+00:43:55,760 --> 00:43:56,980
+ that lasts longer
+
+1872
+00:43:56,980 --> 00:43:58,560
+ than other provisionalities?
+
+1873
+00:43:59,020 --> 00:43:59,200
+ I mean,
+
+1874
+00:43:59,200 --> 00:43:59,660
+ I would think
+
+1875
+00:43:59,660 --> 00:44:00,320
+ you would have to think
+
+1876
+00:44:00,320 --> 00:44:01,760
+ of the performativity
+
+1877
+00:44:01,760 --> 00:44:04,240
+ of provisionality itself
+
+1878
+00:44:04,240 --> 00:44:04,760
+ or,
+
+1879
+00:44:04,760 --> 00:44:05,120
+ you know,
+
+1880
+00:44:05,200 --> 00:44:05,940
+ pragmatics itself
+
+1881
+00:44:05,940 --> 00:44:07,280
+ like to provision,
+
+1882
+00:44:07,580 --> 00:44:07,800
+ to,
+
+1883
+00:44:08,020 --> 00:44:08,540
+ like,
+
+1884
+00:44:08,640 --> 00:44:09,380
+ make pragmatic,
+
+1885
+00:44:09,580 --> 00:44:09,940
+ which is,
+
+1886
+00:44:10,220 --> 00:44:10,340
+ you know,
+
+1887
+00:44:10,340 --> 00:44:11,180
+ I think if you wanted
+
+1888
+00:44:11,180 --> 00:44:11,860
+ to find,
+
+1889
+00:44:12,500 --> 00:44:12,620
+ you know,
+
+1890
+00:44:12,660 --> 00:44:13,120
+ I would say
+
+1891
+00:44:13,120 --> 00:44:14,760
+ with every single beat,
+
+1892
+00:44:14,900 --> 00:44:15,200
+ you know,
+
+1893
+00:44:15,240 --> 00:44:16,500
+ the provisionality ends,
+
+1894
+00:44:16,560 --> 00:44:17,020
+ which would mean
+
+1895
+00:44:17,020 --> 00:44:18,280
+ for every single letter,
+
+1896
+00:44:18,440 --> 00:44:19,380
+ every single period,
+
+1897
+00:44:19,520 --> 00:44:21,140
+ every single whatever it is,
+
+1898
+00:44:21,180 --> 00:44:21,300
+ like,
+
+1899
+00:44:21,360 --> 00:44:22,500
+ there is no,
+
+1900
+00:44:22,540 --> 00:44:24,580
+ there is no staccatoed,
+
+1901
+00:44:24,620 --> 00:44:25,880
+ actual staccatoed moment
+
+1902
+00:44:25,880 --> 00:44:26,360
+ in the,
+
+1903
+00:44:26,380 --> 00:44:26,700
+ in the,
+
+1904
+00:44:26,740 --> 00:44:27,840
+ in the flux of,
+
+1905
+00:44:27,840 --> 00:44:28,400
+ you know,
+
+1906
+00:44:28,400 --> 00:44:29,060
+ of becoming,
+
+1907
+00:44:29,360 --> 00:44:30,760
+ but you can always
+
+1908
+00:44:30,760 --> 00:44:32,720
+ sort of scrape out
+
+1909
+00:44:32,720 --> 00:44:33,360
+ this or that chunk.
+
+1910
+00:44:33,360 --> 00:44:34,480
+ You can provisionally
+
+1911
+00:44:34,480 --> 00:44:36,340
+ distinguish the provisional.
+
+1912
+00:44:36,780 --> 00:44:37,360
+ So it's not that
+
+1913
+00:44:37,360 --> 00:44:38,800
+ it is provisional,
+
+1914
+00:44:38,920 --> 00:44:40,560
+ it can be provisioned,
+
+1915
+00:44:40,560 --> 00:44:41,160
+ right?
+
+1916
+00:44:41,300 --> 00:44:41,640
+ Which is,
+
+1917
+00:44:41,780 --> 00:44:43,000
+ which is just another beat.
+
+1918
+00:44:44,960 --> 00:44:45,480
+ Because it,
+
+1919
+00:44:45,620 --> 00:44:46,500
+ because to say
+
+1920
+00:44:46,500 --> 00:44:47,540
+ it is provisional
+
+1921
+00:44:47,540 --> 00:44:48,060
+ would have to say
+
+1922
+00:44:48,060 --> 00:44:48,620
+ that there is
+
+1923
+00:44:48,620 --> 00:44:49,460
+ an is there,
+
+1924
+00:44:49,600 --> 00:44:50,020
+ but to,
+
+1925
+00:44:50,420 --> 00:44:50,680
+ but,
+
+1926
+00:44:50,680 --> 00:44:52,020
+ so,
+
+1927
+00:44:52,100 --> 00:44:52,800
+ so what you're doing
+
+1928
+00:44:52,800 --> 00:44:53,500
+ is just shifting it
+
+1929
+00:44:53,500 --> 00:44:54,200
+ like it's always
+
+1930
+00:44:54,200 --> 00:44:55,460
+ performatively assigned.
+
+1931
+00:44:55,800 --> 00:44:56,160
+ Exactly.
+
+1932
+00:44:56,160 --> 00:44:57,220
+ So because it's like
+
+1933
+00:44:57,220 --> 00:44:58,160
+ even the assignment
+
+1934
+00:44:58,160 --> 00:44:59,220
+ of provisional status
+
+1935
+00:44:59,220 --> 00:45:00,280
+ is itself provisional.
+
+1936
+00:45:00,400 --> 00:45:00,540
+ Yeah.
+
+1937
+00:45:00,680 --> 00:45:01,340
+ So you,
+
+1938
+00:45:01,400 --> 00:45:02,680
+ you never get out of that,
+
+1939
+00:45:03,000 --> 00:45:03,260
+ you know,
+
+1940
+00:45:03,320 --> 00:45:03,500
+ it's,
+
+1941
+00:45:03,500 --> 00:45:04,340
+ it's provisionality
+
+1942
+00:45:04,340 --> 00:45:05,080
+ all the way down.
+
+1943
+00:45:06,300 --> 00:45:06,780
+ Well,
+
+1944
+00:45:06,940 --> 00:45:07,140
+ yeah,
+
+1945
+00:45:07,240 --> 00:45:07,700
+ or that,
+
+1946
+00:45:07,780 --> 00:45:08,820
+ the provisionality
+
+1947
+00:45:08,820 --> 00:45:09,760
+ is a particular style.
+
+1948
+00:45:09,760 --> 00:45:11,080
+ Performative induced provisional.
+
+1949
+00:45:11,080 --> 00:45:11,380
+ Yes.
+
+1950
+00:45:11,960 --> 00:45:12,160
+ Yeah.
+
+1951
+00:45:12,300 --> 00:45:12,780
+ Yeah,
+
+1952
+00:45:12,900 --> 00:45:13,260
+ exactly.
+
+1953
+00:45:13,600 --> 00:45:14,400
+ For Heidegger here,
+
+1954
+00:45:14,460 --> 00:45:14,760
+ I mean,
+
+1955
+00:45:15,220 --> 00:45:16,480
+ it would seem like
+
+1956
+00:45:16,480 --> 00:45:17,260
+ you could make the argument
+
+1957
+00:45:17,260 --> 00:45:17,960
+ that he's saying
+
+1958
+00:45:17,960 --> 00:45:19,440
+ that provisionality
+
+1959
+00:45:19,440 --> 00:45:21,000
+ is universality
+
+1960
+00:45:21,000 --> 00:45:21,920
+ in the sense that
+
+1961
+00:45:21,920 --> 00:45:23,560
+ he wants to leave
+
+1962
+00:45:23,560 --> 00:45:24,400
+ the question,
+
+1963
+00:45:24,960 --> 00:45:26,620
+ what is called thinking
+
+1964
+00:45:26,620 --> 00:45:27,480
+ open-ended
+
+1965
+00:45:27,480 --> 00:45:29,240
+ seemingly perpetually.
+
+1966
+00:45:29,240 --> 00:45:30,760
+ The way to reach
+
+1967
+00:45:30,760 --> 00:45:31,680
+ the essence
+
+1968
+00:45:31,680 --> 00:45:32,780
+ of thinking
+
+1969
+00:45:32,780 --> 00:45:33,680
+ is to leave
+
+1970
+00:45:33,680 --> 00:45:34,280
+ the question
+
+1971
+00:45:34,280 --> 00:45:35,320
+ of thinking open.
+
+1972
+00:45:35,560 --> 00:45:35,840
+ Now,
+
+1973
+00:45:36,040 --> 00:45:37,380
+ you have to interrogate it
+
+1974
+00:45:37,380 --> 00:45:38,480
+ in certain ways
+
+1975
+00:45:38,480 --> 00:45:39,020
+ and there's probably
+
+1976
+00:45:39,020 --> 00:45:40,020
+ more productive ways
+
+1977
+00:45:40,020 --> 00:45:40,500
+ than others,
+
+1978
+00:45:40,700 --> 00:45:42,000
+ but leaving it opening
+
+1979
+00:45:42,000 --> 00:45:43,040
+ without answering it,
+
+1980
+00:45:43,100 --> 00:45:44,440
+ that's part of the essence.
+
+1981
+00:45:44,900 --> 00:45:45,920
+ So that provisional,
+
+1982
+00:45:46,280 --> 00:45:46,640
+ I don't know
+
+1983
+00:45:46,640 --> 00:45:47,100
+ if you would call
+
+1984
+00:45:47,100 --> 00:45:47,900
+ that provisionality,
+
+1985
+00:45:48,060 --> 00:45:49,260
+ but that attentiveness
+
+1986
+00:45:49,260 --> 00:45:51,220
+ to the context
+
+1987
+00:45:51,220 --> 00:45:52,300
+ of the question
+
+1988
+00:45:52,300 --> 00:45:54,180
+ and how it's mobilized
+
+1989
+00:45:54,180 --> 00:45:54,840
+ and what it's doing
+
+1990
+00:45:54,840 --> 00:45:55,280
+ to you in that
+
+1991
+00:45:55,280 --> 00:45:56,100
+ particular moment
+
+1992
+00:45:56,100 --> 00:45:57,200
+ and historically,
+
+1993
+00:45:57,200 --> 00:45:58,660
+ that's all part
+
+1994
+00:45:58,660 --> 00:45:59,540
+ of the universal,
+
+1995
+00:46:00,240 --> 00:46:00,740
+ which is also,
+
+1996
+00:46:00,820 --> 00:46:00,980
+ I mean,
+
+1997
+00:46:00,980 --> 00:46:01,800
+ that's a Hegelian
+
+1998
+00:46:01,800 --> 00:46:02,180
+ sort of thing.
+
+1999
+00:46:02,180 --> 00:46:02,280
+ Well,
+
+2000
+00:46:02,320 --> 00:46:03,620
+ that's the contingency
+
+2001
+00:46:03,620 --> 00:46:04,920
+ is the only universality,
+
+2002
+00:46:05,040 --> 00:46:05,200
+ right?
+
+2003
+00:46:05,400 --> 00:46:05,700
+ Yeah.
+
+2004
+00:46:06,040 --> 00:46:07,580
+ But it's almost like
+
+2005
+00:46:07,580 --> 00:46:09,080
+ he believes too much
+
+2006
+00:46:09,080 --> 00:46:10,660
+ in representational thinking
+
+2007
+00:46:10,660 --> 00:46:12,620
+ or in the very possibility
+
+2008
+00:46:12,620 --> 00:46:13,580
+ of the reification
+
+2009
+00:46:13,580 --> 00:46:14,400
+ of thinking
+
+2010
+00:46:14,400 --> 00:46:15,920
+ that if there is
+
+2011
+00:46:15,920 --> 00:46:17,260
+ the originary point
+
+2012
+00:46:17,260 --> 00:46:17,900
+ and then what you can
+
+2013
+00:46:17,900 --> 00:46:18,860
+ fall away from it,
+
+2014
+00:46:18,900 --> 00:46:19,640
+ it's like you've fallen
+
+2015
+00:46:19,640 --> 00:46:21,900
+ into a particular state
+
+2016
+00:46:21,900 --> 00:46:22,580
+ where I think
+
+2017
+00:46:22,580 --> 00:46:23,980
+ the whole conversation
+
+2018
+00:46:23,980 --> 00:46:24,660
+ that we've been having
+
+2019
+00:46:24,660 --> 00:46:24,860
+ is,
+
+2020
+00:46:25,300 --> 00:46:25,440
+ no,
+
+2021
+00:46:25,540 --> 00:46:26,300
+ that drift
+
+2022
+00:46:26,300 --> 00:46:27,200
+ is itself
+
+2023
+00:46:27,200 --> 00:46:28,600
+ its own performative line
+
+2024
+00:46:28,600 --> 00:46:29,020
+ and yes,
+
+2025
+00:46:29,140 --> 00:46:29,500
+ maybe,
+
+2026
+00:46:29,780 --> 00:46:30,500
+ you know,
+
+2027
+00:46:30,560 --> 00:46:31,660
+ the number of,
+
+2028
+00:46:31,780 --> 00:46:31,900
+ you know,
+
+2029
+00:46:31,940 --> 00:46:32,580
+ like in that kind
+
+2030
+00:46:32,580 --> 00:46:34,380
+ of Spinoza sense,
+
+2031
+00:46:34,580 --> 00:46:35,840
+ the number of relations
+
+2032
+00:46:35,840 --> 00:46:36,820
+ is kind of reduced,
+
+2033
+00:46:36,960 --> 00:46:37,500
+ there is a kind
+
+2034
+00:46:37,500 --> 00:46:38,620
+ of deadening to it,
+
+2035
+00:46:38,660 --> 00:46:40,320
+ but it's never ever stopped,
+
+2036
+00:46:40,460 --> 00:46:41,260
+ it's never ever,
+
+2037
+00:46:41,520 --> 00:46:42,280
+ you know,
+
+2038
+00:46:43,200 --> 00:46:44,500
+ truly reified.
+
+2039
+00:46:44,680 --> 00:46:45,880
+ That's why it's interesting
+
+2040
+00:46:45,880 --> 00:46:46,980
+ because I don't like
+
+2041
+00:46:46,980 --> 00:46:48,220
+ the response
+
+2042
+00:46:48,220 --> 00:46:48,700
+ that you have
+
+2043
+00:46:48,700 --> 00:46:49,960
+ of the provisional
+
+2044
+00:46:49,960 --> 00:46:51,500
+ is always performatively assigned
+
+2045
+00:46:51,500 --> 00:46:52,460
+ and I think the reason
+
+2046
+00:46:52,460 --> 00:46:53,180
+ for that is because
+
+2047
+00:46:53,180 --> 00:46:54,080
+ it's so human,
+
+2048
+00:46:54,320 --> 00:46:54,500
+ right?
+
+2049
+00:46:54,580 --> 00:46:55,740
+ It ends up being like,
+
+2050
+00:46:55,860 --> 00:46:56,120
+ okay,
+
+2051
+00:46:56,180 --> 00:46:56,880
+ it's just humans
+
+2052
+00:46:56,880 --> 00:46:58,020
+ that decide.
+
+2053
+00:46:58,340 --> 00:46:58,600
+ No,
+
+2054
+00:46:58,740 --> 00:46:58,880
+ no,
+
+2055
+00:46:58,920 --> 00:46:59,000
+ no,
+
+2056
+00:46:59,000 --> 00:46:59,180
+ no.
+
+2057
+00:46:59,280 --> 00:47:00,540
+ It feels that way.
+
+2058
+00:47:00,680 --> 00:47:00,920
+ I'm not,
+
+2059
+00:47:00,980 --> 00:47:01,300
+ I'm not,
+
+2060
+00:47:01,700 --> 00:47:02,560
+ I think the tree
+
+2061
+00:47:02,560 --> 00:47:04,640
+ like provisionally
+
+2062
+00:47:04,640 --> 00:47:05,340
+ carves out
+
+2063
+00:47:05,340 --> 00:47:05,880
+ the water
+
+2064
+00:47:05,880 --> 00:47:06,420
+ and the light
+
+2065
+00:47:06,420 --> 00:47:06,960
+ and the whatever
+
+2066
+00:47:06,960 --> 00:47:08,460
+ else it is.
+
+2067
+00:47:08,460 --> 00:47:08,680
+ Like,
+
+2068
+00:47:08,980 --> 00:47:10,680
+ how about
+
+2069
+00:47:10,680 --> 00:47:11,820
+ make,
+
+2070
+00:47:12,060 --> 00:47:12,920
+ think of like
+
+2071
+00:47:12,920 --> 00:47:15,060
+ the act of provisioning
+
+2072
+00:47:15,060 --> 00:47:15,680
+ is the same
+
+2073
+00:47:15,680 --> 00:47:16,180
+ as the act
+
+2074
+00:47:16,180 --> 00:47:17,060
+ of appropriating,
+
+2075
+00:47:17,340 --> 00:47:17,560
+ right?
+
+2076
+00:47:17,760 --> 00:47:18,080
+ Provision,
+
+2077
+00:47:18,260 --> 00:47:18,780
+ to say something
+
+2078
+00:47:18,780 --> 00:47:19,480
+ is provisional
+
+2079
+00:47:19,480 --> 00:47:20,820
+ just means
+
+2080
+00:47:20,820 --> 00:47:22,100
+ that it is appropriatable
+
+2081
+00:47:22,100 --> 00:47:23,100
+ and,
+
+2082
+00:47:23,340 --> 00:47:23,660
+ you know,
+
+2083
+00:47:23,720 --> 00:47:24,260
+ to provision
+
+2084
+00:47:24,260 --> 00:47:25,080
+ is just to do
+
+2085
+00:47:25,080 --> 00:47:25,540
+ the act
+
+2086
+00:47:25,540 --> 00:47:26,740
+ of appropriating,
+
+2087
+00:47:26,820 --> 00:47:27,200
+ which doesn't mean
+
+2088
+00:47:27,200 --> 00:47:27,720
+ it has to be
+
+2089
+00:47:27,720 --> 00:47:28,080
+ conscious
+
+2090
+00:47:28,080 --> 00:47:28,820
+ or human
+
+2091
+00:47:28,820 --> 00:47:29,260
+ or,
+
+2092
+00:47:29,260 --> 00:47:30,240
+ you know,
+
+2093
+00:47:30,460 --> 00:47:32,260
+ reducible to like
+
+2094
+00:47:32,260 --> 00:47:33,380
+ biological life,
+
+2095
+00:47:33,540 --> 00:47:33,840
+ right?
+
+2096
+00:47:35,120 --> 00:47:35,440
+ Either.
+
+2097
+00:47:35,620 --> 00:47:35,760
+ So,
+
+2098
+00:47:35,860 --> 00:47:36,580
+ because I think,
+
+2099
+00:47:36,700 --> 00:47:37,100
+ for instance,
+
+2100
+00:47:37,220 --> 00:47:37,440
+ I mean,
+
+2101
+00:47:37,520 --> 00:47:38,440
+ just to return it
+
+2102
+00:47:38,440 --> 00:47:39,540
+ to the general scope
+
+2103
+00:47:39,540 --> 00:47:41,380
+ that I'm thinking
+
+2104
+00:47:41,380 --> 00:47:42,220
+ through is,
+
+2105
+00:47:42,820 --> 00:47:43,820
+ I want to say,
+
+2106
+00:47:43,920 --> 00:47:44,120
+ like,
+
+2107
+00:47:44,220 --> 00:47:45,000
+ all of the thinking
+
+2108
+00:47:45,000 --> 00:47:45,880
+ here is provisional,
+
+2109
+00:47:45,980 --> 00:47:46,740
+ which is to say
+
+2110
+00:47:46,740 --> 00:47:48,000
+ it matters in the,
+
+2111
+00:47:48,140 --> 00:47:48,320
+ you know,
+
+2112
+00:47:48,320 --> 00:47:49,220
+ it's relevant in the
+
+2113
+00:47:49,220 --> 00:47:49,920
+ nexus in which
+
+2114
+00:47:49,920 --> 00:47:50,720
+ I'm engaged,
+
+2115
+00:47:51,220 --> 00:47:52,320
+ but this is what
+
+2116
+00:47:52,320 --> 00:47:52,940
+ the structure
+
+2117
+00:47:52,940 --> 00:47:53,280
+ of the book
+
+2118
+00:47:53,280 --> 00:47:53,780
+ should show
+
+2119
+00:47:53,780 --> 00:47:54,640
+ is that from nexus,
+
+2120
+00:47:54,880 --> 00:47:55,780
+ from location
+
+2121
+00:47:55,780 --> 00:47:56,380
+ to location
+
+2122
+00:47:56,380 --> 00:47:57,160
+ it's going to shift
+
+2123
+00:47:57,160 --> 00:47:57,680
+ and so,
+
+2124
+00:47:57,820 --> 00:47:58,020
+ like,
+
+2125
+00:47:58,080 --> 00:47:58,980
+ the bodies without organs
+
+2126
+00:47:58,980 --> 00:47:59,520
+ concept,
+
+2127
+00:47:59,700 --> 00:47:59,860
+ right?
+
+2128
+00:47:59,920 --> 00:48:00,100
+ Like,
+
+2129
+00:48:00,140 --> 00:48:01,340
+ it'll shift
+
+2130
+00:48:01,340 --> 00:48:03,660
+ from place to place
+
+2131
+00:48:03,660 --> 00:48:06,540
+ but,
+
+2132
+00:48:06,860 --> 00:48:08,840
+ but it's,
+
+2133
+00:48:09,380 --> 00:48:09,900
+ I mean,
+
+2134
+00:48:10,020 --> 00:48:10,280
+ again,
+
+2135
+00:48:10,420 --> 00:48:10,740
+ I just,
+
+2136
+00:48:10,840 --> 00:48:10,900
+ like,
+
+2137
+00:48:10,980 --> 00:48:11,940
+ what is the scope
+
+2138
+00:48:11,940 --> 00:48:12,440
+ of regular,
+
+2139
+00:48:12,600 --> 00:48:13,660
+ then what is the,
+
+2140
+00:48:13,660 --> 00:48:14,820
+ what is the similarity
+
+2141
+00:48:14,820 --> 00:48:15,680
+ that one is mapping
+
+2142
+00:48:15,680 --> 00:48:16,840
+ through that concept?
+
+2143
+00:48:18,120 --> 00:48:18,380
+ You know,
+
+2144
+00:48:18,380 --> 00:48:18,960
+ why would you even
+
+2145
+00:48:18,960 --> 00:48:19,940
+ call it the same?
+
+2146
+00:48:20,360 --> 00:48:20,480
+ You know,
+
+2147
+00:48:20,520 --> 00:48:21,060
+ why would you say
+
+2148
+00:48:21,060 --> 00:48:22,020
+ it's the same concept?
+
+2149
+00:48:22,640 --> 00:48:24,540
+ I hear provisionality
+
+2150
+00:48:24,540 --> 00:48:25,460
+ and just what you just said
+
+2151
+00:48:25,460 --> 00:48:26,520
+ operating at three
+
+2152
+00:48:26,520 --> 00:48:27,180
+ different levels
+
+2153
+00:48:27,180 --> 00:48:27,780
+ at once.
+
+2154
+00:48:28,200 --> 00:48:29,460
+ The first is to say
+
+2155
+00:48:29,460 --> 00:48:30,900
+ that the thinking,
+
+2156
+00:48:31,020 --> 00:48:32,140
+ what is being produced
+
+2157
+00:48:32,140 --> 00:48:33,480
+ is itself provisional,
+
+2158
+00:48:33,620 --> 00:48:34,500
+ which would be to say
+
+2159
+00:48:34,500 --> 00:48:35,960
+ that it is not fixed,
+
+2160
+00:48:36,080 --> 00:48:36,960
+ that it is caught up
+
+2161
+00:48:36,960 --> 00:48:38,220
+ in a citational flux
+
+2162
+00:48:38,220 --> 00:48:39,560
+ that is always mutable
+
+2163
+00:48:39,560 --> 00:48:40,920
+ and appropriatable,
+
+2164
+00:48:41,080 --> 00:48:41,200
+ okay?
+
+2165
+00:48:41,200 --> 00:48:42,080
+ That's the one sense,
+
+2166
+00:48:42,180 --> 00:48:42,580
+ which is to say
+
+2167
+00:48:42,580 --> 00:48:43,620
+ none of this is fixed
+
+2168
+00:48:43,620 --> 00:48:44,300
+ or reified.
+
+2169
+00:48:44,860 --> 00:48:46,720
+ The second speaks to
+
+2170
+00:48:46,720 --> 00:48:48,420
+ a style of engagement,
+
+2171
+00:48:48,780 --> 00:48:49,620
+ is that I am
+
+2172
+00:48:49,620 --> 00:48:50,700
+ treating this
+
+2173
+00:48:50,700 --> 00:48:51,700
+ as something
+
+2174
+00:48:51,700 --> 00:48:53,080
+ that is
+
+2175
+00:48:53,080 --> 00:48:54,240
+ in flux
+
+2176
+00:48:54,240 --> 00:48:54,860
+ and becoming
+
+2177
+00:48:54,860 --> 00:48:55,580
+ and that I
+
+2178
+00:48:55,580 --> 00:48:56,820
+ am not going
+
+2179
+00:48:56,820 --> 00:48:57,880
+ to
+
+2180
+00:48:57,880 --> 00:48:59,620
+ like make
+
+2181
+00:48:59,620 --> 00:49:00,840
+ provisional claims
+
+2182
+00:49:00,840 --> 00:49:02,160
+ that reify
+
+2183
+00:49:02,160 --> 00:49:03,160
+ a part of it
+
+2184
+00:49:03,160 --> 00:49:04,520
+ even momentarily,
+
+2185
+00:49:04,800 --> 00:49:05,700
+ that I,
+
+2186
+00:49:05,860 --> 00:49:06,520
+ my aim
+
+2187
+00:49:06,520 --> 00:49:07,680
+ is to produce
+
+2188
+00:49:07,680 --> 00:49:08,980
+ a line of thinking
+
+2189
+00:49:08,980 --> 00:49:10,240
+ rather than
+
+2190
+00:49:10,240 --> 00:49:10,740
+ a,
+
+2191
+00:49:10,740 --> 00:49:11,220
+ a,
+
+2192
+00:49:11,220 --> 00:49:11,520
+ a,
+
+2193
+00:49:11,520 --> 00:49:11,540
+ a,
+
+2194
+00:49:11,540 --> 00:49:11,740
+ a trial of space.
+
+2195
+00:49:11,740 --> 00:49:12,340
+ Heidegger says
+
+2196
+00:49:12,340 --> 00:49:12,880
+ that kind of thing
+
+2197
+00:49:12,880 --> 00:49:13,680
+ all the time.
+
+2198
+00:49:13,680 --> 00:49:14,120
+ All the time,
+
+2199
+00:49:14,220 --> 00:49:14,580
+ for sure.
+
+2200
+00:49:14,780 --> 00:49:15,540
+ Path of thought.
+
+2201
+00:49:16,120 --> 00:49:16,400
+ Right.
+
+2202
+00:49:16,920 --> 00:49:17,400
+ But then there's
+
+2203
+00:49:17,400 --> 00:49:18,200
+ the third way
+
+2204
+00:49:18,200 --> 00:49:19,180
+ is to say that
+
+2205
+00:49:19,180 --> 00:49:20,400
+ it is available
+
+2206
+00:49:20,400 --> 00:49:21,460
+ for provision,
+
+2207
+00:49:22,060 --> 00:49:22,640
+ which is,
+
+2208
+00:49:22,880 --> 00:49:24,080
+ it can then be
+
+2209
+00:49:24,080 --> 00:49:25,400
+ carved out,
+
+2210
+00:49:25,500 --> 00:49:26,060
+ like think about,
+
+2211
+00:49:26,140 --> 00:49:26,320
+ you know,
+
+2212
+00:49:26,360 --> 00:49:27,060
+ say like your
+
+2213
+00:49:27,060 --> 00:49:28,100
+ stasis chapter,
+
+2214
+00:49:28,280 --> 00:49:28,840
+ like the act
+
+2215
+00:49:28,840 --> 00:49:29,880
+ of the carving out
+
+2216
+00:49:29,880 --> 00:49:30,640
+ of the thing,
+
+2217
+00:49:30,700 --> 00:49:31,140
+ which can be,
+
+2218
+00:49:31,460 --> 00:49:31,780
+ you know,
+
+2219
+00:49:31,860 --> 00:49:32,620
+ like there's no,
+
+2220
+00:49:32,980 --> 00:49:34,280
+ there's no context
+
+2221
+00:49:34,280 --> 00:49:35,060
+ of your chapter
+
+2222
+00:49:35,060 --> 00:49:36,720
+ that has some kind
+
+2223
+00:49:36,720 --> 00:49:37,700
+ of natural boundaries,
+
+2224
+00:49:37,820 --> 00:49:38,000
+ right?
+
+2225
+00:49:38,080 --> 00:49:38,620
+ The fact that
+
+2226
+00:49:38,620 --> 00:49:39,180
+ it's a chapter
+
+2227
+00:49:39,180 --> 00:49:41,300
+ is one provisional cut.
+
+2228
+00:49:41,560 --> 00:49:42,500
+ Another provisional cut
+
+2229
+00:49:42,500 --> 00:49:43,180
+ could be someone else
+
+2230
+00:49:43,180 --> 00:49:43,720
+ citing it.
+
+2231
+00:49:43,820 --> 00:49:44,840
+ Another provisional cut
+
+2232
+00:49:44,840 --> 00:49:45,660
+ can be,
+
+2233
+00:49:45,760 --> 00:49:46,000
+ you know,
+
+2234
+00:49:46,080 --> 00:49:46,920
+ you're referring back
+
+2235
+00:49:46,920 --> 00:49:47,680
+ to it in another
+
+2236
+00:49:47,680 --> 00:49:48,060
+ kind of way,
+
+2237
+00:49:48,120 --> 00:49:48,420
+ but only,
+
+2238
+00:49:48,700 --> 00:49:48,920
+ you know,
+
+2239
+00:49:49,160 --> 00:49:49,960
+ this part,
+
+2240
+00:49:50,080 --> 00:49:50,520
+ this time,
+
+2241
+00:49:50,600 --> 00:49:50,920
+ this part,
+
+2242
+00:49:51,000 --> 00:49:51,380
+ that time,
+
+2243
+00:49:51,440 --> 00:49:51,780
+ this part,
+
+2244
+00:49:51,840 --> 00:49:52,340
+ another time,
+
+2245
+00:49:52,660 --> 00:49:53,360
+ this time it's like,
+
+2246
+00:49:53,380 --> 00:49:53,520
+ you know,
+
+2247
+00:49:53,520 --> 00:49:54,340
+ six different parts
+
+2248
+00:49:54,340 --> 00:49:55,080
+ across three different
+
+2249
+00:49:55,080 --> 00:49:55,420
+ chapters,
+
+2250
+00:49:55,500 --> 00:49:56,060
+ whatever it is,
+
+2251
+00:49:56,080 --> 00:49:57,180
+ it's only in the act
+
+2252
+00:49:57,180 --> 00:49:58,660
+ of making it provisional.
+
+2253
+00:49:58,780 --> 00:50:00,620
+ So I see provisioning
+
+2254
+00:50:00,620 --> 00:50:01,920
+ operating at three
+
+2255
+00:50:01,920 --> 00:50:02,440
+ different lines.
+
+2256
+00:50:02,660 --> 00:50:02,760
+ Yeah,
+
+2257
+00:50:02,880 --> 00:50:03,840
+ I see those distinctions.
+
+2258
+00:50:04,120 --> 00:50:04,860
+ But as I follow
+
+2259
+00:50:04,860 --> 00:50:05,400
+ through with it,
+
+2260
+00:50:05,440 --> 00:50:05,740
+ I'm like,
+
+2261
+00:50:06,060 --> 00:50:07,260
+ I lose any sense
+
+2262
+00:50:07,260 --> 00:50:07,820
+ of the distinction
+
+2263
+00:50:07,820 --> 00:50:08,660
+ between provisional
+
+2264
+00:50:08,660 --> 00:50:09,080
+ and whatever
+
+2265
+00:50:09,080 --> 00:50:10,140
+ would not be provisional.
+
+2266
+00:50:10,420 --> 00:50:10,480
+ Like,
+
+2267
+00:50:11,020 --> 00:50:12,240
+ isn't then everything
+
+2268
+00:50:12,240 --> 00:50:14,780
+ in all three
+
+2269
+00:50:14,780 --> 00:50:15,360
+ of those senses?
+
+2270
+00:50:15,700 --> 00:50:15,720
+ Like,
+
+2271
+00:50:15,820 --> 00:50:16,400
+ it's just all,
+
+2272
+00:50:16,740 --> 00:50:17,880
+ whether I call it that
+
+2273
+00:50:17,880 --> 00:50:18,260
+ or not.
+
+2274
+00:50:19,000 --> 00:50:19,220
+ Well,
+
+2275
+00:50:19,420 --> 00:50:20,320
+ I would say,
+
+2276
+00:50:20,740 --> 00:50:20,980
+ no.
+
+2277
+00:50:21,220 --> 00:50:22,200
+ In that first sense,
+
+2278
+00:50:22,700 --> 00:50:22,980
+ yes,
+
+2279
+00:50:23,240 --> 00:50:24,320
+ everything is provisional.
+
+2280
+00:50:24,520 --> 00:50:25,600
+ Nothing could not be provisional.
+
+2281
+00:50:25,600 --> 00:50:26,400
+ The second sense
+
+2282
+00:50:26,400 --> 00:50:27,040
+ would be the difference.
+
+2283
+00:50:27,200 --> 00:50:27,860
+ Here's how I'm going
+
+2284
+00:50:27,860 --> 00:50:28,520
+ to treat it.
+
+2285
+00:50:29,060 --> 00:50:29,500
+ Exactly.
+
+2286
+00:50:30,120 --> 00:50:31,020
+ And one might
+
+2287
+00:50:31,020 --> 00:50:31,620
+ treat it differently.
+
+2288
+00:50:31,780 --> 00:50:32,360
+ One might treat it
+
+2289
+00:50:32,360 --> 00:50:33,180
+ like Mucklebauer's
+
+2290
+00:50:33,180 --> 00:50:34,280
+ final statement on style
+
+2291
+00:50:34,280 --> 00:50:35,000
+ in this sentence
+
+2292
+00:50:35,000 --> 00:50:35,620
+ or something like that.
+
+2293
+00:50:35,620 --> 00:50:36,380
+ And here's like
+
+2294
+00:50:36,380 --> 00:50:37,160
+ a good place
+
+2295
+00:50:37,160 --> 00:50:37,620
+ where,
+
+2296
+00:50:37,700 --> 00:50:37,940
+ you know,
+
+2297
+00:50:37,980 --> 00:50:38,520
+ treating something
+
+2298
+00:50:38,520 --> 00:50:39,360
+ not provisional.
+
+2299
+00:50:39,360 --> 00:50:39,600
+ That's what content is.
+
+2300
+00:50:39,660 --> 00:50:40,520
+ And content is
+
+2301
+00:50:40,520 --> 00:50:41,600
+ the provisional separation
+
+2302
+00:50:41,600 --> 00:50:42,300
+ of a style
+
+2303
+00:50:42,300 --> 00:50:43,580
+ for a moment,
+
+2304
+00:50:43,780 --> 00:50:43,960
+ right?
+
+2305
+00:50:44,080 --> 00:50:44,180
+ Like,
+
+2306
+00:50:44,260 --> 00:50:45,580
+ that's...
+
+2307
+00:50:45,580 --> 00:50:46,220
+ Here's an example
+
+2308
+00:50:46,220 --> 00:50:46,540
+ for that.
+
+2309
+00:50:46,620 --> 00:50:47,240
+ Here's a content
+
+2310
+00:50:47,240 --> 00:50:47,920
+ that I'm interested
+
+2311
+00:50:47,920 --> 00:50:49,320
+ in not being overly provisional.
+
+2312
+00:50:49,520 --> 00:50:51,260
+ A bridge over a,
+
+2313
+00:50:51,260 --> 00:50:51,960
+ you know,
+
+2314
+00:50:52,220 --> 00:50:52,740
+ over a river,
+
+2315
+00:50:53,000 --> 00:50:53,220
+ right?
+
+2316
+00:50:53,360 --> 00:50:54,020
+ I would like
+
+2317
+00:50:54,020 --> 00:50:55,180
+ that to be
+
+2318
+00:50:55,180 --> 00:50:55,800
+ as,
+
+2319
+00:50:55,880 --> 00:50:56,140
+ you know,
+
+2320
+00:50:56,240 --> 00:50:57,000
+ unprovisional
+
+2321
+00:50:57,000 --> 00:50:57,900
+ as possible,
+
+2322
+00:50:58,160 --> 00:50:58,520
+ recognizing
+
+2323
+00:50:58,520 --> 00:51:00,240
+ that it can't fully,
+
+2324
+00:51:00,380 --> 00:51:00,620
+ you know,
+
+2325
+00:51:00,660 --> 00:51:01,260
+ attain that.
+
+2326
+00:51:01,260 --> 00:51:01,900
+ But,
+
+2327
+00:51:02,020 --> 00:51:02,380
+ you know,
+
+2328
+00:51:02,760 --> 00:51:03,200
+ I would like
+
+2329
+00:51:03,200 --> 00:51:03,620
+ that bridge
+
+2330
+00:51:03,620 --> 00:51:04,520
+ to be not,
+
+2331
+00:51:04,700 --> 00:51:04,900
+ or,
+
+2332
+00:51:05,140 --> 00:51:05,340
+ you know,
+
+2333
+00:51:05,420 --> 00:51:06,560
+ not be becoming
+
+2334
+00:51:06,560 --> 00:51:07,860
+ in any sort of like...
+
+2335
+00:51:07,860 --> 00:51:08,140
+ Right.
+
+2336
+00:51:08,560 --> 00:51:09,700
+ To stay there
+
+2337
+00:51:09,700 --> 00:51:10,360
+ when I'm driving
+
+2338
+00:51:10,360 --> 00:51:11,160
+ across the road.
+
+2339
+00:51:11,400 --> 00:51:11,840
+ Exactly.
+
+2340
+00:51:12,380 --> 00:51:12,680
+ Right?
+
+2341
+00:51:13,120 --> 00:51:13,760
+ And then,
+
+2342
+00:51:13,880 --> 00:51:14,140
+ you know,
+
+2343
+00:51:14,180 --> 00:51:14,980
+ the last one
+
+2344
+00:51:14,980 --> 00:51:16,160
+ speaks much more
+
+2345
+00:51:16,160 --> 00:51:16,760
+ to the act
+
+2346
+00:51:16,760 --> 00:51:18,100
+ of appropriation.
+
+2347
+00:51:18,240 --> 00:51:18,700
+ So that would be
+
+2348
+00:51:18,700 --> 00:51:19,340
+ the act...
+
+2349
+00:51:19,340 --> 00:51:19,480
+ I mean,
+
+2350
+00:51:19,540 --> 00:51:19,660
+ like,
+
+2351
+00:51:19,760 --> 00:51:19,980
+ I would,
+
+2352
+00:51:20,160 --> 00:51:20,380
+ you know,
+
+2353
+00:51:20,420 --> 00:51:21,060
+ the third one
+
+2354
+00:51:21,060 --> 00:51:21,820
+ is the act
+
+2355
+00:51:21,820 --> 00:51:23,160
+ of carving out beings.
+
+2356
+00:51:24,480 --> 00:51:24,760
+ Beings are provisioned.
+
+2357
+00:51:24,760 --> 00:51:25,580
+ But that's,
+
+2358
+00:51:25,660 --> 00:51:26,780
+ it's interesting to me then,
+
+2359
+00:51:27,280 --> 00:51:27,420
+ yeah,
+
+2360
+00:51:27,440 --> 00:51:28,320
+ but I like that
+
+2361
+00:51:28,320 --> 00:51:29,060
+ because content
+
+2362
+00:51:29,060 --> 00:51:29,640
+ just becomes
+
+2363
+00:51:29,640 --> 00:51:30,720
+ a fold of style.
+
+2364
+00:51:31,220 --> 00:51:31,340
+ Yeah,
+
+2365
+00:51:31,360 --> 00:51:31,700
+ exactly.
+
+2366
+00:51:31,960 --> 00:51:32,600
+ That's all it is.
+
+2367
+00:51:32,800 --> 00:51:32,800
+ Like,
+
+2368
+00:51:32,920 --> 00:51:33,160
+ and there,
+
+2369
+00:51:33,240 --> 00:51:34,160
+ so there really is
+
+2370
+00:51:34,160 --> 00:51:34,600
+ a distinction
+
+2371
+00:51:34,600 --> 00:51:35,840
+ between style and content.
+
+2372
+00:51:36,100 --> 00:51:36,400
+ Right.
+
+2373
+00:51:36,520 --> 00:51:37,440
+ It's that content
+
+2374
+00:51:37,440 --> 00:51:38,680
+ is a derivative fold,
+
+2375
+00:51:38,840 --> 00:51:39,780
+ a provisional fold
+
+2376
+00:51:39,780 --> 00:51:40,380
+ of style.
+
+2377
+00:51:40,780 --> 00:51:41,060
+ Yeah,
+
+2378
+00:51:41,140 --> 00:51:42,540
+ that is functional
+
+2379
+00:51:42,540 --> 00:51:43,560
+ and it's provision,
+
+2380
+00:51:43,680 --> 00:51:43,900
+ like,
+
+2381
+00:51:44,000 --> 00:51:45,480
+ it's provisionally functional,
+
+2382
+00:51:45,740 --> 00:51:46,040
+ right?
+
+2383
+00:51:46,040 --> 00:51:47,340
+ You fold,
+
+2384
+00:51:47,780 --> 00:51:48,840
+ you stylistically fold
+
+2385
+00:51:48,840 --> 00:51:49,400
+ in this way
+
+2386
+00:51:49,400 --> 00:51:49,920
+ and you produce
+
+2387
+00:51:49,920 --> 00:51:50,960
+ this kind of content
+
+2388
+00:51:50,960 --> 00:51:51,840
+ that,
+
+2389
+00:51:52,100 --> 00:51:52,300
+ you know,
+
+2390
+00:51:52,320 --> 00:51:52,740
+ is valuable
+
+2391
+00:51:52,740 --> 00:51:53,860
+ for these kinds of things.
+
+2392
+00:51:54,020 --> 00:51:54,600
+ I like that.
+
+2393
+00:51:54,660 --> 00:51:55,620
+ I'm going to use that shit.
+
+2394
+00:51:56,760 --> 00:51:57,160
+ Provisionally.
+
+2395
+00:51:58,400 --> 00:51:58,800
+ Well,
+
+2396
+00:51:58,840 --> 00:51:59,420
+ provisionally,
+
+2397
+00:51:59,420 --> 00:51:59,620
+ yeah.
+
+2398
+00:52:00,280 --> 00:52:00,660
+ I'll,
+
+2399
+00:52:00,720 --> 00:52:01,500
+ I'll cite you.
+
+2400
+00:52:03,460 --> 00:52:04,700
+ There are three senses
+
+2401
+00:52:04,700 --> 00:52:05,800
+ in which Nathaniel's treat
+
+2402
+00:52:05,800 --> 00:52:06,640
+ means provisionally.
+
+2403
+00:52:08,500 --> 00:52:09,400
+ Which I was definitely
+
+2404
+00:52:09,400 --> 00:52:10,500
+ not influenced at all
+
+2405
+00:52:10,500 --> 00:52:11,220
+ by Heidegger's
+
+2406
+00:52:11,220 --> 00:52:12,260
+ four senses of.
+
+2407
+00:52:12,680 --> 00:52:13,120
+ Right.
+
+2408
+00:52:15,260 --> 00:52:16,220
+ I'm going to get it done.
+
+2409
+00:52:16,440 --> 00:52:16,620
+ One.
+
+2410
+00:52:17,380 --> 00:52:17,940
+ There should be
+
+2411
+00:52:17,940 --> 00:52:18,700
+ a fourth sense
+
+2412
+00:52:18,700 --> 00:52:19,960
+ that undergirds them all
+
+2413
+00:52:19,960 --> 00:52:20,580
+ that is the pure,
+
+2414
+00:52:20,700 --> 00:52:21,000
+ authentic,
+
+2415
+00:52:21,220 --> 00:52:21,800
+ proper way
+
+2416
+00:52:21,800 --> 00:52:22,420
+ of understanding
+
+2417
+00:52:22,420 --> 00:52:22,820
+ provision.
+
+2418
+00:52:22,820 --> 00:52:23,680
+ We don't need that one.
+
+2419
+00:52:24,560 --> 00:52:24,900
+ The essence.
+
+2420
+00:52:24,900 --> 00:52:25,280
+ And also,
+
+2421
+00:52:25,500 --> 00:52:25,840
+ interestingly,
+
+2422
+00:52:26,080 --> 00:52:26,820
+ like the etymology
+
+2423
+00:52:26,820 --> 00:52:27,320
+ of the word,
+
+2424
+00:52:27,440 --> 00:52:28,020
+ like I would think
+
+2425
+00:52:28,020 --> 00:52:28,540
+ it would have something
+
+2426
+00:52:28,540 --> 00:52:29,100
+ to do with vision,
+
+2427
+00:52:29,180 --> 00:52:29,740
+ but it doesn't,
+
+2428
+00:52:29,960 --> 00:52:30,160
+ right?
+
+2429
+00:52:30,240 --> 00:52:30,580
+ It's,
+
+2430
+00:52:30,720 --> 00:52:31,760
+ it is the sort of
+
+2431
+00:52:31,760 --> 00:52:33,940
+ supplying of material
+
+2432
+00:52:33,940 --> 00:52:34,340
+ for like,
+
+2433
+00:52:34,360 --> 00:52:35,080
+ if you're going on a trip,
+
+2434
+00:52:35,140 --> 00:52:35,780
+ you get provisions,
+
+2435
+00:52:36,000 --> 00:52:36,160
+ right?
+
+2436
+00:52:36,240 --> 00:52:36,340
+ Like,
+
+2437
+00:52:36,440 --> 00:52:38,620
+ it's not pro-vision.
+
+2438
+00:52:38,620 --> 00:52:39,560
+ It's not pro-vision,
+
+2439
+00:52:39,760 --> 00:52:40,040
+ no.
+
+2440
+00:52:40,040 --> 00:52:40,600
+ It's the,
+
+2441
+00:52:40,600 --> 00:52:42,080
+ I can't remember the Latin,
+
+2442
+00:52:42,220 --> 00:52:43,020
+ but it was,
+
+2443
+00:52:44,060 --> 00:52:44,520
+ I can't remember,
+
+2444
+00:52:44,620 --> 00:52:45,380
+ the Latin word
+
+2445
+00:52:45,380 --> 00:52:46,360
+ had nothing to do
+
+2446
+00:52:46,360 --> 00:52:47,860
+ with seeing,
+
+2447
+00:52:48,440 --> 00:52:48,700
+ you know?
+
+2448
+00:52:48,780 --> 00:52:49,380
+ Because I was like,
+
+2449
+00:52:49,640 --> 00:52:50,280
+ provision is going
+
+2450
+00:52:50,280 --> 00:52:50,700
+ to be perfect.
+
+2451
+00:52:50,800 --> 00:52:51,160
+ That's going to be
+
+2452
+00:52:51,160 --> 00:52:52,000
+ the word for theory,
+
+2453
+00:52:52,100 --> 00:52:52,300
+ right?
+
+2454
+00:52:52,380 --> 00:52:52,520
+ Like,
+
+2455
+00:52:52,520 --> 00:52:53,160
+ it's going to be
+
+2456
+00:52:53,160 --> 00:52:54,800
+ in favor of theory.
+
+2457
+00:52:55,200 --> 00:52:55,340
+ Yeah,
+
+2458
+00:52:55,340 --> 00:52:55,660
+ yeah.
+
+2459
+00:52:55,660 --> 00:52:56,040
+ And I was like,
+
+2460
+00:52:56,100 --> 00:52:56,520
+ that's going to,
+
+2461
+00:52:56,600 --> 00:52:57,180
+ this is going to be
+
+2462
+00:52:57,180 --> 00:52:57,720
+ the title,
+
+2463
+00:52:57,900 --> 00:52:59,260
+ like provisional thinking,
+
+2464
+00:52:59,420 --> 00:52:59,640
+ right?
+
+2465
+00:52:59,740 --> 00:52:59,880
+ Right.
+
+2466
+00:53:00,560 --> 00:53:01,520
+ But it doesn't work
+
+2467
+00:53:01,520 --> 00:53:01,780
+ that way.
+
+2468
+00:53:01,960 --> 00:53:02,300
+ Okay,
+
+2469
+00:53:02,340 --> 00:53:03,280
+ but now I've got a question
+
+2470
+00:53:03,280 --> 00:53:04,200
+ that I've wanted to ask
+
+2471
+00:53:04,200 --> 00:53:04,840
+ from the beginning
+
+2472
+00:53:04,840 --> 00:53:06,440
+ about etymology
+
+2473
+00:53:06,440 --> 00:53:07,660
+ and the value
+
+2474
+00:53:07,660 --> 00:53:08,320
+ and the function
+
+2475
+00:53:08,320 --> 00:53:09,100
+ of etymology
+
+2476
+00:53:09,100 --> 00:53:10,220
+ is that I think
+
+2477
+00:53:10,220 --> 00:53:11,280
+ all of us find
+
+2478
+00:53:11,280 --> 00:53:12,860
+ an incredible value
+
+2479
+00:53:12,860 --> 00:53:13,300
+ in it,
+
+2480
+00:53:13,420 --> 00:53:14,000
+ and I think that
+
+2481
+00:53:14,000 --> 00:53:14,940
+ we're all uncomfortable
+
+2482
+00:53:14,940 --> 00:53:15,840
+ with the value
+
+2483
+00:53:15,840 --> 00:53:16,840
+ that Heidegger places
+
+2484
+00:53:16,840 --> 00:53:17,160
+ on it,
+
+2485
+00:53:17,180 --> 00:53:17,660
+ that it's going to
+
+2486
+00:53:17,660 --> 00:53:18,560
+ lead you to
+
+2487
+00:53:18,560 --> 00:53:20,220
+ the originary thing.
+
+2488
+00:53:20,740 --> 00:53:21,060
+ And yet,
+
+2489
+00:53:21,200 --> 00:53:21,320
+ okay,
+
+2490
+00:53:21,440 --> 00:53:21,600
+ so,
+
+2491
+00:53:21,700 --> 00:53:22,220
+ you know,
+
+2492
+00:53:22,300 --> 00:53:23,400
+ I'm going to anticipate
+
+2493
+00:53:23,400 --> 00:53:24,860
+ boo to Heidegger,
+
+2494
+00:53:25,000 --> 00:53:26,000
+ like etymology
+
+2495
+00:53:26,000 --> 00:53:26,760
+ gets you to
+
+2496
+00:53:26,760 --> 00:53:27,800
+ the core essence
+
+2497
+00:53:27,800 --> 00:53:28,440
+ of the thing.
+
+2498
+00:53:28,920 --> 00:53:29,980
+ Hooray for that.
+
+2499
+00:53:30,260 --> 00:53:31,080
+ It's a way
+
+2500
+00:53:31,080 --> 00:53:31,680
+ of producing
+
+2501
+00:53:31,680 --> 00:53:32,400
+ senses
+
+2502
+00:53:32,400 --> 00:53:33,420
+ of
+
+2503
+00:53:33,420 --> 00:53:36,880
+ provisionally
+
+2504
+00:53:36,880 --> 00:53:37,780
+ creating senses
+
+2505
+00:53:37,780 --> 00:53:38,160
+ of things
+
+2506
+00:53:38,160 --> 00:53:38,540
+ or like
+
+2507
+00:53:38,540 --> 00:53:39,420
+ dislodging
+
+2508
+00:53:39,420 --> 00:53:40,080
+ reified
+
+2509
+00:53:40,080 --> 00:53:41,840
+ senses of something.
+
+2510
+00:53:41,940 --> 00:53:42,900
+ I love that
+
+2511
+00:53:42,900 --> 00:53:44,700
+ as an aside,
+
+2512
+00:53:45,100 --> 00:53:46,180
+ he's dismissing
+
+2513
+00:53:46,180 --> 00:53:47,500
+ the commonplace
+
+2514
+00:53:47,500 --> 00:53:48,020
+ theory
+
+2515
+00:53:48,020 --> 00:53:49,440
+ renderings
+
+2516
+00:53:49,440 --> 00:53:50,920
+ of responses
+
+2517
+00:53:50,920 --> 00:53:52,380
+ to the question
+
+2518
+00:53:52,380 --> 00:53:53,520
+ he has yet to pose.
+
+2519
+00:53:55,520 --> 00:53:56,340
+ I've been reading
+
+2520
+00:53:56,340 --> 00:53:57,040
+ a lot of Heidegger.
+
+2521
+00:53:58,160 --> 00:53:59,540
+ But in the between,
+
+2522
+00:53:59,860 --> 00:54:00,080
+ you know,
+
+2523
+00:54:00,200 --> 00:54:00,380
+ I mean,
+
+2524
+00:54:00,480 --> 00:54:02,460
+ I do think
+
+2525
+00:54:02,460 --> 00:54:03,640
+ that there is
+
+2526
+00:54:03,640 --> 00:54:04,400
+ a kind of
+
+2527
+00:54:04,400 --> 00:54:05,820
+ drift of language.
+
+2528
+00:54:05,980 --> 00:54:06,100
+ You know,
+
+2529
+00:54:06,140 --> 00:54:06,980
+ I think of all of,
+
+2530
+00:54:07,080 --> 00:54:07,200
+ like,
+
+2531
+00:54:07,480 --> 00:54:08,560
+ think about the word
+
+2532
+00:54:08,560 --> 00:54:09,220
+ idiot
+
+2533
+00:54:09,220 --> 00:54:10,020
+ and the way
+
+2534
+00:54:10,020 --> 00:54:10,860
+ that sort of like
+
+2535
+00:54:10,860 --> 00:54:11,680
+ its sense of
+
+2536
+00:54:11,680 --> 00:54:12,100
+ idiosyncratic.
+
+2537
+00:54:12,100 --> 00:54:12,800
+ I think about it a lot
+
+2538
+00:54:12,800 --> 00:54:13,280
+ on this one.
+
+2539
+00:54:14,660 --> 00:54:15,020
+ Sorry,
+
+2540
+00:54:15,140 --> 00:54:15,920
+ it was just sitting there
+
+2541
+00:54:15,920 --> 00:54:16,660
+ and I had to say it.
+
+2542
+00:54:17,080 --> 00:54:17,480
+ Okay,
+
+2543
+00:54:17,680 --> 00:54:18,380
+ the senses of like
+
+2544
+00:54:18,380 --> 00:54:18,920
+ idiot,
+
+2545
+00:54:19,360 --> 00:54:19,740
+ dumb,
+
+2546
+00:54:20,220 --> 00:54:20,660
+ you know,
+
+2547
+00:54:20,800 --> 00:54:22,040
+ whatever.
+
+2548
+00:54:22,200 --> 00:54:22,280
+ Like,
+
+2549
+00:54:22,340 --> 00:54:22,680
+ think of like,
+
+2550
+00:54:22,900 --> 00:54:23,680
+ they're all just sort of
+
+2551
+00:54:23,680 --> 00:54:24,300
+ generically,
+
+2552
+00:54:24,800 --> 00:54:25,220
+ you know,
+
+2553
+00:54:25,300 --> 00:54:26,780
+ someone is not smart.
+
+2554
+00:54:26,900 --> 00:54:27,080
+ I'm like,
+
+2555
+00:54:27,120 --> 00:54:27,220
+ no,
+
+2556
+00:54:27,320 --> 00:54:27,440
+ like,
+
+2557
+00:54:27,500 --> 00:54:27,600
+ well,
+
+2558
+00:54:27,700 --> 00:54:28,460
+ idiosyncrasy
+
+2559
+00:54:28,460 --> 00:54:28,860
+ is different
+
+2560
+00:54:28,860 --> 00:54:29,400
+ than lacking,
+
+2561
+00:54:29,720 --> 00:54:29,880
+ you know,
+
+2562
+00:54:29,920 --> 00:54:30,640
+ a certain capacity
+
+2563
+00:54:30,640 --> 00:54:31,420
+ to articulate
+
+2564
+00:54:31,420 --> 00:54:32,740
+ language is different
+
+2565
+00:54:32,740 --> 00:54:33,380
+ from,
+
+2566
+00:54:33,740 --> 00:54:34,060
+ you know,
+
+2567
+00:54:34,180 --> 00:54:34,940
+ like us being
+
+2568
+00:54:34,940 --> 00:54:35,720
+ in a stupor,
+
+2569
+00:54:35,840 --> 00:54:36,120
+ right?
+
+2570
+00:54:36,840 --> 00:54:37,160
+ Or,
+
+2571
+00:54:37,160 --> 00:54:40,320
+ or mean is one
+
+2572
+00:54:40,320 --> 00:54:40,880
+ that I often,
+
+2573
+00:54:40,980 --> 00:54:41,180
+ you know,
+
+2574
+00:54:41,180 --> 00:54:42,220
+ work with my students
+
+2575
+00:54:42,220 --> 00:54:42,780
+ is that,
+
+2576
+00:54:42,920 --> 00:54:43,540
+ especially when we're
+
+2577
+00:54:43,540 --> 00:54:44,160
+ talking about,
+
+2578
+00:54:44,200 --> 00:54:44,380
+ you know,
+
+2579
+00:54:44,440 --> 00:54:45,980
+ those Cicero's cases,
+
+2580
+00:54:46,100 --> 00:54:47,140
+ like the mean audience.
+
+2581
+00:54:47,240 --> 00:54:47,400
+ I'm like,
+
+2582
+00:54:47,440 --> 00:54:47,540
+ no,
+
+2583
+00:54:47,600 --> 00:54:48,100
+ they're not,
+
+2584
+00:54:48,100 --> 00:54:48,680
+ you know,
+
+2585
+00:54:48,880 --> 00:54:50,220
+ petty and angry at you.
+
+2586
+00:54:50,560 --> 00:54:52,120
+ It's a sense of like,
+
+2587
+00:54:52,360 --> 00:54:52,580
+ you know,
+
+2588
+00:54:52,600 --> 00:54:53,380
+ in terms of ends
+
+2589
+00:54:53,380 --> 00:54:53,900
+ and means
+
+2590
+00:54:53,900 --> 00:54:54,300
+ and like,
+
+2591
+00:54:54,420 --> 00:54:54,600
+ you know,
+
+2592
+00:54:54,620 --> 00:54:55,580
+ the mean person
+
+2593
+00:54:55,580 --> 00:54:56,740
+ is only focusing
+
+2594
+00:54:56,740 --> 00:54:57,660
+ on the means
+
+2595
+00:54:57,660 --> 00:54:58,260
+ by which one
+
+2596
+00:54:58,260 --> 00:54:59,200
+ can attend to
+
+2597
+00:54:59,200 --> 00:54:59,900
+ the,
+
+2598
+00:54:59,960 --> 00:55:00,880
+ get to the end,
+
+2599
+00:55:00,940 --> 00:55:01,180
+ which means
+
+2600
+00:55:01,180 --> 00:55:02,080
+ they're not considered
+
+2601
+00:55:02,080 --> 00:55:02,360
+ of,
+
+2602
+00:55:02,420 --> 00:55:02,500
+ you know,
+
+2603
+00:55:02,520 --> 00:55:03,200
+ someone's feelings
+
+2604
+00:55:03,200 --> 00:55:03,800
+ or something.
+
+2605
+00:55:04,360 --> 00:55:04,800
+ And,
+
+2606
+00:55:04,920 --> 00:55:05,160
+ you know,
+
+2607
+00:55:05,160 --> 00:55:06,780
+ so I do find like,
+
+2608
+00:55:08,040 --> 00:55:09,320
+ there is a kind of
+
+2609
+00:55:09,320 --> 00:55:10,460
+ almost deadening
+
+2610
+00:55:10,460 --> 00:55:11,500
+ of language
+
+2611
+00:55:11,500 --> 00:55:12,540
+ as it sort of
+
+2612
+00:55:12,540 --> 00:55:13,500
+ circulates within,
+
+2613
+00:55:13,680 --> 00:55:13,920
+ you know,
+
+2614
+00:55:13,920 --> 00:55:15,060
+ common discourse
+
+2615
+00:55:15,060 --> 00:55:16,300
+ and that there is
+
+2616
+00:55:16,300 --> 00:55:17,820
+ an energizing function
+
+2617
+00:55:17,820 --> 00:55:19,120
+ of etymology
+
+2618
+00:55:19,120 --> 00:55:21,320
+ and it does provide
+
+2619
+00:55:21,320 --> 00:55:22,180
+ a,
+
+2620
+00:55:22,560 --> 00:55:23,480
+ it does provide
+
+2621
+00:55:23,480 --> 00:55:24,440
+ food for thought
+
+2622
+00:55:24,440 --> 00:55:26,280
+ in a sort of like
+
+2623
+00:55:26,280 --> 00:55:27,980
+ in an enriching way.
+
+2624
+00:55:28,320 --> 00:55:29,180
+ And so like,
+
+2625
+00:55:30,080 --> 00:55:30,440
+ you know,
+
+2626
+00:55:30,540 --> 00:55:32,060
+ I don't want to suggest
+
+2627
+00:55:32,060 --> 00:55:32,700
+ that,
+
+2628
+00:55:33,020 --> 00:55:33,400
+ you know,
+
+2629
+00:55:33,640 --> 00:55:34,740
+ every etymology
+
+2630
+00:55:34,740 --> 00:55:35,860
+ is,
+
+2631
+00:55:36,180 --> 00:55:36,820
+ you know,
+
+2632
+00:55:36,880 --> 00:55:37,540
+ just as good
+
+2633
+00:55:37,540 --> 00:55:38,380
+ as another one,
+
+2634
+00:55:38,460 --> 00:55:39,440
+ that there is
+
+2635
+00:55:39,440 --> 00:55:40,220
+ a certain value
+
+2636
+00:55:40,220 --> 00:55:41,320
+ in tracing,
+
+2637
+00:55:41,820 --> 00:55:42,440
+ you know,
+
+2638
+00:55:42,640 --> 00:55:43,540
+ a word back
+
+2639
+00:55:43,540 --> 00:55:44,200
+ to what's almost
+
+2640
+00:55:44,200 --> 00:55:44,820
+ sort of like
+
+2641
+00:55:44,820 --> 00:55:46,960
+ most proto,
+
+2642
+00:55:47,520 --> 00:55:47,940
+ you know,
+
+2643
+00:55:48,020 --> 00:55:48,580
+ conceptual,
+
+2644
+00:55:49,040 --> 00:55:49,700
+ intersections.
+
+2645
+00:55:51,220 --> 00:55:52,140
+ But I don't want
+
+2646
+00:55:52,140 --> 00:55:52,940
+ to say that the value
+
+2647
+00:55:52,940 --> 00:55:54,180
+ of that is
+
+2648
+00:55:54,180 --> 00:55:54,980
+ caught up in its
+
+2649
+00:55:54,980 --> 00:55:56,380
+ authenticity or originality.
+
+2650
+00:55:56,560 --> 00:55:56,820
+ So like,
+
+2651
+00:55:56,920 --> 00:55:57,600
+ what's the value
+
+2652
+00:55:57,600 --> 00:55:58,500
+ of etymology for you?
+
+2653
+00:55:58,880 --> 00:55:59,880
+ But why not just,
+
+2654
+00:56:00,080 --> 00:56:00,240
+ I mean,
+
+2655
+00:56:00,300 --> 00:56:01,220
+ why can't you just say,
+
+2656
+00:56:02,100 --> 00:56:02,840
+ like anything
+
+2657
+00:56:02,840 --> 00:56:04,240
+ can be food for thought
+
+2658
+00:56:04,240 --> 00:56:04,720
+ in that,
+
+2659
+00:56:04,840 --> 00:56:05,460
+ to that extent.
+
+2660
+00:56:05,580 --> 00:56:06,160
+ It doesn't have
+
+2661
+00:56:06,160 --> 00:56:07,100
+ to be etymological.
+
+2662
+00:56:07,320 --> 00:56:08,000
+ It could be
+
+2663
+00:56:08,000 --> 00:56:09,380
+ walking down the street,
+
+2664
+00:56:09,500 --> 00:56:09,680
+ right?
+
+2665
+00:56:09,780 --> 00:56:09,920
+ Like,
+
+2666
+00:56:10,020 --> 00:56:11,240
+ so etymology to me
+
+2667
+00:56:11,240 --> 00:56:12,180
+ is just a hook.
+
+2668
+00:56:12,320 --> 00:56:13,360
+ It's one way in.
+
+2669
+00:56:13,420 --> 00:56:13,980
+ It gives you,
+
+2670
+00:56:14,360 --> 00:56:15,220
+ here are other ways
+
+2671
+00:56:15,220 --> 00:56:16,020
+ and other senses
+
+2672
+00:56:16,020 --> 00:56:16,880
+ of the word
+
+2673
+00:56:16,880 --> 00:56:18,540
+ that come from history.
+
+2674
+00:56:18,960 --> 00:56:19,920
+ you know,
+
+2675
+00:56:19,980 --> 00:56:20,600
+ and so to me,
+
+2676
+00:56:20,640 --> 00:56:20,920
+ I'm like,
+
+2677
+00:56:20,980 --> 00:56:21,060
+ oh,
+
+2678
+00:56:21,100 --> 00:56:21,780
+ that's interesting.
+
+2679
+00:56:21,960 --> 00:56:22,580
+ I don't think
+
+2680
+00:56:22,580 --> 00:56:23,300
+ that when I'm using
+
+2681
+00:56:23,300 --> 00:56:24,060
+ the word mean
+
+2682
+00:56:24,060 --> 00:56:24,880
+ now,
+
+2683
+00:56:25,200 --> 00:56:26,060
+ that I am then
+
+2684
+00:56:26,060 --> 00:56:26,740
+ participating
+
+2685
+00:56:26,740 --> 00:56:27,880
+ in that
+
+2686
+00:56:27,880 --> 00:56:29,300
+ antique version
+
+2687
+00:56:29,300 --> 00:56:31,640
+ in some indirect
+
+2688
+00:56:31,640 --> 00:56:32,780
+ or subtle way.
+
+2689
+00:56:33,000 --> 00:56:33,920
+ I am not.
+
+2690
+00:56:33,980 --> 00:56:34,940
+ I am participating
+
+2691
+00:56:34,940 --> 00:56:36,500
+ in the contemporary version,
+
+2692
+00:56:37,120 --> 00:56:37,420
+ you know,
+
+2693
+00:56:37,780 --> 00:56:38,480
+ but I can,
+
+2694
+00:56:38,780 --> 00:56:39,520
+ but as a cause
+
+2695
+00:56:39,520 --> 00:56:40,000
+ for thinking,
+
+2696
+00:56:40,080 --> 00:56:40,340
+ it's like,
+
+2697
+00:56:40,420 --> 00:56:40,540
+ oh,
+
+2698
+00:56:40,620 --> 00:56:41,280
+ here's an interesting
+
+2699
+00:56:41,280 --> 00:56:42,360
+ way in which mean
+
+2700
+00:56:42,360 --> 00:56:43,120
+ circulates.
+
+2701
+00:56:43,240 --> 00:56:44,240
+ It's polysemous,
+
+2702
+00:56:44,320 --> 00:56:44,520
+ right?
+
+2703
+00:56:44,600 --> 00:56:45,060
+ And so,
+
+2704
+00:56:45,480 --> 00:56:46,120
+ and I often,
+
+2705
+00:56:46,220 --> 00:56:46,380
+ I mean,
+
+2706
+00:56:46,380 --> 00:56:47,200
+ sometimes when I read
+
+2707
+00:56:47,200 --> 00:56:47,940
+ Heidegger's etymology,
+
+2708
+00:56:48,060 --> 00:56:48,900
+ like the call stuff
+
+2709
+00:56:48,900 --> 00:56:49,860
+ was less impressive
+
+2710
+00:56:49,860 --> 00:56:50,760
+ to me because I was like,
+
+2711
+00:56:51,020 --> 00:56:51,680
+ all he's saying
+
+2712
+00:56:51,680 --> 00:56:52,520
+ is there are four meanings
+
+2713
+00:56:52,520 --> 00:56:53,360
+ of the word call.
+
+2714
+00:56:53,580 --> 00:56:53,760
+ Yeah.
+
+2715
+00:56:54,480 --> 00:56:55,980
+ That's like any dictionary
+
+2716
+00:56:55,980 --> 00:56:56,880
+ will tell you that,
+
+2717
+00:56:57,000 --> 00:56:57,140
+ right?
+
+2718
+00:56:57,160 --> 00:56:57,800
+ Like you don't have
+
+2719
+00:56:57,800 --> 00:56:58,660
+ to get etymological
+
+2720
+00:56:58,660 --> 00:56:59,480
+ and you don't have
+
+2721
+00:56:59,480 --> 00:57:00,180
+ to get authentic.
+
+2722
+00:57:00,340 --> 00:57:00,780
+ You get to say
+
+2723
+00:57:00,780 --> 00:57:01,740
+ there are four meanings
+
+2724
+00:57:01,740 --> 00:57:02,400
+ of this word,
+
+2725
+00:57:02,960 --> 00:57:04,060
+ especially a word
+
+2726
+00:57:04,060 --> 00:57:04,580
+ like thinking
+
+2727
+00:57:04,580 --> 00:57:05,340
+ for fuck's sake,
+
+2728
+00:57:05,440 --> 00:57:05,600
+ right?
+
+2729
+00:57:05,640 --> 00:57:06,540
+ Like there are many,
+
+2730
+00:57:06,680 --> 00:57:06,900
+ I mean,
+
+2731
+00:57:07,260 --> 00:57:07,660
+ how about if,
+
+2732
+00:57:07,720 --> 00:57:08,380
+ I would find it
+
+2733
+00:57:08,380 --> 00:57:09,060
+ incredibly useful
+
+2734
+00:57:09,060 --> 00:57:09,620
+ if he just said
+
+2735
+00:57:09,620 --> 00:57:10,480
+ there's six meanings
+
+2736
+00:57:10,480 --> 00:57:11,360
+ of the word thinking,
+
+2737
+00:57:11,620 --> 00:57:12,060
+ you know?
+
+2738
+00:57:12,320 --> 00:57:12,380
+ Like,
+
+2739
+00:57:12,740 --> 00:57:14,240
+ so to me,
+
+2740
+00:57:14,320 --> 00:57:15,240
+ just saying there,
+
+2741
+00:57:15,520 --> 00:57:16,880
+ the sort of emphasizing
+
+2742
+00:57:16,880 --> 00:57:18,400
+ the polysemous quality
+
+2743
+00:57:18,400 --> 00:57:20,360
+ can introduce connections
+
+2744
+00:57:20,360 --> 00:57:21,580
+ for obvious reasons,
+
+2745
+00:57:21,720 --> 00:57:21,980
+ right?
+
+2746
+00:57:22,060 --> 00:57:22,300
+ Like,
+
+2747
+00:57:22,800 --> 00:57:23,640
+ so this,
+
+2748
+00:57:23,800 --> 00:57:23,940
+ you know,
+
+2749
+00:57:23,940 --> 00:57:24,620
+ the word mean
+
+2750
+00:57:24,620 --> 00:57:25,580
+ has multiple,
+
+2751
+00:57:26,100 --> 00:57:27,820
+ now mean meanings,
+
+2752
+00:57:27,940 --> 00:57:28,320
+ we're going to get
+
+2753
+00:57:28,320 --> 00:57:28,900
+ all into that,
+
+2754
+00:57:28,980 --> 00:57:30,840
+ but like any given word
+
+2755
+00:57:30,840 --> 00:57:31,900
+ has multiple meanings
+
+2756
+00:57:31,900 --> 00:57:32,960
+ just because historically
+
+2757
+00:57:32,960 --> 00:57:33,840
+ they're performatively
+
+2758
+00:57:33,840 --> 00:57:34,360
+ produced.
+
+2759
+00:57:34,480 --> 00:57:35,600
+ That's to me
+
+2760
+00:57:35,600 --> 00:57:36,300
+ super simple
+
+2761
+00:57:36,300 --> 00:57:37,580
+ and some of them
+
+2762
+00:57:37,580 --> 00:57:38,780
+ can be interesting
+
+2763
+00:57:38,780 --> 00:57:39,640
+ and informative.
+
+2764
+00:57:40,160 --> 00:57:40,640
+ I don't see,
+
+2765
+00:57:40,740 --> 00:57:41,720
+ and I don't like
+
+2766
+00:57:41,720 --> 00:57:44,140
+ the polysemous response
+
+2767
+00:57:44,140 --> 00:57:45,720
+ to it because then
+
+2768
+00:57:45,720 --> 00:57:47,920
+ it tends to like silo
+
+2769
+00:57:47,920 --> 00:57:49,140
+ each one of those meanings
+
+2770
+00:57:49,140 --> 00:57:49,800
+ and,
+
+2771
+00:57:50,180 --> 00:57:50,340
+ you know,
+
+2772
+00:57:50,340 --> 00:57:50,960
+ there is a,
+
+2773
+00:57:51,260 --> 00:57:51,520
+ you know,
+
+2774
+00:57:51,640 --> 00:57:53,080
+ I just read
+
+2775
+00:57:53,080 --> 00:57:54,100
+ signature event context
+
+2776
+00:57:54,100 --> 00:57:54,720
+ again recently
+
+2777
+00:57:54,720 --> 00:57:55,200
+ is like,
+
+2778
+00:57:55,320 --> 00:57:56,300
+ there is a particular
+
+2779
+00:57:56,300 --> 00:57:57,200
+ communication
+
+2780
+00:57:57,200 --> 00:57:59,020
+ across those meanings.
+
+2781
+00:57:59,180 --> 00:57:59,400
+ Like they,
+
+2782
+00:57:59,700 --> 00:58:00,380
+ like these senses
+
+2783
+00:58:00,380 --> 00:58:01,800
+ communicate with each other
+
+2784
+00:58:01,800 --> 00:58:02,240
+ and that,
+
+2785
+00:58:02,300 --> 00:58:02,500
+ you know,
+
+2786
+00:58:02,760 --> 00:58:03,240
+ that our,
+
+2787
+00:58:03,320 --> 00:58:03,700
+ you know,
+
+2788
+00:58:03,740 --> 00:58:04,820
+ our contemporary sense
+
+2789
+00:58:04,820 --> 00:58:05,280
+ of meaning
+
+2790
+00:58:05,280 --> 00:58:06,260
+ has a particular
+
+2791
+00:58:06,260 --> 00:58:06,940
+ relationship
+
+2792
+00:58:06,940 --> 00:58:07,560
+ to that more
+
+2793
+00:58:07,560 --> 00:58:08,280
+ archaic sense
+
+2794
+00:58:08,280 --> 00:58:08,660
+ of meaning
+
+2795
+00:58:08,660 --> 00:58:09,060
+ and that
+
+2796
+00:58:09,060 --> 00:58:09,940
+ one is a bit
+
+2797
+00:58:09,940 --> 00:58:11,300
+ of a mean jerk
+
+2798
+00:58:11,300 --> 00:58:12,420
+ to only focus
+
+2799
+00:58:12,420 --> 00:58:13,660
+ on the means,
+
+2800
+00:58:13,960 --> 00:58:14,220
+ you know,
+
+2801
+00:58:14,260 --> 00:58:15,060
+ from the ends
+
+2802
+00:58:15,060 --> 00:58:15,980
+ and,
+
+2803
+00:58:15,980 --> 00:58:20,100
+ but 90%
+
+2804
+00:58:20,100 --> 00:58:20,360
+ of the,
+
+2805
+00:58:20,440 --> 00:58:21,600
+ 99%
+
+2806
+00:58:21,600 --> 00:58:22,040
+ of the time
+
+2807
+00:58:22,040 --> 00:58:22,540
+ when someone
+
+2808
+00:58:22,540 --> 00:58:23,520
+ calls another person
+
+2809
+00:58:23,520 --> 00:58:23,940
+ mean,
+
+2810
+00:58:24,640 --> 00:58:25,940
+ it has absolutely
+
+2811
+00:58:25,940 --> 00:58:26,720
+ nothing to do
+
+2812
+00:58:26,720 --> 00:58:27,320
+ with means
+
+2813
+00:58:27,320 --> 00:58:27,820
+ and ends.
+
+2814
+00:58:28,260 --> 00:58:28,600
+ See,
+
+2815
+00:58:28,660 --> 00:58:29,180
+ I disagree.
+
+2816
+00:58:29,380 --> 00:58:30,260
+ I think that there is,
+
+2817
+00:58:30,300 --> 00:58:30,480
+ like,
+
+2818
+00:58:30,500 --> 00:58:31,540
+ I think there is a sense
+
+2819
+00:58:31,540 --> 00:58:32,880
+ in which they're getting
+
+2820
+00:58:32,880 --> 00:58:33,160
+ at that,
+
+2821
+00:58:33,220 --> 00:58:33,880
+ not consciously,
+
+2822
+00:58:34,080 --> 00:58:34,600
+ not like,
+
+2823
+00:58:34,940 --> 00:58:36,060
+ or even like the word
+
+2824
+00:58:36,060 --> 00:58:37,360
+ I mean this
+
+2825
+00:58:37,360 --> 00:58:38,000
+ as opposed to
+
+2826
+00:58:38,000 --> 00:58:38,780
+ I mean that
+
+2827
+00:58:38,780 --> 00:58:40,400
+ still has a connection
+
+2828
+00:58:40,400 --> 00:58:41,500
+ to means
+
+2829
+00:58:41,500 --> 00:58:42,020
+ and ends
+
+2830
+00:58:42,020 --> 00:58:42,960
+ where the word
+
+2831
+00:58:42,960 --> 00:58:43,840
+ is the means
+
+2832
+00:58:43,840 --> 00:58:44,780
+ of getting to
+
+2833
+00:58:44,780 --> 00:58:45,880
+ the content
+
+2834
+00:58:45,880 --> 00:58:46,880
+ and there's like
+
+2835
+00:58:46,880 --> 00:58:47,440
+ that meaning
+
+2836
+00:58:47,440 --> 00:58:48,120
+ relationship
+
+2837
+00:58:48,120 --> 00:58:48,800
+ Can you make,
+
+2838
+00:58:48,940 --> 00:58:49,160
+ I mean,
+
+2839
+00:58:49,200 --> 00:58:49,940
+ there's a difference here.
+
+2840
+00:58:50,040 --> 00:58:51,020
+ Can you make that connection?
+
+2841
+00:58:51,180 --> 00:58:52,040
+ Of course you can make
+
+2842
+00:58:52,040 --> 00:58:52,640
+ that connection.
+
+2843
+00:58:52,820 --> 00:58:52,940
+ Like,
+
+2844
+00:58:52,980 --> 00:58:53,400
+ that connection
+
+2845
+00:58:53,400 --> 00:58:54,040
+ can be made.
+
+2846
+00:58:54,160 --> 00:58:55,080
+ Is that the connection
+
+2847
+00:58:55,080 --> 00:58:55,700
+ that the person
+
+2848
+00:58:55,700 --> 00:58:56,220
+ is making
+
+2849
+00:58:56,220 --> 00:58:57,540
+ in any kind
+
+2850
+00:58:57,540 --> 00:58:58,140
+ of conscious
+
+2851
+00:58:58,140 --> 00:58:58,900
+ way at all?
+
+2852
+00:58:59,040 --> 00:58:59,280
+ No.
+
+2853
+00:58:59,600 --> 00:58:59,620
+ Like,
+
+2854
+00:58:59,740 --> 00:59:00,160
+ there's just not.
+
+2855
+00:59:00,160 --> 00:59:00,780
+ No, probably not.
+
+2856
+00:59:01,500 --> 00:59:02,320
+ The word has come
+
+2857
+00:59:02,320 --> 00:59:03,060
+ to signify
+
+2858
+00:59:03,060 --> 00:59:03,880
+ something different
+
+2859
+00:59:03,880 --> 00:59:04,860
+ and to be used
+
+2860
+00:59:04,860 --> 00:59:05,380
+ differently.
+
+2861
+00:59:05,980 --> 00:59:06,680
+ I don't think
+
+2862
+00:59:06,680 --> 00:59:07,040
+ that it,
+
+2863
+00:59:07,180 --> 00:59:07,800
+ when we say
+
+2864
+00:59:07,800 --> 00:59:08,660
+ it harbors a trace,
+
+2865
+00:59:08,700 --> 00:59:09,180
+ it depends on
+
+2866
+00:59:09,180 --> 00:59:10,120
+ what we mean by that.
+
+2867
+00:59:10,120 --> 00:59:10,600
+ obviously,
+
+2868
+00:59:10,760 --> 00:59:10,900
+ like,
+
+2869
+00:59:10,980 --> 00:59:12,020
+ if it's the Deridian trace,
+
+2870
+00:59:12,080 --> 00:59:12,800
+ it's not present.
+
+2871
+00:59:12,940 --> 00:59:14,140
+ There isn't something there.
+
+2872
+00:59:15,060 --> 00:59:15,260
+ So,
+
+2873
+00:59:15,520 --> 00:59:16,640
+ and I agree,
+
+2874
+00:59:16,760 --> 00:59:16,880
+ like,
+
+2875
+00:59:16,920 --> 00:59:17,440
+ to that extent
+
+2876
+00:59:17,440 --> 00:59:18,420
+ it harbors a trace
+
+2877
+00:59:18,420 --> 00:59:18,920
+ if we say
+
+2878
+00:59:18,920 --> 00:59:19,760
+ a non-presence.
+
+2879
+00:59:20,060 --> 00:59:20,920
+ It doesn't harbor
+
+2880
+00:59:20,920 --> 00:59:22,440
+ a hidden signification
+
+2881
+00:59:22,440 --> 00:59:23,840
+ of its originary use.
+
+2882
+00:59:24,480 --> 00:59:24,520
+ Right.
+
+2883
+00:59:24,620 --> 00:59:24,800
+ Like,
+
+2884
+00:59:24,980 --> 00:59:25,240
+ it's,
+
+2885
+00:59:25,460 --> 00:59:26,260
+ it got,
+
+2886
+00:59:26,400 --> 00:59:26,620
+ I mean,
+
+2887
+00:59:26,960 --> 00:59:27,320
+ so again,
+
+2888
+00:59:27,360 --> 00:59:27,680
+ that's where
+
+2889
+00:59:27,680 --> 00:59:28,140
+ the Deridian
+
+2890
+00:59:28,140 --> 00:59:29,220
+ versus the conventional
+
+2891
+00:59:29,220 --> 00:59:30,940
+ understanding
+
+2892
+00:59:30,940 --> 00:59:32,040
+ makes a difference.
+
+2893
+00:59:32,240 --> 00:59:32,360
+ But,
+
+2894
+00:59:32,760 --> 00:59:33,020
+ you know,
+
+2895
+00:59:33,120 --> 00:59:33,860
+ that's the
+
+2896
+00:59:33,860 --> 00:59:35,400
+ Nietzschean interpretation.
+
+2897
+00:59:35,740 --> 00:59:36,500
+ You take the word
+
+2898
+00:59:36,500 --> 00:59:37,200
+ from one place
+
+2899
+00:59:37,200 --> 00:59:37,880
+ and you put it
+
+2900
+00:59:37,880 --> 00:59:38,940
+ into another place.
+
+2901
+00:59:39,500 --> 00:59:39,840
+ Did it come
+
+2902
+00:59:39,840 --> 00:59:40,620
+ from somewhere?
+
+2903
+00:59:40,900 --> 00:59:41,380
+ Absolutely.
+
+2904
+00:59:41,700 --> 00:59:41,820
+ Right?
+
+2905
+00:59:41,900 --> 00:59:42,080
+ Like,
+
+2906
+00:59:42,160 --> 00:59:43,000
+ and does that somewhere
+
+2907
+00:59:43,000 --> 00:59:43,660
+ make a difference?
+
+2908
+00:59:43,780 --> 00:59:44,000
+ Yes,
+
+2909
+00:59:44,060 --> 00:59:45,180
+ but not necessarily.
+
+2910
+00:59:45,740 --> 00:59:45,980
+ Like,
+
+2911
+00:59:46,120 --> 00:59:47,400
+ can one hook the thing
+
+2912
+00:59:47,400 --> 00:59:48,520
+ and reactivate it?
+
+2913
+00:59:48,600 --> 00:59:48,800
+ Yeah,
+
+2914
+00:59:48,840 --> 00:59:49,360
+ of course.
+
+2915
+00:59:49,760 --> 00:59:50,000
+ Or,
+
+2916
+00:59:50,100 --> 00:59:51,280
+ or not determinately.
+
+2917
+00:59:51,280 --> 00:59:52,720
+ that it doesn't necessarily
+
+2918
+00:59:52,720 --> 00:59:53,500
+ make a difference
+
+2919
+00:59:53,500 --> 00:59:54,140
+ and it makes
+
+2920
+00:59:54,140 --> 00:59:55,360
+ a particular difference
+
+2921
+00:59:55,360 --> 00:59:56,260
+ but it's not
+
+2922
+00:59:56,260 --> 00:59:58,060
+ a predetermined difference.
+
+2923
+00:59:58,220 --> 00:59:58,700
+ It's certainly
+
+2924
+00:59:58,700 --> 00:59:59,500
+ not predetermined
+
+2925
+00:59:59,500 --> 00:59:59,820
+ because,
+
+2926
+01:00:00,140 --> 01:00:00,320
+ I mean,
+
+2927
+01:00:00,340 --> 01:00:00,960
+ as you just said,
+
+2928
+01:00:01,000 --> 01:00:02,120
+ it's not a silo
+
+2929
+01:00:02,120 --> 01:00:03,220
+ so that sort of
+
+2930
+01:00:03,220 --> 01:00:04,760
+ original signification
+
+2931
+01:00:04,760 --> 01:00:05,620
+ wasn't just a
+
+2932
+01:00:05,620 --> 01:00:06,640
+ self-contained entity
+
+2933
+01:00:06,640 --> 01:00:07,300
+ of this.
+
+2934
+01:00:07,480 --> 01:00:07,660
+ Right.
+
+2935
+01:00:07,800 --> 01:00:07,980
+ I mean,
+
+2936
+01:00:07,980 --> 01:00:08,320
+ that's how we,
+
+2937
+01:00:08,360 --> 01:00:09,100
+ that's how we treat it.
+
+2938
+01:00:09,160 --> 01:00:09,540
+ It's like,
+
+2939
+01:00:09,600 --> 01:00:09,840
+ okay,
+
+2940
+01:00:09,940 --> 01:00:10,140
+ well,
+
+2941
+01:00:10,180 --> 01:00:10,760
+ it was means,
+
+2942
+01:00:10,880 --> 01:00:11,180
+ ends,
+
+2943
+01:00:11,180 --> 01:00:12,340
+ and now it's nastiness.
+
+2944
+01:00:12,340 --> 01:00:12,640
+ Yeah.
+
+2945
+01:00:13,000 --> 01:00:14,580
+ And we can reactivate
+
+2946
+01:00:14,580 --> 01:00:15,100
+ the means,
+
+2947
+01:00:15,180 --> 01:00:15,740
+ ends thing
+
+2948
+01:00:15,740 --> 01:00:16,720
+ into the nastiness.
+
+2949
+01:00:16,720 --> 01:00:17,260
+ It's like,
+
+2950
+01:00:17,300 --> 01:00:17,400
+ no,
+
+2951
+01:00:17,440 --> 01:00:18,260
+ it wasn't simply
+
+2952
+01:00:18,260 --> 01:00:19,660
+ a distinct means,
+
+2953
+01:00:19,760 --> 01:00:20,280
+ ends thing,
+
+2954
+01:00:20,400 --> 01:00:21,740
+ that there was a sensibility
+
+2955
+01:00:21,740 --> 01:00:22,800
+ for its use
+
+2956
+01:00:22,800 --> 01:00:23,760
+ that was around,
+
+2957
+01:00:23,940 --> 01:00:24,140
+ you know,
+
+2958
+01:00:24,400 --> 01:00:25,240
+ and so that's to me
+
+2959
+01:00:25,240 --> 01:00:26,940
+ the much more ambiguous way.
+
+2960
+01:00:27,020 --> 01:00:27,980
+ That's how language works,
+
+2961
+01:00:28,080 --> 01:00:28,200
+ right?
+
+2962
+01:00:28,240 --> 01:00:28,860
+ There's always,
+
+2963
+01:00:29,360 --> 01:00:29,840
+ to me,
+
+2964
+01:00:29,940 --> 01:00:30,360
+ honestly,
+
+2965
+01:00:30,460 --> 01:00:31,360
+ one of the targets
+
+2966
+01:00:31,360 --> 01:00:32,120
+ that's ended up being
+
+2967
+01:00:32,120 --> 01:00:33,280
+ a target in this style book
+
+2968
+01:00:33,280 --> 01:00:34,960
+ is connotation,
+
+2969
+01:00:35,040 --> 01:00:35,620
+ denotation.
+
+2970
+01:00:35,980 --> 01:00:36,120
+ Like,
+
+2971
+01:00:36,120 --> 01:00:37,640
+ that distinction.
+
+2972
+01:00:37,640 --> 01:00:38,000
+ Right.
+
+2973
+01:00:38,380 --> 01:00:38,460
+ Yeah.
+
+2974
+01:00:38,540 --> 01:00:38,700
+ Right?
+
+2975
+01:00:38,800 --> 01:00:38,980
+ Like,
+
+2976
+01:00:39,180 --> 01:00:40,400
+ I just think that it's,
+
+2977
+01:00:40,560 --> 01:00:40,660
+ like,
+
+2978
+01:00:40,700 --> 01:00:41,480
+ I'm trying to find
+
+2979
+01:00:41,480 --> 01:00:42,080
+ the history of it
+
+2980
+01:00:42,080 --> 01:00:43,120
+ and I can't get too much
+
+2981
+01:00:43,120 --> 01:00:44,100
+ in terms of the history of it.
+
+2982
+01:00:44,220 --> 01:00:44,620
+ Ironically,
+
+2983
+01:00:44,700 --> 01:00:45,200
+ I'm trying to get
+
+2984
+01:00:45,200 --> 01:00:46,480
+ the history of how
+
+2985
+01:00:46,480 --> 01:00:48,000
+ the distinction.
+
+2986
+01:00:48,560 --> 01:00:48,840
+ But I mean,
+
+2987
+01:00:48,880 --> 01:00:49,740
+ the idea that you can
+
+2988
+01:00:49,740 --> 01:00:50,660
+ separate out
+
+2989
+01:00:50,660 --> 01:00:51,780
+ the denotative meaning
+
+2990
+01:00:51,780 --> 01:00:53,400
+ from the connotative use
+
+2991
+01:00:53,400 --> 01:00:54,100
+ is,
+
+2992
+01:00:54,240 --> 01:00:54,420
+ I think,
+
+2993
+01:00:54,520 --> 01:00:55,520
+ disastrous
+
+2994
+01:00:55,520 --> 01:00:57,380
+ for thinking about language.
+
+2995
+01:00:58,160 --> 01:00:58,360
+ You know?
+
+2996
+01:00:59,140 --> 01:00:59,380
+ Yeah.
+
+2997
+01:00:59,820 --> 01:01:00,280
+ And yet,
+
+2998
+01:01:00,360 --> 01:01:00,640
+ I mean,
+
+2999
+01:01:00,760 --> 01:01:01,340
+ and yet,
+
+3000
+01:01:01,520 --> 01:01:01,740
+ you know,
+
+3001
+01:01:01,780 --> 01:01:02,480
+ the difference between
+
+3002
+01:01:02,480 --> 01:01:03,620
+ saying connections
+
+3003
+01:01:03,620 --> 01:01:04,800
+ can be made
+
+3004
+01:01:04,800 --> 01:01:06,280
+ and connections
+
+3005
+01:01:06,280 --> 01:01:07,360
+ have been made
+
+3006
+01:01:07,360 --> 01:01:08,200
+ matters,
+
+3007
+01:01:08,340 --> 01:01:08,660
+ right?
+
+3008
+01:01:08,760 --> 01:01:08,960
+ Like,
+
+3009
+01:01:09,300 --> 01:01:09,660
+ you know,
+
+3010
+01:01:09,860 --> 01:01:10,420
+ the more,
+
+3011
+01:01:10,560 --> 01:01:10,780
+ you know,
+
+3012
+01:01:10,780 --> 01:01:11,420
+ just like,
+
+3013
+01:01:12,060 --> 01:01:12,780
+ the more
+
+3014
+01:01:12,780 --> 01:01:14,240
+ that connection
+
+3015
+01:01:14,240 --> 01:01:15,460
+ between the two senses
+
+3016
+01:01:15,460 --> 01:01:15,840
+ of meaning,
+
+3017
+01:01:15,920 --> 01:01:16,460
+ that connection
+
+3018
+01:01:16,460 --> 01:01:17,300
+ was made,
+
+3019
+01:01:17,540 --> 01:01:17,820
+ right?
+
+3020
+01:01:18,000 --> 01:01:18,360
+ Of course,
+
+3021
+01:01:18,560 --> 01:01:18,700
+ yes.
+
+3022
+01:01:18,700 --> 01:01:19,600
+ And the repetition
+
+3023
+01:01:19,600 --> 01:01:20,720
+ of that has allowed
+
+3024
+01:01:20,720 --> 01:01:22,120
+ for an easier passage
+
+3025
+01:01:22,120 --> 01:01:22,940
+ between,
+
+3026
+01:01:23,280 --> 01:01:24,200
+ and a more sort of,
+
+3027
+01:01:24,280 --> 01:01:24,460
+ like,
+
+3028
+01:01:24,900 --> 01:01:26,900
+ a messier passage
+
+3029
+01:01:26,900 --> 01:01:27,740
+ between the two,
+
+3030
+01:01:27,820 --> 01:01:28,040
+ where,
+
+3031
+01:01:28,200 --> 01:01:28,580
+ you know,
+
+3032
+01:01:28,620 --> 01:01:28,980
+ I do,
+
+3033
+01:01:29,120 --> 01:01:29,260
+ like,
+
+3034
+01:01:29,380 --> 01:01:30,220
+ when I explain
+
+3035
+01:01:30,220 --> 01:01:31,640
+ that connection
+
+3036
+01:01:31,640 --> 01:01:32,440
+ to my students,
+
+3037
+01:01:32,700 --> 01:01:33,320
+ they're not like,
+
+3038
+01:01:33,440 --> 01:01:33,660
+ whoa,
+
+3039
+01:01:33,760 --> 01:01:34,520
+ these are totally
+
+3040
+01:01:34,520 --> 01:01:35,260
+ different senses
+
+3041
+01:01:35,260 --> 01:01:35,740
+ of meaning.
+
+3042
+01:01:35,940 --> 01:01:36,060
+ Wow,
+
+3043
+01:01:36,140 --> 01:01:36,460
+ hasn't it?
+
+3044
+01:01:36,520 --> 01:01:37,400
+ Interesting how one word
+
+3045
+01:01:37,400 --> 01:01:37,900
+ becomes something
+
+3046
+01:01:37,900 --> 01:01:38,500
+ radically different.
+
+3047
+01:01:38,560 --> 01:01:38,660
+ Like,
+
+3048
+01:01:38,700 --> 01:01:38,920
+ oh no,
+
+3049
+01:01:39,000 --> 01:01:39,940
+ I totally see
+
+3050
+01:01:39,940 --> 01:01:41,080
+ that passageway,
+
+3051
+01:01:41,160 --> 01:01:41,480
+ and in fact,
+
+3052
+01:01:41,680 --> 01:01:42,880
+ I see in my everyday
+
+3053
+01:01:42,880 --> 01:01:43,900
+ usage of that word,
+
+3054
+01:01:44,060 --> 01:01:44,920
+ I see elements
+
+3055
+01:01:44,920 --> 01:01:45,620
+ or traces,
+
+3056
+01:01:45,880 --> 01:01:46,020
+ yeah,
+
+3057
+01:01:46,140 --> 01:01:46,280
+ like,
+
+3058
+01:01:46,380 --> 01:01:46,920
+ I see like,
+
+3059
+01:01:46,920 --> 01:01:47,360
+ instrumental,
+
+3060
+01:01:47,360 --> 01:01:48,960
+ an instrumental person
+
+3061
+01:01:48,960 --> 01:01:49,800
+ is a mean person,
+
+3062
+01:01:49,880 --> 01:01:50,020
+ right?
+
+3063
+01:01:50,160 --> 01:01:50,420
+ Exactly.
+
+3064
+01:01:50,960 --> 01:01:51,100
+ Yeah.
+
+3065
+01:01:51,500 --> 01:01:52,300
+ So the issue,
+
+3066
+01:01:52,480 --> 01:01:52,820
+ I guess,
+
+3067
+01:01:52,900 --> 01:01:54,100
+ that you might find
+
+3068
+01:01:54,100 --> 01:01:54,880
+ with Heidegger's
+
+3069
+01:01:54,880 --> 01:01:55,660
+ use of etymology
+
+3070
+01:01:55,660 --> 01:01:56,100
+ is that
+
+3071
+01:01:56,100 --> 01:01:57,880
+ whatever the original
+
+3072
+01:01:57,880 --> 01:01:59,940
+ structure of the word
+
+3073
+01:01:59,940 --> 01:02:00,840
+ and meaning of the word
+
+3074
+01:02:00,840 --> 01:02:01,900
+ that he digs up,
+
+3075
+01:02:02,020 --> 01:02:03,160
+ that somehow deserves
+
+3076
+01:02:03,160 --> 01:02:04,220
+ foundational status,
+
+3077
+01:02:04,300 --> 01:02:04,900
+ it seems like.
+
+3078
+01:02:05,140 --> 01:02:05,300
+ Like,
+
+3079
+01:02:05,360 --> 01:02:06,000
+ with his use of,
+
+3080
+01:02:06,060 --> 01:02:07,180
+ even the word to call,
+
+3081
+01:02:07,540 --> 01:02:07,780
+ which,
+
+3082
+01:02:08,220 --> 01:02:09,960
+ the notion that call
+
+3083
+01:02:09,960 --> 01:02:10,820
+ means an invitation,
+
+3084
+01:02:11,100 --> 01:02:12,140
+ that's not an unfamiliar,
+
+3085
+01:02:12,680 --> 01:02:13,240
+ I don't know why,
+
+3086
+01:02:13,500 --> 01:02:14,460
+ which he kind of
+
+3087
+01:02:14,460 --> 01:02:15,580
+ phrases it as such,
+
+3088
+01:02:15,580 --> 01:02:15,860
+ he's like,
+
+3089
+01:02:15,940 --> 01:02:17,180
+ this is the real meaning
+
+3090
+01:02:17,180 --> 01:02:17,780
+ of to call,
+
+3091
+01:02:18,060 --> 01:02:18,900
+ whereas the Deridian,
+
+3092
+01:02:19,060 --> 01:02:19,800
+ like you were just saying,
+
+3093
+01:02:19,900 --> 01:02:20,940
+ approach to etymology
+
+3094
+01:02:20,940 --> 01:02:22,200
+ is just to play
+
+3095
+01:02:22,200 --> 01:02:22,840
+ with a series
+
+3096
+01:02:22,840 --> 01:02:23,640
+ of interpretations
+
+3097
+01:02:23,640 --> 01:02:25,060
+ and mobilize them
+
+3098
+01:02:25,060 --> 01:02:25,660
+ for use
+
+3099
+01:02:25,660 --> 01:02:26,680
+ in another context.
+
+3100
+01:02:26,780 --> 01:02:26,940
+ I mean,
+
+3101
+01:02:26,980 --> 01:02:28,160
+ that's how the concept
+
+3102
+01:02:28,160 --> 01:02:29,880
+ difference came into being.
+
+3103
+01:02:29,940 --> 01:02:30,960
+ It's not that he gets
+
+3104
+01:02:30,960 --> 01:02:32,420
+ to the root of the word
+
+3105
+01:02:32,420 --> 01:02:34,200
+ and then somehow derives
+
+3106
+01:02:34,200 --> 01:02:36,480
+ an ultimate foundational meaning
+
+3107
+01:02:36,480 --> 01:02:38,720
+ of difference through it,
+
+3108
+01:02:38,760 --> 01:02:39,320
+ it's that he's,
+
+3109
+01:02:39,540 --> 01:02:42,060
+ he's forcing connections.
+
+3110
+01:02:50,380 --> 01:03:05,980
+ It's not that he gets to the root of the word.
+

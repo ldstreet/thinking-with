@@ -1,0 +1,3844 @@
+1
+00:00:00,000 --> 00:00:26,120
+ I have a radical idea before we start in on the Deleuze.
+
+2
+00:00:26,380 --> 00:00:31,360
+ Let's just say out loud what sections of the book we are looking at and what book it
+
+3
+00:00:31,360 --> 00:00:34,740
+ is that does that.
+
+4
+00:00:34,760 --> 00:00:35,200
+ What do you mean?
+
+5
+00:00:36,000 --> 00:00:40,160
+ Just say like, Hey, we're, we're reading the logic of sense.
+
+6
+00:00:40,360 --> 00:00:45,200
+ And this week we focused on series 16, 17 and 18.
+
+7
+00:00:45,840 --> 00:00:46,280
+ Okay.
+
+8
+00:00:46,400 --> 00:00:46,680
+ Yeah.
+
+9
+00:00:47,020 --> 00:00:52,120
+ That in listening to the, uh, you realize like it, well, much of our Hegel conversation
+
+10
+00:00:52,120 --> 00:00:52,940
+ isn't about Hegel.
+
+11
+00:00:52,940 --> 00:00:55,220
+ So it doesn't matter what the section is.
+
+12
+00:00:56,160 --> 00:00:57,200
+ Well, it does.
+
+13
+00:00:57,260 --> 00:00:57,640
+ And it does.
+
+14
+00:00:57,720 --> 00:00:59,020
+ I mean, I don't think it really matters.
+
+15
+00:00:59,080 --> 00:01:03,560
+ I think it's a pretty minor thing, but you know, like sometimes somebody might, like we're
+
+16
+00:01:03,560 --> 00:01:05,720
+ making this reference to what, right?
+
+17
+00:01:05,800 --> 00:01:10,680
+ We know Hegel roughly and you know, likely, you know, we're likely talking about the phenomenology
+
+18
+00:01:10,680 --> 00:01:12,580
+ of spirit and we reference numbers.
+
+19
+00:01:12,580 --> 00:01:13,880
+ And I think just be good.
+
+20
+00:01:13,880 --> 00:01:18,420
+ Like, Hey, you know, one way of engaging this is just not to care about the specificity of
+
+21
+00:01:18,420 --> 00:01:19,120
+ the Hegel at all.
+
+22
+00:01:19,180 --> 00:01:23,480
+ Another way might be to be like, Hey, I'm going to go read this stuff and then come and see
+
+23
+00:01:23,480 --> 00:01:24,820
+ how things reactivate.
+
+24
+00:01:24,820 --> 00:01:26,360
+ So at least giving people the opportunity.
+
+25
+00:01:26,580 --> 00:01:27,260
+ I totally agree.
+
+26
+00:01:27,360 --> 00:01:27,960
+ I totally agree.
+
+27
+00:01:28,000 --> 00:01:28,920
+ I had a similar thought.
+
+28
+00:01:28,980 --> 00:01:31,920
+ I didn't, it didn't stay with me, but I had a similar thought in listening to the things
+
+29
+00:01:31,920 --> 00:01:37,460
+ of like, it certainly could be helpful to just say, Hey, phenomenology of spirit, like
+
+30
+00:01:37,460 --> 00:01:43,240
+ pages, whatever to whatever, or I mean, you know, so you're right.
+
+31
+00:01:43,540 --> 00:01:43,920
+ You're right.
+
+32
+00:01:44,760 --> 00:01:50,980
+ So logic of sense series, 16, 17 and 18 for, for today.
+
+33
+00:01:51,860 --> 00:01:56,280
+ That was the last time we were supposed to do 15, 16 and 17 and we only did 15.
+
+34
+00:01:57,140 --> 00:01:57,940
+ I still, okay.
+
+35
+00:01:57,940 --> 00:02:03,900
+ So if we're, if we're jumping into the logic of sense, I still, I find seven, 17 is one
+
+36
+00:02:03,900 --> 00:02:05,040
+ of my favorite series.
+
+37
+00:02:05,040 --> 00:02:09,980
+ Uh, the actually, as I said before, like the next couple, 17, 18, 19 are like my favorites
+
+38
+00:02:09,980 --> 00:02:10,720
+ in the book.
+
+39
+00:02:11,480 --> 00:02:13,300
+ Um, 17 or do you mean 18?
+
+40
+00:02:13,740 --> 00:02:14,760
+ The 18, I'm sorry.
+
+41
+00:02:14,860 --> 00:02:16,340
+ The three images of philosophers.
+
+42
+00:02:16,600 --> 00:02:18,220
+ So 18, 19, 20, whatever.
+
+43
+00:02:18,780 --> 00:02:21,440
+ The next chunk is like a really great chunk.
+
+44
+00:02:21,520 --> 00:02:22,740
+ Like I'm really looking forward to it.
+
+45
+00:02:22,820 --> 00:02:29,640
+ And we included the last one here and I find it so easy to think with so easy to talk about.
+
+46
+00:02:29,880 --> 00:02:35,720
+ And yet I just had this naggy feeling, and again, after rereading 16 and 17, that they're
+
+47
+00:02:35,720 --> 00:02:37,040
+ crucial, right?
+
+48
+00:02:37,120 --> 00:02:42,100
+ Like the, the, the, the ontological Genesis and the, and the logical Genesis, like that
+
+49
+00:02:42,100 --> 00:02:46,160
+ the, the question, and I, and I just don't have my head around them.
+
+50
+00:02:46,160 --> 00:02:50,540
+ I mean, even, even close, like I just have a very, very hard time.
+
+51
+00:02:50,540 --> 00:02:55,420
+ And I feel like this is one of those cases where I feel like I probably need to take a
+
+52
+00:02:55,420 --> 00:02:59,700
+ class, you know, like not just, not just me sitting and reading.
+
+53
+00:02:59,880 --> 00:03:04,060
+ More, that's not going to solve the problem that I need a class.
+
+54
+00:03:04,140 --> 00:03:09,420
+ Like I actually, uh, ordered two, uh, uh, books on logic of sense.
+
+55
+00:03:09,420 --> 00:03:13,600
+ Cause that's the sort of equivalent of sometimes it's the equivalent of taking a class.
+
+56
+00:03:13,680 --> 00:03:16,560
+ So I'm going to like do some secondary stuff on it.
+
+57
+00:03:16,560 --> 00:03:21,240
+ Cause it just, I just had this sense that those two chapters really matter.
+
+58
+00:03:21,240 --> 00:03:24,520
+ And I don't really, I can't do very much with them.
+
+59
+00:03:24,660 --> 00:03:28,660
+ I mean, I, I don't have much to say, or it doesn't, I don't think with them.
+
+60
+00:03:28,660 --> 00:03:32,920
+ They don't, they're not provocative because I just, I'm not in, you know, I don't have
+
+61
+00:03:32,920 --> 00:03:33,280
+ a hook.
+
+62
+00:03:33,700 --> 00:03:37,000
+ Well, there are so many technical, technical chapters, right?
+
+63
+00:03:37,040 --> 00:03:37,880
+ Those two series.
+
+64
+00:03:38,280 --> 00:03:43,320
+ I mean, I, yeah, I found myself in a similar situation, but then kind of just sampling.
+
+65
+00:03:43,540 --> 00:03:48,480
+ I mean, this is maybe a problem with the way I read in general or just my style of reading,
+
+66
+00:03:48,480 --> 00:03:53,180
+ but I'll just latch onto like a sentence or two and be like, well, that kind of works for
+
+67
+00:03:53,180 --> 00:03:59,140
+ me, but in terms of a comprehensive understanding of these two chapters or series, I mean, I'm,
+
+68
+00:03:59,220 --> 00:03:59,800
+ I'm with you.
+
+69
+00:03:59,880 --> 00:04:05,320
+ I'm like, I don't know how they're supposed to, I can't even give you really an idea of
+
+70
+00:04:05,320 --> 00:04:11,300
+ the relationship between the ontological and the logical, like any kind of like summary
+
+71
+00:04:11,300 --> 00:04:12,640
+ or thesis statement.
+
+72
+00:04:13,020 --> 00:04:14,060
+ Um, at this point.
+
+73
+00:04:14,600 --> 00:04:15,900
+ I mean, I have a sense of that.
+
+74
+00:04:15,960 --> 00:04:23,740
+ Like I, I, I have a very vague sense of what he's trying to do in 16 and 17 and it's ontology
+
+75
+00:04:23,740 --> 00:04:24,020
+ and epistemology.
+
+76
+00:04:24,740 --> 00:04:28,360
+ I mean, I think that would be the simplest way of breaking, breaking it down.
+
+77
+00:04:28,500 --> 00:04:38,980
+ Um, and the, and the insistence on the, um, the neutral quality or static, right.
+
+78
+00:04:38,980 --> 00:04:41,420
+ Quality that is also genetic, right.
+
+79
+00:04:41,420 --> 00:04:46,660
+ That is also, so in other words, he just in the previous chapters insisted on the point
+
+80
+00:04:46,660 --> 00:04:49,300
+ that sense is not causal, right.
+
+81
+00:04:49,300 --> 00:04:52,580
+ It is, it is an effect, uh, of bodies.
+
+82
+00:04:52,920 --> 00:04:57,660
+ Um, and if it's causal, it's quasi causal in relationship to other sense.
+
+83
+00:04:57,660 --> 00:04:58,180
+ Right.
+
+84
+00:04:58,480 --> 00:05:04,180
+ And so that's, so that's the transcendent, the sort of transcendent layer in which he
+
+85
+00:05:04,180 --> 00:05:05,020
+ wants to work.
+
+86
+00:05:05,580 --> 00:05:11,420
+ Um, now I think he wants to say, well, it is kind of causal, right.
+
+87
+00:05:11,480 --> 00:05:16,380
+ It's, it's causal in the sense that it's genetic and it's genetic of bodies.
+
+88
+00:05:16,380 --> 00:05:20,680
+ It's going to be, so in other words, the arrow is going to kind of go back in the other direction,
+
+89
+00:05:20,680 --> 00:05:23,940
+ but it's not, he doesn't want to use the terminology of causality.
+
+90
+00:05:24,420 --> 00:05:30,240
+ And, and again, I'm not entirely clear on why other than this vague sense that what he's
+
+91
+00:05:30,240 --> 00:05:35,160
+ trying to do with transcendence here is to make not transcendence imminence, but to kind
+
+92
+00:05:35,160 --> 00:05:37,240
+ of flip the whole problem.
+
+93
+00:05:37,460 --> 00:05:40,720
+ And I'm not exactly sure what that means, right.
+
+94
+00:05:40,740 --> 00:05:43,060
+ I don't have, uh, um, the base.
+
+95
+00:05:43,280 --> 00:05:48,860
+ Frankly, I actually feel like the basis that I'm lacking is an analytic philosophy here.
+
+96
+00:05:48,860 --> 00:05:54,380
+ Like I really feel like, you know, distinguishing between the analytic value and the synthetic
+
+97
+00:05:54,380 --> 00:05:55,500
+ value of the proposition.
+
+98
+00:05:55,500 --> 00:05:59,660
+ For example, that's one example of a distinction that matters to him here.
+
+99
+00:05:59,660 --> 00:06:03,620
+ That is an anal, what we call analytic philosophical distinction.
+
+100
+00:06:03,620 --> 00:06:09,360
+ It's not a distinction that you take up or you find anywhere in kind of continental philosophy,
+
+101
+00:06:09,360 --> 00:06:10,140
+ you know?
+
+102
+00:06:10,140 --> 00:06:16,820
+ Well, this is so predicated on Leibniz and his theory of the monad and, and compulsibility.
+
+103
+00:06:17,320 --> 00:06:17,480
+ Yeah.
+
+104
+00:06:17,600 --> 00:06:18,300
+ See, it may be.
+
+105
+00:06:18,360 --> 00:06:19,060
+ And I just don't know.
+
+106
+00:06:19,120 --> 00:06:20,800
+ I don't know Leibniz at all.
+
+107
+00:06:21,000 --> 00:06:21,700
+ Like at all.
+
+108
+00:06:21,800 --> 00:06:21,920
+ No.
+
+109
+00:06:22,760 --> 00:06:28,600
+ I mean, my, like, I, I spent a couple of weeks reading him in an undergraduate class
+
+110
+00:06:28,600 --> 00:06:30,820
+ on modern, early modern philosophy.
+
+111
+00:06:31,020 --> 00:06:36,440
+ So, you know, my, my understanding, I, I, I have a vague intuitive sense of it, but like,
+
+112
+00:06:36,440 --> 00:06:38,160
+ I mean, I started reading around it today.
+
+113
+00:06:38,160 --> 00:06:44,020
+ I was just reading some stuff on Plato.Stanford today on, on, because I, I, you know, I recognize
+
+114
+00:06:44,020 --> 00:06:48,480
+ the stuff of the, you know, Adam as sinner and compulsibility as Leibniz.
+
+115
+00:06:48,780 --> 00:06:52,580
+ And it just helped to kind of read around that a little bit.
+
+116
+00:06:52,600 --> 00:06:57,900
+ By the way, just as a, just as an interjection on the Stanford question, because this is something,
+
+117
+00:06:58,020 --> 00:07:02,100
+ it's a resource that I go to all of the time and I never find it helpful.
+
+118
+00:07:02,760 --> 00:07:04,660
+ Like I, I have never found it.
+
+119
+00:07:04,720 --> 00:07:08,820
+ Like I, it allows me, there's this weird way in which it provides plenty of background,
+
+120
+00:07:08,820 --> 00:07:14,160
+ but it never solves the thing that I went to the Stanford Encyclopedia of Philosophy
+
+121
+00:07:14,160 --> 00:07:14,580
+ for.
+
+122
+00:07:14,880 --> 00:07:16,220
+ I find it to be very conservative.
+
+123
+00:07:17,340 --> 00:07:19,060
+ Maybe that's, maybe that's what it is.
+
+124
+00:07:19,640 --> 00:07:26,520
+ But then also like, I mean, yeah, I honestly, I find Wikipedia to be more helpful for these
+
+125
+00:07:26,520 --> 00:07:27,080
+ kinds of things.
+
+126
+00:07:27,080 --> 00:07:27,940
+ Yeah, I agree.
+
+127
+00:07:28,060 --> 00:07:28,540
+ I agree.
+
+128
+00:07:28,880 --> 00:07:29,320
+ I agree.
+
+129
+00:07:29,780 --> 00:07:29,940
+ Yeah.
+
+130
+00:07:30,160 --> 00:07:33,360
+ Because I'm not looking for a claim or an argument.
+
+131
+00:07:33,640 --> 00:07:38,680
+ I'm just, I just know that there's a couple little pieces of very generic context that will
+
+132
+00:07:38,680 --> 00:07:40,840
+ help snap some things into place for me.
+
+133
+00:07:40,980 --> 00:07:42,600
+ And that's what's missing from Stanford.
+
+134
+00:07:42,600 --> 00:07:46,780
+ Stanford, I feel like, at least in terms of the many times that I, because I go to it
+
+135
+00:07:46,780 --> 00:07:51,540
+ all of the time looking for stuff and I just, I'm always like, well, I understand that.
+
+136
+00:07:51,780 --> 00:07:52,860
+ I understand the distinctions.
+
+137
+00:07:52,860 --> 00:07:55,760
+ It's not like it's confusing, but it doesn't help me.
+
+138
+00:07:55,860 --> 00:08:02,480
+ It doesn't, it never contextualizes things to give me a sense of, you know, why that distinction
+
+139
+00:08:02,480 --> 00:08:04,460
+ matters or what the implications of it are.
+
+140
+00:08:04,500 --> 00:08:05,280
+ It just explains.
+
+141
+00:08:05,600 --> 00:08:09,900
+ Well, the other thing is, I think a lot of the Stanford, they're, they're authored, right?
+
+142
+00:08:10,100 --> 00:08:15,100
+ And, you know, I think that if they, they, their authorship, I mean, I mean, like the function
+
+143
+00:08:15,100 --> 00:08:21,420
+ that those publications would play on a CV just don't carry as much weight if they served,
+
+144
+00:08:21,500 --> 00:08:23,960
+ you know, the all too basic function of Wikipedia.
+
+145
+00:08:24,140 --> 00:08:29,740
+ So in some ways, actually the fact that you get, I mean, they're written by people who,
+
+146
+00:08:29,900 --> 00:08:33,980
+ you know, have quite a bit of expertise in these very specific areas.
+
+147
+00:08:34,600 --> 00:08:35,020
+ Sure, sure.
+
+148
+00:08:35,420 --> 00:08:43,420
+ You know, something maybe about the slightly more democratic way in which Wikipedia is like
+
+149
+00:08:43,420 --> 00:08:50,420
+ okay being very baseline and very, you know, and, and, and isn't trying, you know, Wikipedia
+
+150
+00:08:50,420 --> 00:08:59,480
+ articles very rarely try to make points, but, but that, that was just an interjection, but
+
+151
+00:08:59,480 --> 00:09:05,340
+ so, so did you find the Leibniz helpful in terms of, yeah, I mean, because, I mean, especially
+
+152
+00:09:05,340 --> 00:09:09,780
+ when he was talking about, you know, it always threw me, I never could try, I could never
+
+153
+00:09:09,780 --> 00:09:15,680
+ quite figure out how, you know, for Leibniz they're like a, the world is made of an infinite
+
+154
+00:09:15,680 --> 00:09:21,400
+ set of monads and, I mean, unless if I thought about it at a level of atomism, right, and
+
+155
+00:09:21,400 --> 00:09:25,520
+ it's usually compared to a sense of atomism or like, you know, the Cartesian corpuscle,
+
+156
+00:09:25,920 --> 00:09:30,840
+ corpuscle or whatever, and like, all right, these are sort of, you know, just generic bits
+
+157
+00:09:30,840 --> 00:09:33,740
+ that then make up other things, then I can understand that.
+
+158
+00:09:33,740 --> 00:09:41,920
+ But for Leibniz, one, each monad is unique, and two, each monad reflects the world.
+
+159
+00:09:42,920 --> 00:09:48,380
+ And, or, like, and I, I, that was always very, very difficult for me to understand until you
+
+160
+00:09:48,380 --> 00:09:53,880
+ start thinking about it in Deleuze's relational senses, like, well, you know, each, this is
+
+161
+00:09:53,880 --> 00:10:00,580
+ at the top of, of 110, and I think this is when he first brings up Leibniz, Leibniz was
+
+162
+00:10:00,580 --> 00:10:05,900
+ then right to say that the individual monad expresses a world according to the relations
+
+163
+00:10:05,900 --> 00:10:11,600
+ of other bodies with its own, as much as it expresses this relation according to the relation
+
+164
+00:10:11,600 --> 00:10:13,160
+ of the parts of its own body.
+
+165
+00:10:13,520 --> 00:10:17,300
+ In other words, like, the monad is caught up in a relationship with a bunch of other monads,
+
+166
+00:10:17,300 --> 00:10:24,020
+ and the specific difference that is, that gets sort of unified or gets sort of compressed
+
+167
+00:10:24,020 --> 00:10:27,400
+ in that set of relations is then reflected in the monad.
+
+168
+00:10:27,520 --> 00:10:33,160
+ So it's not a, it is a reflection or an expression, but not representational.
+
+169
+00:10:33,420 --> 00:10:38,160
+ It is, it is like that, that, that language of the mirror doesn't work if it's just sort
+
+170
+00:10:38,160 --> 00:10:43,720
+ of like, it's not an objective expression, it is a subjective expression, or like, I mean,
+
+171
+00:10:43,720 --> 00:10:48,860
+ it is through the filter of that monad as it is particularly situated within this set
+
+172
+00:10:48,860 --> 00:10:49,300
+ of relations.
+
+173
+00:10:49,300 --> 00:10:53,340
+ If you move that monad to a different sort of, like, set of coordinates, then it would
+
+174
+00:10:53,340 --> 00:10:54,400
+ express a different world.
+
+175
+00:10:54,820 --> 00:11:00,700
+ So expression means translation in, in the term, it doesn't mean expression in the sense
+
+176
+00:11:00,700 --> 00:11:05,400
+ of just allowing it out, it means expression in the sense of changing it from one milieu to
+
+177
+00:11:05,400 --> 00:11:06,080
+ another milieu.
+
+178
+00:11:06,580 --> 00:11:07,020
+ Right.
+
+179
+00:11:08,340 --> 00:11:13,320
+ Yeah, or, or a set of relations is expressed through a specific point.
+
+180
+00:11:13,720 --> 00:11:15,180
+ In that set of relations.
+
+181
+00:11:15,180 --> 00:11:15,500
+ Yeah.
+
+182
+00:11:15,680 --> 00:11:15,860
+ Yeah.
+
+183
+00:11:16,080 --> 00:11:16,360
+ Right.
+
+184
+00:11:16,520 --> 00:11:21,620
+ Well, yeah, expression as opposed to the set of relations as a totality being represented
+
+185
+00:11:21,620 --> 00:11:23,560
+ as a totality in some other medium.
+
+186
+00:11:23,560 --> 00:11:25,260
+ It's not translation in that sense.
+
+187
+00:11:25,980 --> 00:11:31,060
+ So the monad does not precede its relation to other monads or to the world, right?
+
+188
+00:11:31,140 --> 00:11:35,920
+ The monad is a, is a product or an effect of its relationship, right?
+
+189
+00:11:35,980 --> 00:11:36,280
+ It's not.
+
+190
+00:11:36,280 --> 00:11:41,820
+ See, I'm, so I'm not as comfortable saying that because I think for, for, um, Leibniz,
+
+191
+00:11:41,940 --> 00:11:47,160
+ like monads are the basic elements of the world, but it wouldn't make sense to think about,
+
+192
+00:11:47,300 --> 00:11:51,280
+ but I, I still think it wouldn't make sense to think about a monad independent of its
+
+193
+00:11:51,280 --> 00:11:52,420
+ relations, right?
+
+194
+00:11:52,620 --> 00:11:59,140
+ So, so like I, I, maybe you could say something like this and no, I'm going out on a limb
+
+195
+00:11:59,140 --> 00:11:59,380
+ here.
+
+196
+00:11:59,500 --> 00:12:03,420
+ You could say that monads exist independent of a relationships, but they would never express
+
+197
+00:12:03,420 --> 00:12:09,220
+ a world because they have no, there's nothing, they have, they have no relationality to something
+
+198
+00:12:09,220 --> 00:12:09,480
+ else.
+
+199
+00:12:09,480 --> 00:12:14,320
+ They have no, there's, there's no world to be expressed because a world is always has to
+
+200
+00:12:14,320 --> 00:12:19,340
+ be at the particular configuration or like Deleuze uses the language of like the singularity
+
+201
+00:12:19,340 --> 00:12:21,840
+ that is sort of draped over a series of ordinary points.
+
+202
+00:12:22,300 --> 00:12:25,780
+ It's like, you have to create the surface and a point is not a surface.
+
+203
+00:12:26,460 --> 00:12:32,760
+ So then Deleuze's intervention is basically that it's to expand that a little bit.
+
+204
+00:12:32,860 --> 00:12:39,300
+ So while Leibniz kind of relies on some version of atomism, Deleuze's kind of critique or intervention
+
+205
+00:12:39,300 --> 00:12:42,400
+ would be to say that, no, that it's relational at the bottom.
+
+206
+00:12:42,400 --> 00:12:44,460
+ Like there's no, there's no singular unit.
+
+207
+00:12:44,460 --> 00:12:49,000
+ So even the monad, it's even more relational than Leibniz is willing to admit.
+
+208
+00:12:49,180 --> 00:12:54,900
+ Is that kind of his, if you see the monad as a singularity, but then again, like, I mean,
+
+209
+00:12:54,900 --> 00:12:58,300
+ there was a certain unity to a singular, I mean, it wouldn't be a singularity, right?
+
+210
+00:12:58,400 --> 00:13:01,160
+ Like monad is really just another name for the singularity.
+
+211
+00:13:01,660 --> 00:13:01,800
+ Yeah.
+
+212
+00:13:02,720 --> 00:13:04,700
+ A singularity without individuation.
+
+213
+00:13:05,220 --> 00:13:05,560
+ Right.
+
+214
+00:13:05,740 --> 00:13:06,000
+ Yeah.
+
+215
+00:13:06,060 --> 00:13:11,540
+ These are pre-individual singularities, pre-individual monads that, I mean, to me, the intervention,
+
+216
+00:13:11,540 --> 00:13:20,000
+ Deleuze's intervention into Spinoza, or into, I'm sorry, Leibniz, is that Leibniz can't think change
+
+217
+00:13:20,000 --> 00:13:22,380
+ and evolution and movement in a system.
+
+218
+00:13:22,820 --> 00:13:29,460
+ He can think, like, he can think about the expression of worlds and he can think about
+
+219
+00:13:29,460 --> 00:13:35,860
+ the expression of, like, and a world for Leibniz is the totalized set of composable bodies,
+
+220
+00:13:35,980 --> 00:13:36,240
+ right?
+
+221
+00:13:36,240 --> 00:13:42,120
+ In other words, like, like a world is the total set of bodies that can exist in a relationship
+
+222
+00:13:42,120 --> 00:13:43,860
+ with each other without contradiction.
+
+223
+00:13:44,580 --> 00:13:51,040
+ And, you know, when Deleuze is talking about the divergence of a series that would create
+
+224
+00:13:51,040 --> 00:13:56,340
+ incompossible worlds, like where, you know, the elements from one world are incompatible
+
+225
+00:13:56,340 --> 00:13:58,260
+ with the elements of another, of another world.
+
+226
+00:13:58,260 --> 00:13:58,840
+ Right.
+
+227
+00:13:59,500 --> 00:14:08,280
+ Um, so, uh, uh, Leibniz can think the, like both the, um, the infinity of a world and the
+
+228
+00:14:08,280 --> 00:14:10,520
+ infinity of worlds, right?
+
+229
+00:14:10,520 --> 00:14:17,300
+ And this is where he gets, I mean, Leibniz becomes theological and, and imagines our world
+
+230
+00:14:17,300 --> 00:14:23,080
+ as the best of all possible worlds, uh, given like the presumption of the, you know, omnipotent,
+
+231
+00:14:23,180 --> 00:14:27,520
+ omniscient, um, you know, all the omni aspect, predicates of God.
+
+232
+00:14:28,260 --> 00:14:36,800
+ But, you know, um, Leibniz theory of change and Leibniz theory of, of, um, of motion and
+
+233
+00:14:36,800 --> 00:14:39,400
+ movement is, I mean, I think pretty clunky.
+
+234
+00:14:39,400 --> 00:14:46,120
+ It's, it's like a pre determined harmony or preset harmony where every monad as the expression
+
+235
+00:14:46,120 --> 00:14:50,180
+ of a world has its own predestined path, which makes sense.
+
+236
+00:14:50,220 --> 00:14:55,440
+ If you think of a, of a singularity sort of expressing a world, then like the entire world
+
+237
+00:14:55,440 --> 00:14:57,200
+ is expressed in its totality, right?
+
+238
+00:14:57,340 --> 00:15:02,160
+ So, you know, that would just be every moment, temporally, every moment is sort of laid out,
+
+239
+00:15:02,260 --> 00:15:05,960
+ but you also have an infinite number of, of monads.
+
+240
+00:15:06,520 --> 00:15:11,060
+ And for like, there has to be a pre-established harmony that's like, all right, the sort of
+
+241
+00:15:11,060 --> 00:15:16,220
+ unfolding of this one and the unfolding of that one, they just, like you were requires the
+
+242
+00:15:16,220 --> 00:15:21,000
+ deus ex machina of, you know, like the God that started the clock all at the same time.
+
+243
+00:15:21,440 --> 00:15:26,960
+ And Deleuze's critique of, of Leibniz and so far as there's a critique here is that it's
+
+244
+00:15:26,960 --> 00:15:34,920
+ because he doesn't think about the divergent syntheses that link, um, uh, incompossible
+
+245
+00:15:34,920 --> 00:15:35,340
+ worlds.
+
+246
+00:15:35,340 --> 00:15:40,380
+ And that's why he's so fixated on the Adam who has not sinned and the Adam who has sinned
+
+247
+00:15:40,380 --> 00:15:47,200
+ as like, that there is a more general version of Adam that in general is not the right word
+
+248
+00:15:47,200 --> 00:15:53,860
+ there, but I can add in that sort of, um, disjunctively connects those two worlds that
+
+249
+00:15:53,860 --> 00:15:59,820
+ there are, there are passageways or there are, um, communications relays between these
+
+250
+00:15:59,820 --> 00:16:00,240
+ worlds.
+
+251
+00:16:00,500 --> 00:16:02,480
+ And it is those relays.
+
+252
+00:16:02,480 --> 00:16:06,860
+ It's the difference, the differential relays between those worlds that are those a layer
+
+253
+00:16:06,860 --> 00:16:12,180
+ laitory moments of chance that, you know, it depends on how those two worlds get connected.
+
+254
+00:16:12,180 --> 00:16:18,220
+ And now like that's evolution, that is an introduction of an evolutionary movement within the otherwise
+
+255
+00:16:18,220 --> 00:16:26,320
+ static, um, uh, a theory of, of, um, of individual and world for Leibniz because he sets out the
+
+256
+00:16:26,320 --> 00:16:28,620
+ problem right on the first page.
+
+257
+00:16:28,620 --> 00:16:34,240
+ It's like this entire seven 16 is just like, look, how do we think the relationship between
+
+258
+00:16:34,240 --> 00:16:37,900
+ singularities, individuals and worlds, right?
+
+259
+00:16:38,940 --> 00:16:44,680
+ And, um, and, and, and it's like, well, Leibniz gives us the baseline, but it doesn't move.
+
+260
+00:16:44,760 --> 00:16:45,880
+ And this is how you make it move.
+
+261
+00:16:47,360 --> 00:16:47,760
+ Right.
+
+262
+00:16:49,200 --> 00:16:49,600
+ Yeah.
+
+263
+00:16:49,700 --> 00:16:54,680
+ I mean, so I need to, I mean, that's Leibniz has been one, you know, another, another thing
+
+264
+00:16:54,680 --> 00:16:59,060
+ pushing me in that direction is you guys know Dan Smith, the Duluth scholars up at Purdue.
+
+265
+00:16:59,640 --> 00:17:02,960
+ Um, I've always found his writing to be really smart and interesting.
+
+266
+00:17:02,960 --> 00:17:07,280
+ And I, I, I always learned from it and he wrote a book on Leibniz and I just avoided it.
+
+267
+00:17:07,960 --> 00:17:13,560
+ Um, because Leibniz to me was this figure that like, I have no purchase on and no understanding
+
+268
+00:17:13,560 --> 00:17:14,080
+ of.
+
+269
+00:17:14,080 --> 00:17:17,120
+ And, and so I was just like, well, I'm just going to leave that thing out.
+
+270
+00:17:17,120 --> 00:17:19,980
+ But now I'm feeling like, fuck, I got to not leave that out.
+
+271
+00:17:20,380 --> 00:17:22,440
+ Duluth turns to Leibniz all the time.
+
+272
+00:17:22,880 --> 00:17:23,140
+ Yeah.
+
+273
+00:17:23,340 --> 00:17:24,920
+ I, I know, I know.
+
+274
+00:17:25,060 --> 00:17:27,280
+ But I was like, uh, I could just skip that.
+
+275
+00:17:27,780 --> 00:17:31,780
+ I felt that way about Spinoza until about 20 years ago, like 20 years ago.
+
+276
+00:17:31,800 --> 00:17:33,240
+ I'm like, okay, I just can't skip this.
+
+277
+00:17:33,380 --> 00:17:37,580
+ But when, when Dan and I taught this to Lucy Guattari class and he convinced me in the midst
+
+278
+00:17:37,580 --> 00:17:39,620
+ of that class, he's like, no, no, no, you got to read Spinoza.
+
+279
+00:17:39,860 --> 00:17:44,900
+ And then I was feeling the pull, but afterwards I was like, yeah, I do have to read Spinoza.
+
+280
+00:17:45,100 --> 00:17:48,960
+ And now it's like, oh my gosh, how could I possibly have been reading this and attempting
+
+281
+00:17:48,960 --> 00:17:50,680
+ to make sense of it without Spinoza?
+
+282
+00:17:51,220 --> 00:17:51,520
+ You know?
+
+283
+00:17:51,860 --> 00:17:57,560
+ It, it feels a little bit like here, like, so there's a couple or couplet in these two
+
+284
+00:17:57,560 --> 00:18:03,520
+ series, 16 and 17, where he prefers Leibniz, but he also treats Husserl, right?
+
+285
+00:18:03,680 --> 00:18:04,620
+ A decent amount.
+
+286
+00:18:05,160 --> 00:18:05,860
+ And I know that they're...
+
+287
+00:18:05,860 --> 00:18:06,780
+ He smacks Husserl down, yeah.
+
+288
+00:18:07,160 --> 00:18:07,740
+ I know.
+
+289
+00:18:07,920 --> 00:18:12,700
+ He really, but it feels like the critique, again, if there is a critique of Leibniz, it
+
+290
+00:18:12,700 --> 00:18:17,620
+ feels like it follows a similar logic to the critique of Husserl, where that's like, there's
+
+291
+00:18:17,620 --> 00:18:21,920
+ an internalized logic of predication, right?
+
+292
+00:18:21,940 --> 00:18:25,480
+ Which he's attacking, but it feels like he's attacking that in both figures.
+
+293
+00:18:25,480 --> 00:18:28,160
+ It's just more viciously with Husserl.
+
+294
+00:18:28,340 --> 00:18:35,360
+ Like there's the hierarchy of the phenomenological system in Husserl, which is very sort of, it's
+
+295
+00:18:35,360 --> 00:18:39,320
+ unexamined and it's not as rigorous as Deleuze is.
+
+296
+00:18:39,840 --> 00:18:43,940
+ But it also feels, I mean, what we were just talking about, it's like with the monad and
+
+297
+00:18:43,940 --> 00:18:50,720
+ then the kind of hierarchical organization of life, it feels like it's a similar intervention
+
+298
+00:18:50,720 --> 00:18:57,020
+ into both figures or into both philosophies, even though he clearly is shitting on Husserl
+
+299
+00:18:57,020 --> 00:18:57,380
+ more.
+
+300
+00:18:57,380 --> 00:18:59,140
+ Well, this is on 113.
+
+301
+00:18:59,260 --> 00:19:03,340
+ To understand this operation, we must always return to the theater of Leibniz and not the
+
+302
+00:19:03,340 --> 00:19:04,780
+ cumbersome machinery of Husserl.
+
+303
+00:19:06,420 --> 00:19:10,620
+ So that's, you know, this is right after an extended discussion of Husserl.
+
+304
+00:19:11,520 --> 00:19:12,720
+ So, yeah.
+
+305
+00:19:12,960 --> 00:19:13,180
+ Yeah.
+
+306
+00:19:13,600 --> 00:19:17,820
+ Well, I mean, Husserl, and then you could obviously, you could put in Hegel there probably as well.
+
+307
+00:19:18,280 --> 00:19:20,360
+ You know, the cumbersome machinery of Hegel.
+
+308
+00:19:20,840 --> 00:19:23,860
+ You know, he would be clearly intervening into that.
+
+309
+00:19:24,480 --> 00:19:31,460
+ And although Leibniz did not attain the free character of the play since he neither wanted
+
+310
+00:19:31,460 --> 00:19:37,180
+ nor how to breathe enough chance into it or to make of divergence an object of affirmation
+
+311
+00:19:37,180 --> 00:19:40,720
+ as such, he nevertheless ascended a lot of consequence at the level of the actualization,
+
+312
+00:19:41,240 --> 00:19:43,080
+ which is what's preoccupying us at this point.
+
+313
+00:19:44,080 --> 00:19:44,320
+ Yeah.
+
+314
+00:19:44,380 --> 00:19:49,420
+ I mean, my note there is, you know, Leibniz couldn't make his world move and evolve, which,
+
+315
+00:19:49,560 --> 00:19:54,460
+ you know, he couldn't see divergence as the aleatory moment of the expression of difference.
+
+316
+00:19:54,880 --> 00:20:00,620
+ And the other, you just read that line, although Leibniz did not attain the free character of
+
+317
+00:20:00,620 --> 00:20:07,520
+ this play, that immediately made me think of Deleuze's Kant book and his analysis of the faculty
+
+318
+00:20:07,520 --> 00:20:12,800
+ of imagination, which is that, you know, Kant expends so much energy and effort to try to
+
+319
+00:20:12,800 --> 00:20:18,280
+ cordon off the proper domains of the imagination, but he can't because he constantly is sort of
+
+320
+00:20:18,280 --> 00:20:23,860
+ like running into the way that the operation of the imagination actually undergirds the supposedly
+
+321
+00:20:23,860 --> 00:20:27,440
+ more serious operations of the understanding and reason.
+
+322
+00:20:29,440 --> 00:20:34,000
+ And like, you know, Kant tries to contain that and just like, no, that's the engine that
+
+323
+00:20:34,000 --> 00:20:35,320
+ makes everything else possible.
+
+324
+00:20:36,320 --> 00:20:36,800
+ Right.
+
+325
+00:20:37,520 --> 00:20:42,100
+ And maybe this is an obvious point, but my thing was just like, at the most, at the really
+
+326
+00:20:42,100 --> 00:20:47,720
+ general register, the critique is at least similar, where it's like, there's not enough
+
+327
+00:20:47,720 --> 00:20:49,540
+ contingency in this system, right?
+
+328
+00:20:49,740 --> 00:20:51,900
+ Like for Leibniz, that's the basic critique.
+
+329
+00:20:52,000 --> 00:20:57,520
+ Like he went this far, he almost got to this theory, but he wasn't willing to insert chance
+
+330
+00:20:57,520 --> 00:20:58,240
+ or contingency.
+
+331
+00:20:58,240 --> 00:21:03,920
+ And then for Husserl or Husserl, it's the same thing, but maybe a more, you know, blatant
+
+332
+00:21:03,920 --> 00:21:08,160
+ or flagrant, you know, containment of contingency.
+
+333
+00:21:08,500 --> 00:21:09,200
+ You know what I'm saying?
+
+334
+00:21:09,200 --> 00:21:16,180
+ My understanding of his critique of Husserl is that Husserl, one, allows common and good
+
+335
+00:21:16,180 --> 00:21:19,400
+ sense to predefine the phenomenological world.
+
+336
+00:21:19,400 --> 00:21:21,300
+ That's, that's my take too, yeah.
+
+337
+00:21:21,760 --> 00:21:22,080
+ Right.
+
+338
+00:21:22,220 --> 00:21:22,400
+ Yeah.
+
+339
+00:21:22,780 --> 00:21:23,620
+ That part.
+
+340
+00:21:24,080 --> 00:21:24,240
+ Yeah.
+
+341
+00:21:24,400 --> 00:21:28,920
+ Which is a containment of chance and relationality and contingency, right?
+
+342
+00:21:29,020 --> 00:21:33,460
+ I mean, it's like he's, he's reifying all of these terms within the system and not, you
+
+343
+00:21:33,460 --> 00:21:35,820
+ know, treating how the, how they came about, right?
+
+344
+00:21:35,820 --> 00:21:40,600
+ It's like all the terms are kind of given and uninterrogated.
+
+345
+00:21:41,980 --> 00:21:47,200
+ I mean, I will say, you know, one of the things I'm trying to think through is this more general
+
+346
+00:21:47,200 --> 00:21:52,980
+ sense of Adam that acts as a communicating figure between these incompossible worlds.
+
+347
+00:21:52,980 --> 00:21:58,180
+ And he'll use the language of, he very hesitantly uses the language of generality.
+
+348
+00:21:58,180 --> 00:22:01,820
+ And it's always sandwiched in between things like, and you can absolutely no way think that
+
+349
+00:22:01,820 --> 00:22:04,400
+ generality exists, but that he uses that word.
+
+350
+00:22:04,560 --> 00:22:08,700
+ But it gets me thinking about our conversation last time about transcendence and the way that
+
+351
+00:22:08,700 --> 00:22:09,880
+ he uses transcendence.
+
+352
+00:22:10,140 --> 00:22:15,700
+ And for me, like this, this section puts that one, like, I just cannot think transcendence
+
+353
+00:22:15,700 --> 00:22:21,000
+ vertically anymore after, you know, like the very first sentence on 109, you know, series
+
+354
+00:22:21,000 --> 00:22:27,880
+ 16, this surface topology, these impersonal and pre-individual nomadic singularities, or
+
+355
+00:22:27,880 --> 00:22:33,280
+ he's going to use the Leibniz monad in there, constitute the real transcendental field.
+
+356
+00:22:33,860 --> 00:22:40,140
+ The transcendental field is a surface topology of impersonal and pre-individual nomadic singularities.
+
+357
+00:22:40,500 --> 00:22:41,360
+ Like, boom, done.
+
+358
+00:22:41,580 --> 00:22:46,820
+ Like, and then transcendence is, is like, I mean, the trains of transition, like, I mean,
+
+359
+00:22:46,840 --> 00:22:51,960
+ the moving across of the surface of the active work of connecting this surface point to this
+
+360
+00:22:51,960 --> 00:22:57,680
+ surface point to this, and that itinerative movement is remaking the world, which I think
+
+361
+00:22:57,680 --> 00:23:03,480
+ is going to get into section 18 and the three images of the philosopher, like, I, I've read
+
+362
+00:23:03,480 --> 00:23:07,320
+ that, you know, we read that eight years ago, John, and I liked it then, but I, I've read
+
+363
+00:23:07,320 --> 00:23:09,260
+ it like probably two or three times since then.
+
+364
+00:23:09,360 --> 00:23:14,560
+ And this is the first time where I felt like I just, it just totally clicked with me, where
+
+365
+00:23:14,560 --> 00:23:19,960
+ I always understood the heights, I always understood the depth, and I kind of wrapped my head around
+
+366
+00:23:19,960 --> 00:23:22,700
+ the surface, and I feel like I clicked this time.
+
+367
+00:23:23,060 --> 00:23:23,220
+ Yeah.
+
+368
+00:23:23,580 --> 00:23:23,820
+ Yeah.
+
+369
+00:23:24,920 --> 00:23:30,740
+ I, I also feel like there's a, there's a lot of, like, um, cause when does he start using
+
+370
+00:23:30,740 --> 00:23:32,200
+ the, the language of desire?
+
+371
+00:23:32,360 --> 00:23:36,900
+ Is it not until anti-Oedipus or, uh, a thousand plateaus or something?
+
+372
+00:23:37,820 --> 00:23:37,900
+ Um.
+
+373
+00:23:37,900 --> 00:23:40,080
+ Anti-Oedipus is where it's huge.
+
+374
+00:23:40,080 --> 00:23:45,920
+ Because, yeah, it feels like the seed of that precise formulation of desire and desiring
+
+375
+00:23:45,920 --> 00:23:48,840
+ machines is in this, uh, section as well in 16.
+
+376
+00:23:49,160 --> 00:23:55,760
+ Like I just noted at the, towards the end of, uh, 110 in that, uh, second, second to last
+
+377
+00:23:55,760 --> 00:24:01,840
+ paragraph, he goes, to be actualized or to actualize oneself means to extend over a series
+
+378
+00:24:01,840 --> 00:24:07,360
+ of ordinary points, to be selected according to a rules of, uh, of convergence, to be incarnated
+
+379
+00:24:07,360 --> 00:24:12,340
+ in a body, to become the state of a body, and to be renewed, renewed locally for the sake
+
+380
+00:24:12,340 --> 00:24:14,560
+ of limited new actualizations and extensions.
+
+381
+00:24:15,060 --> 00:24:18,500
+ Not one of these characteristics belongs to singularities as such.
+
+382
+00:24:18,500 --> 00:24:18,880
+ All right.
+
+383
+00:24:19,000 --> 00:24:25,540
+ So it just reminded me of, like, his very precise articulation of subjectivity under the moniker
+
+384
+00:24:25,540 --> 00:24:27,140
+ of desire, you know?
+
+385
+00:24:27,140 --> 00:24:33,000
+ And, and this, this just felt like, not, not that it's like a, a less developed version,
+
+386
+00:24:33,100 --> 00:24:37,300
+ it just felt like the seed of that definition of, of his version of desire, you know?
+
+387
+00:24:37,360 --> 00:24:45,040
+ Well, and at least in this book in general, he's less antagonistic to, uh, psychoanalysis,
+
+388
+00:24:45,040 --> 00:24:45,560
+ right?
+
+389
+00:24:45,560 --> 00:24:49,060
+ Like this is pre the Guattari impact.
+
+390
+00:24:49,980 --> 00:24:53,200
+ So, um, so, I mean, that would make sense in that regard.
+
+391
+00:24:53,300 --> 00:24:55,960
+ I mean, I mean, I'm interested in hearing Nathaniel's clicking.
+
+392
+00:24:56,340 --> 00:25:00,060
+ Like, if it, if it, if it clicks for you, man, explain it.
+
+393
+00:25:00,460 --> 00:25:00,660
+ Yeah.
+
+394
+00:25:00,740 --> 00:25:02,560
+ Like, explain what clicked in terms of that.
+
+395
+00:25:02,560 --> 00:25:02,840
+ Yeah.
+
+396
+00:25:02,980 --> 00:25:08,400
+ Because I'd love to continue to, I mean, 17, or 16 and 17 are, are just more difficult
+
+397
+00:25:08,400 --> 00:25:08,780
+ for me.
+
+398
+00:25:08,820 --> 00:25:10,320
+ So I would love to spend time with them.
+
+399
+00:25:10,640 --> 00:25:15,420
+ But, yeah, I mean, I can give you my take on, uh, 18 quickly.
+
+400
+00:25:15,720 --> 00:25:19,000
+ I mean, because it's a similar, it's a similar, right.
+
+401
+00:25:19,040 --> 00:25:21,180
+ It's a similar dynamic that he's after.
+
+402
+00:25:21,260 --> 00:25:26,740
+ He just kind of plays it out in that notion of the geography of, of thinking, you know, which
+
+403
+00:25:26,740 --> 00:25:28,900
+ by the way, that alone is an interesting idea.
+
+404
+00:25:29,000 --> 00:25:32,500
+ The thinking has a geography and an implicit geography.
+
+405
+00:25:32,820 --> 00:25:38,260
+ Well, and not even just that it has a geography, but that it has a geography before having a history
+
+406
+00:25:38,260 --> 00:25:41,660
+ that it traces dimensions before constructing systems, right.
+
+407
+00:25:41,800 --> 00:25:48,000
+ That, that like these, the, these philosophical interventions are carving the space for the
+
+408
+00:25:48,000 --> 00:25:53,060
+ possibility of differentiating them before they get differentiated and marked up.
+
+409
+00:25:53,820 --> 00:25:58,840
+ So, and, and, you know, so I take, I take that to be a kind of jab at Hegel, right.
+
+410
+00:25:58,840 --> 00:26:06,720
+ Like the, uh, the notion of a prehistorical geography is, you know, like this is prior to the
+
+411
+00:26:06,720 --> 00:26:10,220
+ phenomenology, which is entirely historical, you know?
+
+412
+00:26:10,220 --> 00:26:10,420
+ Yeah.
+
+413
+00:26:10,900 --> 00:26:11,140
+ Yeah.
+
+414
+00:26:11,320 --> 00:26:11,560
+ Yeah.
+
+415
+00:26:11,560 --> 00:26:11,680
+ Yeah.
+
+416
+00:26:11,680 --> 00:26:11,900
+ Yeah.
+
+417
+00:26:11,900 --> 00:26:12,580
+ I hear that.
+
+418
+00:26:13,540 --> 00:26:20,980
+ But I mean, uh, so the transcendence of the, the, the heights of, of Plato makes sense.
+
+419
+00:26:21,160 --> 00:26:27,760
+ You know, the, the surface is, is the realm of the phenomenon and one and, and of impure mixtures
+
+420
+00:26:27,760 --> 00:26:34,580
+ and only by sort of purifying those mixtures and discovering their, the, the, the heights of their
+
+421
+00:26:34,580 --> 00:26:41,920
+ source, um, that, you know, this, this is the, an anecdote to the suffering of, of life on, at the
+
+422
+00:26:41,920 --> 00:26:42,820
+ level of the surface.
+
+423
+00:26:43,200 --> 00:26:49,740
+ And I really liked the way that he attributes that mania is the specific disease of, of
+
+424
+00:26:49,740 --> 00:26:50,620
+ platonic heights.
+
+425
+00:26:50,620 --> 00:26:51,460
+ I love this.
+
+426
+00:26:51,620 --> 00:26:57,440
+ I mean, I read this over this, this section over the summer, um, for, for my Phaedrus piece.
+
+427
+00:26:57,640 --> 00:27:01,600
+ And I really want to turn this in the exact opposite direction because I know that, you
+
+428
+00:27:01,600 --> 00:27:07,560
+ know, Deleuze is taking a jab at Plato here, but I wanted, my project, I think I've decided
+
+429
+00:27:07,560 --> 00:27:13,660
+ for the Phaedrus piece is to imagine platonic madness traversing the surface.
+
+430
+00:27:14,280 --> 00:27:18,740
+ Like how interesting does platonic madness come when you're not even trying to make it
+
+431
+00:27:18,740 --> 00:27:24,180
+ leave the ground, but it is, you know, as I'll, I'll get to later here, only making connections
+
+432
+00:27:24,180 --> 00:27:34,040
+ between, um, propositions and, um, uh, whatever, I'll, I'll find it here later.
+
+433
+00:27:34,700 --> 00:27:40,820
+ Um, but yeah, so I'm just going to repeat this section because I love it so much.
+
+434
+00:27:41,020 --> 00:27:45,660
+ We are not going to compare philosophies and diseases, except for I'm going to right now,
+
+435
+00:27:45,660 --> 00:27:48,400
+ but there are properly philosophical diseases.
+
+436
+00:27:49,720 --> 00:27:56,220
+ Idealism is the illness congenital to the platonic, congenital to the platonic philosophy.
+
+437
+00:27:56,760 --> 00:28:02,080
+ And with its litany of ascents and downfalls, uh, it is even philosophy's manic depressive
+
+438
+00:28:02,080 --> 00:28:02,640
+ form.
+
+439
+00:28:03,240 --> 00:28:05,300
+ Mania inspires and guides Plato.
+
+440
+00:28:05,880 --> 00:28:07,940
+ Dialectics is the flight of ideas.
+
+441
+00:28:08,340 --> 00:28:13,160
+ The idea fluked as Plato says of the idea, it flees or it perishes.
+
+442
+00:28:13,460 --> 00:28:17,860
+ And even in the death of Socrates, there is a trace of, of depressive suicide.
+
+443
+00:28:18,960 --> 00:28:25,860
+ And then he turns to Nietzsche as the sort of like the, the one who rediscovers the depths
+
+444
+00:28:25,860 --> 00:28:27,100
+ of the pre-Socratics.
+
+445
+00:28:27,100 --> 00:28:29,700
+ And it's like, no, the, the surface is phenomenon.
+
+446
+00:28:29,700 --> 00:28:35,800
+ So you need to get below the surface to understand the conditions of possibility that lead to these
+
+447
+00:28:35,800 --> 00:28:36,520
+ phenomenons.
+
+448
+00:28:36,520 --> 00:28:41,540
+ And by the way, the further you dig, you're always going to find a different set of subterranean,
+
+449
+00:28:41,540 --> 00:28:48,360
+ you know, caverns or substructures that support the, the, the higher, uh, uh, layer.
+
+450
+00:28:48,720 --> 00:28:48,860
+ Right.
+
+451
+00:28:48,920 --> 00:28:55,280
+ But that's where to me, that's where to me, the, the, the depth model of the caves, always
+
+452
+00:28:55,280 --> 00:28:58,600
+ behind caves starts to become a surface, right?
+
+453
+00:28:58,640 --> 00:29:03,940
+ Like, so at, at, at a certain point, the, the going deeper, this is where Nietzsche is an
+
+454
+00:29:03,940 --> 00:29:09,660
+ interesting hinge figure insofar as he does on the one hand, rediscover the pre-Socratic
+
+455
+00:29:09,660 --> 00:29:15,040
+ depth as opposed to the transcendence of, of Plato and idealism.
+
+456
+00:29:15,040 --> 00:29:21,600
+ But on the other hand, he also is the engine for making that depth, no longer a depth and
+
+457
+00:29:21,600 --> 00:29:23,760
+ no longer getting behind.
+
+458
+00:29:24,100 --> 00:29:25,500
+ And that's the, the masks.
+
+459
+00:29:25,600 --> 00:29:30,460
+ He doesn't talk about it in terms of masks here, but that's the, that's the, the idea to
+
+460
+00:29:30,460 --> 00:29:37,160
+ me is the mask or the cave behind a cave, the perpetuation of caves behind caves is the
+
+461
+00:29:37,160 --> 00:29:40,900
+ thing that leads you to go, Oh wait, this was all on the surface.
+
+462
+00:29:41,040 --> 00:29:44,340
+ Anyway, there was never a cave behind a cave, right?
+
+463
+00:29:44,380 --> 00:29:48,740
+ Like it never, it didn't actually keep going in that infinite regress sense.
+
+464
+00:29:48,960 --> 00:29:53,420
+ It's the point at which you, so he also is the guy who says, you know, the Greeks were
+
+465
+00:29:53,420 --> 00:29:54,800
+ great because they were superficial.
+
+466
+00:29:55,140 --> 00:30:00,160
+ So he's, he, he restores this privilege of the surface in addition to discovering the
+
+467
+00:30:00,160 --> 00:30:00,840
+ notion of depth.
+
+468
+00:30:01,160 --> 00:30:01,560
+ Right.
+
+469
+00:30:01,800 --> 00:30:06,760
+ Well, I mean, because as soon as the, the movement of the depth becomes just a constant
+
+470
+00:30:06,760 --> 00:30:10,760
+ movement that you never, like once you give up the idea of finding the foundation, then
+
+471
+00:30:10,760 --> 00:30:11,760
+ it's not a depth anymore.
+
+472
+00:30:11,840 --> 00:30:15,040
+ Then it's not a depth, but I would say the same thing for platonic mania.
+
+473
+00:30:15,260 --> 00:30:20,380
+ I mean, I, I, the, just this line, it, it flees or it perishes.
+
+474
+00:30:20,380 --> 00:30:22,160
+ It's in constant movement.
+
+475
+00:30:22,160 --> 00:30:27,100
+ It is perpetually ascending or ascending and descending, or it's gone.
+
+476
+00:30:27,140 --> 00:30:28,420
+ There's no stability there.
+
+477
+00:30:28,420 --> 00:30:34,620
+ And like, I think of the myth of the charioteer in the Phaedrus and, you know, the description
+
+478
+00:30:34,620 --> 00:30:37,740
+ of, you know, that, which is what it really is.
+
+479
+00:30:37,740 --> 00:30:42,140
+ And, you know, all of the descriptions of what you would take to be the platonic forms,
+
+480
+00:30:42,660 --> 00:30:48,060
+ they are, there was nothing static or stable about them at all.
+
+481
+00:30:48,160 --> 00:30:50,280
+ Like, I mean, it's a frigging circus up there.
+
+482
+00:30:50,340 --> 00:30:56,360
+ You've got, you know, these things that have no form, no color, no shape, no whatever that
+
+483
+00:30:56,360 --> 00:30:59,480
+ are only provoking the movements of the gods around them.
+
+484
+00:30:59,540 --> 00:31:01,960
+ I mean, it is literally a procession, right?
+
+485
+00:31:02,160 --> 00:31:02,300
+ Yeah.
+
+486
+00:31:02,340 --> 00:31:06,800
+ But the fact of it simply being movement isn't, I don't think, because it's, it's always movement
+
+487
+00:31:06,800 --> 00:31:07,260
+ up.
+
+488
+00:31:07,780 --> 00:31:13,020
+ And, and so that, that's the problem is that we have to know what truth is before we can
+
+489
+00:31:13,020 --> 00:31:15,520
+ actually assess, you know, any particular truth.
+
+490
+00:31:15,520 --> 00:31:18,980
+ We have to know what knowledge is or virtue is before essentially, you know, like, you're
+
+491
+00:31:18,980 --> 00:31:19,820
+ never going to get there.
+
+492
+00:31:20,240 --> 00:31:24,020
+ Well, but so in other words, if you do the same move that I just did with Nietzsche's
+
+493
+00:31:24,020 --> 00:31:29,920
+ caves, if you do that with Plato, then Plato can be the guy who, again, like if you push
+
+494
+00:31:29,920 --> 00:31:33,560
+ transcendence to an extreme, it, it relocates itself.
+
+495
+00:31:33,700 --> 00:31:39,620
+ Like if you push depth to an extreme, you know, or, or you make it infinite, uh, or, or, or
+
+496
+00:31:39,620 --> 00:31:40,780
+ deferred, right?
+
+497
+00:31:41,140 --> 00:31:46,460
+ At some point, both moves end up reorienting themselves on this level.
+
+498
+00:31:46,460 --> 00:31:51,080
+ And then it becomes, I mean, then the distinction becomes, I don't know what a question of style,
+
+499
+00:31:51,200 --> 00:31:51,440
+ right?
+
+500
+00:31:51,460 --> 00:31:58,220
+ Like it doesn't become a distinct illness in that sense, you know, or a manic style of
+
+501
+00:31:58,220 --> 00:32:01,440
+ becoming or a schizophrenic style of becoming, right?
+
+502
+00:32:01,540 --> 00:32:01,740
+ Right.
+
+503
+00:32:01,940 --> 00:32:02,560
+ I mean, it's interesting.
+
+504
+00:32:02,680 --> 00:32:05,700
+ He doesn't attribute a disease though, to Heracles.
+
+505
+00:32:06,260 --> 00:32:08,240
+ I don't, I don't remember one.
+
+506
+00:32:08,800 --> 00:32:09,580
+ Is there one?
+
+507
+00:32:10,560 --> 00:32:12,440
+ Oh, to Hercules, the Hercules thing.
+
+508
+00:32:13,020 --> 00:32:13,420
+ Yeah.
+
+509
+00:32:14,100 --> 00:32:16,880
+ It must be leprosy, the skin of, a disease of the skin.
+
+510
+00:32:16,880 --> 00:32:23,780
+ He's the, uh, well, so Empedocles, Empedocles is the figure for Aetna.
+
+511
+00:32:23,940 --> 00:32:24,360
+ That's the depth.
+
+512
+00:32:24,360 --> 00:32:24,500
+ Yeah.
+
+513
+00:32:24,620 --> 00:32:25,320
+ The lead sandal.
+
+514
+00:32:25,360 --> 00:32:25,460
+ Right.
+
+515
+00:32:25,460 --> 00:32:31,940
+ And so, and then the surface, we got Diogenes is one, um, and Hercules.
+
+516
+00:32:32,320 --> 00:32:32,680
+ Yeah.
+
+517
+00:32:32,800 --> 00:32:37,340
+ But there's not, but there's not a philosophical disease associated with the surface.
+
+518
+00:32:37,560 --> 00:32:40,000
+ No, he, he just wears the lion's, uh.
+
+519
+00:32:40,060 --> 00:32:40,300
+ Yeah.
+
+520
+00:32:41,080 --> 00:32:42,940
+ Again, because he's hiding his leprosy.
+
+521
+00:32:43,080 --> 00:32:46,140
+ That's gotta be, that's gotta be the answer.
+
+522
+00:32:47,540 --> 00:32:47,940
+ Eczema.
+
+523
+00:32:48,100 --> 00:32:49,040
+ Eczema is the.
+
+524
+00:32:49,780 --> 00:32:53,280
+ So it would be interesting because, I mean, affect them, what you're, what you would end
+
+525
+00:32:53,280 --> 00:33:01,920
+ up saying is that, um, that like Plato's dialectical method is the stick, right?
+
+526
+00:33:02,000 --> 00:33:03,540
+ Is Diogenes' stick.
+
+527
+00:33:04,080 --> 00:33:05,700
+ That is only ever provoking.
+
+528
+00:33:06,580 --> 00:33:07,020
+ Right.
+
+529
+00:33:07,080 --> 00:33:14,880
+ And the mistake is thinking that it's functionally transcending the conditions of it.
+
+530
+00:33:14,880 --> 00:33:19,200
+ It's like, it's no different than that stick or the fish or whatever other, you know, the
+
+531
+00:33:19,200 --> 00:33:24,960
+ Diogenes kinds of stories that Plato is effectively doing the same thing.
+
+532
+00:33:25,420 --> 00:33:32,000
+ Although, I mean, it's hard because it's, it just seems to me to, you know, Plato still
+
+533
+00:33:32,000 --> 00:33:40,360
+ relies on a notion of continuity of the logic, you know, whereas Diogenes is, is, there's
+
+534
+00:33:40,360 --> 00:33:43,720
+ a parataxis to the Diogenes actions.
+
+535
+00:33:44,040 --> 00:33:49,200
+ I mean, he doesn't use the word parataxis, but it, but it's, it's like the, the, um, the
+
+536
+00:33:49,200 --> 00:33:55,520
+ non-connection between the question, what is virtue and me throwing a fish at you, right?
+
+537
+00:33:55,600 --> 00:34:00,660
+ Like the, the, that's the thing that he likes about Diogenes is that there's not a parallel.
+
+538
+00:34:01,240 --> 00:34:07,600
+ Whereas if you say, what is virtue to Plato, there's going to be a connection, right?
+
+539
+00:34:07,600 --> 00:34:13,700
+ There's going to be a recognizable connection between the response of say Socrates, right?
+
+540
+00:34:14,020 --> 00:34:17,680
+ Well, there's this, there's this section in the Phaedrus that I'm going to make a big deal
+
+541
+00:34:17,680 --> 00:34:17,980
+ of that.
+
+542
+00:34:18,160 --> 00:34:24,940
+ It shocks me to no end that, that, um, Derrida does not really attend to it at all in, in Plato's
+
+543
+00:34:24,940 --> 00:34:27,760
+ Pharmacy, where this is toward the end.
+
+544
+00:34:27,760 --> 00:34:33,160
+ And he's talking about writing as a form of just, you know, like it's just play, right?
+
+545
+00:34:33,260 --> 00:34:35,320
+ That, you know, when, when is writing okay?
+
+546
+00:34:35,320 --> 00:34:41,340
+ Well, it's just okay when it's someone who is just sort of doing it for their own amusement.
+
+547
+00:34:41,620 --> 00:34:49,220
+ And then he references back to his speeches and he's like, like, you know, like, look at
+
+548
+00:34:49,220 --> 00:34:50,380
+ the speeches that we composed.
+
+549
+00:34:50,640 --> 00:34:51,340
+ They were amusing.
+
+550
+00:34:51,520 --> 00:34:56,500
+ They were a series of, of plays sort of provoked out of this, you know, kind of competitive
+
+551
+00:34:56,500 --> 00:35:00,860
+ Dissoi Logoi with, with, um, um, right.
+
+552
+00:35:01,740 --> 00:35:07,320
+ And he's like, and maybe there was some element of truth to them.
+
+553
+00:35:07,600 --> 00:35:08,400
+ Maybe not.
+
+554
+00:35:08,560 --> 00:35:15,380
+ But, you know, if nothing else, it was like, it, it provoked this, this, you know, like,
+
+555
+00:35:15,740 --> 00:35:21,200
+ uh, um, provoke this movement of thought that started connecting a whole bunch of things
+
+556
+00:35:21,200 --> 00:35:26,880
+ that now is now sudden, like, you know, you go from the virtues of the non lover to winged
+
+557
+00:35:26,880 --> 00:35:31,780
+ horses to rhetoric to, I mean, like that is a pretty paratactical movement.
+
+558
+00:35:31,780 --> 00:35:35,940
+ If you ask me, but I mean, I, but it, but it seems like the role of the demon will be
+
+559
+00:35:35,940 --> 00:35:42,680
+ very important there because I think the usual reading would be, it is the date Damon's intervention,
+
+560
+00:35:42,680 --> 00:35:52,860
+ which transitions it from playful, you know, like provocation land, agonism land to truth
+
+561
+00:35:52,860 --> 00:35:53,740
+ land, right?
+
+562
+00:35:53,760 --> 00:35:57,880
+ Like after the, the demon who, who gives him his conscience, right?
+
+563
+00:35:57,900 --> 00:35:59,520
+ He's like, I've sinned against love.
+
+564
+00:35:59,580 --> 00:36:02,240
+ I mean, I haven't read it in a while, but I've sinned against love.
+
+565
+00:36:02,640 --> 00:36:08,160
+ And it's, if he were referring to Lysias's speech and Socrates first speech, I would agree
+
+566
+00:36:08,160 --> 00:36:14,680
+ with you, but it seems pretty clear to me that he's at least also including his, his atonement
+
+567
+00:36:14,680 --> 00:36:20,000
+ speech in there and perhaps even more, I mean, because that's the one that is so mythologically,
+
+568
+00:36:20,000 --> 00:36:22,360
+ you know, bonkers, right?
+
+569
+00:36:22,560 --> 00:36:25,700
+ That seems to me that he's including that in there.
+
+570
+00:36:25,700 --> 00:36:29,920
+ And the other, like, you know, think about the reason that the Phaedrus is considered
+
+571
+00:36:29,920 --> 00:36:30,320
+ to be bad dialogue.
+
+572
+00:36:30,320 --> 00:36:32,980
+ Well, that's good, by the way, if you could, but, but, but that's a good point.
+
+573
+00:36:32,980 --> 00:36:39,540
+ Like if you can say that the reference to our speeches or whatever, isn't just the, the
+
+574
+00:36:39,540 --> 00:36:45,680
+ playful pre-daemon intervention, pre-conscious intervention moments, it is also, then, then
+
+575
+00:36:45,680 --> 00:36:46,880
+ I think that changes everything.
+
+576
+00:36:46,880 --> 00:36:51,180
+ I think that you have good purchase there of like, yeah, in fact, this whole theory of
+
+577
+00:36:51,180 --> 00:36:52,360
+ souls, right?
+
+578
+00:36:52,360 --> 00:36:57,280
+ That, that engineered everything, you know, to, to come, right.
+
+579
+00:36:57,400 --> 00:36:59,400
+ That, that it is part and parcel.
+
+580
+00:36:59,660 --> 00:37:05,960
+ And look, I also do think that one can say it would be a problem to hypostasize the daemon
+
+581
+00:37:05,960 --> 00:37:14,740
+ moment, uh, as, as the crucial one, as the determining change, even on Plato's terms, right?
+
+582
+00:37:14,900 --> 00:37:16,280
+ That, um, so.
+
+583
+00:37:16,920 --> 00:37:22,360
+ Because what you get in, because what, what you get with Socrates is like soccer, you know,
+
+584
+00:37:22,360 --> 00:37:25,440
+ you could say that the daemon takes over Socrates and tells him no.
+
+585
+00:37:25,560 --> 00:37:32,520
+ That in a chance sense of, but he's also taken over by the nymphs, the muses, he's sort of
+
+586
+00:37:32,520 --> 00:37:36,260
+ taken over by the, he mentions like, oh, I've heard better stories than Lysias is, you know,
+
+587
+00:37:36,260 --> 00:37:40,440
+ like I heard him from Sappho and someone else, I can't pronounce his name.
+
+588
+00:37:40,500 --> 00:37:42,900
+ It's like, he's taken over by fragments of other writings.
+
+589
+00:37:42,900 --> 00:37:48,640
+ And he's so like the side of Socrates is constantly the side of sort of being momentarily taken over
+
+590
+00:37:48,640 --> 00:37:52,720
+ by this, which then leads to another takeover like this and another takeover like this.
+
+591
+00:37:52,720 --> 00:37:57,560
+ And you know, I don't buy, like that still happens after the daemon, right?
+
+592
+00:37:58,100 --> 00:38:03,780
+ And, and you know, the, and that moment of the daemon as well, that, that leads into the
+
+593
+00:38:03,780 --> 00:38:07,020
+ second speech, that would be the move to complete that dialogue.
+
+594
+00:38:07,020 --> 00:38:08,460
+ You finish the atonement.
+
+595
+00:38:08,760 --> 00:38:09,960
+ Why does he stay?
+
+596
+00:38:10,280 --> 00:38:11,260
+ He wanted to leave.
+
+597
+00:38:11,600 --> 00:38:13,360
+ He couldn't because he needed to atone.
+
+598
+00:38:13,460 --> 00:38:14,960
+ He got taken over by another spirit.
+
+599
+00:38:15,180 --> 00:38:16,440
+ He tries to atone.
+
+600
+00:38:16,740 --> 00:38:18,040
+ Then why don't you leave then?
+
+601
+00:38:18,140 --> 00:38:21,840
+ But they're like, no, now we're going to talk like, then it's the myth of the cicadas.
+
+602
+00:38:22,200 --> 00:38:25,460
+ And it's about like, just, it's not the necessity to complete anything.
+
+603
+00:38:25,460 --> 00:38:27,620
+ It's the necessity to just keep talking and thinking.
+
+604
+00:38:28,420 --> 00:38:28,720
+ What do you mean?
+
+605
+00:38:28,780 --> 00:38:31,240
+ Why does he stay after the second speech?
+
+606
+00:38:31,560 --> 00:38:31,740
+ Yeah.
+
+607
+00:38:31,760 --> 00:38:33,400
+ Why does he stay after the second speech?
+
+608
+00:38:33,520 --> 00:38:35,620
+ He wanted to, he wanted to peace out, right?
+
+609
+00:38:35,640 --> 00:38:36,640
+ He wanted to go back home.
+
+610
+00:38:36,680 --> 00:38:37,460
+ He's out of his element.
+
+611
+00:38:37,560 --> 00:38:38,680
+ He wanted to go back home.
+
+612
+00:38:39,000 --> 00:38:40,720
+ So he did the job.
+
+613
+00:38:40,800 --> 00:38:41,900
+ He atoned for the thing.
+
+614
+00:38:42,060 --> 00:38:43,500
+ His sins are forgiven.
+
+615
+00:38:43,600 --> 00:38:44,460
+ He didn't go blind.
+
+616
+00:38:44,980 --> 00:38:46,380
+ So why does he stay?
+
+617
+00:38:46,760 --> 00:38:52,980
+ Like, and part of the reason that the Phaedrus is criticized as, you know, a poorly composed
+
+618
+00:38:52,980 --> 00:38:56,820
+ speech is that it seems to be disjointed between the two halves.
+
+619
+00:38:57,020 --> 00:38:59,820
+ Like there's the stuff on love and the souls.
+
+620
+00:38:59,880 --> 00:39:02,940
+ And then there's the stuff on rhetoric and writing.
+
+621
+00:39:03,020 --> 00:39:04,540
+ And what do they have to do with each other?
+
+622
+00:39:04,540 --> 00:39:08,260
+ And, you know, Derrida does a pretty good job of giving a pretty good reason why they're
+
+623
+00:39:08,260 --> 00:39:08,620
+ connected.
+
+624
+00:39:09,340 --> 00:39:15,860
+ But, you know, part of it is because there's the inspiration of the cicadas that, I mean,
+
+625
+00:39:16,040 --> 00:39:19,820
+ there's a paratactical movement between why do we have to stay here?
+
+626
+00:39:19,940 --> 00:39:28,320
+ Because otherwise we'd be just like lazy and, you know, just trying to alleviate the suffering
+
+627
+00:39:28,320 --> 00:39:28,920
+ of life.
+
+628
+00:39:29,040 --> 00:39:33,560
+ But instead we're going to sort of like, we're going to think in response to the suffering
+
+629
+00:39:33,560 --> 00:39:33,960
+ of life.
+
+630
+00:39:33,960 --> 00:39:39,600
+ We're going to find the more noble pleasures of like thinking and philosophizing is just
+
+631
+00:39:39,600 --> 00:39:46,140
+ the more noble pleasure than the pleasure of the slave, which is just removing the pain
+
+632
+00:39:46,140 --> 00:39:48,720
+ of hunger, removing the pain of whatever else.
+
+633
+00:39:58,440 --> 00:40:04,100
+ Stuff that tries to rehabilitate Plato or try to like make him just not the simple foil of
+
+634
+00:40:04,100 --> 00:40:10,740
+ philosophy, like contemporary philosophy or contemporary rhetorical theory is it's like they make the
+
+635
+00:40:10,740 --> 00:40:13,040
+ quasi intentional move that Derrida makes.
+
+636
+00:40:13,040 --> 00:40:18,160
+ It's like kind of in spite of what Plato is trying to do, his text is doing this other thing.
+
+637
+00:40:18,420 --> 00:40:18,620
+ Right.
+
+638
+00:40:18,780 --> 00:40:24,820
+ And I want to try to remove even that little bit of intentionality and like, I'm not even
+
+639
+00:40:24,820 --> 00:40:27,740
+ going to address what I think Plato was trying to do here.
+
+640
+00:40:27,960 --> 00:40:34,460
+ I'm just going to offer a reading of the movement of the text and one way it gets activated,
+
+641
+00:40:34,640 --> 00:40:38,560
+ one way that, that, you know, these, you know, yeah.
+
+642
+00:40:39,220 --> 00:40:40,200
+ And so, yeah.
+
+643
+00:40:40,860 --> 00:40:46,740
+ It just so happens to like make a platonic dialogue do something that is just completely antithetical
+
+644
+00:40:46,740 --> 00:40:49,060
+ to the way that Plato typically gets read.
+
+645
+00:40:50,000 --> 00:40:55,640
+ So your analysis would be very clearly just as much about styles of reading and interpretation
+
+646
+00:40:55,640 --> 00:40:57,100
+ as it is about Plato.
+
+647
+00:40:57,100 --> 00:41:02,860
+ You know, it's, it's about how, what choices you make as an interpreter, you know, and what
+
+648
+00:41:02,860 --> 00:41:05,060
+ they do for the text or for the readers.
+
+649
+00:41:05,060 --> 00:41:09,900
+ You know, it's like, it reminds me because I was, I redid or I re-listened to episode two
+
+650
+00:41:09,900 --> 00:41:11,460
+ of the Hegel tapes.
+
+651
+00:41:11,620 --> 00:41:13,460
+ And I don't want to get into broad.
+
+652
+00:41:13,540 --> 00:41:17,880
+ This just reminds me of that because John, you were talking about different versions of
+
+653
+00:41:17,880 --> 00:41:22,640
+ Barad that I could, or that anyone could deploy and that you don't have to make, you don't
+
+654
+00:41:22,640 --> 00:41:24,680
+ necessarily have to make the critical intervention.
+
+655
+00:41:25,040 --> 00:41:32,720
+ You can reveal or disclose how her text makes the moves that I'm kind of critiquing her for
+
+656
+00:41:32,720 --> 00:41:33,280
+ not doing it.
+
+657
+00:41:33,320 --> 00:41:37,620
+ So you can, you can make those choices as a reader and a writer.
+
+658
+00:41:37,620 --> 00:41:44,100
+ It's not, and it's not dependent on the text in itself, having those moments or revealing
+
+659
+00:41:44,100 --> 00:41:45,080
+ those moments, you know?
+
+660
+00:41:45,140 --> 00:41:46,400
+ So it's, I don't know.
+
+661
+00:41:46,460 --> 00:41:48,820
+ It's an interesting, it's an interesting question in itself.
+
+662
+00:41:49,020 --> 00:41:55,100
+ What happens when you do that and what will happen the next step for Nathaniel in that
+
+663
+00:41:55,100 --> 00:42:04,700
+ is when Plato becomes a figure for contingency, what is contingency, you know, like, what's
+
+664
+00:42:04,700 --> 00:42:07,400
+ the, but that's where it gets interesting, right?
+
+665
+00:42:07,480 --> 00:42:10,580
+ Like to me is what's the point of contingency then?
+
+666
+00:42:10,580 --> 00:42:18,320
+ Like contingency has only ever done its work, uh, because it required some notion of transcendence
+
+667
+00:42:18,320 --> 00:42:21,420
+ or, or what we would at least call non-contingency.
+
+668
+00:42:21,780 --> 00:42:28,740
+ And if like, if, if it's all surface and if thinking has always been all surface, then that's
+
+669
+00:42:28,740 --> 00:42:31,120
+ to me, again, that's where I come back to style, right?
+
+670
+00:42:31,120 --> 00:42:38,420
+ Like the, the, the differences among them are not differences of disposition in some broad,
+
+671
+00:42:38,420 --> 00:42:41,200
+ you know, uh, ontological sense.
+
+672
+00:42:42,020 --> 00:42:43,220
+ Well, so this is what, they're just.
+
+673
+00:42:43,780 --> 00:42:49,800
+ To bring it back to Deleuze, this is what clicked for me with series 18 that, I mean, one of
+
+674
+00:42:49,800 --> 00:42:55,040
+ the things that I had a hard time wrapping my head around is why Hercules is, is the figure
+
+675
+00:42:55,040 --> 00:42:56,240
+ of, of the surface.
+
+676
+00:42:56,860 --> 00:42:56,880
+ Yeah.
+
+677
+00:42:56,880 --> 00:42:57,380
+ Well, good.
+
+678
+00:42:57,440 --> 00:42:59,800
+ Tell me, tell us that because I don't know the answer to that either.
+
+679
+00:42:59,880 --> 00:43:04,140
+ And like the, I mean, the most direct reason is like he, he ascends to the heavens and
+
+680
+00:43:04,140 --> 00:43:08,280
+ he pulls the heavens back down to the surface and he descends to the depths and he grabs
+
+681
+00:43:08,280 --> 00:43:10,480
+ cerebus and pulls them up to the surface.
+
+682
+00:43:10,600 --> 00:43:10,820
+ Right.
+
+683
+00:43:11,100 --> 00:43:15,260
+ And like that, that I got, but I just, but I didn't get what the surface was doing.
+
+684
+00:43:15,460 --> 00:43:20,100
+ And then it sort of dawned on me that like Hercules is itinerant, right?
+
+685
+00:43:20,140 --> 00:43:25,000
+ His 12 labors or 10 labors or whatever it was, he's, he travels all over, you know, the
+
+686
+00:43:25,000 --> 00:43:26,060
+ Mediterranean world.
+
+687
+00:43:26,060 --> 00:43:31,860
+ And, you know, his itinerary is linking this position in this past to this position in this
+
+688
+00:43:31,860 --> 00:43:32,180
+ past.
+
+689
+00:43:32,360 --> 00:43:37,360
+ And the style of the movement, the way in which these surface points get connected now
+
+690
+00:43:37,360 --> 00:43:39,080
+ constitute worlds, right?
+
+691
+00:43:39,080 --> 00:43:39,340
+ That's good.
+
+692
+00:43:39,600 --> 00:43:43,900
+ I mean, to think about the interjection of contingency here, if the labors were in a different
+
+693
+00:43:43,900 --> 00:43:47,820
+ order or if they were like different labors, different locations or whatever else, like
+
+694
+00:43:47,820 --> 00:43:56,580
+ the world would get remade differently, that, that it is, it comes down, you know, not just
+
+695
+00:43:56,580 --> 00:44:02,580
+ to like what points are connected, getting connected to what points, but the style in which, you
+
+696
+00:44:02,580 --> 00:44:08,020
+ know, those connections are happening, the style of the movement between this point to that
+
+697
+00:44:08,020 --> 00:44:08,480
+ point.
+
+698
+00:44:08,940 --> 00:44:10,300
+ And it's, it's so weird.
+
+699
+00:44:10,380 --> 00:44:11,300
+ I agree with that.
+
+700
+00:44:11,360 --> 00:44:11,600
+ Go ahead.
+
+701
+00:44:11,640 --> 00:44:11,800
+ Sorry.
+
+702
+00:44:12,400 --> 00:44:17,980
+ I was just going to say, that's what, you know, toward the end of 18, and I feel like
+
+703
+00:44:17,980 --> 00:44:25,640
+ Deleuze opens up this possibility where he talks about, you know, in a parallel manner,
+
+704
+00:44:25,760 --> 00:44:29,340
+ Platonism undergoes a similar total reorientation.
+
+705
+00:44:29,660 --> 00:44:34,780
+ And he's talking about, you know, the surface is no less explorable and unknown than depth
+
+706
+00:44:34,780 --> 00:44:35,980
+ and height, which are nonsense.
+
+707
+00:44:35,980 --> 00:44:40,240
+ I mean, like, it seems to me that we have to take seriously the bringing of the depth
+
+708
+00:44:40,240 --> 00:44:45,440
+ to the surface and the bringing of the height to the surface, which like, again, these kinds
+
+709
+00:44:45,440 --> 00:44:50,380
+ of movements are now not just like foreboding and, you know, the, the, the, the wrong kinds
+
+710
+00:44:50,380 --> 00:44:55,980
+ of moves, you just have to see them as like the idealism, the idealist move as a movement
+
+711
+00:44:55,980 --> 00:45:01,740
+ of the surface, a style of moving on the surface that, you know, maybe only really has its
+
+712
+00:45:01,740 --> 00:45:04,700
+ problems or at least has its more identifiable problems when you think that's not what you're
+
+713
+00:45:04,700 --> 00:45:06,060
+ doing that.
+
+714
+00:45:06,180 --> 00:45:06,300
+ Yeah.
+
+715
+00:45:06,420 --> 00:45:11,920
+ I mean, that's, that's exactly, but that's where, so the difference between say that the
+
+716
+00:45:11,920 --> 00:45:18,920
+ Plato and the pre-Socratics is just, I don't know, like a dispositional difference.
+
+717
+00:45:18,920 --> 00:45:24,780
+ It's not like, they're not different projects that going underneath or going above are both
+
+718
+00:45:24,780 --> 00:45:26,980
+ ways of, of living on the surface.
+
+719
+00:45:27,160 --> 00:45:30,860
+ So, I mean, it's, there's a simple way of saying that, which is just like, they're both
+
+720
+00:45:30,860 --> 00:45:36,360
+ versions of Stoicism, which is, and if the Stoic question, if what's distinctive about
+
+721
+00:45:36,360 --> 00:45:38,320
+ the Stoics is they say, how do you live well?
+
+722
+00:45:38,380 --> 00:45:38,780
+ That's it.
+
+723
+00:45:38,880 --> 00:45:40,880
+ That's their only question, right?
+
+724
+00:45:40,920 --> 00:45:42,000
+ It's just, how do you live well?
+
+725
+00:45:42,280 --> 00:45:47,460
+ Well, idealism and what, what, what's the equivalent of idealism for the depth model?
+
+726
+00:45:47,460 --> 00:45:54,120
+ Well, like, you know, the subterranean, you know, so yeah, those are just versions of
+
+727
+00:45:54,120 --> 00:45:54,460
+ ethics.
+
+728
+00:45:54,640 --> 00:45:56,340
+ They're versions of living.
+
+729
+00:45:56,860 --> 00:46:00,640
+ So Plato is an ethicist, even though he's an ethicist that believes that you have to know
+
+730
+00:46:00,640 --> 00:46:04,560
+ what virtue is first, but he doesn't do, you have to know virtue first.
+
+731
+00:46:04,700 --> 00:46:04,960
+ He has to.
+
+732
+00:46:04,960 --> 00:46:08,980
+ That would be the content, that would be the content of Plato's argument, and we'd have
+
+733
+00:46:08,980 --> 00:46:12,320
+ to take it to the movement, which is, like, the movement of his.
+
+734
+00:46:12,320 --> 00:46:17,120
+ He doesn't, that's what I'm saying, he doesn't do, you have to know virtue first, he does an
+
+735
+00:46:17,120 --> 00:46:18,240
+ inquiry into virtue.
+
+736
+00:46:18,280 --> 00:46:18,520
+ Yeah.
+
+737
+00:46:18,800 --> 00:46:19,080
+ Right?
+
+738
+00:46:19,080 --> 00:46:21,680
+ That's what he does, and then from which he gets to be a sense of virtue.
+
+739
+00:46:21,680 --> 00:46:23,460
+ Which always unravels into weird things.
+
+740
+00:46:23,900 --> 00:46:24,560
+ Right, right.
+
+741
+00:46:24,700 --> 00:46:25,060
+ All right.
+
+742
+00:46:25,060 --> 00:46:30,280
+ So, so, so yeah, I mean, that's, to me, that's the, I mean, I've always thought that,
+
+743
+00:46:30,280 --> 00:46:35,400
+ like, the real philosophical purchase of the concept of style is that in a, in a terrain
+
+744
+00:46:35,400 --> 00:46:38,840
+ of ontological monism, it gives you a terminology for differentiating.
+
+745
+00:46:39,020 --> 00:46:39,540
+ That's it.
+
+746
+00:46:39,820 --> 00:46:43,580
+ So if you start with ontological, like, these things are all just practices in the world,
+
+747
+00:46:43,680 --> 00:46:43,880
+ right?
+
+748
+00:46:43,900 --> 00:46:45,080
+ That's all that they are.
+
+749
+00:46:45,200 --> 00:46:50,580
+ Then we can distinguish between idealism, materialism, whatever, not because of their
+
+750
+00:46:50,580 --> 00:46:54,880
+ correctness or because of their, you know, but just because they're, I mean, I think
+
+751
+00:46:54,880 --> 00:46:57,140
+ we, we got this from the last, the last audio.
+
+752
+00:46:57,260 --> 00:47:00,180
+ It's like, it's just the difference between whether you like country music or heavy metal.
+
+753
+00:47:00,280 --> 00:47:02,700
+ Or whatever, or rap or whatever it is.
+
+754
+00:47:02,800 --> 00:47:03,540
+ Like, that's it.
+
+755
+00:47:03,840 --> 00:47:04,220
+ That's what the difference is.
+
+756
+00:47:04,220 --> 00:47:08,360
+ Except for the differences between those styles really matter because those styles of movement
+
+757
+00:47:08,360 --> 00:47:11,360
+ create entirely different worlds or create entirely different modes of love.
+
+758
+00:47:11,360 --> 00:47:13,680
+ But so does country, so does country and heavy metal.
+
+759
+00:47:14,300 --> 00:47:14,400
+ Yeah.
+
+760
+00:47:14,460 --> 00:47:18,740
+ You know, like, this is, so when I say just, I don't mean it dismissively.
+
+761
+00:47:18,900 --> 00:47:20,940
+ I mean it, I mean it's like, that's it.
+
+762
+00:47:21,060 --> 00:47:25,620
+ That's the whole gambit is, do you listen to country or do you listen to heavy metal?
+
+763
+00:47:25,820 --> 00:47:28,840
+ And there's no reason to listen to one or the other.
+
+764
+00:47:29,180 --> 00:47:29,460
+ Right.
+
+765
+00:47:29,460 --> 00:47:36,440
+ There is, or rather the reason to listen to one or the other is itself ska, right?
+
+766
+00:47:36,660 --> 00:47:37,940
+ Like, it's another kind of you.
+
+767
+00:47:38,080 --> 00:47:43,960
+ But understanding that point is key because if you're, the hypostasizing move is the problem,
+
+768
+00:47:44,060 --> 00:47:44,220
+ right?
+
+769
+00:47:44,240 --> 00:47:47,980
+ Where you're like, okay, country is, country is the right one to listen to.
+
+770
+00:47:47,980 --> 00:47:48,200
+ Right.
+
+771
+00:47:48,360 --> 00:47:49,280
+ Or this is country.
+
+772
+00:47:49,400 --> 00:47:50,440
+ You can just say, this is country.
+
+773
+00:47:50,740 --> 00:47:51,380
+ This is country.
+
+774
+00:47:51,500 --> 00:47:52,640
+ Knowing what country is.
+
+775
+00:47:52,660 --> 00:47:56,560
+ This is country, this is the, this country contains the truth about the world.
+
+776
+00:47:56,560 --> 00:48:02,100
+ Like, where it's like, it's, it's an issue of interpretation and circulation more so than
+
+777
+00:48:02,100 --> 00:48:05,920
+ like what this disposition does, you know, in itself.
+
+778
+00:48:05,920 --> 00:48:06,140
+ Right.
+
+779
+00:48:06,180 --> 00:48:10,360
+ I mean, it's like, that's, that's the issue with, that I'm taking with the post-humanist
+
+780
+00:48:10,360 --> 00:48:10,960
+ bent, right?
+
+781
+00:48:10,960 --> 00:48:15,680
+ It's like these people assume the correctness of it, even if they're not explicitly saying
+
+782
+00:48:15,680 --> 00:48:16,040
+ that.
+
+783
+00:48:16,200 --> 00:48:20,120
+ So it's like the dispositions get calcified, right?
+
+784
+00:48:20,220 --> 00:48:20,820
+ And what you're arguing.
+
+785
+00:48:20,920 --> 00:48:21,300
+ They do.
+
+786
+00:48:21,700 --> 00:48:21,920
+ Yeah.
+
+787
+00:48:22,120 --> 00:48:22,180
+ Yeah.
+
+788
+00:48:22,180 --> 00:48:24,560
+ But, but calcification is just another mode of movement.
+
+789
+00:48:24,560 --> 00:48:29,160
+ So, so you have to say, I mean, that's where to me, you really have to say, there's nothing
+
+790
+00:48:29,160 --> 00:48:31,200
+ wrong with the calcification of dispositions.
+
+791
+00:48:31,200 --> 00:48:33,120
+ It's like, they're just involved in a different project.
+
+792
+00:48:33,120 --> 00:48:38,220
+ They're just, you know, like for instance, I want, what's that, what's that?
+
+793
+00:48:38,500 --> 00:48:40,040
+ Bones have a function in the world.
+
+794
+00:48:40,580 --> 00:48:40,980
+ Right.
+
+795
+00:48:41,860 --> 00:48:42,220
+ Yeah.
+
+796
+00:48:42,620 --> 00:48:43,520
+ Calcification is fine.
+
+797
+00:48:43,800 --> 00:48:45,940
+ Like, you know, it's just, it's something to do on a Friday night.
+
+798
+00:48:46,200 --> 00:48:49,420
+ But that's where, you know, like there are times where you want to listen to different
+
+799
+00:48:49,420 --> 00:48:50,120
+ kinds of music.
+
+800
+00:48:50,220 --> 00:48:54,060
+ And I just think, well, okay, so this is a time in Nathaniel Rivers or whoever else's
+
+801
+00:48:54,060 --> 00:48:59,480
+ life where they want to listen to new materialism and, and they want to produce that music and
+
+802
+00:48:59,480 --> 00:49:00,020
+ make that.
+
+803
+00:49:00,020 --> 00:49:03,580
+ And, and that creates ecologies and that creates, you know, ways of thinking.
+
+804
+00:49:03,740 --> 00:49:10,360
+ But I mean, to think of thinking that way is to me an extraordinarily liberating way of
+
+805
+00:49:10,360 --> 00:49:15,020
+ thinking of it, where it's like, no, no, no, it's truly all, it's all sheer contingency.
+
+806
+00:49:15,780 --> 00:49:15,980
+ Yes.
+
+807
+00:49:16,700 --> 00:49:21,980
+ So that there is no reason or basis for one or the other, or every attempt at coming up
+
+808
+00:49:21,980 --> 00:49:27,600
+ with a basis, or even the distinctions between what this is and what that is, is itself just
+
+809
+00:49:27,600 --> 00:49:28,920
+ another, right?
+
+810
+00:49:29,080 --> 00:49:30,500
+ It's just another song.
+
+811
+00:49:31,520 --> 00:49:35,940
+ Not, again, not just, but it's, when I say just, I mean, it's on the same plane as them.
+
+812
+00:49:36,280 --> 00:49:39,580
+ So when we look at and say, how is country different from heavy metal?
+
+813
+00:49:39,660 --> 00:49:42,660
+ We say, well, look at the cultural differences and look at the racial implications and look at
+
+814
+00:49:42,660 --> 00:49:46,600
+ all of those things, but all of that saying, look at, is just another song.
+
+815
+00:49:46,740 --> 00:49:52,120
+ It's not a song that's in this position of gazing down upon them.
+
+816
+00:49:52,120 --> 00:49:52,280
+ Yeah, it's a superiority.
+
+817
+00:49:52,520 --> 00:49:52,980
+ Right, right.
+
+818
+00:49:53,420 --> 00:49:53,640
+ Right.
+
+819
+00:49:53,700 --> 00:49:59,120
+ Which again, it's, it's just in the sense that it's not correct or incorrect, but it's not
+
+820
+00:49:59,120 --> 00:50:01,360
+ just insofar as they create.
+
+821
+00:50:01,360 --> 00:50:01,900
+ It matters.
+
+822
+00:50:02,140 --> 00:50:04,480
+ More or less hospitable worlds for, right.
+
+823
+00:50:04,480 --> 00:50:08,560
+ But that's how you get, I mean, that's how you retrieve things like, like Nate wants
+
+824
+00:50:08,560 --> 00:50:10,780
+ to, of like self-reflexivity, right?
+
+825
+00:50:10,880 --> 00:50:15,040
+ You say like, look, it's not that self-reflexivity is a superior way of thinking.
+
+826
+00:50:15,220 --> 00:50:17,860
+ It's just a song I like, right?
+
+827
+00:50:18,080 --> 00:50:22,500
+ You know, that has implications that does interesting things, you know?
+
+828
+00:50:22,500 --> 00:50:25,700
+ But you're, you're flattening of the, of this field, right?
+
+829
+00:50:25,760 --> 00:50:31,660
+ Where it's, it's all dispositions or tastes or styles that would forbid, or at least it
+
+830
+00:50:31,660 --> 00:50:35,480
+ would forbid, at least for me, a strict adherence to a team, right?
+
+831
+00:50:35,480 --> 00:50:38,040
+ I mean, you can provisionally join a team, right?
+
+832
+00:50:38,040 --> 00:50:41,740
+ And be like, I'm going to play around with post-humanism or idealism or whatever, but you're
+
+833
+00:50:41,740 --> 00:50:43,180
+ rock and roll for a life.
+
+834
+00:50:44,500 --> 00:50:49,680
+ Like, I don't, I feel like with that knowledge or with that supposition, you wouldn't just
+
+835
+00:50:49,680 --> 00:50:56,240
+ simply, you wouldn't just dive in and say, I'm all in with the post-humanism.
+
+836
+00:50:56,320 --> 00:50:58,960
+ But sure, it would be a hell of an experiment in life, right?
+
+837
+00:50:59,040 --> 00:50:59,180
+ Right.
+
+838
+00:50:59,840 --> 00:51:03,080
+ I mean, the, the, to me, there would be no, I feel like people join the priesthood for
+
+839
+00:51:03,080 --> 00:51:03,540
+ that reason.
+
+840
+00:51:03,960 --> 00:51:05,120
+ Or here's another way of saying it.
+
+841
+00:51:05,260 --> 00:51:06,580
+ Here's another way of saying it, Nate.
+
+842
+00:51:06,880 --> 00:51:11,140
+ One doesn't have to be conscious of the provisional status in order for it to be provisional.
+
+843
+00:51:11,200 --> 00:51:11,880
+ Well, okay.
+
+844
+00:51:12,200 --> 00:51:12,600
+ Okay.
+
+845
+00:51:12,960 --> 00:51:13,140
+ Yeah.
+
+846
+00:51:13,140 --> 00:51:16,120
+ Like, if I, whether or not I'm aware of it, it doesn't matter.
+
+847
+00:51:16,640 --> 00:51:23,860
+ Because I, I think that, that, um, making it forbidden to calcify or making it forbidden
+
+848
+00:51:23,860 --> 00:51:27,460
+ to say, like, I'm on team rock and roll for life.
+
+849
+00:51:27,460 --> 00:51:33,280
+ Or even cool, like making it cool or uncool to be provisional or team.
+
+850
+00:51:33,960 --> 00:51:40,000
+ But to, but to make that move would, to be, would necessarily to be, to take a position of
+
+851
+00:51:40,000 --> 00:51:40,600
+ correctness.
+
+852
+00:51:40,780 --> 00:51:45,940
+ Because it's all this way, therefore people shouldn't allow, like people should be more
+
+853
+00:51:45,940 --> 00:51:46,560
+ free flowing.
+
+854
+00:51:46,760 --> 00:51:50,580
+ But if you take it as a baseline that look, everything is flowing.
+
+855
+00:51:50,780 --> 00:51:52,400
+ Calcification is a kind of flow.
+
+856
+00:51:52,560 --> 00:51:57,500
+ And so are the rapids, you know, like, so was like the rapid movement of a waterfall, right?
+
+857
+00:51:58,040 --> 00:52:02,040
+ Then it's not about it being moving or not being moving.
+
+858
+00:52:02,040 --> 00:52:08,880
+ Or, you know, like, what if the, what, what if, you know, the move moving like a waterfall
+
+859
+00:52:08,880 --> 00:52:14,280
+ was incompatible with, with this or that person's life, right?
+
+860
+00:52:14,280 --> 00:52:16,520
+ What if that leads to them jumping off the waterfall?
+
+861
+00:52:17,400 --> 00:52:22,560
+ All I'm saying is that if, if you're really attending to, I guess what you could call like
+
+862
+00:52:22,560 --> 00:52:28,420
+ a symptomatology where every disposition is reflecting a style of life and none of them
+
+863
+00:52:28,420 --> 00:52:29,080
+ is wrong.
+
+864
+00:52:29,540 --> 00:52:33,400
+ They're all kind of reactions or assortments of sensibilities.
+
+865
+00:52:33,840 --> 00:52:38,260
+ Well, we're saying, but, but just as an intervention, of course you can say things are wrong.
+
+866
+00:52:38,520 --> 00:52:40,700
+ That's one of the dispositions, you know?
+
+867
+00:52:40,840 --> 00:52:40,960
+ Right.
+
+868
+00:52:41,140 --> 00:52:42,880
+ So, but that doesn't make them wrong.
+
+869
+00:52:42,960 --> 00:52:44,580
+ That just means that that's okay.
+
+870
+00:52:44,580 --> 00:52:45,380
+ But sorry, go ahead.
+
+871
+00:52:45,380 --> 00:52:51,260
+ But I'm just saying, if you're actually attending to that constitutive dynamic, wouldn't you be
+
+872
+00:52:51,260 --> 00:52:55,380
+ less likely to be all in on something?
+
+873
+00:52:57,040 --> 00:52:57,480
+ Right?
+
+874
+00:52:57,720 --> 00:53:03,040
+ No, because it would all be, wouldn't matter if you're being all in, half in, skipping across
+
+875
+00:53:03,040 --> 00:53:03,580
+ the surface.
+
+876
+00:53:03,700 --> 00:53:03,980
+ Right.
+
+877
+00:53:04,060 --> 00:53:04,720
+ They would all.
+
+878
+00:53:04,720 --> 00:53:05,640
+ It would make a difference.
+
+879
+00:53:05,960 --> 00:53:06,100
+ Right.
+
+880
+00:53:06,140 --> 00:53:08,360
+ Those would all be experimentations in life.
+
+881
+00:53:08,900 --> 00:53:08,980
+ Right?
+
+882
+00:53:09,000 --> 00:53:09,280
+ Like, hey.
+
+883
+00:53:09,340 --> 00:53:17,040
+ Because, I mean, to me, you are focusing on the conscious awareness of all of these things.
+
+884
+00:53:17,160 --> 00:53:21,900
+ And I'm sort of saying, like, it seems to me that the conscious awareness, it doesn't
+
+885
+00:53:21,900 --> 00:53:22,480
+ really matter.
+
+886
+00:53:22,760 --> 00:53:28,480
+ Like, that's, so one can be, for instance, a nomad and never know that you're a nomad.
+
+887
+00:53:28,600 --> 00:53:34,020
+ Or one could be, like, firmly established in a position and think that one is entirely
+
+888
+00:53:34,020 --> 00:53:35,400
+ open-minded, you know?
+
+889
+00:53:35,840 --> 00:53:36,020
+ Yeah.
+
+890
+00:53:36,240 --> 00:53:37,040
+ Yeah, that's true.
+
+891
+00:53:37,240 --> 00:53:37,360
+ Yeah.
+
+892
+00:53:37,700 --> 00:53:37,840
+ Yeah.
+
+893
+00:53:38,840 --> 00:53:43,120
+ So that, that's a sense of which, like, you know, what we're saying, you know, thinking
+
+894
+00:53:43,120 --> 00:53:48,620
+ is this necessarily provisional, for me, style or dispositional orientation.
+
+895
+00:53:49,200 --> 00:53:52,640
+ And recognizing it as such is another disposition.
+
+896
+00:53:52,960 --> 00:53:58,680
+ It's not the meta disposition that is diagnosing everything from above.
+
+897
+00:53:58,800 --> 00:54:03,040
+ So even the, you know, that's where, so that's one of the moves that I have to make in a later
+
+898
+00:54:03,040 --> 00:54:06,320
+ chapter for me of the Nietzschean symptomatology stuff on the values.
+
+899
+00:54:06,320 --> 00:54:12,880
+ And the first one is, like, look, the, the diagnostician is not in a position of transcendence in
+
+900
+00:54:12,880 --> 00:54:15,100
+ relationship to the patients, right?
+
+901
+00:54:15,180 --> 00:54:18,560
+ That, that Nietzsche, that, that's why, for instance, for me, it's like, there are moments
+
+902
+00:54:18,560 --> 00:54:21,860
+ in Nietzsche that I'm just like, ah, yeah, I'm not, I'm not on board with that, right?
+
+903
+00:54:21,860 --> 00:54:26,420
+ Like, I'm just not on board with this, like, dismissiveness of the German culture and things,
+
+904
+00:54:26,600 --> 00:54:31,460
+ and, and like, you know, fetishizing of a certain kind of war thing, like, but whatever, that
+
+905
+00:54:31,460 --> 00:54:32,280
+ doesn't matter to me.
+
+906
+00:54:32,340 --> 00:54:37,300
+ Like, and that's not a reason to dislike Nietzsche or, or, or, you know, it's just, I'm not
+
+907
+00:54:37,300 --> 00:54:37,560
+ him.
+
+908
+00:54:37,960 --> 00:54:39,680
+ That's, that's simple for me.
+
+909
+00:54:39,900 --> 00:54:43,920
+ Or another way of using, just trying to mobilize the sense of transcendence that Deleuze is
+
+910
+00:54:43,920 --> 00:54:50,060
+ using here is that the relationship of the self-reflexivity and the action is transcendent,
+
+911
+00:54:50,120 --> 00:54:56,280
+ but on a flat plane where, you know, like there, like there is a transcendent link, transcendental
+
+912
+00:54:56,280 --> 00:55:03,080
+ link, like a string that is attaching the, the self-reflective move laterally to the, I
+
+913
+00:55:03,080 --> 00:55:05,120
+ can't go all in on something, right?
+
+914
+00:55:05,240 --> 00:55:10,620
+ Which, or, but you can also imagine the self-reflective move being attached to, now I'm definitely going
+
+915
+00:55:10,620 --> 00:55:12,940
+ to go all in on something just to see what it produces.
+
+916
+00:55:13,880 --> 00:55:18,400
+ Well, frankly, like we talked about this, I think once during the Hegel stuff, but the
+
+917
+00:55:18,400 --> 00:55:22,440
+ self-reflection thing usually is interpreted as neurosis, right?
+
+918
+00:55:22,440 --> 00:55:27,560
+ Like once you get past a certain point of self-reflection, like two steps, like then
+
+919
+00:55:27,560 --> 00:55:30,880
+ it becomes for most people paralyzing, right?
+
+920
+00:55:31,000 --> 00:55:35,440
+ It's precisely because they think of it on that depth model that it becomes paralyzing.
+
+921
+00:55:35,560 --> 00:55:40,320
+ If you have the lateral model, and I think I said this in one of the tapes, one of the
+
+922
+00:55:40,320 --> 00:55:43,940
+ things is like, it's not, it's, I've never felt like self-reflection is paralyzing.
+
+923
+00:55:44,220 --> 00:55:46,780
+ I always felt like it gives me new ideas of other things to do.
+
+924
+00:55:47,420 --> 00:55:52,680
+ You know, so even, even though it's the sort of quote unquote meta move, but it's never
+
+925
+00:55:52,680 --> 00:55:57,360
+ meta, it's never functionally meta, it's just sort of nominally meta.
+
+926
+00:56:02,360 --> 00:56:05,940
+ My other question, just to jump back into the Deleuze a little bit.
+
+927
+00:56:05,940 --> 00:56:14,880
+ So we're talking about, you know, so each disposition has its motivations, each philosophical disposition
+
+928
+00:56:14,880 --> 00:56:17,220
+ has its motivations, has its context.
+
+929
+00:56:17,560 --> 00:56:23,340
+ So therefore it can't necessarily be, you couldn't simply call it wrong or misguided, whatever.
+
+930
+00:56:23,520 --> 00:56:30,900
+ So why does Deleuze in these series or in this book, why the attack on someone like Husserl then?
+
+931
+00:56:31,460 --> 00:56:37,080
+ I mean, I understand the intervention and it makes sense logically, like why he would want
+
+932
+00:56:37,080 --> 00:56:42,840
+ to make an intervention, but why the, the, the confrontation with him as opposed to, as
+
+933
+00:56:42,840 --> 00:56:50,500
+ we're saying, like, uh, like a diagnosis where it's not as critical or as explicitly like dismissive.
+
+934
+00:56:50,900 --> 00:56:56,640
+ I mean, my, my short answer to that is that the dismissive thing is a perfectly viable
+
+935
+00:56:56,640 --> 00:56:57,520
+ move.
+
+936
+00:56:57,620 --> 00:57:03,660
+ Like that you haven't, you haven't taken anything off the table by flat, flattening the thing
+
+937
+00:57:03,660 --> 00:57:03,840
+ out.
+
+938
+00:57:03,900 --> 00:57:09,640
+ And what he's attempting to do here, as I read it, he's trying to build a sense of this
+
+939
+00:57:09,640 --> 00:57:12,100
+ transcendent, transcendent, eminent.
+
+940
+00:57:12,260 --> 00:57:14,520
+ I mean, those words don't make sense anymore.
+
+941
+00:57:14,700 --> 00:57:20,900
+ They, I mean, they really don't like, uh, uh, um, sense of sense, right.
+
+942
+00:57:21,260 --> 00:57:24,420
+ And in doing so he's like, well, we could take this tool from here.
+
+943
+00:57:24,960 --> 00:57:26,860
+ It encounters this problem there.
+
+944
+00:57:27,160 --> 00:57:29,440
+ That's not a very good resolution to the problem.
+
+945
+00:57:29,540 --> 00:57:31,000
+ I'm going to pull another thing from here.
+
+946
+00:57:31,180 --> 00:57:31,580
+ Right.
+
+947
+00:57:31,580 --> 00:57:34,320
+ So he's assembling different parts and assembling those parts.
+
+948
+00:57:34,420 --> 00:57:40,120
+ And, and, but frankly, I, that's what I try to do in my work is like, I only take,
+
+949
+00:57:40,120 --> 00:57:45,400
+ if I take the part, I don't need to explain why I'm not taking the whole, right?
+
+950
+00:57:45,440 --> 00:57:47,080
+ Like I'm, I'm just taking the part.
+
+951
+00:57:47,600 --> 00:57:49,720
+ Um, but I don't know.
+
+952
+00:57:49,760 --> 00:57:54,560
+ I mean, there is also that sort of just differentiating function.
+
+953
+00:57:54,820 --> 00:57:55,260
+ Yeah.
+
+954
+00:57:55,380 --> 00:57:55,640
+ Right.
+
+955
+00:57:55,720 --> 00:58:00,440
+ That is, that is powerful that there's a level at which it would be difficult to say anything
+
+956
+00:58:00,440 --> 00:58:06,140
+ if you really committed to this, to the notion of the undifferentiated body without organs.
+
+957
+00:58:06,140 --> 00:58:06,460
+ Right.
+
+958
+00:58:06,520 --> 00:58:10,100
+ Like, um, and so to the extent to which we retain the part,
+
+959
+00:58:10,120 --> 00:58:16,840
+ retain still some semblance of subjectivity, then we are still involved in that, in that
+
+960
+00:58:16,840 --> 00:58:20,460
+ process of, of sifting and sorting and distinguishing, I guess.
+
+961
+00:58:20,460 --> 00:58:50,440
+ Thank you.
+

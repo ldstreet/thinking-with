@@ -1,0 +1,1573 @@
+Hey everyone, welcome back to Thinking With, a rhetorical theory podcast.
+
+It's been a few months since we finished the release of our season on Heidegger, and we're excited to start releasing a whole season on Jacques Derrida.
+
+Unlike what, I don't know about the two of you, but what I think is really interesting about this season is really two things.
+
+First, it's the first season that we don't focus on a book, especially a book that isn't sort of new to us, something that we're sort of trying to think through for the first time, or that we only have so much familiarity with.
+
+We thought about maybe doing that with Grammatology or a couple of other books, but Derrida's, the book really isn't Derrida's genre.
+
+He has so many essays, long essays that are sort of, you know, too short to be books, but too long really to be essays themselves.
+
+And so rather than just focus on one thing for this season, we read around.
+
+So we read parts of Grammatology, we read Signature, Event, Context, Structure, Sign, and Play, and Confirm is Restricted to General Economy, which is his essay on Hegel.
+
+And so we meandered quite a bit more this time around.
+
+So that was the first thing that I think is really different about this season.
+
+The second thing is that a lot of these texts, some of the texts are a little bit more unfamiliar to us, but some of the texts are really, really, really familiar.
+
+Like we've read these things dozens of times.
+
+We've taught these things, written on these things in various ways.
+
+And one interesting thing that emerged from that is a completely different orientation to the pedagogy of reading these things, of talking them, talking about them amongst ourselves, and talking about them with an audience in mind as well.
+
+One of the major questions for us was how do we deal with the intimacy of reading things that are so, in some ways, close to us?
+
+So we hope you enjoy the season, the episodes.
+
+But before we skip to episode one, John, Nate, well, we should also do this.
+
+I'm Nathaniel Street.
+
+I was waiting for that part.
+
+I think it's kind of hilarious that this is our fourth season and we've never done this.
+
+This is Thinking With, a rhetorical podcast with Nate, John, myself, Nathaniel.
+
+Hey, John, introduce yourself quick.
+
+Okay, we'll do it again.
+
+Let me give it a shot.
+
+You give it a shot.
+
+I don't want to put this on every episode.
+
+That's going to be weird.
+
+Hi, folks, and welcome back to Thinking With, a rhetorical theory podcast.
+
+I'm John Muckelbauer, and I'm here, as always, with Nathaniel Street and Nate DeProspo.
+
+Boom.
+
+There it is.
+
+And we're in.
+
+There it is.
+
+That's all we need.
+
+We also have to have a discussion about the music, right?
+
+Yeah, I guess we have to decide on the music, which I know John has been wanting me to remix the old song, but I've refused to do that.
+
+I know you have.
+
+What's the basis for that?
+
+Well, I just kind of, I wanted to shake it up.
+
+I wanted a new sound.
+
+I think your idea was perfectly valid.
+
+I just like to be stubborn, and I refuse.
+
+So, that's what I did.
+
+Boo Boo is the musical genius.
+
+Don't fucking tell him what to do, man.
+
+So, my vote, I think, personally, is going to be for the rap, the more rap-sounding beat, but without our actual rap on it.
+
+I know that one is kind of maybe the darkest, but it's the most up-tempo as well, and it feels, to me, it feels most like an intro.
+
+Can we at least entertain doing the one with our voices over it?
+
+Because it's fucking hilarious.
+
+If we do that one, because I agree that it's hilarious, I want us to listen to it here and make some comments that would be the transition.
+
+Like, in other words, I want it to be clear that we think that this is hilarious.
+
+Yeah, yeah, right.
+
+Right.
+
+We should play it.
+
+I mean, we should actually do it now.
+
+We should play it, listen to it together.
+
+Right, play it now.
+
+Listen to it now, and then respond.
+
+You're going to feast on this one.
+
+Conceptuality is something other than itself.
+
+There's been a change in the image of thought.
+
+That's what it is.
+
+That's what it is.
+
+That's what it is.
+
+The internal structure of book comedy.
+
+As soon as an utterance slips from the mouth, it's divorced from the subject.
+
+Thinking, thinking, thinking, thinking.
+
+That is so unbelievably pretentious.
+
+It's insane.
+
+It's really insane.
+
+It's like, oh, conceptuality is something other than itself.
+
+The utterance.
+
+Yeah.
+
+Let's use it.
+
+Yeah.
+
+Yeah.
+
+Yeah.
+
+But when I found your phrase there, Nathaniel, you're going to feast on this one, I was like, all right, I've got the track.
+
+That was like when I found the piece.
+
+I was like, here's the missing piece.
+
+Because it perfectly sets it up.
+
+I wish I knew what I said.
+
+I have no memory of ever saying that.
+
+I wonder what I was responding to.
+
+But this is also, this feels like some conservative philosopher's wet dream of sort of like trying to publish to a journal to disprove the value of continental philosophy.
+
+Right, right, right.
+
+They could just take snippets from our musical intro of like, see how ludicrous and self-impressed These continental folks are?
+
+What's also funny is that out of context, it sounds like we're making declarations of truth, whereas we're usually just making comments about other people's writing.
+
+And like, it's never, it's never like, here's my thoughts.
+
+Right.
+
+Yeah.
+
+Let's go with it, man.
+
+I love it.
+
+I think it's hilarious.
+
+I think we should do it.
+
+It's hilariously pretentious.
+
+And so let's roll with it.
+
+Thinking with, thinking, thinking with, thinking, yeah, yeah.
+
+You're going to feast on this one.
+
+Conceptuality is something other than itself.
+
+There's been a change in the image of thought.
+
+That's what it is.
+
+That's what it is.
+
+That's what it is.
+
+The internal structure of book.
+
+As soon as an utterance slips from the mouth, it's divorced from the subject.
+
+All right, we're ready to talk some Derrida.
+
+We're doing Differance today, which is the first essay in the collection, Margins of Philosophy.
+
+For some reason, Heidegger is plodding along.
+
+Like, in some ways it's almost hypnotic, but in other places, in other sections of that book, I found it like, just, I wasn't able to get in a rhythm with it.
+
+And I think Derrida, even though the syntax is wild and he does these long, complicated sentences and they never end, I find that maybe it's because I tend to write more in the milieu of, like, the post-structuralist as opposed to the pre-post, like, the Heideggerian or the Hegelian, that Derrida's writing now seems familiar as opposed to daunting.
+
+You know, so it was like I was stepping back into a discourse that I knew more, that I knew well, you know.
+
+Yeah, I agree.
+
+I mean, there was a certain familiarity with it and, you know, just like the concern for precision and care and, you know, he's got like, I mean, you know, his, his, but I don't think, it feels so much different than Heidegger, but I struggle to figure out what that difference is just because Heidegger is incredibly patient and careful and recursive and, you know, sort of like sits with something for a very long time.
+
+But, and Derrida does the exact same thing and, like, you know, it's like Derrida's response to it is like always to kind of take one step forward and then show, you know, and then to parse out, like, what it can't be or the implications of saying it this way and how, like, even saying it this way sort of undies something that it should be doing.
+
+And so it's kind of like a constant, not riffing off of, but like a constant sort of, like, hesitant, like, all right, I'm going to get it out and then I have to go, ah, pull back and, you know, reconfigure it a little bit.
+
+Whereas, like, there's a, Heidegger almost, like, owns the tenuous, the tenuousness of the writing a little bit more.
+
+Like, he confidently throws something out there only so that it can get re-chewed up a bit later.
+
+Like, there's a, maybe, they're both careful, but Derrida just, like, screams hesitance and Heidegger has a weird mixture of confidence and care.
+
+Right.
+
+Hesitance is a tough word because, I mean, I feel like for me one of the big differences is that Derrida granted the sort of long, convoluted, complex sentences, but he does in a sentence what it takes Heidegger 15 pages to do.
+
+Like, it's just way more compressed.
+
+He's like, if we use the word active, which we wouldn't use because it would bring in, and he will give you the whole argument in, as in interjection in the middle of the sentence, and then he will then go on, you know.
+
+In a parenthetical.
+
+Right, he'll do all of that in a sentence, and Heidegger will do that much slower over the course of pages or whatever.
+
+I mean, it's kind of hesitant.
+
+It's that which.
+
+It's that, you know, that, you know, if we do ask which word, it's that which that it's always putting forward.
+
+It's careful.
+
+I mean, I agree.
+
+Right, but it's not slow.
+
+It's like, you know, okay, I'm just going to put all the things out there, and I'm going to show, again, it is almost parenthetically, sometimes literally parenthetically, where it's like all of the work of why we can't say the thing that we're saying happens in the very sentence where we're saying it, as opposed to over the course of pages where you complicate the effort to say it.
+
+It's super, to me, it's just super fast, or compressed is a better word to say.
+
+It's like, it's all, it's all there in, I will speak therefore of a letter, right?
+
+Like, so it's, he just compresses, like, the complexity of the movement in ways that Heidegger is sort of slower.
+
+Weirdly enough, it almost reads as like more systematic, you know, even though he's challenging the entire configuration of systems and metaphysics, the way he writes, at least stylistically, is systematic.
+
+You get the argument, you get at least a chunk, a good, like, precise chunk of the argument in the first three pages of the article, whereas like you said with Heidegger, there almost is no argument, like, there's not a real argument in Voss Heist-Denken.
+
+I mean, it's a series of questions that get continuously unraveled in these elaborate different milieus, whereas with Derrida, it's like a, it's a traditional academic article in the modern sense, you know, like where he's making claims and unraveling them, not in the traditional sense, but to me, it's just, it reads easier because of that speed of the way he moves through the claims and stuff.
+
+Yeah, you couldn't do Derrida without having, like, he, what enables him to compress is that all of these other folks have done this kind of stuff, right?
+
+Like, like, okay, we don't need to spend time, like Heidegger was figuring it out, right?
+
+Right, like, Derrida's like, well, since Heidegger figured it out, we can compress it all, and like, here's what we're not doing.
+
+We're not doing Heidegger, we're not doing Hegel, we're not doing, you know, but for me, one of the things is, how do you teach an essay like this to someone who has not read Hegel, who has not read Heidegger, who has not read Nietzsche, who has not read Levinas, who has not read César, right?
+
+Like, how do you teach this kind of essay?
+
+I mean, it's just not, it can't, it's not going to make sense.
+
+No.
+
+No, yeah, for sure.
+
+I mean, you know, even just that second, or that third word, I will speak therefore, like, where's the therefore coming?
+
+That's why I asked about the translation, by the way, because it follows far more readily from that other translation, or that other edition I have, which has a few paragraphs before The start in *The Margins of Philosophy*, that sort of, like, outlines a little bit, just the word defer, but look, I mean, I get that, okay, I get that he does a ton with a sentence, and especially in those parentheticals, it's sort of like, it's almost like a yo-yo wing, it's like, he goes, he starts from the beginning, and then he goes way to the end, and then pulls back very quickly, but there's always the pulling back, and in some sense, this is 24 pages on the letter A, right?
+
+He says, "I will speak therefore of a letter," like, he never stops speaking about the letter A in some ways.
+
+I mean, like, tell me that's not, that's not slow, and to kind of relate this back to Heidegger, you know, this is on seven, the second, the second full page.
+
+So, after the big paragraph, that spills over from page six, that begins, I would say, "I would say, first off, that deference, which is neither a word nor a concept, strategically seem to me to be the most proper one to think, if not to master." Thought here being that, that which is maintained in a certain necessary relationship within structural limits of mastery.
+
+What is most irreducible about our area?
+
+Therefore, I am starting strategically from the place, and the time in which we are, even though, in the last analysis, my opening is not justifiable, since it is only on the basis of deference and its history that we can allegedly know who and where we are, and within the limits of an error might be.
+
+But, like, to me, that's a humanitarian Heidegger right there, is that, you know, this, he's trying to open up, like, deference is opening up a site or a food for thought that isn't one of simple mastery.
+
+And then he's, like, making the Heideggerian move that, like, this desire for mastery is the most, sort of, like, characteristic mark of our era.
+
+And then he goes in and he kind of, like, problematizes a statement like that by saying, like, this whole notion of our era.
+
+But I don't think Heidegger will ever make that second move.
+
+Like, Heidegger will never say, can we have an era that is not structured?
+
+Like, in other words, the very notion of an era, the very notion of a historicity has to be at stake.
+
+And it seems to me like Heidegger just kind of presumes that, which is there is, you know, sort of the hazy sort of ontotheology, and now we're fully in the ontotheology, you know.
+
+So, I mean.
+
+I totally agree with that.
+
+Like, the sort of, like, the implicitity of one in the other, right?
+
+And it seems that Heidegger only gets it in the one direction, and Derrida's constantly pulling back to show the other direction of it as well.
+
+But it is just more like, I mean, you know, what doesn't seem like a traditional academic argumentative essay here is that, like, insofar as there is a thesis here, it's not like a, it's not a thesis of some sort of, like, propositional content or, you know, like some self-present claim.
+
+In fact, that's precisely what He wants to trouble, and that it seems like the only thing that something like a difference, which is not a word or a concept, can do is offer a terrain in which to think that the very desire for mastery of it is already sort of, like, presupposing in a particular configuration of forces.
+
+But it's also, but it also does give you lots of propositions.
+
+Like, I mean, it does give you lots of, lots of claims.
+
+So it's not sort of, because I do feel like there's a way in which Heidegger really wants to avoid making any kind of claim.
+
+And so whenever he does make claims, he always is sort of, you know, reserved, whereas I think Derrida's like, I can fucking make claims.
+
+Like, claims are perfectly fine.
+
+They just don't govern the terrain, right?
+
+Like, every claim I make is going to get undercut and problematized, but I'm still going to make it.
+
+But so where is a claim here that he then doesn't immediately problematize?
+
+He immediately problematizes.
+
+Yeah.
+
+I mean, like, so in other words, it's not Deleuze where he's just throwing out problems.
+
+You know, or Deleuze just sort of, you know, implicitly owns the notion that this is all strategic, you know, strategy without telos.
+
+That, you know, there's a way of moving in this thing, but it's not specifically aimed at a particular end.
+
+I mean, I think that the most aggressive claim that doesn't really get qualified, and maybe for reasons that we can kind of articulate, but when he says, like you mentioned, that differance is neither a word nor a concept.
+
+That's a full-on declaration of the kind of ontological status, quasi-ontological status of this word that's not a word.
+
+But like, he doesn't go on to say like, well, now, of course, it's a word.
+
+And like, he just leaves that on the table and repeats it.
+
+And that's, I mean, that's just a straight up statement of fact, right?
+
+That he made, which is interesting to me, because there seems to be an obvious irony in that statement.
+
+But he doesn't even bother pointing to that.
+
+He's like, it's all just sort of embedded in the essay, right?
+
+Like, it's neither a word nor a concept.
+
+Well, it's clearly both, right?
+
+But like, the way he wants to set it up kind of tells you why it's not.
+
+It's the condition of possibility for both language and conceptuality and further life.
+
+But like, well, you can only get to the non-linguistic, non-conceptual dimension of it by conceptualizing it and, you know, turning it into the word, right?
+
+So, right.
+
+But that's the big difference.
+
+In other words, there's not a fear of impurity here like there is with Heidegger.
+
+It's like Heidegger's like, ah, it's impure, but I'm not comfortable with that.
+
+And I want to figure out how to, how to sort of get it right.
+
+But I recognize that you can't really.
+
+But he experiences that.
+
+This is where he says, like, to experience that is not a loss, right?
+
+Like, whereas Derrida doesn't experience that as a sort of exile in the way that Heidegger does, I mean, that's directed right at Heidegger.
+
+There's a sense of, like, because it's impure, that's a problem for Heidegger, whereas it's just not for Derrida.
+
+It's the necessary.
+
+So it's like, yes, it's the condition of possibility, but it's not even actually even that, because that implies a cause that's an effect, and it's not causal, and it's not, you know.
+
+So at every moment, you're going to be speaking and undermining the very conditions of your speaking.
+
+This is where I say, like, my reading of Structure, Structure, Sign, and Play, which I think you guys have read at some point, maybe not.
+
+But, like, my essay, that's for the book stuff, is just, like, it doesn't say anything, and it very actively doesn't say anything.
+
+Meaning, like, it says a lot of things, and it always undermines any substantive claim.
+
+And this, to me, reads just like that.
+
+I mean, it doesn't, at the end of this thing, you know.
+
+But that's what I mean, like, he's, that's what I mean, that he doesn't feel so, that's where the hesitancy comes in.
+
+He's not all that comfortable with all these propositions, because they constantly get undone.
+
+He has to cross out the word is, in order to sort of, like, you know, destabilize the power of using that.
+
+And, you know, like, if you're going to cross out that word is, you know, anytime you, like, refer to difference as an it, you know, would also need to be crossed out.
+
+That's why he turns to negative theology, and in fact, he doesn't, like, turn to negative, he complicates the term to negative theology, but to my mind, like, as an intensification, that, you know, like, negative theology is the process of trying to figure out what God is by sort of, you know, only figuring out what God is not, and that's sort of, like, an approach to understanding difference.
+
+It's not a concept.
+
+It's not this.
+
+It's not that.
+
+And he's sort of, like, you know, he does a lot of these impure propositional claims to kind of, like, gesture towards the unutterable, the, you know, the unthought.
+
+But it's not, but see, that's where I disagree with you.
+
+That, to me, is Heidegger.
+
+What you just described is Heidegger.
+
+Yeah.
+
+Because there's no gesturing towards it.
+
+It is simply, and so there's no, like, I have to deal with conceptuality in order to get to this non-conceptuality.
+
+It's like, no, no, no.
+
+This is how it works, right?
+
+Like, conceptuality is something other than itself.
+
+So I don't, I mean, to me, that's the big difference.
+
+There is no, like, there's no sense of got to deal with words and concepts in order to get to something that's not words and concepts, because that's something that's not words and concepts isn't just other to them, right?
+
+Like, it's not just like, okay, we've got to get, and that's the feeling I always have in Heidegger, is that we're trying to get behind presence in some way, that anytime presence creeps up, it's a problem, it's fucked things up.
+
+Whereas with Derrida, it's like, it's not a problem.
+
+You just assert it and recoil.
+
+I mean, it's not a given either, and so this isn't to lose, but I mean, it's like, no, I'm just laying out how this works.
+
+Like, if you want to, I'm perfectly fine with the idea of defining difference.
+
+It's just that we're going to have to ask what a definition is.
+
+We're going to have to, like, that's a constitutive part of the, and all the definitions will both give you responses and undermine the idea that they're definitive responses.
+
+Okay, so take, for example, I have to go to a different essay, but like the very end of Signature Event Context where, you know, on the signature where he's like, you know, here where, you know, in this sort of the indelible signature, the little J.D. that he does, right?
+
+Like, that seems to be getting at what you're talking about, how, you know, the condition of possibility for conceptuality is not itself conceptual, but the very articulation, but you can't separate the two.
+
+It's not like the non-conceptuality is somewhere else.
+
+Non-conceptuality is sort of internal to or sort of like imminent to conceptuality and vice versa, right?
+
+And like, they're like, that sort of like location of the signature, right?
+
+Where he's like playing with the present, non-present, you know, like notion of the, of just, you know, the differentiating mark, the J.D., um, I, I, uh, I both activates that non-conceptuality, but also, um, but it also like, it is in that recoil that, that I find the hesitancy, like the not, the constant need to remind that it's not present.
+
+But it's not a reminder.
+
+It's, it is, it's not like, okay, keep this in mind.
+
+It's like, it's the inscription.
+
+It's the making of it.
+
+And by the way, that's why I don't like the term non-conceptual, right?
+
+Like, uh, because it's not simply in the terrain of the non-conceptual.
+
+I mean, I think that's exactly the thing that he will own way more than Heidegger does.
+
+Heidegger will say it's non-conceptual.
+
+And Derrida will be like, no, it's imminent to the, the movement of conceptuality, right?
+
+So, I mean, the, the, for me, the passage that's really the very last, on the very last page, uh, it's directed right at Heidegger, right?
+
+Like after he's just read the Anaximander, uh, that, that fragment stuff, um, like the second full paragraph, there will be no unique name, even if it were the name of being.
+
+And we must think this without nostalgia that is outside of the myth of a purely maternal or paternal language, a lost native country of thought.
+
+On the contrary, we must affirm this in the sense in which Nietzsche puts affirmation into play in a certain laughter and a certain step of the dance.
+
+I mean, this is very clearly, and, and it's, it's just one with which I'm obviously 100% sympathetic, like why I prefer Nietzsche to Heidegger, um, because Nietzsche dances and Heidegger's nostalgic.
+
+Um, and those are style, like what I call style, but they're sort of tonal, they, they are relations to the question of the complication of the problem of presence, uh, and being, whereas, and it does seem, Heidegger is always holding onto this, like we might be able to get behind it.
+
+Whereas Nietzsche and then Derrida following Nietzsche's, there's no getting behind it.
+
+There's no behind, right?
+
+Like, uh, it's not simply there, but it's not behind it either.
+
+And so therefore conceptuality is not, I mean, in that sense, being is both a problem and just a manifestation of a, of a, of a response to the problem.
+
+Right.
+
+You know?
+
+Right.
+
+Yeah.
+
+I mean, I think, I think Nietzsche, like the overman is the singular, to me, articulation of the kind of post-Hegelian project because it's enigmatic, right?
+
+It can't really be tamed or, or framed in the terms of an ethical policy where like we might achieve the overman someday.
+
+Whereas in Heidegger, there is a sense that not only he, but maybe all of us can achieve some sort of like Heideggerian disposition, whether it's through poetry or through, through an authentic relation to being.
+
+And so he kind of, he reaches towards that, that ethics or whatever, or whatever you want to call it with more force and with maybe a little less nuanced than, than Nietzsche and maybe sometimes Deleuze do, you know?
+
+And, but all of this is complicated by the fact that Heidegger does a really good reading of the overman in what we just read.
+
+So it's like, there's all this kind of, there's like not flip-flopping, but there's a tendency in Heidegger to move one way towards the nostalgia.
+
+And then he will kind of bring, he will go into that.
+
+He will complicate it.
+
+I agree.
+
+He'll go into the affirmation and the play and the dance like Nietzsche does.
+
+It's just that he will then reach towards like a thing.
+
+Like he wants, he wants something stable to come out of this mess.
+
+Whereas for Nietzsche, it's, it remains enigmatic constitutively, right?
+
+It, it's even more of a question for Nietzsche than it is in Heidegger and Heidegger wants to remain at the register of the question, you know, which is, it's odd, but.
+
+And Nietzsche, I mean, this is to me, Nietzsche and Derrida are like, look, play is the only option.
+
+Right.
+
+Right.
+
+Which is not, that's not the same ethics as poetry or like.
+
+No, it is not.
+
+It is not.
+
+It's totally different.
+
+Yeah.
+
+Within the system too.
+
+Go ahead.
+
+Sorry.
+
+I was just going to say that for, for Heidegger, that stability is an ironic sense, like the stability of a certain non-stability is that his critique is stability of a techno, you know, uh, uh, capitalistic language that reifies everything and what he wants to recover again, as more authentic, somehow like closer in relationship to being, but that more essential notion of being as we sort of, you know, spent an entire season, you know, sort of getting at is a kind of like essential ambiguity, uh, uh, uh, an essential, uh, um, potentiality.
+
+And, you know, I mean, I, I, I completely agree, John, that, you know, a major difference between Derrida and, and Heidegger is that it seems for Heidegger, you have to go somewhere or do a certain kind of labor to access that potentiality.
+
+And for Derrida, that, that actuality could never be erased.
+
+And even in the most reified of languages, you know, there's, I mean, you know, like not even just because the sort of like, you know, active passivity or the middle voiceness, voiciness of, of different ones, but because of the historicity of the trace as well.
+
+Right.
+
+Yeah.
+
+The tracing of historicity.
+
+Yeah.
+
+I mean, this is, this is where to me, like, and let's also, to be fair, I feel like all the folks that we're talking about are involved in a very closely related, you know, very compelling, uh, intellectual philosophical projects.
+
+And I would include Hegel in this list as well.
+
+Right.
+
+Like, but that's where to me, Hegel and Heidegger are way more similar than Derrida and Hegel and Heidegger.
+
+Right.
+
+Like to me, the Derrida, the Nietzsche, Derrida, uh, and I would put Deleuze in that lineage.
+
+Like these are folks who sort of, again, tonally, the problematic is very similar, but tonally, they're just like, I'm not worried about this.
+
+Right.
+
+Right.
+
+This isn't a, this isn't, we're not losing something.
+
+Right.
+
+We don't need to get back to something more authentic.
+
+We're exactly as authentic as we can be, you know?
+
+Yeah.
+
+I mean, I think, I think it's just the history of the project might be of use to just kind of note here because like Hegel was writing in a, he was the first to really articulate the problematic, which means that he wasn't going to have the same kind of reflexive access to the problematic that Heidegger does.
+
+And then you would say Plato was the first, right?
+
+Like they're all the, I mean, you know, that's what the history of philosophy is.
+
+Right.
+
+Right.
+
+But well, anyway, but I mean, we could argue whether Hegel is a singular figure or where he's, whether he's inheriting a tradition and complicating it.
+
+But I mean, I think what we could argue about that.
+
+Hey, I mean, outside of tradition.
+
+Well, I mean, I mean, Hegel wrote a history of philosophy in which he, like, yeah, yeah.
+
+I mean, I would argue as the, he's not the beginning.
+
+He's the end.
+
+He's the end, which you could argue is the beginning of like resentment.
+
+You know, he's like, the end is the beginning of modernity.
+
+Like the end of history would be like the, the kind of step into Nietzsche's revenge.
+
+Right.
+
+Like that's kind of how I was thinking about it when I was writing the other day.
+
+But any, I mean, this, this is not the question I meant to pose, but like you could argue that Hegel is a singular thinker and that he breaks from that tradition that was only like unconsciously invested in presence and in all these metaphysical categories.
+
+And he's the first one to really ruthlessly articulate that problematic.
+
+But that's, that's not really, whatever, that doesn't really matter.
+
+Also, who gives a fuck?
+
+Like, I mean, I imagine you were making that argument, but who cares?
+
+Like, I mean, I don't care.
+
+Yeah.
+
+But think about, I mean, think what Derrida would say to that in response to it.
+
+It's like, why the need to locate the origin of the non-origin?
+
+Right.
+
+Right.
+
+I mean, the only reason I brought up the history of this is because I was just going to kind of try to compare these figures a little bit.
+
+Like Hegel is kind of diagnostic of representationalism, humanism, but it's all internal to the project, right?
+
+There's not an explicit critique of humanism in Hegel.
+
+Whereas Heidegger is the first to, like, say, this is the problem we need to break from it.
+
+Yeah.
+
+And so, like, so, so it's a phase shift in the orientation.
+
+And then by the time we get to Derrida, that problematic, it's not taken for granted, but like you can just work within that now.
+
+Right.
+
+Like you can.
+
+Being as present is a problem.
+
+We're starting there.
+
+Right.
+
+And so you can start from the point of departure.
+
+Right.
+
+And like, so the entire problematic, and this is, again, I don't want to scope out too crazy, but like all of these moves, it feels like have been taken for granted in contemporary theory.
+
+Like even Derrida's moves were like, they must've had a really trenchant, like intense effect on readers and on the entire milieu of philosophy at that time.
+
+And now it feels like a lot of people just rehash, rehash Derrida in a kind of simplified form and just take for granted all of the interventions that he made, that Heidegger made, and that Hegel made sort of, you know, in its infant stage before that.
+
+But anyway, I just wanted to say that.
+
+I mean, I agree with that.
+
+I also, to me, at the end of the day, this is, it returns to, it confirms in me why I'm writing a book on what I'm writing a book on.
+
+And it's just like, I don't feel like there's a substantial conceptual difference among any of the thinkers that we're talking about.
+
+I really don't.
+
+Like, and I would include in that Plato.
+
+I would include in that, and I haven't read enough Kant, but I'm betting I would include in that Kant, right?
+
+Like, I would include, in other words, everyone that I've read, right?
+
+Like, that we would call philosopher.
+
+And those are the big name folks.
+
+But I would say the same thing.
+
+I mean, one of the things that I always dislike is this idea of, like, there's the master and then there, like, there's Derrida, who's incredible at this.
+
+And then there are the Derridians who are fucking everything up, right?
+
+Like, who are doing their, like, I hate that distinction.
+
+It's just like, you know, they're playing out their own particular trajectory.
+
+So this is what thinking and the realm of sort of philosophy generally, theory, whatever you want to call it, this is just how it operates.
+
+This is just how it works.
+
+And for me, that's why I just, like, it's very simple.
+
+It's like, some of these tunes, I like more than others, right?
+
+Like, they resonate.
+
+They hook, right?
+
+Some of them, like, I like this kind of dancing thing.
+
+I get why Thomas, as an example, to take, who I'm very good friends with and really like a lot.
+
+And he likes the Heidegger thing.
+
+And he likes being angry at modernity and saying everything sucks, right?
+
+Like, as many academics do, right?
+
+Like, neoliberalism, how many fucking times, like, you can't have a conversation without someone talking about how everything is fucked up today because of whatever, one thing or another.
+
+And it's like, I believe that that position of dissent is one that resonates or appeals a lot to a lot of people.
+
+But that's all it is to me.
+
+It's a fucking dance number, right?
+
+It's like, you know, you kind of like listening to death metal.
+
+I like Calypso or whatever.
+
+I mean, you know, I'm not, I'm just saying to me, that's what they all sound like.
+
+These are just different types of music that resonate at different times, right?
+
+It's not like it's always Derrida.
+
+There are times where I would like to read other things.
+
+I enjoyed reading Heidegger because sometimes you like some sort of, you know, nostalgia and the man is bad and, you know, das Mann, right?
+
+I mean, except for the fact that some tunes can kind of, you know, get stuck in a rut and grab enough people to the point where, like, you know, anyone who doesn't, you know, run that line gets killed, right?
+
+That's right.
+
+So it's not just one tune among others.
+
+Oh, but let me be, let me be super clear.
+
+When I talk about tunes, it's also like how one lives one's life, right?
+
+It's not like this, it's not an inconsequential component which song resonates, right?
+
+Like the fact that Thomas likes this rather than that has consequences in terms of how he interacts in the world, right?
+
+But in terms of what he thinks care is and also how he responds to what he considers to be neoliberal, capital and those kinds of things, right?
+
+Like, so it's just, so there are implications for liking different kinds of music that are life and death at times, right?
+
+But that's just part of life, right?
+
+Is life and death and, but to me, they really are just this, like, it's like a fucking playlist for living, right?
+
+Like, and so to me, when I say the Hegelian thing, whatever, like I still feel the same way that I felt about Hegel except for that I have a way better understanding and appreciation maybe is the right word or investment like in it than I did, you know, two years ago for sure.
+
+But I still think the things that I thought about the labor of the negative, I still have that sense of nostalgia.
+
+I still, so it's like, these things are, these things are moves.
+
+I mean, they are dance moves, right?
+
+Like, and I don't mean dance to be irrelevant.
+
+I mean, dance moves like fucking life or death, how to live dance moves, but.
+
+I mean, if I were to try to diagnose my affinity towards Hegel, it would be like, it feels like, and I've been trying to write this, so this is not going to be articulated very well, but like what was radical in the French continental when that, when they were really booming, when Derrida was writing, when Deleuze was writing, when Foucault was writing, all of their projects are pretty similar.
+
+You know, they have different emphases and different intellectual contexts, but the advanced past Hegelianism was a component in each of their projects, right?
+
+The critique and the intervention into humanism, into presence.
+
+But that was a certain Hegelianism, right?
+
+Like there is, in other words, there is a way of understanding a tradition of Hegelianism that's like, hey, we can go back and read Hegel as you have, as Zizek and others have.
+
+It's like, hey, that Hegel, there are other Hegels.
+
+And it's like, yeah, there are.
+
+And that's part of it too.
+
+But another, another little part, it feels like, because again, and this might be- It can be, the death metal can become Calypso, right?
+
+Like- Right, right.
+
+It's not just death metal.
+
+Exactly.
+
+I mean, yeah, that's sort of my point.
+
+Like what, and this might be a straw man of contemporary theory, and there's a lot of good, even post-humanist contemporary theorists writing, but it feels like a lot of Derrida's thinking has become sedimented in the academy to the point of being kind of neutralized, where it's like, we just, you assume to have diagnosed the problematic so much so that you can just move past it.
+
+So you note it at the beginning of an essay, and then you just get to talk about stuff after that, materiality, whatever it is.
+
+And so to me, like the radicality of those interventions, which is, must have been crazy at the time.
+
+This is a totally new type of thinking, ostensibly, that Derrida, Foucault, and Deleuze, you know, staked out.
+
+And I'm thinking like, at this point, diff, like an emphasis on difference generally, you know, where you're like, we need to cultivate an attunement to difference rather than, you know, just living within the categories of identity.
+
+That general claim does not feel as radical today as it did then, to me at least.
+
+Like where it's like, it's just like, because obviously, I mean, obviously you're right, because Apple has a fucking ad campaign that is think different, right?
+
+Like, I mean, it's a, it's a slogan.
+
+It's a, it's a mantra now.
+
+Like, and we all know, like, be attentive to the other is just every single scholarly article says that.
+
+Right, right.
+
+But that doesn't mean that it's necessarily like lost this, to me, those are just different kinds of projects.
+
+So you can take a slogan of Derrida's or anybody's and make it into a mantra for what I would call a humanist project, right?
+
+Like, as Heidegger pointed out with, you know, like in our, the last episode of the last season that any of these can become slogans.
+
+Right.
+
+And they have to be able to, they have to be able to do that.
+
+There's nothing that can prevent, and there's nothing that should prevent that from happening.
+
+You know, it's like, yeah, they can.
+
+But consider the way, consider the way that both difference and play tend to circulate.
+
+And I would say that, you know, I mean, I think that you were saying this anyway, Nate, but I don't think that Deleuze, Foucault, Derrida sort of introduced the, or stake out the question of difference so much as they sort of like amplify or emphasize or, sorry, hold on.
+
+Well, they popularize it in some sense too, I would think, right?
+
+That's one of the, one of the effects for sure.
+
+But, but I mean, I, like for instance, here's one of the things that I can see as a difference is that there's, I mean, even with Kant, who I don't know very well, but there is an interrogation of the premises of, of humanism, right?
+
+Like of reason, right?
+
+Like how does reason work?
+
+What are the conditions?
+
+Are the conditions of reason themselves rational, right?
+
+Like, um, so those interrogations of humanism are, have been going on as long as humanism has been going on.
+
+Um, and again, I think also with Plato.
+
+So to me, this, like, that's sort of what theory, philosophy, again, depends on your disciplinary location for which term you use, but that's what it is.
+
+That's what it has always been is an interrogation.
+
+It has never simply been an advocacy, right?
+
+Like, I, I can't think of any thinker that we would put in this who's simply like, except for maybe like Habermas, you know?
+
+Yeah.
+
+Or like object oriented ontology people or something like that.
+
+But I think even the object oriented folks, like, I mean, I have to say, I have a distaste for, uh, that sort of disposition, but like I, what I read in them is they're, they're activating a certain dimension of Heidegger and, and branding it as their, their new thing.
+
+Um, and, and so, yeah, I have a little bit of resentment towards like, why are you fucking branding it as a new thing?
+
+It's just like, and that, but if I eliminate my sort of resentment, like that, that resentment on my part is just based on the market share that it acquires.
+
+Right.
+
+And it's like, if nothing else, I feel like the better lesson to learn is fucking brand your thing.
+
+Right.
+
+Like come up with cool.
+
+Like for instance, here's a word that didn't hit.
+
+Grammatology.
+
+Right.
+
+Like he invested a lot in that term becoming the term and what term became the term?
+
+Difference.
+
+Cool.
+
+All right.
+
+So that's my brand, right?
+
+Like I'm going to write about and explain, I'm going to give a talk and write an essay that defines what difference is.
+
+I'm not afraid of that.
+
+I'm not be like, I'm not simply going to say, well, you can't really define difference.
+
+I'm going to show in very grave detail how the active definition, you know, works and undoes itself as it works.
+
+So it's like, okay, I'm committing to the notion of that's a kind of capitalist undertaking, right?
+
+Like, and, and an undermining of the capitalist undertaking at the same time.
+
+Right.
+
+It's not, it's not simply Marxist, but.
+
+Yeah.
+
+I mean, but he never, he never stops complicating the definition though.
+
+I mean, I agree.
+
+It's, it's a branding operation.
+
+But it's like one that is so complicated that at least within the context of Derrida's writing itself, like it doesn't really lend itself to, to slogans until you get to the sloganizing of Derrida.
+
+Now I'm not saying like everybody who takes up Derrida is just simply branding their project and moving forward from there.
+
+But it seems like the problematic itself gets neutralized in some discourses today.
+
+Like it gets repeat, it gets repeated and it gets banalized simply through its repetition.
+
+I agree.
+
+But it also is motivated in service of other kinds of projects, right?
+
+Like you can take a dimension of Derrida and thought, you know, a movement around the notion of the trace, for instance.
+
+I recently had to review a manuscript that uses Derrida's concept of trace.
+
+And what this does is it says the trace is the cause for whatever.
+
+And it's like, no, that's like Derrida is very insistent upon that point.
+
+That the whole reason for the concept of trace is that it's not a cause that produces the effects of different.
+
+We call difference, like we can only see the effects of difference.
+
+But when we say that, we immediately bring in a notion of causality that is itself a problem.
+
+But that second part of the thing is lost on this person writing this manuscript who is just like the trace is the origin and cause.
+
+It's theological, right?
+
+Like they map it back into a theological spectrum.
+
+I totally get how that's done.
+
+It totally makes sense to me that it's done.
+
+It's called, it says that it's done in the spirit of Derrida.
+
+And it's not wrong, right?
+
+Like, and so it's just, again, it's kind of like which Derrida, right?
+
+Like the which Hegel question.
+
+Like that's, to me, when it gets to that point, none of these thinkers is anything.
+
+Yeah.
+
+Right?
+
+So precisely for that reason, I mean, like go back to the concept of play.
+
+You know, there's the sort of like the response or the stylistic of play.
+
+And, you know, in many ways, you know, the point, I mean, Derrida doesn't seem to be making the point, go off and play, go off and be ludic.
+
+It seems more that play is a...
+
+The condition.
+
+Yeah, is a, you know, a condition of the very possibility of something like conceptuality.
+
+Like play is a condition of the possibility of something like sincerity.
+
+And in fact, sincerity, nostalgia, labor are all themselves styles of play in that they sort of like, like they run themselves out and like along a different, like a differential route and make and remake, you know, things in the, in their path.
+
+So like we have to, in some ways, I think, differentiate between two senses of play.
+
+Like one is that structural dimension of play that is unavoidable, even in its perceived, you know, oppositions.
+
+And then another more like stylistic play as an orientation that, you know, John, you seem to be saying, you know, I, I, like, is the, is the, is the kind of playlist.
+
+I don't want to listen to the nostalgia track.
+
+I don't want to listen to the heavy metal labor.
+
+I don't want to listen to, you know, I, you know, I want some, I want Calypso.
+
+But to me, like we have to differentiate between those two senses of play.
+
+And, and, you know, my presumption is that Deleuze sort of, you know, gives you that, that, that playlist in a way that Derrida just shows you that you have to pull your list.
+
+Right, right.
+
+And that the list is our, like the playlist of play is our, is itself made up.
+
+Like the very distinction you made between two senses of play is a product of play.
+
+So, yeah, like I, I agree the most rigorous scholastic fucking Spinozistic argument of axiom, theorem, whatever, is as much a demonstration of the play of difference as some sort of ludic, you know, like Derridian sort of play on words.
+
+Right.
+
+And, and to be quite honest with you, that's why I don't like the word play.
+
+Right.
+
+Like I, I don't like, I don't like the word labor, but I don't like the word play either.
+
+Like I like dance.
+
+Right.
+
+Like, I mean, I, I, or music or whatever.
+
+Like to me, those are, those terms, again, they just sort of hook, hook better for me and they don't bring them because play brings with it that sort of sense of like, oh, let's go do, uh, you know, let's go do something fun.
+
+And it's like, no, no, no, this is play is the condition for like the most focused, narrow, you know, uh, well-structured essay as much as it is panorama, you know, so the conceptual plot, I mean, that, and to me, like, this is what, this is what Derrida is just absolutely fucking extraordinary at, right?
+
+Like the, the sort of careful and meticulous movement through both the dance steps and the undermining of the conditions of the dance steps.
+
+And, and yet it's still like extraordinary to witness.
+
+For me, it's just extraordinary.
+
+Like, again, it's, it's just like lines of thinking when we, if we call them a playlist, it's, that's, it just feels so external in that sense of like, hey, I play this music and I feel good.
+
+And this is more like, what is the, what is the means of thinking that allow, like this allows my, my body, my brain to like, to head in directions that those other things don't.
+
+Um, but this is what, like Derrida's style of play, I don't see, I, I very rarely find anything ludic about Derrida's writing.
+
+And in terms of its sort of like humor, I, it's generally, you know, quite dry, you know, like his jokes.
+
+But, but like his style of, of play seems to be one of, you know, absolute commitment to rigor without mastery, which is, you know, like, I mean, you know, you're right.
+
+He's not fun with puns at all, but he is constantly sort of like, as he traces a, um, uh, a term, a binary, a dynamic or whatever else, like he's constantly finding these juncture points, you know, like, like the traces of sort of like past interaction of forces, you could say.
+
+Um, or like residues of interactions of forces.
+
+Uh, and then like, just literally, he's just taking a thread and then following it to its next knot and finding three other threads that attach to that.
+
+That's right.
+
+And like that work is sometimes funny, sometimes it's clever, sometimes it's witty, but like, it doesn't seem to be Derrida's imposition of some kind of prior humor or like ludic sensibility so much as it is just like sometimes following the thread is fucking funny.
+
+I mean, I think it's also just his style of writing too.
+
+I mean, a lot of it feels like improvisation in the, in the moment, like where he moves from one paragraph to the next or makes these qualifications.
+
+It almost feels like the best first draft that somebody could come up with because there's not this, it's not a package, right?
+
+Where you get the neat thesis statement and then the repetition of the thesis statement at the end.
+
+I mean, he's literally following his train of thought and then complicating it each and with each and every turn.
+
+So you, you get a sense for his movement of thinking like in real time, like you can see where he made the realization or the kind of intuition and then follows up on it in the actual place where he made that, like, at least it feels almost.
+
+But that's exactly why I don't find his, his writing to be so propositional because like when you are sort of following that sort of stream of consciousness, one of the sort of, you know, revision moves as a, you know, in composition is then to take take those moves out so that what is rewhat remains is just sort of like the positive claims that one has, you know, like positioned in there.
+
+So it's like, you know, me and my thinking have been left out and only, you know, like the knowledge has gotten there.
+
+And then, you know, there's transitions between the logical steps, but it's all been filtered.
+
+And, and you're right.
+
+I think that Derrida doesn't, he doesn't run it through a purifying filter that the, the, the, the rigor is all imminent, like to, to the movement of thinking itself.
+
+So the moves are what matter and any given proposition is, you know, like valuable only insofar as it gestures you off to the next thing.
+
+Right.
+
+So just to, I mean, like that's all on the first paragraph.
+
+Like I must stay here now that today's discourse will be less a justification of, and even less an apology for this silent lapse in spelling than a kind of insistent intensification of its play.
+
+Yeah.
+
+Like that's, that's what this is going to be.
+
+I'm just going to like, I'm going to write for a while.
+
+I'm going to think through the various movements.
+
+But I really like, there's a point that has really, really stuck with me over the years.
+
+Well, John, can I just read the next little bit there, like that, that language of the sheaf, which, you know, it's just turning to a Middle English.
+
+But see, that's the thing, that's the thing that he does all the time.
+
+He takes obscure esoteric etymological terms and shows that they're like absolutely central to any way of thinking about anything.
+
+Which, which could be anything, right?
+
+But it's just that it's sheaf, right?
+
+The blow in Plato or whatever, like it's always just this word that, yeah.
+
+Well, but that one makes more sense because that one is so interestingly attached to the mark of the writing, the, like this one, like as far as I can tell, the sheaf is just like a bundle of corn or a bundle of grain.
+
+And then, you know, sort of it gets generalized out to like a bundle of, or assemblage of anything.
+
+But it's like, I insist upon this word sheaf for two reasons.
+
+On the one hand, I will not be concerned as I might have been with describing a history and narrating its stages, text by text, context by context, demonstrating the economy that each time imposed this graphic disorder.
+
+Rather, I'll be concerned with the general system of this economy.
+
+On the other hand, the word sheaf seems to mark more appropriately that the assemblage to be proposed has the complex structure of a weaving and interlacing, which permits the different threads and different lines of meaning or of force to go off again in different directions, just as it is always ready to tie itself up with others.
+
+I love that phrase because it gets around the problem of, like, you know, systemic order as opposed to chaos, where like either there's an archie that sort of like top-down directs and organizes or from the middle out organizes the body around it, or it's just the chaos of relationships.
+
+Like, like, in this notion of a weaving, an interlacing, like, there are, it's more like a heterogeneous collection of logics of organizational forces that, like, it's only, like, this, you know, this line takes and appropriates that line and organize it in relationship to itself, which only then means that it has the potentiality to connect to other things according to different logics or being, or it makes itself more or less vulnerable to be taken up by different threads in different logics.
+
+Like, it's more likely to get picked up by these kinds of things and less likely to get picked up by these other kinds of things.
+
+And so, like, that's not chaotic, but it's certainly not governed by a transcendental logic either, which is why that, you know, like, and the very movement, the very sort of, like, evolutionary, you know, mutation of this sheaf of this assemblage of things.
+
+Like, it has a history, and, like, I mean, not a history, but, like, it has histories, and, like, but it's certainly not chaotic.
+
+Lost my train of thought there for a second.
+
+It reminds me, I mean, for me, the concept that has always helped me think that is in the Rhizome chapter for Deleuze, where he says the notion of ontological multiplicity is not a given.
+
+It's a constructivism, which is multiplicity has to be made.
+
+It's not just there, you know, it's like, but that's all that's ever getting produced, right, is multiplicity is a production.
+
+You know, you have to be careful with each of those words.
+
+It's not just out there in the world, right?
+
+I mean, so that's kind of a key part of both Deleuze's and Derrida's project, right?
+
+Like you were saying with somebody who took up the trace as kind of an ontotheological principle and origin, where it's explicitly not that.
+
+And it's the same in Deleuze.
+
+Assemblages are made, right, constitutively, which is a difficult thing to think, obviously.
+
+It's a very difficult thing.
+
+Like, I understand why the guy wants the ontotheological, because he then has an argument, which is, ah, I figured out the origin for all of these differences, and it is the trace.
+
+And it's like, you know, yes and no, right?
+
+Like, that's the only answer.
+
+And in fact, the trace is the condition of possibility for thinking origins.
+
+So it's like, it diagnoses the simplified interpretation of itself.
+
+Yes, it does.
+
+And enables.
+
+Like, it produces that.
+
+So that, and that's, I mean, to me, that's deconstruction in a nutshell, right?
+
+Like, it's both, the condition of possibility is simultaneously the condition of impossibility, right?
+
+Like, it's right there in the kind of, quote-unquote, misreading of Derrida's trace as an origin.
+
+Well, yeah.
+
+And the reason it's not, no, go ahead.
+
+Sorry.
+
+I was just going to say, I like this schemata as well, because it helps really situate something like a, like, systemic, logical, you know, based off of the logic of identity thinking.
+
+Like, that sort of archaic style transcendent thought, which, you know, you could not say is opposed to this multiplicity to this, this weaving, this interlacing of sheaves, whatever else, is that it has to, like, if multiplicities are built, so are homogeneities.
+
+Right?
+
+So, you know, like, I mean, I think you could point to any sort of binary, you know, man, woman, nature, culture, whatever, whatever.
+
+And it's like, you know, it's a particular alliance, it's a particular sort of, like, interweaving of a few different threads that then starts to, like, replicate itself.
+
+It starts to replicate everything else around it in its image.
+
+And what I really like about Derrida, maybe even more than Deleuze in this sense, is that he, like, he will follow the movement of any one of those sort of archaic alliances and follow them until they become unrecognizable to themselves.
+
+To the point where, like, they cannot achieve any kind of stability.
+
+And we think of them as these, like, stable-making devices.
+
+But they're really much more like cancers.
+
+Performative enactments.
+
+Performative enactments that, you know, like, it doesn't even make sense to think about them as having some kind of intention of stabilizing.
+
+It's just more like it's a direction, it's a style of moving in a direction that has no end.
+
+That will, you know, like, any part of the path will look unrecognizable to any other part of the path without doing a whole lot of, you know, very, very careful tracing of, you know, how, you know, like, one moment of man-woman, you know, is connected to another moment of man-woman.
+
+Because we all know that, like, there are moments of man-woman that look unrecognizable, you know, to each other.
+
+I mean, I would just say, like, the operation of stabilization in that sense is simply an operation of not paying attention and not thinking.
+
+That's all it is.
+
+And we do that all the time.
+
+I mean, that's where, you know, that actually returns me to the thing that I really like in the first paragraph that has really stuck with me, oddly, more than anything else in this essay.
+
+So he's talking, you know, I will speak, therefore, of this initial letter A, and then a few lines down.
+
+One can always de facto or de jure erase or reduce this lapse of spelling and find it grave or unseemly.
+
+That is to follow the most ingenuous hypothesis in music.
+
+So here are a series of ways of reducing the spelling mistake, just like, you know, finding it grave or, like, unseemly, like, oh, that's just so...
+
+Or finding it funny and clever.
+
+So that's, to me, like, finding it funny and clever is as much a means of reducing it as finding it inappropriate or unacceptable.
+
+Like, and because I'm always on the clever side, right?
+
+Like, and I'm like, oh, he's calling me out for finding it clever.
+
+Thus, even if one seeks to pass over such an infraction in silence, the interest that one takes in it can be recognized and situated in advance as prescribed by the mute irony, the inaudible misplacement of this literal permutation.
+
+So even the action of reducing is itself a deployment of the relation.
+
+And then this is, it's like, one can always act as if it made no difference, right?
+
+Like, and I return to that all the time.
+
+Like, that has so stuck with me.
+
+Like, one can just ignore it.
+
+Like, one doesn't have to write an essay.
+
+One doesn't have to, like, one can ignore any part of it that one wants.
+
+And that's, like, that's the condition.
+
+Like, one cannot think about this anymore.
+
+One can find it clever.
+
+One can find it annoying, but one cannot think.
+
+That's always an option on the table for any distinction.
+
+That not thinking, that not following through, that, you know, whatever you want to call it, is not itself a stagnation, right?
+
+That's right.
+
+That's right.
+
+Because, you know, that is, you know, if we're going to take it seriously, that is a response, then it's an inventive response.
+
+It changes the thing.
+
+It does something, right?
+
+Like, even if it's a calcification or homogenization or whatever, it's a doing something.
+
+One part of the apparatus gets a little bit knotted up, a little bit tighter, and everything else has to respond to it.
+
+Right.
+
+So, it's, like, that said, one can always act as if it made no difference.
+
+And also, the next line, because I've written sentences like that in some of my things before.
+
+It's, like, and there's nothing wrong with that, right?
+
+There's not, like, there's no reason that one can offer to say that one should think more or that one should, you know, like, there isn't.
+
+There is just, you do it or you don't do it, right?
+
+Like, you know, there's no reason why this guy should read deeper on the trace.
+
+There isn't.
+
+Like, I can't, I mean, whatever.
+
+There are different styles, and so I can say that.
+
+I can say, like, well, your reading of the trace ignores this, you know, the complications and whatever.
+
+And that's what we do.
+
+That's what a, sort of, dialogue between different styles or confrontation of different styles, that's what it is.
+
+But it's not, like, there's not, like, some transcendent reason why he's getting Derrida wrong and that's a problem.
+
+There just isn't, you know.
+
+And that's actually where, for me, that's where I, sort of, go more towards Deleuze.
+
+Because I do feel like, for Derrida, there is a sense of, he will say, like, a certain Hegelianism and a certain Heideggerianism and a certain, it's, like, he does seem to think that there is, that, for instance, the death metal can't just be changed into the calypso.
+
+That there's still something death metal-y there.
+
+And I'm like, I don't think that there is something death metal-y there.
+
+Like, it's death metal for me, and I don't know how to hear it as calypso, but I believe it's possible.
+
+Like, I believe that you can give me a Hegel that doesn't have a dialectic, for example.
+
+Well, the other way of hearing that, the other way of hearing that isn't that it's, you know, there's something essentially, you know, death metal about it, but that the passage, you can't just make it.
+
+Like, I can't just, like, make it by declaring it.
+
+Right, that's right.
+
+I agree with that.
+
+It has very particular lines of communication.
+
+Like, calypso and death metal have very particular lines of communication.
+
+That's right.
+
+And, you know, like, the play that would be required for that line of transformation would, you know, have to be pretty precise.
+
+Have to make it.
+
+That's right.
+
+You'd have to make it.
+
+You'd have to assemble it.
+
+You'd have to produce it.
+
+But it can be done, which is why I have no problem with the idea of Žižek shows you a Hegel that's all about absolute contingency.
+
+Now, I think probably the distinction is Nate, at some level, goes, well, that's the right Hegel, right?
+
+And it's like, no, that's not the right Hegel.
+
+That's a more interesting Hegel.
+
+That's a Hegel that can allow you to do other kinds of things.
+
+But to me, like, the fact of Hegel being contingency boy is totally unsurprising to me and more interesting.
+
+It makes my reading of Hegel, like, more compelling in the ways that I think the relationships among many of these thinkers are more compelling.
+
+So, therefore, I'm all for it.
+
+But it's not because I feel like we got Hegel right.
+
+I mean, I wouldn't argue, at least outright, that there's a correct reading.
+
+I don't even know what that means, by the way.
+
+Let me just say, I don't even know what it would mean to say getting Hegel right.
+
+Well, I wouldn't either.
+
+I mean, there's too many, there's too much, I mean, for me, there's too much complexity in Hegel to simply, in any writing, in any author, there's too much diversity in Derrida to simply say he's a materialist rather than a linguist, you know, any of those kind of strict assertions.
+
+I mean, the only thing I would say is that against the French tradition, which had viable political reasons to go against Hegel, there is a different Hegel.
+
+And oftentimes, you need a straw man for a project.
+
+Well, it doesn't have to be a straw man.
+
+Straw man implies that there is a more complex, fuller something behind the thing that one is attacking.
+
+It's not a straw man.
+
+It's just Hegel.
+
+Yeah, just using Hegel as a figure for a dangerous kind of thinking is sort of the shared project of Derrida, Deleuze, and Foucault.
+
+Now, they all have kind of different ways of dealing with it.
+
+Like, Derrida, for example, wants to pass through Hegel in a sort of Aufhebung of the dialectic, where he kind of intensifies it and reads Hegel carefully, warns of the danger of Hegel, and ultimately wants to do something else.
+
+Whereas with Deleuze, Hegel represents the most dangerous ethical and political kind of thinking or kind of living, and that needs to be completely eradicated.
+
+Right?
+
+So it's a more— No, no, no.
+
+In Nietzsche—no, no, no.
+
+But I'm saying, like, it's a more polemical response, which serves different purposes.
+
+I'm not critiquing Deleuze here.
+
+I'm just saying the way he mobilizes Hegel, Hegel is the enemy.
+
+I mean, at least in, like, Nietzsche and Philosophy.
+
+Right.
+
+Hegel sees Nietzsche seeing—or Deleuze sees Nietzsche seeing Hegel as the enemy.
+
+I mean, I agree with that.
+
+Right.
+
+But in that sense, I mean, you know, it's always more complicated than that, and the relationships among them, even in that book, are not simply opposed to Hegel.
+
+And that's where I think it's really great, like, what he says about negative theology, you know, you gave that example, Nathaniel, is really great.
+
+It's like, look, there will be times where—what does he say?
+
+It approximates negative theology to the point of being indistinguishable, right?
+
+Yeah, this is on page six.
+
+Right.
+
+So it will—so much so that the detours, locutions, and syntax in which I will take recourse will resemble those of negative theology, occasionally even to the point of being indistinguishable from negative theology.
+
+You know, and that's, to me, that's a big claim.
+
+In other words, like, I'm not simply different than this thing that differentiates me.
+
+And there are places in this discourse where it's just—it's going to be like that.
+
+I am trying to do some— Right.
+
+I'm trying to do something else other than that sort of sense of super-essentiality of God.
+
+You know, I'm trying to do something else.
+
+But there's nothing about, like, one can always pretend that it makes no difference, right?
+
+One can always act as if, not pretend.
+
+And yet, those aspects of difference, which are thereby delineated, are not theological, not even in the order of the most negative of negative theologies, which are always concerned with disengaging a super-essentiality behind the finite categories of essence and existence, that is, of presence, and always hastening to recall that God has refused the predicate of existence only in order to acknowledge his superior, inconceivable, and ineffable mode of being.
+
+Such a development is not in question here, and this will be confirmed progressively.
+
+Difference is not only irreducible to any ontological or theological-ontotheological reappropriation, but as the very opening of the space in which ontotheology, philosophy, produces its system and its history.
+
+It includes ontotheology, inscribing it and exceeding it within return.
+
+I mean, that's a pretty key difference is, like, at least in its most common understandings, a negative theology is basically trying to say, like, look, the finitude of all of these concepts fail to get at the super-essentiality of God.
+
+It's like, you know, it's like, we're not just, this is the ontological distinction, is that, like, God is the beingness of being, not just, like, a particular being.
+
+So we can only negatively approximate it by sort of, like, you know, using our finite concepts to, you know, gesture toward this super-essential being.
+
+And one gets, and from that, one gets all of the nostalgia of Heidegger, one gets, you know, like, everything, the desire for meaning, the desire, like, all of that stuff is, but that's where, to me, that sentence is so great.
+
+Like, I wrote a similar sentence in the definitions of rhetoric thing, which is, difference is not only irreducible to any ontological or theological reappropriation, but it is only materialized through its, through those reappropriations, right?
+
+Like, in other words, it's irreducible to them, and it's not troubled by that fact, right?
+
+Like, it's, so it doesn't matter whether you can, and in fact, you can only have, you would say, you can only have ontological and theological reappropriations, right?
+
+Well, that's such a key, that's such a key part of this definition of difference that I feel like is often lost in its appropriation or interpretation, where it's like that dual, it's not only the condition of possibility for life in general.
+
+For God, for God, for the essence of things, it's also the condition of possibility for thinking the essence, which is, that's the only way you get to the thing, right?
+
+So it's like, all of the attempts to locate, difference, or trace as not just a category, but as an ontological thingness, right?
+
+It forgets that second part where it's like, no, no, no, it's also caught up in this movement of appropriation.
+
+It's not the single...
+
+But I want to insist on this for you, Boo-Boo.
+
+It can't not forget that.
+
+There's no option of keeping that in mind, right?
+
+It has to forget that, because that's not something that is a present thought that one can maintain.
+
+It's not like, you know what I mean?
+
+Like, the fact that it's constantly failing is the sign of its success.
+
+Right.
+
+Yeah, yeah.
+
+I mean, it wouldn't be a failed interpretation, like, to say that the trace is originary.
+
+And it's not wrong, right?
+
+No, no, it's not wrong.
+
+You know?
+
+Because, I mean...
+
+I mean, the thing that I end up thinking in regard to that is, it just goes in kind of predictable directions, and I understand how that thing works, and it's not very interesting to me.
+
+That's the best that I can mobilize.
+
+But that doesn't mean it's not interesting to other people and doesn't do lots of really cool work, and that someone else can actualize a differential component within those things, of course.
+
+Right, right.
+
+But to me, you know, the logic of difference can easily...
+
+I mean, this is why, to return to what we were talking about before, one of the reasons, and I think this is big, and I had a hard time with this for years, why Derrida insists that we not attempt to save Nietzsche from the Nazi appropriations, which is what Heidegger attempts to do, right?
+
+And he's like, no, it's really important that he's not simply capable of, but was appropriated that way, right?
+
+Like, that's important, because he is also, that does, this line of thinking does also go there.
+
+It really, genuinely does.
+
+So it's not like, let's protect him from this thing by cordoning it off.
+
+I'll see you next time.

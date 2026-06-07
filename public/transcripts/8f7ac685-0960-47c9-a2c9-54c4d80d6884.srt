@@ -1,0 +1,4028 @@
+1
+00:00:00,000 --> 00:00:29,960
+ The authoritarian ethos clearly comes back in the section
+
+2
+00:00:29,960 --> 00:00:34,500
+ that we read for today of like, if you're not doing this way, right?
+
+3
+00:00:34,540 --> 00:00:37,540
+ Like you're doing, you know, common sense or inspiration,
+
+4
+00:00:37,820 --> 00:00:40,980
+ here are the things that, here are the ways that those things are just inadequate
+
+5
+00:00:40,980 --> 00:00:44,520
+ and they just won't work, which is really, by the way, a really weird,
+
+6
+00:00:45,180 --> 00:00:46,340
+ I mean, if you think about it, right?
+
+7
+00:00:46,360 --> 00:00:50,940
+ Like I understand he's trying to formulate a specifically philosophical thinking,
+
+8
+00:00:50,940 --> 00:00:55,300
+ but it seems like to that, to an extent, and maybe I'm now diving into,
+
+9
+00:00:55,420 --> 00:00:59,540
+ you know, sort of content conversations, but like every other way is wrong.
+
+10
+00:00:59,920 --> 00:01:04,120
+ For him, you know, it's just not gonna, it's not gonna do it,
+
+11
+00:01:04,160 --> 00:01:07,360
+ and it's not even part of the process, right?
+
+12
+00:01:07,400 --> 00:01:10,900
+ It doesn't even seem like, ah, okay, well, there's still a function
+
+13
+00:01:10,900 --> 00:01:15,740
+ that that religious intuition thing gives or that common sense gives
+
+14
+00:01:15,740 --> 00:01:16,600
+ or whatever else.
+
+15
+00:01:16,600 --> 00:01:19,760
+ It's like, no, those are just the wrong paths, you know?
+
+16
+00:01:20,260 --> 00:01:20,640
+ Yeah.
+
+17
+00:01:20,900 --> 00:01:22,800
+ The clever thinking is bad.
+
+18
+00:01:22,920 --> 00:01:25,240
+ I don't know if that's translated in your text as that.
+
+19
+00:01:26,340 --> 00:01:29,280
+ Representational thought is like the, seems to be the-
+
+20
+00:01:29,280 --> 00:01:30,480
+ Picture thought is what he calls it, yeah.
+
+21
+00:01:30,540 --> 00:01:31,200
+ Right, right.
+
+22
+00:01:31,580 --> 00:01:34,320
+ That's like the constant object of critique, it seems like,
+
+23
+00:01:34,360 --> 00:01:35,460
+ through this section as well.
+
+24
+00:01:35,840 --> 00:01:39,780
+ I mean, there are portions where he does, it's very brief,
+
+25
+00:01:39,780 --> 00:01:42,620
+ but where he notes that, like we mentioned last week,
+
+26
+00:01:42,800 --> 00:01:47,200
+ some of these kinds of thinking are, to an extent, inescapable,
+
+27
+00:01:47,420 --> 00:01:51,580
+ but you're still an idiot if you just only dwell there, right?
+
+28
+00:01:51,580 --> 00:01:52,460
+ If you stay there, right.
+
+29
+00:01:52,460 --> 00:01:52,960
+ Yeah, yeah.
+
+30
+00:01:53,040 --> 00:01:55,560
+ So it's like, picture thinking, representational thinking,
+
+31
+00:01:55,560 --> 00:01:59,900
+ it's vulgar, and it kind of affects all of us,
+
+32
+00:02:00,000 --> 00:02:03,180
+ but Hegel's like, well, I've gone past it, obviously.
+
+33
+00:02:03,520 --> 00:02:07,080
+ Right, but he doesn't make the move that he tells us you have to make,
+
+34
+00:02:07,160 --> 00:02:11,220
+ which is to say that those, you know, and he makes it on so many levels
+
+35
+00:02:11,220 --> 00:02:14,500
+ with so many other things of saying, so on the one hand, it's a dead end,
+
+36
+00:02:14,620 --> 00:02:18,120
+ but on the other hand, it's the thing that will allow you to get to the notion,
+
+37
+00:02:18,280 --> 00:02:18,920
+ right, you know what I mean?
+
+38
+00:02:18,920 --> 00:02:22,660
+ Like, he just doesn't do that when it's, when it's a question of his system
+
+39
+00:02:22,660 --> 00:02:27,880
+ and his, his version of science, he just does not think that, you know.
+
+40
+00:02:27,880 --> 00:02:32,560
+ I mean, some of these critiques are convincing to me and kind of prescient,
+
+41
+00:02:33,020 --> 00:02:39,720
+ like even maybe a little bit Foucauldian, if you, if you dig a little bit into it,
+
+42
+00:02:39,760 --> 00:02:46,380
+ like on 57, I don't know, it just, it reminded me a little bit of Foucauld's
+
+43
+00:02:46,380 --> 00:02:53,660
+ focus on the contingency of thought and his like sort of argument against the notion
+
+44
+00:02:53,660 --> 00:02:57,220
+ of a linear or progressive evolution of thinking.
+
+45
+00:02:57,660 --> 00:03:01,800
+ So instead of the diagonal, like progress up to the enlightenment,
+
+46
+00:03:02,300 --> 00:03:06,280
+ Foucauld argues to basically, or whatever, this is a reductive version,
+
+47
+00:03:06,520 --> 00:03:09,860
+ but that there are these ruptures and breaks that are kind of random
+
+48
+00:03:09,860 --> 00:03:16,360
+ and not a result of our genius, but just a result of like circumstances enabling us
+
+49
+00:03:16,360 --> 00:03:17,680
+ to think that way.
+
+50
+00:03:18,380 --> 00:03:23,120
+ And parts of Hegel's argument here, he doesn't say exactly that,
+
+51
+00:03:23,280 --> 00:03:28,940
+ but it sort of reminded me of that when he's critiquing representational thinking
+
+52
+00:03:28,940 --> 00:03:36,960
+ and that kind of, like just confidence in our own, the process of knowledge production,
+
+53
+00:03:37,480 --> 00:03:39,860
+ right, where, and that notion of progress.
+
+54
+00:03:39,960 --> 00:03:46,060
+ So this is where, I don't know, Hegel's notion of telos has to be like subtracted away
+
+55
+00:03:46,060 --> 00:03:49,300
+ from that really traditional notion that sometimes gets attributed to him,
+
+56
+00:03:49,720 --> 00:03:50,720
+ here at least.
+
+57
+00:03:50,940 --> 00:03:52,400
+ Where are you looking in 57?
+
+58
+00:03:52,400 --> 00:03:59,740
+ So right towards the middle, it goes, for that very reason, after, he says,
+
+59
+00:03:59,920 --> 00:04:02,400
+ it's truth does not lie in this narrative exposition.
+
+60
+00:04:02,740 --> 00:04:06,860
+ So truth is movement, and it's not explicitly articulated here,
+
+61
+00:04:06,920 --> 00:04:09,300
+ it's only in the movement of thinking.
+
+62
+00:04:09,420 --> 00:04:12,400
+ And then he goes, for that very reason, it is not in the least refuted
+
+63
+00:04:12,400 --> 00:04:16,580
+ by any assertion to the contrary, that the movement instead conducts itself
+
+64
+00:04:16,580 --> 00:04:20,180
+ in this or that way, or by calling to mind common conceptions
+
+65
+00:04:20,180 --> 00:04:22,440
+ as if they were truths, both settled and familiar,
+
+66
+00:04:22,740 --> 00:04:26,260
+ or if something new is also served up and combined with the assurance
+
+67
+00:04:26,260 --> 00:04:30,220
+ that it flows forth from the shrine of inward divine intuition.
+
+68
+00:04:30,860 --> 00:04:37,080
+ And then he goes on about, like, how this is a reactionary kind of approach
+
+69
+00:04:37,080 --> 00:04:41,660
+ to knowledge production, where, do you get alien authority?
+
+70
+00:04:41,920 --> 00:04:44,420
+ Is that in your translation later in that paragraph?
+
+71
+00:04:44,420 --> 00:04:49,460
+ Yeah, but the reception of this case is it resists it in order to save its own freedom,
+
+72
+00:04:49,580 --> 00:04:52,180
+ its own insight, its own authority from the alien authority,
+
+73
+00:04:52,640 --> 00:04:55,500
+ for this is the guise in which what is newly encountered first appears.
+
+74
+00:04:55,500 --> 00:05:00,600
+ So if alien authority is a name for some kind of contingency
+
+75
+00:05:00,600 --> 00:05:03,920
+ that's being suppressed by traditional thinking,
+
+76
+00:05:04,700 --> 00:05:08,860
+ then Hegel wants to in some way embrace that alien authority
+
+77
+00:05:08,860 --> 00:05:12,580
+ rather than simply, you know, ignoring it or resisting it.
+
+78
+00:05:13,160 --> 00:05:16,240
+ And to me, this is, it's kind of vague,
+
+79
+00:05:16,320 --> 00:05:20,220
+ but it works as a critique of a traditional representationalist,
+
+80
+00:05:20,280 --> 00:05:24,900
+ progressive, teleological form of thinking.
+
+81
+00:05:25,320 --> 00:05:26,180
+ Yeah, I see that.
+
+82
+00:05:26,340 --> 00:05:28,660
+ The line that I love right there is the,
+
+83
+00:05:29,120 --> 00:05:31,400
+ and to get rid of the appearance that something has been learned
+
+84
+00:05:31,400 --> 00:05:33,800
+ and of the sort of shame that this is supposed to involve.
+
+85
+00:05:34,060 --> 00:05:35,380
+ I thought that was just such a,
+
+86
+00:05:35,640 --> 00:05:39,000
+ I had never really had that thought before that learning is a shameful thing
+
+87
+00:05:39,000 --> 00:05:41,440
+ because it's an acknowledgement that you didn't know it before.
+
+88
+00:05:42,100 --> 00:05:42,460
+ Exactly.
+
+89
+00:05:43,540 --> 00:05:49,100
+ And, and yeah, like, I mean, there, to me, it's like old ideas and new ideas,
+
+90
+00:05:49,240 --> 00:05:52,380
+ you know, are not the solution here, right?
+
+91
+00:05:52,440 --> 00:05:55,320
+ Like, cause I mean, there's sort of still ideas, right?
+
+92
+00:05:55,320 --> 00:05:59,560
+ They're still stuck in that form of relation.
+
+93
+00:06:00,080 --> 00:06:03,580
+ And, and this is the question that I wanted to raise to you guys,
+
+94
+00:06:03,580 --> 00:06:06,600
+ because I just, you know, I just, maybe I never got this training
+
+95
+00:06:06,600 --> 00:06:08,940
+ or maybe I didn't pay attention or something like that.
+
+96
+00:06:08,940 --> 00:06:14,400
+ But like, as a version of idealism, like Hegel's is ideal,
+
+97
+00:06:14,520 --> 00:06:15,800
+ Hegel's an idealist, right?
+
+98
+00:06:15,820 --> 00:06:20,700
+ I mean, he's part of that idealist trajectory or, you know, terminology.
+
+99
+00:06:21,580 --> 00:06:23,460
+ And I mean, here I see it, right?
+
+100
+00:06:23,500 --> 00:06:27,600
+ I see he, he is locating agency in the thinking, right?
+
+101
+00:06:27,740 --> 00:06:31,660
+ But this is an idealism that seems to me way, way different than Plato's,
+
+102
+00:06:31,740 --> 00:06:34,060
+ who I would be, who I would think of as the other figure,
+
+103
+00:06:34,060 --> 00:06:37,080
+ where Plato's is effectively saying, that's the real,
+
+104
+00:06:37,280 --> 00:06:38,840
+ that's where the real shit happens.
+
+105
+00:06:39,360 --> 00:06:41,520
+ This, all this other stuff is just not real.
+
+106
+00:06:42,220 --> 00:06:44,780
+ I don't get that sense from Hegel at all.
+
+107
+00:06:44,880 --> 00:06:47,080
+ Like I, I just, but I do get the sense.
+
+108
+00:06:47,180 --> 00:06:50,500
+ And that's where, for me, I was like, I love thinking of,
+
+109
+00:06:51,000 --> 00:06:53,580
+ thinking of thinking as having its own agency.
+
+110
+00:06:53,900 --> 00:06:56,240
+ That's not a human agency, right?
+
+111
+00:06:56,240 --> 00:06:58,540
+ That's not just subject to my desires.
+
+112
+00:06:58,640 --> 00:07:01,780
+ Like thinking wants certain kinds of things, or in this case,
+
+113
+00:07:02,120 --> 00:07:05,280
+ thinking resists certain kinds of, it resists new stuff
+
+114
+00:07:05,280 --> 00:07:08,580
+ because it's uncomfortable, you know,
+
+115
+00:07:08,660 --> 00:07:12,760
+ with like the shame that would come from realizing like,
+
+116
+00:07:12,840 --> 00:07:15,140
+ I'm not already everything, you know?
+
+117
+00:07:15,240 --> 00:07:18,180
+ And, and I like that, that sort of personification
+
+118
+00:07:18,180 --> 00:07:23,760
+ of thinking to me is an appealing way of thinking of idealism.
+
+119
+00:07:23,920 --> 00:07:27,160
+ But I've always, you know, been trained to hate idealism,
+
+120
+00:07:27,340 --> 00:07:28,560
+ you know, I guess.
+
+121
+00:07:28,720 --> 00:07:31,960
+ And I'm like, but, but it, that component of idealism,
+
+122
+00:07:31,960 --> 00:07:35,060
+ which is that thinking has its own, like I said,
+
+123
+00:07:35,120 --> 00:07:37,780
+ thinking has its own agency, its own apparatus,
+
+124
+00:07:37,780 --> 00:07:40,580
+ and even desire, right?
+
+125
+00:07:40,640 --> 00:07:46,700
+ Like that version of idealism is very much anti-humanist, right?
+
+126
+00:07:46,740 --> 00:07:51,800
+ Or, or it can be, you know, that it's, it's not about a person.
+
+127
+00:07:51,940 --> 00:07:52,800
+ He's not talking about a person.
+
+128
+00:07:52,860 --> 00:07:57,120
+ He's like, no, thinking experiences a shame when it has to learn.
+
+129
+00:07:57,720 --> 00:08:01,700
+ You know, it's not that a person experiences shame when it has to learn.
+
+130
+00:08:02,200 --> 00:08:06,000
+ Yeah, yeah, I mean, framing thinking as sort of a pathology
+
+131
+00:08:06,000 --> 00:08:08,500
+ is, is an interesting route here.
+
+132
+00:08:08,720 --> 00:08:11,960
+ And it's like the, like you said, the personification of thinking,
+
+133
+00:08:12,140 --> 00:08:15,640
+ that's a dethroning of the subject in some way.
+
+134
+00:08:16,260 --> 00:08:21,420
+ So, subjective authority, that's not where knowledge comes from, for Hegel.
+
+135
+00:08:21,700 --> 00:08:26,500
+ That's a traditional humanist, like, version of knowledge production or whatever.
+
+136
+00:08:26,840 --> 00:08:31,340
+ But for Hegel, knowledge is sort of imposed on you as like,
+
+137
+00:08:31,340 --> 00:08:33,480
+ I don't know, it's some, it's something compulsory.
+
+138
+00:08:33,720 --> 00:08:37,840
+ That's something that you go after, but you don't have control over it.
+
+139
+00:08:38,760 --> 00:08:42,840
+ It's sort of a, I don't know, it works more in the vein of,
+
+140
+00:08:42,840 --> 00:08:47,060
+ like, Foucault's notion of a, of a cultural demand or imperative.
+
+141
+00:08:47,300 --> 00:08:50,000
+ Well, and to that point, I mean, later,
+
+142
+00:08:50,800 --> 00:08:52,880
+ and you may not have gotten to this, Nathaniel,
+
+143
+00:08:53,080 --> 00:08:55,440
+ but this is really very interesting.
+
+144
+00:08:55,620 --> 00:09:02,720
+ In 69, for us on page 40, 43, where he's very clear that this kind of thinking that he's,
+
+145
+00:09:02,800 --> 00:09:07,120
+ the one that he's interested in, is not something that happens in an individual mind.
+
+146
+00:09:07,120 --> 00:09:10,400
+ It happens in, I mean, the, the translation here is like,
+
+147
+00:09:11,000 --> 00:09:16,140
+ it's, human nature only really exists in an achieved community of minds.
+
+148
+00:09:16,540 --> 00:09:20,520
+ The anti-human, the merely animal, consists in staying within the sphere of feeling
+
+149
+00:09:20,520 --> 00:09:22,840
+ and being able to communicate only at that level, right?
+
+150
+00:09:22,880 --> 00:09:26,520
+ Like, in other words, it's not, I mean, that's very explicitly says,
+
+151
+00:09:26,720 --> 00:09:30,360
+ this is not about an individual person's thinking.
+
+152
+00:09:30,680 --> 00:09:34,900
+ This, this thinking is, is a collective endeavor.
+
+153
+00:09:36,100 --> 00:09:41,060
+ Now, again, he's still saying my community is the good community and your communities suck.
+
+154
+00:09:41,240 --> 00:09:45,860
+ But nevertheless, it's still a, it's still, it is still thought at the level of the,
+
+155
+00:09:46,000 --> 00:09:51,360
+ of the group, you know, of, of individual humans, you know, is the, where, I mean,
+
+156
+00:09:51,700 --> 00:09:54,600
+ that's a, that's a, that's a really big claim, I think.
+
+157
+00:09:54,760 --> 00:10:00,020
+ Human nature doesn't exist in individual humans, right?
+
+158
+00:10:00,020 --> 00:10:05,160
+ It only exists in a collective community, in some kind of community.
+
+159
+00:10:05,340 --> 00:10:11,140
+ I feel like that's a, that's a pretty, I don't know, kind of provocative claim, I think.
+
+160
+00:10:15,700 --> 00:10:18,980
+ So a couple of things that I'm not quite sure how to stitch together here.
+
+161
+00:10:19,060 --> 00:10:23,640
+ But one, like, you, you, you compare the idealism of Hegel to that of, of Plato.
+
+162
+00:10:23,640 --> 00:10:28,760
+ And I think he's explicitly going after Plato here in a few places where he's talking about,
+
+163
+00:10:28,760 --> 00:10:34,560
+ like the, like the, like trying to make the ideal universalized and, and general.
+
+164
+00:10:34,560 --> 00:10:41,560
+ And he, in sort of like switching the predicate, um, uh, subject relationship, like he, he wants
+
+165
+00:10:41,560 --> 00:10:47,480
+ to suggest that quality is essence and that quality is not just an accidental property that
+
+166
+00:10:47,480 --> 00:10:51,460
+ is attributed to a more prior, like a prior and more universal.
+
+167
+00:10:51,900 --> 00:10:55,260
+ Which, by the way, can I interject one little thing there?
+
+168
+00:10:55,400 --> 00:10:57,920
+ Because I think this is, it throws a major fucking rub.
+
+169
+00:10:58,760 --> 00:11:04,640
+ His aversion to the accidental is going to have a, you, you know, if Zizek doesn't address
+
+170
+00:11:04,640 --> 00:11:10,580
+ that question, because that's a, that's an aversion to contingency, right?
+
+171
+00:11:10,580 --> 00:11:15,360
+ Like, in other words, the, the, the accident, what's considered here, the accidental and secondary,
+
+172
+00:11:15,360 --> 00:11:16,820
+ you know, but okay.
+
+173
+00:11:16,820 --> 00:11:17,700
+ So sorry, go ahead.
+
+174
+00:11:18,000 --> 00:11:20,940
+ No, it's because I think he's actually championing.
+
+175
+00:11:21,060 --> 00:11:24,820
+ I think he's championing a version of the accidental and the secondary.
+
+176
+00:11:24,820 --> 00:11:31,680
+ He doesn't like, he doesn't like thinking of the quality as merely accidental or secondary,
+
+177
+00:11:31,680 --> 00:11:34,080
+ which is the way that is traditionally thought, right?
+
+178
+00:11:34,080 --> 00:11:39,520
+ You have, you know, a necessary substance and then it has all these qualities that are accidental
+
+179
+00:11:39,520 --> 00:11:43,700
+ and secondary, you know, it's always red, but it could be blue, right?
+
+180
+00:11:43,800 --> 00:11:50,880
+ And he wants to inverse the primacy there and say that the quality itself is not mere accident
+
+181
+00:11:50,880 --> 00:11:59,800
+ and it's not, that, that it is substance and its substance is a unique configuration, right?
+
+182
+00:11:59,800 --> 00:12:04,980
+ It's not a representative of a, something universally transcendent, transcendent.
+
+183
+00:12:05,160 --> 00:12:11,620
+ It's a unique, it's a unique set of relations that are always inward facing, right?
+
+184
+00:12:11,800 --> 00:12:11,980
+ Yeah.
+
+185
+00:12:12,220 --> 00:12:20,460
+ And this is like, so in that sense, you would have, um, an embracing of contingency through
+
+186
+00:12:20,460 --> 00:12:28,680
+ its rejection of the accidental because the accidental in that sense would be, um, the thing that
+
+187
+00:12:28,680 --> 00:12:33,080
+ it doesn't allow for the form of contingency to take place.
+
+188
+00:12:33,460 --> 00:12:40,840
+ Accidental would be like happenstance and, and I think he's, I think he is doing away with
+
+189
+00:12:40,840 --> 00:12:44,180
+ that notion of contingency as sort of like an external happenstance.
+
+190
+00:12:44,260 --> 00:12:47,540
+ He just wants to get rid of that notion of accidentalness.
+
+191
+00:12:47,540 --> 00:12:54,420
+ And the way that I see contingency operating here is, is like a necessary contingency of
+
+192
+00:12:54,420 --> 00:13:02,820
+ the, um, of, of sort of like the negative construction of, of the self that, um, right.
+
+193
+00:13:02,900 --> 00:13:09,520
+ I mean, I mean, I mean, but that's an internal, that's not an external, so maybe that, that's
+
+194
+00:13:09,520 --> 00:13:13,860
+ the difference is that now again, his internal has come from encounters.
+
+195
+00:13:13,860 --> 00:13:18,400
+ So we, you know, we have to add that in, but it's an internal, uh, so, okay.
+
+196
+00:13:18,400 --> 00:13:24,260
+ So his contingency is always an interiorized rather than an external.
+
+197
+00:13:24,440 --> 00:13:29,560
+ I mean, there's a big difference is the privileging of interiority versus exteriority, you know,
+
+198
+00:13:29,680 --> 00:13:33,840
+ which has to be adopted because it's some, I mean, there's something about that internal
+
+199
+00:13:33,840 --> 00:13:40,120
+ organization that is, that is moving and it's always sort of like already folded into the
+
+200
+00:13:40,120 --> 00:13:40,620
+ outside.
+
+201
+00:13:40,920 --> 00:13:50,540
+ So it is by the, like, it's like the, like, you know, um, you know, the platonic, um, form,
+
+202
+00:13:50,760 --> 00:13:55,160
+ you know, the, the, the expression of self is its own stability, right.
+
+203
+00:13:55,360 --> 00:14:01,200
+ But here the, the expression of the self is its own undoing and it's the production of
+
+204
+00:14:01,200 --> 00:14:02,920
+ its own other, right.
+
+205
+00:14:02,920 --> 00:14:07,600
+ Which is why also like, I think that, you know, when he was talking about this alien
+
+206
+00:14:07,600 --> 00:14:11,900
+ otherness, you know, we often talk about, like, I mean, I think this undoes the way that
+
+207
+00:14:11,900 --> 00:14:15,960
+ we think about otherness or at least in, in, in most sort of like what I would call pop
+
+208
+00:14:15,960 --> 00:14:21,100
+ theory or liberal theory, which is like, you have to go out and find some other that you
+
+209
+00:14:21,100 --> 00:14:22,260
+ sort of pre-mark as other.
+
+210
+00:14:22,260 --> 00:14:28,420
+ But for him, like the other, like otherness is a by-product of, of one's own self-expression.
+
+211
+00:14:28,980 --> 00:14:29,080
+ Right.
+
+212
+00:14:29,220 --> 00:14:29,380
+ Right.
+
+213
+00:14:30,260 --> 00:14:31,200
+ Otherness is imminent.
+
+214
+00:14:31,820 --> 00:14:32,260
+ Yeah.
+
+215
+00:14:32,880 --> 00:14:34,100
+ And so is form.
+
+216
+00:14:34,100 --> 00:14:34,280
+ Yeah.
+
+217
+00:14:34,280 --> 00:14:37,140
+ Otherness emerges from imminent expression, you could say.
+
+218
+00:14:37,760 --> 00:14:37,960
+ Right.
+
+219
+00:14:38,060 --> 00:14:43,340
+ Otherness only happens because you've interiorized a self in order to project another.
+
+220
+00:14:43,520 --> 00:14:46,580
+ So otherness is internal to the process.
+
+221
+00:14:47,040 --> 00:14:50,380
+ I mean, that would be his way of saying it's an interior part of the process.
+
+222
+00:14:55,860 --> 00:14:56,220
+ Right.
+
+223
+00:14:56,300 --> 00:15:02,000
+ I mean, that, that's kind of the difference also between like chance and contingency is
+
+224
+00:15:02,000 --> 00:15:04,440
+ chance is normally external, right?
+
+225
+00:15:04,480 --> 00:15:06,860
+ There's the throw of the die and has nothing to do.
+
+226
+00:15:06,860 --> 00:15:12,160
+ I mean, well, theoretically it doesn't have to do with the human and then contingency has
+
+227
+00:15:12,160 --> 00:15:14,540
+ to do with our interpretation of that event.
+
+228
+00:15:14,960 --> 00:15:19,100
+ And so it's still thorough, I mean, we don't control our interpretations, but it has to
+
+229
+00:15:19,100 --> 00:15:23,580
+ do with the subject's interactions with that, whatever, material world.
+
+230
+00:15:23,580 --> 00:15:24,720
+ That's a better way of reading.
+
+231
+00:15:24,920 --> 00:15:29,260
+ I mean, that's a better reading of what I was stumbling over with the accident, like
+
+232
+00:15:29,260 --> 00:15:33,100
+ in his kind of aversion to, well, this shit doesn't matter because it's accidental.
+
+233
+00:15:33,700 --> 00:15:35,040
+ I see that.
+
+234
+00:15:35,140 --> 00:15:36,100
+ That makes sense to me.
+
+235
+00:15:36,100 --> 00:15:43,100
+ And the, the opposition against Plato, sorry, Nathaniel, seems to be pretty explicit here,
+
+236
+00:15:43,160 --> 00:15:46,260
+ at least at the end of 56, right?
+
+237
+00:15:46,340 --> 00:15:53,300
+ So like the, the, the idea of concrete universality or that last clause there where he says, the
+
+238
+00:15:53,300 --> 00:15:57,080
+ form is the indigenous coming to be of the concrete content itself.
+
+239
+00:15:57,440 --> 00:16:02,060
+ I mean, that's, that's literally the opposite of Plato's formalism, right?
+
+240
+00:16:02,060 --> 00:16:09,740
+ I mean, cause for Plato form precedes the, you know, concrete actualizations for Hegel, for
+
+241
+00:16:09,740 --> 00:16:14,100
+ Hegel form is actualization, right?
+
+242
+00:16:14,160 --> 00:16:15,600
+ They're, they're, they're, they're coterminous.
+
+243
+00:16:15,680 --> 00:16:16,320
+ They're simultaneous.
+
+244
+00:16:16,780 --> 00:16:20,960
+ I'm trying to find what he more explicitly brings out Plato when he's talking about, you
+
+245
+00:16:20,960 --> 00:16:23,320
+ know, Oh, it's, it's, it's 55.
+
+246
+00:16:24,000 --> 00:16:28,220
+ If you don't mind, I'll just, I'll just read 55 here above.
+
+247
+00:16:28,220 --> 00:16:34,080
+ We indicated the significance of the understanding in reference to the self-consciousness of substance.
+
+248
+00:16:34,080 --> 00:16:39,840
+ We can now see clearly from what has been said, its significance in reference to the determination
+
+249
+00:16:39,840 --> 00:16:44,760
+ of substance as being existence is quality, right?
+
+250
+00:16:44,860 --> 00:16:52,060
+ That's, I mean, he's going to expound on that existence is quality, self-identical determinateness
+
+251
+00:16:52,060 --> 00:16:55,280
+ or determinate simplicity, determinate thought.
+
+252
+00:16:55,700 --> 00:17:00,100
+ And, you know, he really messes with that self-identical thing as well, because the self-identical
+
+253
+00:17:00,100 --> 00:17:01,640
+ has to be pure movement, right?
+
+254
+00:17:01,680 --> 00:17:06,280
+ There's nothing actually in the logical sense of it, in the normal logical sense of it, self-identical
+
+255
+00:17:06,280 --> 00:17:06,680
+ at all.
+
+256
+00:17:07,640 --> 00:17:11,540
+ There's fundamentally a ratio in there, just sort of an equal sign.
+
+257
+00:17:12,040 --> 00:17:14,500
+ This is the understanding of existence.
+
+258
+00:17:15,040 --> 00:17:21,920
+ Hence, it is the noose as an agzogorist first recognized the essence of things to be.
+
+259
+00:17:22,060 --> 00:17:27,820
+ Those who came after him grasped the nature of existence more definitively as edos or the
+
+260
+00:17:27,820 --> 00:17:29,520
+ idea, aka Plato.
+
+261
+00:17:31,040 --> 00:17:36,060
+ Determinate universality or universality, species or a kind, right?
+
+262
+00:17:36,100 --> 00:17:41,940
+ It's like you have now type or you have, you know, like, or you have representational categories,
+
+263
+00:17:42,140 --> 00:17:42,600
+ effectively.
+
+264
+00:17:43,600 --> 00:17:50,140
+ It might seem as if the term species or kind is too commonplace, too inadequate for ideas
+
+265
+00:17:50,140 --> 00:17:54,240
+ such as the beautiful, the holy, and the eternal that are currently in fashion.
+
+266
+00:17:54,860 --> 00:18:01,780
+ But as a matter of fact, idea expresses neither more than species or kind.
+
+267
+00:18:02,380 --> 00:18:10,180
+ But nowadays, an expression which exactly designates a notion is often spermed in favor of one which,
+
+268
+00:18:10,320 --> 00:18:16,160
+ if only because of its foreign extractions, shrouds the notion in a fog and hence sounds more
+
+269
+00:18:16,160 --> 00:18:16,720
+ edifying.
+
+270
+00:18:17,180 --> 00:18:23,920
+ But like, I mean, if this is an idealism, it is, as Nate said, the complete reversal of
+
+271
+00:18:23,920 --> 00:18:26,320
+ Plato's idealism.
+
+272
+00:18:26,780 --> 00:18:32,120
+ You know, there's somewhere else where he talks about thinking as pure abstraction and pure
+
+273
+00:18:32,120 --> 00:18:35,360
+ abstraction is nothing more than self-identity.
+
+274
+00:18:35,440 --> 00:18:36,740
+ I think this is maybe in 54.
+
+275
+00:18:36,740 --> 00:18:41,180
+ Well, actually, right below that, where it's on account of its simplicity or self-identity,
+
+276
+00:18:41,300 --> 00:18:43,100
+ it appears fixed and enduring.
+
+277
+00:18:43,680 --> 00:18:45,640
+ But this self-identity is no less negativity.
+
+278
+00:18:45,840 --> 00:18:48,380
+ Therefore, its fixed existence passes over into dissolution.
+
+279
+00:18:49,340 --> 00:18:54,080
+ The determinist seems at first to be due entirely to the fact that it is related to another and
+
+280
+00:18:54,080 --> 00:18:57,320
+ other, and its movement seems imposed on it by an alien power.
+
+281
+00:18:57,420 --> 00:19:00,960
+ But having its otherness within itself and being self-moving is just what is involved in
+
+282
+00:19:00,960 --> 00:19:02,360
+ the simplicity of thinking itself.
+
+283
+00:19:02,980 --> 00:19:06,080
+ For this simple thinking is the self-moving and self-differentiating thought.
+
+284
+00:19:06,080 --> 00:19:07,420
+ It is its own inwardness.
+
+285
+00:19:07,560 --> 00:19:09,060
+ It is the pure notion.
+
+286
+00:19:09,260 --> 00:19:11,900
+ Now, see, that's, in that case, he's using the pure notion.
+
+287
+00:19:12,040 --> 00:19:15,380
+ Notion means self-overcoming, self-transformative.
+
+288
+00:19:16,180 --> 00:19:19,800
+ You know, it doesn't just mean the concept as opposed to the thing.
+
+289
+00:19:20,180 --> 00:19:25,020
+ Thus, common understanding, I mean, thus, common understanding, too, is a becoming.
+
+290
+00:19:25,340 --> 00:19:28,200
+ And as this becoming, it is reason.
+
+291
+00:19:28,520 --> 00:19:32,980
+ And that's the movement that he's arguing again and again later that's inaccessible to
+
+292
+00:19:32,980 --> 00:19:35,120
+ almost every thinker besides him.
+
+293
+00:19:35,420 --> 00:19:40,760
+ Nobody else gets that basic form of conceptuality or the notion.
+
+294
+00:19:40,960 --> 00:19:45,600
+ It's like nobody can, or at least they can't hold on to it for a long period of time because
+
+295
+00:19:45,600 --> 00:19:47,380
+ it's hard to sustain that, right?
+
+296
+00:19:47,440 --> 00:19:50,760
+ That overlapping of otherness and the subject, right?
+
+297
+00:19:50,800 --> 00:19:59,900
+ It's like no one is willing to fully dive into that level of contingency or whatever you want to call it that affects thinking.
+
+298
+00:20:00,360 --> 00:20:06,280
+ And so that's, I mean, like you were talking about the shame that lies in learning.
+
+299
+00:20:06,540 --> 00:20:20,160
+ And it's like you have to suppress that, basically, because it's embarrassing to acknowledge how aleatory and contingent your own, you know, whatever, dealings with the world are.
+
+300
+00:20:20,320 --> 00:20:34,160
+ Yeah, I mean, if you presuppose infinity, like this to me is the same kind of logic as lack in psychoanalysis, is that if you presuppose, you have to, in this case, in order for it to be shameful, right?
+
+301
+00:20:34,160 --> 00:20:37,940
+ You have to presuppose a desire for infinity and unlimitedness.
+
+302
+00:20:38,660 --> 00:20:44,060
+ And so, you know, realizing that it has to learn something means that it recognizes its own finitude.
+
+303
+00:20:44,460 --> 00:20:49,200
+ But recognizing your finitude would only be a problem if you believe that you should be infinite.
+
+304
+00:20:53,420 --> 00:21:14,320
+ I kind of would like to look at 57, again, a bit more clearly, because I had a different intuitive response to that lying about the shame, that the shame is thinking that there is a thing there to learn, like there's some kind of knowledge nugget that you, I mean, like, he wants to get rid of the shame that, and get rid of the appearance of having learned.
+
+305
+00:21:14,460 --> 00:21:23,500
+ Something, right, that there is sort of like a bit of data that one now sort of like has mastery over.
+
+306
+00:21:23,500 --> 00:21:26,040
+ Thinking wants to, thinking wants to get rid of that, right.
+
+307
+00:21:26,680 --> 00:21:28,700
+ So a reception, well, let's look at it.
+
+308
+00:21:29,160 --> 00:21:33,960
+ A reception of this kind is usually the first reaction on the part of knowing to something unfamiliar.
+
+309
+00:21:34,480 --> 00:21:36,960
+ It resists it in order to save its own freedom.
+
+310
+00:21:37,240 --> 00:21:39,960
+ Again, freedom there is thought absolutely, right?
+
+311
+00:21:40,440 --> 00:21:44,580
+ To save its own freedom and its own insight, its own authority from the alien authority.
+
+312
+00:21:45,000 --> 00:21:48,140
+ For this is the guise in which what is newly encountered first appears.
+
+313
+00:21:48,520 --> 00:21:52,860
+ And to get rid of the appearance that something has been learned and of the sort of shame this is supposed to involve.
+
+314
+00:21:52,880 --> 00:21:59,820
+ I mean, he's saying this is supposed to involve, like, in other words, other people say, he's referring to, like, other people say that it's shameful to learn.
+
+315
+00:21:59,900 --> 00:22:01,320
+ He doesn't think it is, right?
+
+316
+00:22:01,400 --> 00:22:03,200
+ But other people say that.
+
+317
+00:22:03,200 --> 00:22:12,440
+ But nevertheless, like, I mean, to me, it's knowing that it is resisting, right, some new insight.
+
+318
+00:22:14,460 --> 00:22:25,660
+ Because similarly, when the unfamiliar is greeted with applause, the reaction is of the same kind and consists in what in another sphere would take the form of the ultra-revolutionary speech or action.
+
+319
+00:22:26,660 --> 00:22:33,740
+ Right, so in this case, so what he wants to say is it's never – it's not simply, like, resisting it or welcoming it.
+
+320
+00:22:33,920 --> 00:22:47,540
+ Those are the two things because in both cases you're treating it as an it, meaning it's sort of, like you said, like a little parcel so that learning is an acquisition of a thing rather than simply a node in a process.
+
+321
+00:22:48,000 --> 00:23:05,140
+ You go back to the very first line in 57, this nature of scientific method, which consists partly in not being separate from the content and partly in spontaneously determining the rhythm of its movement, has already marked as proper exposition in the speculative philosophy.
+
+322
+00:23:05,360 --> 00:23:10,620
+ It's that, like, this whole move towards speculative philosophy that it's getting at, yeah, it's like dissolving the notion of the it.
+
+323
+00:23:10,620 --> 00:23:22,620
+ Like, what you're really trying to do is – I mean, feel is probably the wrong word, but, like, I mean, getting a sense of the rhythm and the movement of particular kinds of becoming, right?
+
+324
+00:23:23,240 --> 00:23:35,920
+ I mean, like, if every quality is an essence and every quality is a singular configuration, then every quality has its own particular rhythm, meter, harmony of movement.
+
+325
+00:23:35,920 --> 00:23:41,280
+ And it's – I mean, this word is too loaded, but I'll use it because I don't have a better one.
+
+326
+00:23:41,360 --> 00:23:56,260
+ Like, attuning oneself to that particular – like, the operation of thinking or the operation of knowing or understanding that thing would have to be different from just schematizing it and would have to be more like getting caught up in its flow.
+
+327
+00:23:56,720 --> 00:23:58,660
+ And he's sufficiently self-conscious there.
+
+328
+00:23:58,660 --> 00:24:08,700
+ I mean, the very next sentence to me is great in paradigm – of course, what has been said here does express the notion but cannot count for more than an anticipatory assurance, right?
+
+329
+00:24:08,720 --> 00:24:20,340
+ Like, in other words, what I'm writing, what I'm saying, I am treating the notion in an anticipatory way because that's sort of all you can do, you know?
+
+330
+00:24:20,600 --> 00:24:32,700
+ It's truth does not lie in this partly narrative exposition and is therefore just as little – it's not refuted by contrasting it, although that's a common response because resistance is how it works.
+
+331
+00:24:32,840 --> 00:24:35,440
+ But it's also not simply welcomed, right?
+
+332
+00:24:35,540 --> 00:24:45,180
+ Like, I mean, in other words, it's not like a new piece of – I mean, he wants to get rid of this idea of – as I think you're saying, like the idea of a datum, like a point that is simply –
+
+333
+00:24:45,180 --> 00:24:56,420
+ he wants to talk about the – I mean, not that there aren't points or datum, but that they are simply nodes in a mechanical process of, you know, the in itself becoming –
+
+334
+00:24:56,420 --> 00:25:05,980
+ Or the datum is always the sort of like the violent appropriation of the becoming of a thing vis-a-vis the schematization of the understanding, right?
+
+335
+00:25:06,240 --> 00:25:07,440
+ And, like, that's all we have.
+
+336
+00:25:07,500 --> 00:25:19,100
+ So all we're ever doing is sort of like reaching our hand into the stream, grabbing out some calcified bit that we got from it and, you know, knowing that that's not the stream.
+
+337
+00:25:19,960 --> 00:25:20,200
+ Right.
+
+338
+00:25:20,200 --> 00:25:33,380
+ I mean, just to see – he makes a similar kind of move in 63, 64, and 65 where he's differentiating speculative philosophy from a, like, rational – ratio – what's your – ratiocinative methods.
+
+339
+00:25:33,840 --> 00:25:42,720
+ And then he goes back to say, like, by the way, all – you know, insofar as this is all rendered through propositions that are unavoidable – it's unavoidable to make this kind of move.
+
+340
+00:25:43,120 --> 00:25:43,320
+ Right.
+
+341
+00:25:43,580 --> 00:25:45,160
+ Which is why you have to be explicit.
+
+342
+00:25:45,300 --> 00:25:50,120
+ Like, that's in 65 where, like, you have to be – it sounds very Derrida there.
+
+343
+00:25:50,540 --> 00:25:50,640
+ Yeah.
+
+344
+00:25:50,640 --> 00:25:53,120
+ Where it's like this is where you have to be explicit about it.
+
+345
+00:25:53,140 --> 00:25:56,560
+ If you're going to do speculative thinking, you have to be explicit about these moments.
+
+346
+00:25:57,160 --> 00:25:58,760
+ They can't be done implicitly.
+
+347
+00:25:58,860 --> 00:26:03,480
+ Which, by the way, I mean, that's to me, like, why does it have to be made explicit?
+
+348
+00:26:03,660 --> 00:26:04,620
+ But I get the point.
+
+349
+00:26:05,200 --> 00:26:12,980
+ I mean, I get why, you know, the sublation of the form of the proposition must not happen only in an immediate manner.
+
+350
+00:26:13,180 --> 00:26:15,340
+ Through the mere content of the proposition.
+
+351
+00:26:15,580 --> 00:26:19,600
+ On the contrary, this opposite movement must find explicit expression.
+
+352
+00:26:20,060 --> 00:26:23,280
+ It must not just be the inward inhibition mentioned above.
+
+353
+00:26:23,420 --> 00:26:26,500
+ Meaning you've got to, like – you've got to lay that shit out, right?
+
+354
+00:26:26,540 --> 00:26:31,540
+ Like, you've got to say it explicitly and not just – it's not just immediate.
+
+355
+00:26:32,180 --> 00:26:38,000
+ So the return of the notion to itself must be set – you know, in italics – set forth.
+
+356
+00:26:38,660 --> 00:26:41,460
+ It has to be put into motion, right?
+
+357
+00:26:41,900 --> 00:26:46,540
+ Because you just can't point to it or gesture toward it like, hey, there it is.
+
+358
+00:26:46,600 --> 00:26:50,160
+ And because it's ineffable or moving, I can't capture it in language.
+
+359
+00:26:50,740 --> 00:26:52,640
+ And so I'm going to preserve its integrity.
+
+360
+00:26:52,640 --> 00:27:02,540
+ It's like, no, the only way that you're going to be able to get it to move and act like in an express is to render the reductive move of appropriation.
+
+361
+00:27:02,700 --> 00:27:07,580
+ Right, but you have to render the reductive – but I take what he's saying there to be the next step in that process.
+
+362
+00:27:07,980 --> 00:27:10,340
+ Like, yeah, you can only render the reductive move.
+
+363
+00:27:10,820 --> 00:27:15,520
+ But in rendering the reductive move, you have to be explicit that you know that it's a reductive move.
+
+364
+00:27:16,020 --> 00:27:16,960
+ Right, right, right, right.
+
+365
+00:27:17,100 --> 00:27:22,520
+ You have to say, like, okay, what I've just done is a reductive move, and that's not really all the stuff.
+
+366
+00:27:22,640 --> 00:27:34,420
+ Like, you've got to – so it says, as a matter of fact, non-speculative thinking – this is the beginning of 65 – as a matter of fact, non-speculative thinking also has its valid rights, which are disregarded in the speculative way of stating a proposition.
+
+367
+00:27:34,880 --> 00:27:45,200
+ The sublation of the form of the proposition must not happen in an immediate – the sublation of the – you know, sublate the Aufhebung must not happen only in an immediate manner.
+
+368
+00:27:45,280 --> 00:27:49,220
+ So it's not just a question of moving through the thinking itself.
+
+369
+00:27:49,380 --> 00:27:54,000
+ It's about making the moving through the thinking itself explicit, right?
+
+370
+00:27:54,140 --> 00:27:58,900
+ So not only in an immediate manner, through the mere content of the proposition, right?
+
+371
+00:27:58,900 --> 00:28:05,020
+ In other words, you can't just say, as he's done multiple times, well, then again this, right?
+
+372
+00:28:05,120 --> 00:28:07,040
+ Like, or on the other hand, that, right?
+
+373
+00:28:07,100 --> 00:28:08,680
+ Like, which he does all of the time.
+
+374
+00:28:08,800 --> 00:28:10,260
+ But that's not enough, right?
+
+375
+00:28:10,260 --> 00:28:14,740
+ It's not enough to just simply position opposition next to one another.
+
+376
+00:28:14,900 --> 00:28:24,220
+ But that opposition movement itself must be made explicit, which means it must become the content of a proposition too, you know?
+
+377
+00:28:24,820 --> 00:28:25,680
+ The Derrida move.
+
+378
+00:28:25,680 --> 00:28:29,200
+ If this concept was just no concept, right?
+
+379
+00:28:29,720 --> 00:28:30,160
+ That's right.
+
+380
+00:28:30,460 --> 00:28:38,560
+ And Derrida, I mean, that's to me – and that's always been – at least for me, that's a simple way of understanding, like, a divergence that I see between Deleuze and Derrida.
+
+381
+00:28:38,780 --> 00:28:51,500
+ Because Deleuze is like, why bother with the recognition move of the so-called first move of deconstruction, which requires you to show, you know, the higher – you know, the traditional hierarchy.
+
+382
+00:28:51,500 --> 00:28:57,440
+ And he's saying, you've got to show that you're thinking movement, right?
+
+383
+00:28:57,460 --> 00:29:00,700
+ You have to put that in there explicitly.
+
+384
+00:29:00,840 --> 00:29:02,820
+ You can't just put oppositions next to each other.
+
+385
+00:29:03,000 --> 00:29:06,300
+ You have to then say, I'm putting oppositions next to each other.
+
+386
+00:29:06,580 --> 00:29:08,960
+ It's not in either opposition, you know?
+
+387
+00:29:08,960 --> 00:29:22,420
+ Well, in making that movement explicit, not just the movement of the opposition and their overcoming, but the actual outpabling that he's talking about, that makes the whole notion of progress way more difficult to think.
+
+388
+00:29:22,420 --> 00:29:45,640
+ Because, I mean, the easy or traditional notion of progress in knowledge that he's critiquing here is you have to reify the content and you have to subtract the intrusions of interpretation and contingency out of that process to map, like, scientific progress in the concept or in the content of the field.
+
+389
+00:29:45,760 --> 00:29:56,140
+ So for him, it's like – I mean, this is why it's also so difficult to think of quantum physics as well because you can't hold on to anything here.
+
+390
+00:29:56,260 --> 00:30:01,240
+ Everything dissolves and is, like, reappropriated in this complex process.
+
+391
+00:30:01,560 --> 00:30:07,860
+ So the whole notion of representational thinking kind of gets dissolved here, I think, to an extent.
+
+392
+00:30:09,000 --> 00:30:11,220
+ As an end point, right?
+
+393
+00:30:11,220 --> 00:30:11,760
+ Right, right, right.
+
+394
+00:30:11,760 --> 00:30:14,420
+ As a moment, as a moment, it's there.
+
+395
+00:30:14,640 --> 00:30:15,900
+ The confidence in it.
+
+396
+00:30:16,120 --> 00:30:20,120
+ The confidence in that kind of thinking has to be tempered.
+
+397
+00:30:20,340 --> 00:30:36,480
+ I mean, to use the quantum physics as the example there, I mean, it seems like there's – the telos is still there as far as I can see it for Hegel in that, you know, the sort of pure movement of energy is going to produce mass.
+
+398
+00:30:36,480 --> 00:30:46,080
+ And it's going to produce human mass and it's going to produce – you know, it's like it's – you know, there's no fundamental indeterminacy at the quantum level.
+
+399
+00:30:46,220 --> 00:31:02,480
+ There is movement, but there's – and the sort of, like, what looks like contingency as the sort of self-overcoming of, you know, the movement of atom is, like –
+
+400
+00:31:03,480 --> 00:31:08,940
+ So that movement has a purpose and that movement has a direction even though it is a movement.
+
+401
+00:31:10,220 --> 00:31:18,440
+ And the thing that I think, you know, Zizek would have to add into there is that it is – that is fundamentally also governed by an indeterminacy.
+
+402
+00:31:18,920 --> 00:31:30,760
+ Even that little bit in the middle of 58, in my translation, goes that the habit of marking progress and representational thought finds interruption by the concept irksome.
+
+403
+00:31:31,120 --> 00:31:37,980
+ And it's like that could be another – I mean so many of these little bits could be a thesis for his critique here.
+
+404
+00:31:38,140 --> 00:31:45,880
+ It's like just the simple movement of the concept has to be suppressed for traditional scientific thinking to function.
+
+405
+00:31:46,660 --> 00:31:59,260
+ So the intrusion of the dialectic, I mean, it just introduces all these complications into what we have previously thought of as, like, the achievements of humankind.
+
+406
+00:31:59,260 --> 00:32:08,260
+ You know, the progress of the enlightenment and all the different advancements in scientific and technological thought.
+
+407
+00:32:09,100 --> 00:32:12,300
+ It's like for Hegel, there's a lot of contingency there.
+
+408
+00:32:12,480 --> 00:32:15,720
+ And that's – I mean, to me – again, you can read him a lot of different ways.
+
+409
+00:32:15,820 --> 00:32:29,100
+ But that's what I like to hold on to is the emphasis on that – the way that the concept unravels itself in thinking and troubles these traditional notions, you know, the humanist notions.
+
+410
+00:32:29,100 --> 00:32:37,040
+ It seems like he's after a particular kind of progress where it's sort of like, you know, that we find this one building block and we've got it.
+
+411
+00:32:37,120 --> 00:32:40,600
+ And then we're going to build on the next – we're going to find the next one to put on top.
+
+412
+00:32:40,660 --> 00:32:48,140
+ And then we're going to progressively, you know, build our way up to that, you know, diagonal line that you set out where it's like I've got this thing.
+
+413
+00:32:48,220 --> 00:32:54,720
+ And then I build up toward it where there's – this seems to be much more of like a fluid thing where like, no, no, no.
+
+414
+00:32:55,160 --> 00:33:01,200
+ There's only one thing and it becomes this next thing and it becomes this next thing and it's never stable, right?
+
+415
+00:33:01,200 --> 00:33:23,480
+ It's like, you know, as a moment, you know, you have to hold the sophists, the pre-Socratic sophists and Plato and Aristotle, you know, in themselves, in their oppositions and in their sort of like smoothing out all at one time because they're all a part of this same moment.
+
+416
+00:33:23,480 --> 00:33:33,100
+ And there's still a progress there, but it's not like we have the Socratics down and we're building, you know, the – right on top of them.
+
+417
+00:33:33,260 --> 00:33:36,920
+ The progress from – the way I'm reading it, the progress here is not intentional.
+
+418
+00:33:37,480 --> 00:33:39,340
+ That's a big takeaway for me at least.
+
+419
+00:33:39,440 --> 00:33:40,600
+ It's compulsory.
+
+420
+00:33:40,900 --> 00:33:50,980
+ So the knowledge that we gain, I mean, is a result of a lot of contingent circumstances that have nothing to do with – there's no great man theory here, at least in these sections.
+
+421
+00:33:51,320 --> 00:33:55,000
+ I mean, later he'll like raise up Napoleon and stuff and he'll have these figures.
+
+422
+00:33:55,560 --> 00:34:06,040
+ But progress is a compulsory facet of the human condition rather than our intentional, you know, mastery or domination of the world.
+
+423
+00:34:06,760 --> 00:34:08,960
+ That I totally buy, right?
+
+424
+00:34:09,060 --> 00:34:12,080
+ That like this is not us using thinking to progress ourselves.
+
+425
+00:34:12,320 --> 00:34:18,280
+ This is absolute spirit or thinking itself using us as the mechanisms for its own self-realization.
+
+426
+00:34:18,700 --> 00:34:22,200
+ That gets really interestingly post-humanist to me.
+
+427
+00:34:22,720 --> 00:34:23,940
+ Yeah, I think so.
+
+428
+00:34:24,040 --> 00:34:26,200
+ It's a very different notion of progress, right?
+
+429
+00:34:26,520 --> 00:34:26,700
+ Yeah.
+
+430
+00:34:26,960 --> 00:34:30,140
+ In fact, when you said it's not intentional, I thought, well, it's totally intentional.
+
+431
+00:34:30,280 --> 00:34:32,080
+ It's just not human intention.
+
+432
+00:34:32,600 --> 00:34:32,660
+ Yeah.
+
+433
+00:34:32,940 --> 00:34:33,860
+ Yeah, yeah, yeah.
+
+434
+00:34:34,580 --> 00:34:36,220
+ It's not guided by us.
+
+435
+00:34:36,480 --> 00:34:36,640
+ Yeah.
+
+436
+00:34:36,880 --> 00:34:37,280
+ No, right.
+
+437
+00:34:37,380 --> 00:34:39,640
+ Yeah, that – I totally agree with that.
+
+438
+00:34:39,740 --> 00:34:42,300
+ I just – the word intentional, I was like, well, yeah, that seems intentional.
+
+439
+00:34:42,300 --> 00:34:56,300
+ But nevertheless, there's still this imperious quality to his speculative thinking.
+
+440
+00:34:56,620 --> 00:35:10,560
+ So you have, you know, for instance, this is in 67, but it's the same kind of line that we're talking about, which is like, whatever truth there may be in the content of any – this is the very end of 67, right before 68.
+
+441
+00:35:10,560 --> 00:35:18,320
+ Whatever truth there may be in the content of any discipline or science, it can only deserve that name if such truth has been engendered by philosophy.
+
+442
+00:35:18,800 --> 00:35:24,160
+ And again, here he means his speculative thinking of this.
+
+443
+00:35:24,960 --> 00:35:28,340
+ Let the other scientists try to argue as much as they like without philosophy.
+
+444
+00:35:28,760 --> 00:35:32,140
+ Without it, they can have in them neither life, spirit, nor truth.
+
+445
+00:35:32,640 --> 00:35:38,700
+ And I'm like, okay, that sounds like awfully absolute versions of life, spirit, and truth.
+
+446
+00:35:39,040 --> 00:35:49,200
+ And, you know, like that there's one road, you know, and the other roads, all this arguing stuff is somehow not a part of that road.
+
+447
+00:35:50,080 --> 00:35:51,960
+ Right, which doesn't make sense to me.
+
+448
+00:35:52,080 --> 00:35:55,920
+ It doesn't make sense that, like, that all of the arguing.
+
+449
+00:35:57,120 --> 00:36:02,380
+ This seems to come back to the, like, the demand for the self-consciousness and the explicitness of it.
+
+450
+00:36:02,460 --> 00:36:03,160
+ Yeah, yeah.
+
+451
+00:36:03,200 --> 00:36:09,160
+ Like, you know, I feel like Deleuze would make a similar line like this except for there would be one important difference.
+
+452
+00:36:09,240 --> 00:36:16,680
+ We're like, look, all of this other stuff is, you know, like to hypostasize the world is to imagine it dead, right?
+
+453
+00:36:16,800 --> 00:36:18,540
+ And it's to extract the life from it.
+
+454
+00:36:18,880 --> 00:36:24,020
+ And nonetheless, doing that is its own kind of movement, its own style of life that does all this.
+
+455
+00:36:24,100 --> 00:36:25,240
+ It's like you can't fail.
+
+456
+00:36:25,240 --> 00:36:28,020
+ That's a pretty big twist at the, that's a pretty big.
+
+457
+00:36:28,100 --> 00:36:29,000
+ It's a huge twist.
+
+458
+00:36:29,440 --> 00:36:31,880
+ You can imagine Hegel just not making that second move.
+
+459
+00:36:31,960 --> 00:36:36,580
+ Like, look, you know, if you're not thinking movement, you're not thinking.
+
+460
+00:36:36,900 --> 00:36:38,700
+ You've extracted life from it.
+
+461
+00:36:39,040 --> 00:36:39,940
+ And then, like, it just doesn't seem to do that.
+
+462
+00:36:39,940 --> 00:36:42,400
+ And by the way, everyone's thinking movement.
+
+463
+00:36:43,240 --> 00:36:43,540
+ Right.
+
+464
+00:36:43,780 --> 00:36:45,620
+ Well, that's the second move.
+
+465
+00:36:45,720 --> 00:36:47,280
+ Even if they know it or not, right?
+
+466
+00:36:47,320 --> 00:36:48,440
+ For him, you have to know it.
+
+467
+00:36:48,800 --> 00:36:49,400
+ But why?
+
+468
+00:36:49,600 --> 00:36:53,440
+ That's the thing that doesn't make sense, given everything that we're, getting everything that we're just saying.
+
+469
+00:36:53,520 --> 00:36:56,080
+ Like, yeah, I mean, that's like, yeah, you got to be explicit.
+
+470
+00:36:56,240 --> 00:36:59,580
+ You can't just, you know, it can't just be an immediate sublation.
+
+471
+00:36:59,940 --> 00:37:02,360
+ You have to set it forth.
+
+472
+00:37:03,020 --> 00:37:13,600
+ And, you know, so, so that's where, I mean, I definitely see that sort of authoritarian or what I said, you know, imperious quality to his, his thinking is it's fucking built in.
+
+473
+00:37:13,600 --> 00:37:18,300
+ It's not, it's not just like, ah, you know, you might be able to extract this a little bit.
+
+474
+00:37:18,380 --> 00:37:22,760
+ It's, it does seem built in, but it also doesn't make sense for it to be built in.
+
+475
+00:37:23,060 --> 00:37:31,520
+ Like, if that's the case, then only philosophy forever has only been on this path.
+
+476
+00:37:31,540 --> 00:37:38,000
+ And, like, literally every other area of knowledge is sort of just, it's not thinking, that's for sure.
+
+477
+00:37:38,520 --> 00:37:47,960
+ And it's kind of, I don't know if it's a waste of time, but it's just like, so to me, there, it just, that just seems like an egregious conclusion that I don't think that Hegel
+
+478
+00:37:47,960 --> 00:37:49,900
+ would want.
+
+479
+00:37:49,900 --> 00:37:55,660
+ And so, I mean, maybe I'm missing something there, but let the other scientists try to argue as much as they'd like without philosophy.
+
+480
+00:37:55,800 --> 00:37:58,280
+ Without it, they can have neither life, spirit, nor truth.
+
+481
+00:37:58,880 --> 00:38:00,420
+ That's a strong fucking claim.
+
+482
+00:38:00,540 --> 00:38:09,340
+ Like, go ahead and have your conversations about, you know, biology and DNA and, but whatever, you don't have any truth.
+
+483
+00:38:09,340 --> 00:38:17,480
+ As opposed to saying, I mean, like what Nathaniel just said is like, yeah, that's lifeless and lifelessness is a means of life.
+
+484
+00:38:18,260 --> 00:38:20,540
+ It has, it has to be, right?
+
+485
+00:38:20,600 --> 00:38:23,460
+ It's just doing life differently than speculative philosophy.
+
+486
+00:38:23,460 --> 00:38:26,280
+ I can totally get that, right?
+
+487
+00:38:26,820 --> 00:38:29,000
+ That the proposition, obsessing of the proposition.
+
+488
+00:38:29,480 --> 00:38:35,180
+ I mean, this is where he's just trying to, I think, come up with a better version of picture thinking.
+
+489
+00:38:35,340 --> 00:38:43,720
+ I mean, this is his representationalist bent, is that his goal here is to mirror the movement of life.
+
+490
+00:38:44,100 --> 00:38:47,380
+ And he, like, runs into the problem of that.
+
+491
+00:38:47,480 --> 00:38:52,900
+ Like, I can't help but write in, you know, propositions, and I can't help but deaden it.
+
+492
+00:38:52,900 --> 00:39:04,580
+ But as long as I'm constantly drawing hyper, like, hyper-conscious awareness to what I am doing, I can get closer to mirroring the pure movement of life.
+
+493
+00:39:04,740 --> 00:39:07,180
+ Whereas other people don't even know that that's.
+
+494
+00:39:07,180 --> 00:39:09,360
+ So that's the, so that's the key.
+
+495
+00:39:09,660 --> 00:39:11,040
+ Right, so that's the key point.
+
+496
+00:39:11,120 --> 00:39:14,340
+ This is just a higher, or not just a, I don't want to diminish it.
+
+497
+00:39:14,500 --> 00:39:16,140
+ Although I do kind of want to diminish it.
+
+498
+00:39:16,820 --> 00:39:19,840
+ It's just a higher order representational thinking.
+
+499
+00:39:20,160 --> 00:39:26,120
+ Because this, the problem with representational thinking is it's too concerned with objects, stuff, content.
+
+500
+00:39:26,500 --> 00:39:28,260
+ And I'm concerned with movement.
+
+501
+00:39:28,680 --> 00:39:33,160
+ And if we can come up with a way, and movement is, by the way, where it's fucking at.
+
+502
+00:39:33,300 --> 00:39:34,780
+ Like, that's the cash money.
+
+503
+00:39:34,860 --> 00:39:37,580
+ That's the real, that's the real, you know.
+
+504
+00:39:37,580 --> 00:39:43,820
+ And it's like, so again, like, the question of the relationship between the nodes and the movement.
+
+505
+00:39:43,940 --> 00:39:47,640
+ I mean, that's where we've got to get into some of the actual dynamics of the Alf Heibung.
+
+506
+00:39:48,100 --> 00:39:48,320
+ Right.
+
+507
+00:39:49,060 --> 00:39:52,100
+ Well, I mean, it comes back to some points we made last week, too.
+
+508
+00:39:52,200 --> 00:39:58,440
+ It's just that, I mean, everyone before Hegel, according to Hegel, has just too much faith in the proposition.
+
+509
+00:39:58,540 --> 00:40:06,960
+ And in the dynamics of just basic grammar, where he's talking about the subject falling into the predicate, and the predicate dissolving into the subject.
+
+510
+00:40:07,100 --> 00:40:11,380
+ And he's like, nobody has had access to that insight until I did.
+
+511
+00:40:12,160 --> 00:40:15,700
+ So, I mean, it's an arrogant point.
+
+512
+00:40:15,900 --> 00:40:23,500
+ And there's moments here that are just kind of ridiculous, where, like you pointed out, where he says that philosophy is the only route to truth.
+
+513
+00:40:23,620 --> 00:40:24,960
+ And everything else sucks.
+
+514
+00:40:25,440 --> 00:40:43,620
+ But I mean, I think to an extent, like, most, you know, thinkers that are in this vein, or at least related to this, like the Derrida deconstruction in general, kind of employs a similar attitude, even if they temper it and don't have the same authoritarian tone.
+
+515
+00:40:43,620 --> 00:40:48,340
+ You know, Derrida's whole thing is that, like, texts deconstruct themselves, right?
+
+516
+00:40:48,480 --> 00:40:50,440
+ That they don't, you don't need to deconstruct them.
+
+517
+00:40:50,580 --> 00:40:53,820
+ Like, just the movement of deconstruction is happening everywhere.
+
+518
+00:40:54,360 --> 00:40:57,720
+ I don't have to be the one to force these interpretations.
+
+519
+00:40:58,360 --> 00:41:00,120
+ And yet he still does the interpretations.
+
+520
+00:41:00,540 --> 00:41:05,640
+ It's like, he's still the one placing himself above Rousseau, or whoever it is, right?
+
+521
+00:41:06,200 --> 00:41:06,820
+ And, uh...
+
+522
+00:41:06,820 --> 00:41:07,420
+ No, I don't agree.
+
+523
+00:41:07,520 --> 00:41:10,320
+ I don't, I think he's really explicitly not doing that.
+
+524
+00:41:10,320 --> 00:41:11,120
+ Well, I mean...
+
+525
+00:41:11,120 --> 00:41:13,580
+ Like, we're struggling to, but...
+
+526
+00:41:13,580 --> 00:41:14,360
+ Exactly.
+
+527
+00:41:14,540 --> 00:41:14,920
+ I mean, it's...
+
+528
+00:41:14,920 --> 00:41:16,720
+ The word struggle is important.
+
+529
+00:41:16,840 --> 00:41:23,740
+ When you have an object of critique, and he probably wouldn't even call it that, I mean, there's going to be some distance there, even if you don't want there to be...
+
+530
+00:41:23,740 --> 00:41:29,560
+ But that's why he really is hardcore about their, like, trying to get rid of that distance.
+
+531
+00:41:29,980 --> 00:41:30,400
+ No, I know.
+
+532
+00:41:30,620 --> 00:41:35,960
+ And the eminence needs to go further to eminence is for exactly that reason, is that this isn't a special...
+
+533
+00:41:35,960 --> 00:41:40,760
+ This isn't a special thing, this is just something that the organism called Derrida does, right?
+
+534
+00:41:40,800 --> 00:41:40,980
+ Yeah.
+
+535
+00:41:41,360 --> 00:41:41,560
+ Yeah.
+
+536
+00:41:42,200 --> 00:41:55,960
+ I mean, and I don't know, I don't have any, like, dogs in this fight, but the Daman version of this, like, Daman's thing against Derrida is that, like, especially on Rousseau, is that...
+
+537
+00:41:55,960 --> 00:42:02,360
+ He argues that Rousseau already does all the things that Derrida is supposedly, like, unraveling out of Rousseau.
+
+538
+00:42:02,440 --> 00:42:02,580
+ Yeah.
+
+539
+00:42:02,800 --> 00:42:04,080
+ And so, I mean, I don't...
+
+540
+00:42:04,080 --> 00:42:07,780
+ Again, I haven't really read any Rousseau, and I've barely read their exchanges with each other.
+
+541
+00:42:07,860 --> 00:42:09,020
+ I'm just, like, talking about this.
+
+542
+00:42:09,020 --> 00:42:13,800
+ But, I mean, it's sort of an interesting point that basically, even though Derrida is...
+
+543
+00:42:13,800 --> 00:42:15,260
+ It's thoroughly eminent critique.
+
+544
+00:42:15,480 --> 00:42:22,560
+ He's, like, inhabiting Rousseau and simply just exposing things that maybe weren't explicit in Rousseau's text.
+
+545
+00:42:22,940 --> 00:42:30,880
+ I mean, Daman's argument, whether it's convincing or not, I haven't even really read it, is that, no, it's already all there.
+
+546
+00:42:31,400 --> 00:42:37,060
+ Like, you don't even have to apply a method or a different kind of reading to him.
+
+547
+00:42:37,120 --> 00:42:39,580
+ But Derrida would completely agree with him.
+
+548
+00:42:39,600 --> 00:42:40,160
+ He would probably agree.
+
+549
+00:42:40,300 --> 00:42:40,980
+ Yeah, that's what I mean.
+
+550
+00:42:41,260 --> 00:42:43,020
+ He'd be like, yeah, I'm not...
+
+551
+00:42:43,020 --> 00:42:45,640
+ There's nothing that's being added on to Rousseau.
+
+552
+00:42:45,720 --> 00:42:47,540
+ That's the issue of the supplement all the time.
+
+553
+00:42:47,660 --> 00:42:53,880
+ Like, there's nothing that I am adding on to Rousseau that is not already there.
+
+554
+00:42:53,980 --> 00:43:01,040
+ So, it's the logic of the question of, you know, reading and thinking that Derrida would take issue with.
+
+555
+00:43:01,040 --> 00:43:11,260
+ So, in terms of that Daman argument, right, like, I mean, yeah, it's things deconstruct themselves, and that's just what happens.
+
+556
+00:43:11,620 --> 00:43:20,220
+ In fact, his contribution isn't to point that out, contra the ridiculous way, I mean, not ridiculous, but the understandable way that he's been seen.
+
+557
+00:43:20,320 --> 00:43:25,680
+ His contribution is to sort of shift, to attempt to shift the categories, right?
+
+558
+00:43:25,680 --> 00:43:33,280
+ Like, that sort of first component of deconstruction, which is showing the ways in which it relies on these things, that's the thing that the texts just do, right?
+
+559
+00:43:33,880 --> 00:43:35,740
+ They just do that.
+
+560
+00:43:36,000 --> 00:43:43,240
+ And so, his intervention, if it is an intervention, which he'll always do that kind of parenthetical thing, isn't that.
+
+561
+00:43:43,340 --> 00:43:46,980
+ It isn't to point out that, hey, look, these texts, I mean, that is the Daman.
+
+562
+00:43:46,980 --> 00:43:56,260
+ I mean, Daman is the maestro who can show you that this, that he can do this with every text, and it's like, I mean, anyone can do it with anything.
+
+563
+00:43:56,680 --> 00:43:57,080
+ Right.
+
+564
+00:43:57,260 --> 00:43:58,900
+ In fact, that's just what happens.
+
+565
+00:43:59,280 --> 00:44:09,900
+ But that notion of, like, there being value in the texts that are not explicitly deconstructionist, you don't really find that here in Hegel.
+
+566
+00:44:10,020 --> 00:44:20,460
+ Maybe it's implicit, but, like, Hegel's saying that shit sucks, like, it's bad, like, we need to go past it, whereas both Daman and Derrida are basically saying, no, there's plenty of shit there.
+
+567
+00:44:20,820 --> 00:44:22,040
+ In fact, there's everything there.
+
+568
+00:44:22,140 --> 00:44:23,660
+ It's all there, you know?
+
+569
+00:44:24,360 --> 00:44:30,460
+ It's all there, and you're not doing anything special or, in addition, I mean, certainly not adding on.
+
+570
+00:44:30,460 --> 00:44:45,580
+ That's the whole, you know, the stuff in Plato's Pharmacy of, like, the reading that adds something, you know, the strands will not hold and all that sort of, you know, so it's, he's just, I mean, Derrida, at least, is just very explicit about, like, I'm not adding anything.
+
+571
+00:44:45,700 --> 00:44:46,720
+ I'm not doing anything.
+
+572
+00:44:46,840 --> 00:44:53,440
+ I'm not performing an operation onto it, and yet I'm not also, I'm also not just letting it speak for itself.
+
+573
+00:44:53,600 --> 00:45:01,120
+ So that's the, that's the hard part to me is, like, thinking, okay, so what is not adding on that's not just allowing it to speak for itself?
+
+574
+00:45:01,260 --> 00:45:08,340
+ So, so, you know, the response is sort of like, I think that Derrida wouldn't say, yes, it just does it on its own.
+
+575
+00:45:08,540 --> 00:45:11,160
+ It does and it doesn't would be his answer, right?
+
+576
+00:45:11,620 --> 00:45:13,440
+ Which is always going to be the answer.
+
+577
+00:45:13,960 --> 00:45:22,960
+ But, I mean, I, I, look, I mean, I, I think that, I mean, from my perspective, it's like, look, and I, and I take this to be Derrida's argument as well, is writing is read.
+
+578
+00:45:22,960 --> 00:45:32,540
+ And what that means is simply that it's deconstructed, meaning it is taken from one place, put into another place to do related but different kind of work.
+
+579
+00:45:32,660 --> 00:45:37,040
+ That's simply how writing works, like, that's the deal.
+
+580
+00:45:37,680 --> 00:45:56,700
+ And, you know, to, to that extent, you would say, what's missing here from Hegel, at least in the, in the, you know, first 50 pages or so, is a thinking of writing, you know, like, and I don't mean like that he, you know, I, I just mean a thinking of the apparatus of, of writing and its iterability, et cetera, et cetera.
+
+581
+00:45:56,700 --> 00:45:59,520
+ And what that does for conceptuality.
+
+582
+00:46:00,220 --> 00:46:07,720
+ Yeah, that's interesting that, I mean, for someone who is so invested in thinking, thinking as movement, I don't think he thinks writing as movement.
+
+583
+00:46:07,820 --> 00:46:10,140
+ I think he thinks writing is very representational.
+
+584
+00:46:10,620 --> 00:46:17,900
+ Although, I mean, Derrida, I mean, Derrida's, the famous quote is like, Hegel is the last thinker of the book and the first thinker of writing, right?
+
+585
+00:46:17,920 --> 00:46:23,800
+ Like, he's the guy who puts sort of writing in Derrida's sense, writing as iterability, difference.
+
+586
+00:46:24,580 --> 00:46:26,320
+ He's the guy who puts it on the table.
+
+587
+00:46:26,700 --> 00:46:29,160
+ You know, for the first time, which I think is true.
+
+588
+00:46:29,260 --> 00:46:30,900
+ Like, I, I'm getting that vibe as well.
+
+589
+00:46:31,100 --> 00:46:40,780
+ It definitely just seems like there's some pretty big fucking guardrails, you know, and you got to do, you got to do, for those guardrails, you got to do a fair amount of work.
+
+590
+00:46:40,780 --> 00:46:49,220
+ Like, I feel like I got to do work in order to make the, like, you know, with the teleology question, it's certainly something that one can do the work on.
+
+591
+00:46:49,300 --> 00:46:54,320
+ I don't think it's simply externally imposed work, but it still seems like work.
+
+592
+00:46:56,700 --> 00:47:04,700
+ I was really, I mean, I have to say, the part that confused me is the specifics of the argument argument.
+
+593
+00:47:05,020 --> 00:47:15,960
+ I was really taken by the subject predicate stuff, but I kind of, like, took that, I feel like I got that, but not in its relationship to the points about arguments.
+
+594
+00:47:16,160 --> 00:47:17,120
+ Arguments, right.
+
+595
+00:47:17,560 --> 00:47:19,060
+ That's, I mean, that, that was it for me.
+
+596
+00:47:19,100 --> 00:47:23,120
+ I'm like, I don't see the argument argument here.
+
+597
+00:47:23,240 --> 00:47:25,660
+ Like, why is this a question?
+
+598
+00:47:25,760 --> 00:47:26,840
+ Yeah, I like, I agree with you.
+
+599
+00:47:26,880 --> 00:47:27,980
+ I get the subject predicate.
+
+600
+00:47:27,980 --> 00:47:33,620
+ Like, like, God is being, I understand the problem of subsuming one, one into the other.
+
+601
+00:47:35,280 --> 00:47:38,160
+ But I don't see why that's argumentation.
+
+602
+00:47:38,520 --> 00:47:44,580
+ Well, I mean, I guess, and so far it was like, it's a proposition to be able to say, like, you know, here, my proposition is God equals this.
+
+603
+00:47:44,620 --> 00:47:51,920
+ And the problem with that is that creates an equation, whereas, like, you have to be able to run the predicate through the subject.
+
+604
+00:47:51,920 --> 00:48:01,020
+ It's like, you know, what happens when the subject, like God, becomes being, right, and, like, his essence is articulated through this concept of being.
+
+605
+00:48:01,120 --> 00:48:03,680
+ That's where, because I thought there would be more, because I, well, whatever.
+
+606
+00:48:03,820 --> 00:48:09,020
+ I mean, obviously the dating of it, but, but I just thought there would be more about being then, right?
+
+607
+00:48:09,040 --> 00:48:12,320
+ Like, because the issue here is not the predicate being.
+
+608
+00:48:12,320 --> 00:48:15,740
+ It is predication as being.
+
+609
+00:48:15,740 --> 00:48:17,400
+ The word being is just a predicate, yeah.
+
+610
+00:48:17,760 --> 00:48:24,840
+ But see, to me, this was, like, one of his interesting meta ways of talking about being by talking about predicates.
+
+611
+00:48:25,240 --> 00:48:32,660
+ And just so happens, like, the example is the predicate of being, which is to say that not even being is just being, right?
+
+612
+00:48:33,000 --> 00:48:33,740
+ Right, right, right.
+
+613
+00:48:34,080 --> 00:48:36,900
+ So this is, so, like, now you're making Hegel into Heidegger.
+
+614
+00:48:37,760 --> 00:48:41,340
+ I've got so much Heidegger in this, in this, these few paragraphs.
+
+615
+00:48:42,520 --> 00:48:44,600
+ You know, I was just like, where are the dashes?
+
+616
+00:48:45,140 --> 00:48:49,120
+ I mean, I'm not saying you were making him into that, back to the previous conversation.
+
+617
+00:48:51,540 --> 00:48:55,000
+ Well, I'm just going to read 59, if that's cool, and then we'll see where it takes us.
+
+618
+00:48:56,940 --> 00:49:05,120
+ There are two aspects of the procedure of argumentation to which speculative thinking is opposed, and which call for further notice.
+
+619
+00:49:05,540 --> 00:49:06,020
+ Notice.
+
+620
+00:49:06,560 --> 00:49:12,760
+ First, such reasoning adopts a negative attitude toward the content it apprehends.
+
+621
+00:49:13,160 --> 00:49:16,320
+ It knows how to refute it and destroy it.
+
+622
+00:49:16,900 --> 00:49:25,960
+ That something is not the case is a merely negative thought, a dead end, which does not lead to the new content itself.
+
+623
+00:49:25,960 --> 00:49:33,720
+ In order to have a content once again, something new must be taken over from elsewhere.
+
+624
+00:49:34,680 --> 00:49:40,420
+ Argumentation is reflection into the empty eye, the vanity of its own knowing.
+
+625
+00:49:40,560 --> 00:49:42,500
+ I'm just going to pause there just for a second.
+
+626
+00:49:42,740 --> 00:49:46,700
+ It's like, because I think I'm starting to understand that a little bit.
+
+627
+00:49:47,040 --> 00:50:00,080
+ Is that, like, I mean, this is beef with negative theology and, like, Aquinas and others are like, all right, to say that, okay, we know what God is not is to, again, hypostasize a whole, like, a playing field.
+
+628
+00:50:00,220 --> 00:50:01,380
+ Like, all right, I know it's not this one.
+
+629
+00:50:01,420 --> 00:50:02,200
+ I know it's not this one.
+
+630
+00:50:02,260 --> 00:50:03,120
+ I know it's not this one.
+
+631
+00:50:03,180 --> 00:50:04,420
+ Here's the negative and the relief.
+
+632
+00:50:04,420 --> 00:50:10,060
+ So we can say, like, I know, you know, the shape of the thing that I'm looking for.
+
+633
+00:50:12,100 --> 00:50:16,040
+ And he's suggesting that speculative philosophy doesn't do that.
+
+634
+00:50:16,360 --> 00:50:22,600
+ The way that he's, again, his argumentation here should be the reflection into an empty eye.
+
+635
+00:50:23,160 --> 00:50:25,900
+ Or, no, he's still talking about negative theology there, right?
+
+636
+00:50:26,620 --> 00:50:31,240
+ See, I didn't, I was actually, I just heard it in a much more pedestrian way.
+
+637
+00:50:31,360 --> 00:50:33,560
+ I mean, the negative theology link makes sense to me.
+
+638
+00:50:34,020 --> 00:50:35,460
+ But I didn't think that.
+
+639
+00:50:35,580 --> 00:50:40,220
+ Like, I just took it in that sort of, what he means by argumentation here is refutation.
+
+640
+00:50:40,700 --> 00:50:45,680
+ So to refute something, the action of refuting something, it doesn't go anywhere.
+
+641
+00:50:45,680 --> 00:50:52,140
+ Like, it is an interruption of speculative thinking because it just says, well, it's not that.
+
+642
+00:50:52,760 --> 00:50:57,880
+ And so in order for that thinking to proceed, something else has to come in from somewhere else.
+
+643
+00:50:57,880 --> 00:51:00,020
+ Like, well, then what else is it, right?
+
+644
+00:51:00,240 --> 00:51:05,400
+ So argumentation as refutation, which is a debate form of argumentation.
+
+645
+00:51:05,560 --> 00:51:08,200
+ And, you know, I don't know 19th century versions of this.
+
+646
+00:51:08,300 --> 00:51:10,080
+ But, I mean, that makes sense to me.
+
+647
+00:51:10,160 --> 00:51:14,920
+ Like, I get why you'd say, okay, refutation is empty, right?
+
+648
+00:51:15,000 --> 00:51:17,620
+ Like, because it can't generate anything.
+
+649
+00:51:17,700 --> 00:51:18,920
+ It just says, not that.
+
+650
+00:51:19,340 --> 00:51:19,920
+ You know?
+
+651
+00:51:20,440 --> 00:51:26,600
+ Well, argumentation negates, but negation is not its object or its content.
+
+652
+00:51:26,940 --> 00:51:32,100
+ Which, negation is like the explicit content of speculative philosophy.
+
+653
+00:51:32,240 --> 00:51:38,520
+ Well, that's why, that's why, that's what I take to mean it's the, right, that's why I take it to say the vanity of its own knowing is it doesn't change, right?
+
+654
+00:51:38,540 --> 00:51:42,380
+ Like, it's just like, I know it's not that, end of fucking story, right?
+
+655
+00:51:42,460 --> 00:51:47,880
+ So, that's what I, I mean, that's how I understood it's a reflection into the empty eye.
+
+656
+00:51:48,000 --> 00:51:49,160
+ It's just, it's not that.
+
+657
+00:51:49,280 --> 00:51:54,360
+ It's not, it's the vanity in that sense of, like, there's no change, there's no transformation.
+
+658
+00:51:54,480 --> 00:51:56,380
+ You just shut something down.
+
+659
+00:51:56,680 --> 00:51:56,820
+ Right.
+
+660
+00:51:56,960 --> 00:52:02,380
+ And it's the illusion of certainty, or sorry, the illusion of having a solid grounds on which to argue.
+
+661
+00:52:03,140 --> 00:52:03,280
+ You know?
+
+662
+00:52:03,280 --> 00:52:03,960
+ That's, that's right.
+
+663
+00:52:04,180 --> 00:52:04,320
+ Yeah.
+
+664
+00:52:04,620 --> 00:52:08,380
+ Even if that, even if that is, even if that argument is just negative.
+
+665
+00:52:09,120 --> 00:52:16,420
+ This vanity, however, expresses not only the vanity of this content, but also the futility of the, this insight itself.
+
+666
+00:52:16,420 --> 00:52:21,420
+ For this insight is the negative that fails to see the positive within itself.
+
+667
+00:52:22,640 --> 00:52:32,160
+ Because this reflection does not get its very negativity as its content, it is never at the heart of the matter, but always beyond it.
+
+668
+00:52:32,480 --> 00:52:40,040
+ For this reason, it imagines that by establishing the void, it is always ahead of any insight rich in content.
+
+669
+00:52:40,040 --> 00:52:49,120
+ On the other hand, in speculative thinking, as we have already shown, the negative belongs to the content itself and is the positive.
+
+670
+00:52:49,800 --> 00:52:56,520
+ Both as the imminent movement and determination of the content and as the whole of this process.
+
+671
+00:52:56,840 --> 00:53:06,400
+ Looked at as a result, what emerges from this process is the determinant negative, which is consequently a positive content as well.
+
+672
+00:53:07,020 --> 00:53:09,680
+ Yeah, so that's just what Nate was just saying, I think, right?
+
+673
+00:53:09,780 --> 00:53:17,540
+ Like where the problem with negation, thought in terms of refutation, is that it doesn't take negation itself as its object.
+
+674
+00:53:17,740 --> 00:53:20,720
+ It simply takes a thing and says, it's not that.
+
+675
+00:53:21,220 --> 00:53:25,480
+ Whereas the that that it took is already constituted by a negation.
+
+676
+00:53:25,620 --> 00:53:30,700
+ And so you're already involved in a positive negation of negation there.
+
+677
+00:53:30,800 --> 00:53:37,440
+ It seems to be all about like having faith and having faith in the concept is part of the problem here.
+
+678
+00:53:37,580 --> 00:53:41,320
+ Having faith in propositional or predicative logic for Hegel.
+
+679
+00:53:41,500 --> 00:53:48,240
+ You have to be constantly interrogating the concept, which is what nobody else does, apparently at his stage.
+
+680
+00:53:48,240 --> 00:53:49,580
+ Or you don't even have to interrogate.
+
+681
+00:53:49,620 --> 00:53:52,940
+ You have to let the concept take on its own life.
+
+682
+00:53:53,140 --> 00:53:53,380
+ Right.
+
+683
+00:53:53,520 --> 00:54:00,460
+ Like it's just here's just being instrumentalized like, you know, it's a block that I've put into place and then it doesn't do anything else.
+
+684
+00:54:00,460 --> 00:54:07,640
+ But if you actually activate the negativity of that argumentative refutation, it'll take on a life unto itself.
+
+685
+00:54:13,080 --> 00:54:23,880
+ I have always found that with writing prior to the 1970s is like the fucking torturous, tortuous sentence structures.
+
+686
+00:54:25,000 --> 00:54:27,800
+ I mean, it's great to read in novels.
+
+687
+00:54:28,020 --> 00:54:29,700
+ I love those sentences in novels.
+
+688
+00:54:29,700 --> 00:54:32,640
+ But in philosophy, I just find it so difficult.
+
+689
+00:54:32,840 --> 00:54:35,740
+ I mean, just challenging for me to maintain.
+
+690
+00:54:35,980 --> 00:54:37,460
+ And frankly, he talks about that, right?
+
+691
+00:54:37,760 --> 00:54:42,740
+ He talks about the difficulty of reading stuff, you know.
+
+692
+00:54:42,740 --> 00:54:45,380
+ And he's like that particular relationship, the subject out.
+
+693
+00:54:45,400 --> 00:54:51,080
+ And he's like, look, the reason that this is so hard is because I'm undoing this subject predicate relationship.
+
+694
+00:54:51,260 --> 00:54:53,700
+ And you're expecting that it's still there.
+
+695
+00:54:54,380 --> 00:54:56,880
+ And I don't think he's wrong about that.
+
+696
+00:54:56,940 --> 00:54:57,100
+ Right.
+
+697
+00:54:57,140 --> 00:54:58,960
+ Like, I don't think he's wrong about that.
+
+698
+00:54:59,380 --> 00:55:02,380
+ But, you know, that argument that's in 67, that whole.
+
+699
+00:55:02,540 --> 00:55:04,100
+ And it's a very familiar argument.
+
+700
+00:55:04,280 --> 00:55:07,700
+ You know, philosophizing should again be made a serious business.
+
+701
+00:55:07,700 --> 00:55:08,220
+ Right.
+
+702
+00:55:08,360 --> 00:55:12,160
+ In the case of this is where, you know, he uses the foot, the shoe, you know, like.
+
+703
+00:55:12,400 --> 00:55:16,080
+ I mean, I was literally saying a similar thing on the golf course yesterday.
+
+704
+00:55:16,300 --> 00:55:18,380
+ I mean, this conversation that we'd had before about.
+
+705
+00:55:18,620 --> 00:55:23,680
+ I think I use the example of, like, if I was really good at quilting, people would just be like, OK, John's a good quilt maker.
+
+706
+00:55:23,740 --> 00:55:24,500
+ And that's what he does.
+
+707
+00:55:24,620 --> 00:55:30,060
+ But the thing that I happen to be really good at is thinking, which, you know, it creates all kinds of problems.
+
+708
+00:55:30,060 --> 00:55:34,720
+ Because it's like suddenly I'm arrogant as fuck because I'm good at thinking because everybody thinks that they think.
+
+709
+00:55:35,780 --> 00:55:37,780
+ And but not everybody thinks that they make quilts.
+
+710
+00:55:38,200 --> 00:55:41,540
+ So no one would think I was arrogant for being a good quilt man.
+
+711
+00:55:41,760 --> 00:55:42,260
+ You know what I mean?
+
+712
+00:55:42,700 --> 00:55:44,180
+ So it's it's that.
+
+713
+00:55:44,320 --> 00:55:46,320
+ And I mean, I've heard that argument a million times.
+
+714
+00:55:46,400 --> 00:55:54,480
+ I think in terms of writing studies, I've I've heard that argument is, you know, the difficulty with being a writing teacher is that everybody thinks they already know how to write because they have language.
+
+715
+00:55:54,720 --> 00:56:07,440
+ You know, so it's the same thing, like when, you know, in the case of all other sciences, arts, skills and crafts, everyone is convinced that a complex and laborious program of learning and practice is necessary for competence.
+
+716
+00:56:07,780 --> 00:56:19,640
+ Yet when it comes to philosophy, there seems to be a currently prevailing prejudice to the effect that although not everyone who has eyes and fingers has given a leather lath as it wants to make shoes, everyone nevertheless immediately understands how to philosophize and how to evaluate philosophy.
+
+717
+00:56:19,640 --> 00:56:24,900
+ I mean, it's a that's an age old or at least I've seen that argument 25 different places.
+
+718
+00:56:25,460 --> 00:56:36,060
+ But think about like Aristotle, you know, like the thing that makes us uniquely human is that we all have the capacity to judge and to be able to tell, like, you know, the good from the bad, right?
+
+719
+00:56:36,440 --> 00:56:40,980
+ Capacity, but capacities to judge is not the same as the trained skill.
+
+720
+00:56:41,400 --> 00:56:42,000
+ Yeah, right.
+
+721
+00:56:42,200 --> 00:56:44,520
+ Like Aristotle, everything is a skill, right?
+
+722
+00:56:44,520 --> 00:56:53,380
+ But I mean, I think that to me, this sort of like moves in the motion, in the same direction as universal rights, right?
+
+723
+00:56:53,380 --> 00:57:07,420
+ That like somehow human beings, what sets them apart, like this becomes like one's capacity to speak, write and think are very, very closely tied together with their self-worth, right?
+
+724
+00:57:07,820 --> 00:57:26,780
+ And so, and then it becomes this thing, and I mean, you see this in this sort of expressionist tradition of writing that one's endowed with this sort of like natural worth, and there's sort of like an inviability of telling someone else that they're fucking wrong just because it's like who they are, right?
+
+725
+00:57:26,880 --> 00:57:30,880
+ Like your thoughts are like this inviolable expression of who you are.
+
+726
+00:57:31,440 --> 00:57:34,520
+ This is the kind of nice thing about, I mean, I think that you're right.
+
+727
+00:57:34,580 --> 00:57:44,460
+ There's this interesting way in which I guess idealism would be fundamentally anti-humanist because it's just like it's not about an individual human subject.
+
+728
+00:57:44,900 --> 00:57:51,700
+ It's, you know, it's about thinking and ideas and how they work, and that's just the sort of medium through which they operate.
+
+729
+00:57:51,700 --> 00:58:06,540
+ And so it's not a question of, you know, I mean, that's, right, that's an interesting way of thinking of it is it's, you know, that idealism is an attempt to get rid of the subject, which no one, I've never read anything like that.
+
+730
+00:58:06,560 --> 00:58:09,760
+ I thought idealism was the way that you fucking install the subject, you know?
+
+731
+00:58:09,760 --> 00:58:09,980
+ Right.
+
+732
+00:58:09,980 --> 00:58:20,700
+ Yeah, no, empiricism is the way of installing or carrying on the subject because the subject has to use the tools to be able to, you know, break the world for all the facts.
+
+733
+00:58:21,040 --> 00:58:30,680
+ Kegel gets treated, I think, most of the time as a humanist, right, which doesn't make any sense to me if we, like, read him in this way, you know?
+
+734
+00:58:30,940 --> 00:58:37,200
+ If we read him in this way, but I certainly can understand a more traditional reading that would say, you know, what he's talking about here is people.
+
+735
+00:58:38,200 --> 00:58:38,600
+ Right.
+
+736
+00:58:38,600 --> 00:58:51,860
+ But the humanist emphasis, like, in terms of writing and knowledge, like, on clarity and the fidelity to truth, I mean, all of that is seriously complicated here.
+
+737
+00:58:52,080 --> 00:58:59,020
+ Like, the common notion that, like, good writing is clear, concise, and represents the truth.
+
+738
+00:58:59,400 --> 00:59:02,940
+ I mean, like, he's explicitly saying that's a delusion.
+
+739
+00:59:03,260 --> 00:59:08,620
+ You're delusional if you have faith in that kind of grammar of thinking.
+
+740
+00:59:09,660 --> 00:59:09,880
+ Yeah.
+
+741
+00:59:10,100 --> 00:59:12,180
+ Well, you're also lifeless.
+
+742
+00:59:12,180 --> 00:59:16,680
+ He wants to say, like, look, this is a trained skill like any other trained skill, right?
+
+743
+00:59:16,840 --> 00:59:22,340
+ Like, that people through practice, repetition, training become better at it.
+
+744
+00:59:23,700 --> 00:59:31,900
+ But it's also not a formalism that one simply applies, for instance, to the other sciences, right, or to other areas of study.
+
+745
+00:59:32,060 --> 00:59:38,760
+ So it's, you know, where he said, you know, I mean, it doesn't really explain philosophy is frequently taken to be a purely formal kind of knowledge, void of content.
+
+746
+00:59:40,000 --> 00:59:44,320
+ And the insight is sadly lacking, and that's where we get to the other comment.
+
+747
+00:59:44,380 --> 00:59:48,560
+ But it's not a formalism because it's not an exterior kind of thinking.
+
+748
+00:59:48,560 --> 00:59:57,080
+ So, I mean, in this sense, look, I think that one of the conclusions, I guess, at this point would be that the speculative thinking is just incredibly rare, right?
+
+749
+00:59:57,100 --> 01:00:11,760
+ It's incredibly rare, and it's not something that, and by speculative thinking here, we mean thinking that attends to the content of its thought is the negative movement itself, right?
+
+750
+01:00:11,760 --> 01:00:17,580
+ That that's an absolutely critical element of the thinking, that that just doesn't happen.
+
+751
+01:00:17,580 --> 01:00:29,360
+ So another way of saying it for your argument, Nate, in terms of your diss, is that self-reflection is an incredibly rare event for thinking.
+
+752
+01:00:29,620 --> 01:00:31,980
+ It's, it's, for Hegel, it's the most important.
+
+753
+01:00:32,180 --> 01:00:47,560
+ It's the essential event of thinking and knowing, but it's also not a commonplace, which, to which, I mean, that's a conclusion that I'm sympathetic with, right, of like, I mean, I think we use the word think to mean a variety of things.
+
+754
+01:00:47,560 --> 01:00:58,240
+ Like I just said, I think, you know, but, but I, I mean, it seems to me, I was just paraphrasing, but like, it seems to me that I, I don't think all that often.
+
+755
+01:00:58,980 --> 01:01:13,240
+ You know, in the, in the, in the senses that we're after here, like, I, I do do it, but it's not, like, conversations that I have, even arguments or discussions or whatever are often don't, don't involve that.
+
+756
+01:01:13,360 --> 01:01:21,560
+ And it's, I mean, even our, I'm not so sure that in this sense, in our interactions that I'm thinking all of the time, like right now, I don't think all of the time.
+
+757
+01:01:21,560 --> 01:01:25,500
+ I'm just, I'm just explaining and clarifying something, you know.
+
+758
+01:01:25,840 --> 01:01:28,240
+ Well, you can't do it all the time, right?
+
+759
+01:01:28,640 --> 01:01:31,200
+ I mean, there's just very different models of, of thinking.
+
+760
+01:01:31,320 --> 01:01:43,060
+ I mean, like, usually when you're, you're talking about self-reflection, you know, it's, it's sort of like a self-distance wherein you're able to sort of draw the, the parameters of the thing that, the object under reflection, right?
+
+761
+01:01:43,060 --> 01:01:47,000
+ But this is much more of like a, a diving into the one's own depth.
+
+762
+01:01:47,000 --> 01:01:48,660
+ Yeah, that's, and that's what I like about it.
+
+763
+01:01:48,700 --> 01:01:49,320
+ I like that.
+
+764
+01:01:49,400 --> 01:01:49,980
+ I like that.
+
+765
+01:01:50,220 --> 01:01:53,120
+ I like the way of thinking of self-reflection is like, there's no distance.
+
+766
+01:01:53,260 --> 01:01:55,200
+ In fact, it's the erasure of distance.
+
+767
+01:01:55,880 --> 01:01:57,540
+ You know, I like that move.
+
+768
+01:01:57,880 --> 01:01:59,940
+ For the sake of undoing the self, right?
+
+769
+01:02:00,020 --> 01:02:02,580
+ It's not for the sake of representing the self to oneself.
+
+770
+01:02:02,920 --> 01:02:13,040
+ It's for its own, its own undoing, which is, I mean, to get back to writing, you know, this is, I mean, you know, that kind of undermined what I was saying earlier.
+
+771
+01:02:13,040 --> 01:02:24,980
+ About him having a commitment to a representationalist view of writing, like this, I think, well, I think 63 on, like, complicates very interestingly that, that charge I brought against him.
+
+772
+01:02:25,800 --> 01:02:29,900
+ You know, this is the other place we were talking about the unintelligibility of philosophical writing.
+
+773
+01:02:30,740 --> 01:02:43,020
+ This abnormal inhibition of thought is in a large measure the source of the complaints regarding the unintelligibility of philosophical writing from individuals who otherwise possess the educational requirements for understanding.
+
+774
+01:02:43,020 --> 01:02:53,280
+ Here we see the reason behind one particular complaint so often made against them, that so much has to be read over and over before it can be understood.
+
+775
+01:02:53,800 --> 01:03:00,100
+ A complaint whose burden is presumed to be quite outrageous and, if justified, to admit of no defense.
+
+776
+01:03:00,760 --> 01:03:15,300
+ It is clear from above what this amounts to, the philosophical proposition, since it is a proposition, leads one to believe that the usual subject predicate relations obtains, as well as the usual attitudes toward knowing.
+
+777
+01:03:15,800 --> 01:03:20,600
+ But the philosophical content destroys this attitude and this opinion.
+
+778
+01:03:21,120 --> 01:03:26,820
+ We learn by experience that we meant something other than what we meant to mean.
+
+779
+01:03:27,140 --> 01:03:35,940
+ And this correction of our meaning compels our knowing to go back to the proposition and understand it in some other way.
+
+780
+01:03:36,360 --> 01:03:39,540
+ Like, writing and reading should be self-undoing.
+
+781
+01:03:40,180 --> 01:03:40,380
+ Yeah.
+
+782
+01:03:40,520 --> 01:03:41,960
+ I mean, that's fucking brilliant, right?
+
+783
+01:03:42,040 --> 01:03:48,040
+ Like, I mean, that passage right there, I mean, I had marked that one up when I read it.
+
+784
+01:03:48,380 --> 01:03:54,300
+ And, you know, I really, I was like, oh, that's so close to a super quotable quote for me in this style book.
+
+785
+01:03:54,540 --> 01:03:59,500
+ Except for that it says, we meant something other than, than we meant to mean.
+
+786
+01:03:59,940 --> 01:04:01,500
+ It's like, it's still committed to meaning.
+
+787
+01:04:01,760 --> 01:04:06,900
+ Like, if he had said, we did something other than what we meant to mean, I'd be like, oh, it's perfect.
+
+788
+01:04:07,240 --> 01:04:10,660
+ But we meant something other than what he's like, god damn it, we still meant something.
+
+789
+01:04:10,660 --> 01:04:12,240
+ Square brackets, John, square brackets.
+
+790
+01:04:13,120 --> 01:04:14,160
+ Right, right.
+
+791
+01:04:14,580 --> 01:04:20,180
+ But, and this correction of our meaning compels our knowing to go back to the proposition and to understand it in some other way.
+
+792
+01:04:20,180 --> 01:04:24,500
+ Like, in other words, I mean, I don't see that there's multiple ways of really getting that.
+
+793
+01:04:24,620 --> 01:04:27,520
+ He's going after the notion of propositional thinking, right?
+
+794
+01:04:27,620 --> 01:04:29,960
+ Like, that that's, that's the problem.
+
+795
+01:04:30,280 --> 01:04:35,840
+ And, and, I mean, it's just weird to me to think that this could ever function in an analytic matrix.
+
+796
+01:04:36,000 --> 01:04:38,620
+ Because to me, the analytic matrix is committed.
+
+797
+01:04:39,100 --> 01:04:44,220
+ Like, the one unquestionable thing is the, is the validity of, of propositional thinking.
+
+798
+01:04:44,860 --> 01:04:49,080
+ Yeah, the, the, the law, the, the logic of self-identity, right?
+
+799
+01:04:49,080 --> 01:04:53,920
+ Which, like, he's taking on the logic of self-identity by making it very, something very different.
+
+800
+01:04:54,740 --> 01:04:55,240
+ Yeah, yeah.
+
+801
+01:04:55,340 --> 01:04:58,500
+ I mean, 61 and 62 read really interesting to me as well.
+
+802
+01:04:58,600 --> 01:05:04,040
+ Where he's really trying to develop, like, a very musical vocabulary for thinking becoming.
+
+803
+01:05:04,800 --> 01:05:07,140
+ Yeah, the music illusion was interesting to me.
+
+804
+01:05:07,320 --> 01:05:12,000
+ It's pretty brief, but, like, that, that metaphor there is good.
+
+805
+01:05:12,040 --> 01:05:15,080
+ That unity of notion was destroyed, so it's the, yeah, the, um.
+
+806
+01:05:16,240 --> 01:05:19,740
+ But the relationship between meter and accent is really interesting to me.
+
+807
+01:05:19,740 --> 01:05:20,420
+ I don't know what, I don't know what that means.
+
+808
+01:05:20,420 --> 01:05:22,820
+ So you always mean, like, the rhythm and harmony metaphors?
+
+809
+01:05:23,380 --> 01:05:25,060
+ I'm just fucking going to read 61.
+
+810
+01:05:25,620 --> 01:05:28,720
+ Formally, what has been said can be expressed thus.
+
+811
+01:05:28,720 --> 01:05:34,900
+ The general nature of judgments or, or proposition, which involves the distinction of subject-predicate,
+
+812
+01:05:35,240 --> 01:05:37,640
+ is destroyed by the speculative proposition.
+
+813
+01:05:38,100 --> 01:05:47,080
+ And the proposition of identity, which the former becomes, uh, contains the counterthrust against the subject-predicate relation,
+
+814
+01:05:48,140 --> 01:05:56,380
+ the subject-predicate relationship, this conflict between the general form of a proposition and the unity of the notion,
+
+815
+01:05:56,380 --> 01:06:03,800
+ which destroys it, uh, is similar to the conflict that occurs in rhythm between meter and accent.
+
+816
+01:06:04,760 --> 01:06:11,220
+ Rhythm results from the floating center and the, I would say, spacing in Derrida's language.
+
+817
+01:06:11,460 --> 01:06:14,640
+ I was going to say, this sounds like Derrida to me, like the, yeah.
+
+818
+01:06:15,840 --> 01:06:21,540
+ Uh, rhythm results from the floating center and the unification of the two.
+
+819
+01:06:22,000 --> 01:06:27,380
+ So, too, in the philosophical proposition, the identification of subject and predicate
+
+820
+01:06:27,380 --> 01:06:34,860
+ is not meant to destroy the difference between them, which the form, like, destroy it by making the equal sign.
+
+821
+01:06:35,080 --> 01:06:35,960
+ Equal sign, right.
+
+822
+01:06:36,460 --> 01:06:44,780
+ Which the form of the proposition expresses, their unity, rather, is meant to emerge, uh, as a harmony.
+
+823
+01:06:44,780 --> 01:06:54,300
+ The form of the proposition is the appearance of the determinate sense, or the accent that distinguishes its fulfillment.
+
+824
+01:06:54,780 --> 01:07:03,060
+ But that, the predicate expresses the dip, the substance, and that the subject itself falls into the universal,
+
+825
+01:07:03,620 --> 01:07:07,060
+ this is the unity in which the accent dies away.
+
+826
+01:07:08,320 --> 01:07:14,480
+ Like, in other words, he turns to the end, like, this is how you kill music, is by making equal signs, places.
+
+827
+01:07:14,480 --> 01:07:19,940
+ That, that rhythm and harmony, you know, that, that sort of conflict between meter and accent,
+
+828
+01:07:20,080 --> 01:07:22,160
+ isn't to conflate them into one line.
+
+829
+01:07:22,680 --> 01:07:23,120
+ That's right.
+
+830
+01:07:23,440 --> 01:07:28,220
+ That, so he's, here, this is, this is the, I mean, he's not, he doesn't say this explicitly,
+
+831
+01:07:28,320 --> 01:07:32,300
+ but this is where he's defining what Aufheben is, right?
+
+832
+01:07:32,300 --> 01:07:38,940
+ Like, it is, it is that kind of, um, you know, I mean, as we always say, it's like,
+
+833
+01:07:39,300 --> 01:07:44,280
+ it's overcoming the difference and maintaining, and maintaining the distinction simultaneously.
+
+834
+01:07:44,660 --> 01:07:50,580
+ And that's why, that's why the thesis, antithesis, synthesis is a terrible understanding of this,
+
+835
+01:07:50,640 --> 01:07:54,720
+ because synthesis is not maintaining the difference, it's overcoming it.
+
+836
+01:07:55,520 --> 01:07:59,000
+ And, uh, and, and so, I mean, that's great, right?
+
+837
+01:07:59,060 --> 01:08:04,160
+ Like, cause it's, the, the notion of the, the relationship between them has to emerge.
+
+838
+01:08:04,240 --> 01:08:05,520
+ It's a, it's a harmonics.
+
+839
+01:08:05,860 --> 01:08:06,340
+ Yeah.
+
+840
+01:08:06,420 --> 01:08:11,580
+ Um, in terms of the Aufheben movement maintains, uh, it must maintain a harmonics between,
+
+841
+01:08:11,660 --> 01:08:14,540
+ it doesn't get rid of the other term.
+
+842
+01:08:15,120 --> 01:08:19,560
+ Which means there has to be, like, there has to be, you know, it's not an equal sign between them.
+
+843
+01:08:19,680 --> 01:08:21,940
+ It's, it's a, it's a ratio, right?
+
+844
+01:08:21,960 --> 01:08:23,580
+ It's like three to two, right?
+
+845
+01:08:24,040 --> 01:08:28,340
+ That, that maintains and exerts the difference, the, the specific difference.
+
+846
+01:08:29,100 --> 01:08:29,540
+ Yeah.
+
+847
+01:08:29,600 --> 01:08:32,400
+ I mean, it's, it's, again, it's a style, right?
+
+848
+01:08:32,420 --> 01:08:35,300
+ Like it's, uh, I mean, yeah, there's some of it.
+
+849
+01:08:35,300 --> 01:08:37,240
+ It's certainly, it certainly isn't an equal sign.
+
+850
+01:08:37,400 --> 01:08:43,520
+ I mean, that's the thing that he's resisting is, is the is makes a equal sign between things.
+
+851
+01:08:43,520 --> 01:08:45,780
+ And it's, it maintains a distinction.
+
+852
+01:08:46,280 --> 01:08:47,780
+ And that's really, really hard to say.
+
+853
+01:08:47,960 --> 01:08:49,580
+ But here, style is singularity, right?
+
+854
+01:08:50,160 --> 01:08:51,560
+ Yeah, that's, it is.
+
+855
+01:08:51,780 --> 01:08:52,300
+ You know, it's not an approach.
+
+856
+01:08:52,400 --> 01:08:57,640
+ It's not a vector of approach, but it is, I mean, or, I mean, like his language for style,
+
+857
+01:08:57,640 --> 01:09:00,600
+ I think, is quality, right?
+
+858
+01:09:00,600 --> 01:09:03,560
+ And think about quality in the musical sense.
+
+859
+01:09:03,760 --> 01:09:09,220
+ Like, what is the, the particular, like the pitch or the harmonics of, uh, you know, or
+
+860
+01:09:09,220 --> 01:09:15,040
+ what was the resonance of this particular pitch that now is like acts and, and.
+
+861
+01:09:15,040 --> 01:09:17,940
+ I really just feel like I don't know, I don't know shit about music.
+
+862
+01:09:18,000 --> 01:09:22,220
+ I had a, I had a conversation, not about Hegel, but, uh, not that long ago with Sebastian
+
+863
+01:09:22,220 --> 01:09:23,360
+ about this.
+
+864
+01:09:23,360 --> 01:09:25,620
+ And he knows a shit ton in terms of music theory.
+
+865
+01:09:25,620 --> 01:09:27,040
+ And he was trying to explain stuff to me.
+
+866
+01:09:27,100 --> 01:09:29,840
+ And I was like, I, I just don't understand any of these things.
+
+867
+01:09:29,980 --> 01:09:30,960
+ I don't get it.
+
+868
+01:09:30,960 --> 01:09:34,420
+ Like, so maybe Nate, it's easier for you to get this stuff.
+
+869
+01:09:34,420 --> 01:09:36,740
+ Cause I just don't know music theory at all.
+
+870
+01:09:36,780 --> 01:09:37,600
+ Like at all.
+
+871
+01:09:37,600 --> 01:09:37,720
+ Right.
+
+872
+01:09:38,100 --> 01:09:43,960
+ So, well, I mean, an easy way, the, the little analogy here is just, it's, it's like a,
+
+873
+01:09:43,960 --> 01:09:47,020
+ a way of articulating concrete universality.
+
+874
+01:09:47,020 --> 01:09:52,180
+ I think, you know, which is related directly to the Alphabon, like you just said, but I
+
+875
+01:09:52,180 --> 01:09:54,960
+ mean, meter is supposed to be the stable thing, right?
+
+876
+01:09:55,300 --> 01:09:56,640
+ It's what marks time.
+
+877
+01:09:56,840 --> 01:10:00,140
+ And then the accent is contingency, right?
+
+878
+01:10:00,240 --> 01:10:04,340
+ So the, the synthesis of both, right?
+
+879
+01:10:04,600 --> 01:10:10,760
+ Um, music, the meter is both unraveled and sustained by accent, by contingency, by like
+
+880
+01:10:10,760 --> 01:10:15,740
+ phenomenological mistakes or quirks in, in the performance.
+
+881
+01:10:16,180 --> 01:10:23,400
+ So it's like that, that weird tension between what looks stable in the form and, uh, the,
+
+882
+01:10:23,400 --> 01:10:27,840
+ the mistakes or quirks or whatever you want to call them of the, of the actual performance.
+
+883
+01:10:28,240 --> 01:10:31,440
+ Um, but the accent doesn't have to be a mistake, right?
+
+884
+01:10:31,460 --> 01:10:34,900
+ I mean, it is just like, I mean, like I would put it in the rhetorical sense.
+
+885
+01:10:34,900 --> 01:10:40,520
+ It's amplification or like, I mean, it is like taking the stability and it's sort of
+
+886
+01:10:40,520 --> 01:10:44,060
+ like, you know, I'm going to, I'm going to emphasize this note and de-emphasize this
+
+887
+01:10:44,060 --> 01:10:44,420
+ note.
+
+888
+01:10:44,680 --> 01:10:44,820
+ Right.
+
+889
+01:10:45,260 --> 01:10:46,540
+ Or like this beat.
+
+890
+01:10:50,560 --> 01:10:54,660
+ So, so think about what that, think about what that means for reading, because that's
+
+891
+01:10:54,660 --> 01:10:55,480
+ what he's talking about.
+
+892
+01:10:55,540 --> 01:10:56,900
+ He's talking about here.
+
+893
+01:10:57,000 --> 01:11:01,720
+ It's the relationship between the proposition and the notion or the con, you know, conceptuality,
+
+894
+01:11:01,780 --> 01:11:02,900
+ the movement of the conceptuality.
+
+895
+01:11:02,980 --> 01:11:04,540
+ So that's the relationship that's in this.
+
+896
+01:11:04,840 --> 01:11:06,300
+ So it's like, yeah, we have propositions.
+
+897
+01:11:06,420 --> 01:11:07,640
+ That's the meter, right?
+
+898
+01:11:07,640 --> 01:11:09,620
+ That sort of sets the sort of thing.
+
+899
+01:11:10,040 --> 01:11:13,480
+ Uh, but the movement of the concept is the, is that accent thing.
+
+900
+01:11:13,480 --> 01:11:18,680
+ And if you think of reading in that way, reading is no longer in any way about understanding
+
+901
+01:11:18,680 --> 01:11:19,820
+ in its usual.
+
+902
+01:11:20,320 --> 01:11:28,360
+ It's the opposite that the proposition is meter in so far as every single space, every
+
+903
+01:11:28,360 --> 01:11:29,860
+ single, it's, it's, it's a proposition.
+
+904
+01:11:30,000 --> 01:11:30,580
+ It was reading.
+
+905
+01:11:30,660 --> 01:11:33,720
+ There's only one proposition after another proposition after another proposition.
+
+906
+01:11:33,720 --> 01:11:41,720
+ But then like the, the, the, the sense and difference comes from, uh, uh, from like in the movement
+
+907
+01:11:41,720 --> 01:11:47,120
+ from one proposition to the next, uh, like that's, that's where you get accents, right?
+
+908
+01:11:47,200 --> 01:11:49,000
+ So the, the conceptual, right.
+
+909
+01:11:49,080 --> 01:11:49,520
+ So that, yeah.
+
+910
+01:11:49,520 --> 01:11:54,260
+ So it's proposition to proposition instead of within the proposition, it's proposition to
+
+911
+01:11:54,260 --> 01:11:55,100
+ the next proposition.
+
+912
+01:11:55,260 --> 01:11:55,480
+ Right.
+
+913
+01:11:55,520 --> 01:11:56,600
+ So both, both would apply.
+
+914
+01:11:56,600 --> 01:12:01,960
+ And the difference, the difference between propositions are the accents, but you're just, all you're
+
+915
+01:12:01,960 --> 01:12:06,820
+ getting, you know, I like, in other words, like, look, the, the least interesting thing
+
+916
+01:12:06,820 --> 01:12:09,680
+ about music is the meter, right?
+
+917
+01:12:09,740 --> 01:12:14,980
+ That's just like, that should disappear into the background as everything else comes to
+
+918
+01:12:14,980 --> 01:12:15,380
+ fruition.
+
+919
+01:12:15,660 --> 01:12:22,820
+ Like it is just like the, it is just like the, the bare, no, no song is just, no, it's not
+
+920
+01:12:22,820 --> 01:12:23,660
+ just the metronome.
+
+921
+01:12:23,800 --> 01:12:24,240
+ Yeah.
+
+922
+01:12:24,360 --> 01:12:24,660
+ Right.
+
+923
+01:12:24,840 --> 01:12:25,020
+ Yeah.
+
+924
+01:12:25,020 --> 01:12:29,560
+ So no reading is just a series of propositions either, but you can't have it without it.
+
+925
+01:12:30,020 --> 01:12:34,560
+ It's, it's, it's the difference that, that sort of creates a rhythm between the propositions.
+
+926
+01:12:35,880 --> 01:12:40,620
+ But I mean, like, but you, you, you kind of hesitantly brought up the word attunement
+
+927
+01:12:40,620 --> 01:12:42,500
+ before, but that's what reading would be, right?
+
+928
+01:12:42,600 --> 01:12:50,060
+ Reading would be, uh, attuning oneself to those ratios or to those differences, not understanding
+
+929
+01:12:50,060 --> 01:12:51,260
+ them, right?
+
+930
+01:12:51,280 --> 01:12:52,700
+ In the sense of grasping.
+
+931
+01:12:53,060 --> 01:12:56,140
+ Getting caught in, getting caught in, into the current, right?
+
+932
+01:12:56,200 --> 01:12:57,240
+ Getting caught in the rhythm.
+
+933
+01:12:57,320 --> 01:12:57,480
+ Right.
+
+934
+01:12:57,540 --> 01:13:01,720
+ So, so in this sense, and this, you know, as you just, as you pointed out, this comes out,
+
+935
+01:13:02,440 --> 01:13:05,660
+ um, or no, actually, I guess it leads into the section perfectly.
+
+936
+01:13:06,420 --> 01:13:09,560
+ Actually, it leads into the section about why philosophy is hard to read.
+
+937
+01:13:10,280 --> 01:13:17,240
+ It's like, well, because reading has to become something other than the grasping of information.
+
+938
+01:13:17,440 --> 01:13:23,860
+ It has to become like this other, attentive attunement or whatever to the rhythm and axel.
+
+939
+01:13:23,860 --> 01:13:28,820
+ Well, this, this makes 62 all the more interesting to me because here he's based, this is like
+
+940
+01:13:28,820 --> 01:13:33,920
+ his example of saying like, you know, the, the propositional statement X is Y isn't to
+
+941
+01:13:33,920 --> 01:13:37,680
+ conflate the two things, but it's to chart out the specific difference that's going to set
+
+942
+01:13:37,680 --> 01:13:39,720
+ the thinking into motion.
+
+943
+01:13:40,920 --> 01:13:44,640
+ I don't, I don't know if we have time, but can we, uh, can I read 62 quick?
+
+944
+01:13:45,300 --> 01:13:46,800
+ We can go on for a bit.
+
+945
+01:13:47,840 --> 01:13:54,420
+ To illustrate what has been said in the proposition, God is being, the predicate is being, it has
+
+946
+01:13:54,420 --> 01:13:58,840
+ the significance of something substantial in which the subject is dissolved.
+
+947
+01:13:59,120 --> 01:14:06,480
+ So the subject becomes dissolved into, and this is, I think would be the, um, uh, the traditional
+
+948
+01:14:06,480 --> 01:14:12,340
+ the Lockean sense of like, you know, being here becomes the thing that gives the otherwise
+
+949
+01:14:12,340 --> 01:14:15,100
+ inert substance, some kind of specificity.
+
+950
+01:14:15,220 --> 01:14:17,960
+ God is being, God gets dissolved in the word.
+
+951
+01:14:17,960 --> 01:14:18,400
+ Exactly.
+
+952
+01:14:18,560 --> 01:14:25,840
+ Like it's being here meant, uh, to be not a predicate, but rather the essence.
+
+953
+01:14:26,320 --> 01:14:32,620
+ It seems consequently that God ceases to be what he is from his position in the proposition
+
+954
+01:14:32,620 --> 01:14:38,860
+ that is a fixed subject here thinking instead of making progress in the transition from subject
+
+955
+01:14:38,860 --> 01:14:45,840
+ to predicate in reality feels itself checked by the loss of the subject and missing it is
+
+956
+01:14:45,840 --> 01:14:48,720
+ thrown back onto the thought of the subject.
+
+957
+01:14:48,720 --> 01:14:56,780
+ Or since the predicate itself has been expressed as a subject, as the being or essence, which exhausts
+
+958
+01:14:56,780 --> 01:15:02,080
+ the nature of the subject, thinking finds the subject immediately in the predicate.
+
+959
+01:15:02,080 --> 01:15:11,260
+ And now having returned into itself in the predicate, instead of being in a position where it has freedom
+
+960
+01:15:11,260 --> 01:15:18,680
+ for argument, it is still absorbed in the content, or at least is faced with the demand that it
+
+961
+01:15:18,680 --> 01:15:19,300
+ should be.
+
+962
+01:15:19,640 --> 01:15:20,400
+ That it should be.
+
+963
+01:15:20,500 --> 01:15:28,080
+ Similarly, too, when one says the actual is the universal, the actual as subject disappears
+
+964
+01:15:28,080 --> 01:15:29,640
+ in its predicate.
+
+965
+01:15:30,260 --> 01:15:37,260
+ The universal is not meant to have merely the significance of a predicate as if the proposition
+
+966
+01:15:37,260 --> 01:15:41,420
+ asserted only, uh, only that the actual is universal.
+
+967
+01:15:41,700 --> 01:15:42,780
+ On the contrary.
+
+968
+01:15:42,900 --> 01:15:43,040
+ Right.
+
+969
+01:15:43,080 --> 01:15:43,900
+ It's not an attribute.
+
+970
+01:15:44,220 --> 01:15:50,520
+ On the, on the contrary, the universal is meant to express the essence of the actual.
+
+971
+01:15:50,940 --> 01:15:57,120
+ Thinking, therefore, loses the firm objective basis it had in the subject when in the predicate
+
+972
+01:15:57,120 --> 01:15:59,440
+ it is thrown back onto the subject.
+
+973
+01:15:59,700 --> 01:16:05,980
+ And when in the predicate it does not return into itself, but into the subject of the content.
+
+974
+01:16:06,880 --> 01:16:12,380
+ So it goes out in, so, and here we're talking about very specific types of predicates, which
+
+975
+01:16:12,380 --> 01:16:14,200
+ are essence, predicates of the essence.
+
+976
+01:16:14,700 --> 01:16:18,260
+ So you're not saying God is a being, you're saying God is being.
+
+977
+01:16:18,260 --> 01:16:21,520
+ You're not saying the actual is universal.
+
+978
+01:16:21,840 --> 01:16:23,720
+ You're saying the actual is the universal.
+
+979
+01:16:24,420 --> 01:16:33,240
+ So essence claims then as predication are ones that go out, but don't come back.
+
+980
+01:16:34,080 --> 01:16:34,200
+ Right.
+
+981
+01:16:34,260 --> 01:16:38,560
+ So in other words, this, so this is the other problem with argumentation.
+
+982
+01:16:39,160 --> 01:16:39,640
+ Right.
+
+983
+01:16:39,740 --> 01:16:45,380
+ That, that, that, that the negative isn't returned to the, the, the subject, that it
+
+984
+01:16:45,380 --> 01:16:51,460
+ just simply goes out in that accidental, aleatory chance, chance-like way.
+
+985
+01:16:51,480 --> 01:16:54,180
+ All I can think of is the dice throw of the eternal return right now.
+
+986
+01:16:55,640 --> 01:16:56,080
+ Yeah.
+
+987
+01:16:56,220 --> 01:16:58,220
+ Well, it is, it is, it's like that.
+
+988
+01:16:58,280 --> 01:16:58,420
+ Yeah.
+
+989
+01:16:58,460 --> 01:17:00,980
+ The sort of dice that's thrown and the dice that fall back.
+
+990
+01:17:00,980 --> 01:17:01,360
+ Right.
+
+991
+01:17:01,360 --> 01:17:08,140
+ And, and if God can vanish right in this, this precarious predicative logic, then anything
+
+992
+01:17:08,140 --> 01:17:08,740
+ can vanish.
+
+993
+01:17:08,740 --> 01:17:15,820
+ Any subject vanishes into its predicate, any propositional logic that we took for granted
+
+994
+01:17:15,820 --> 01:17:21,340
+ in a previous form of thinking is made vulnerable here.
+
+995
+01:17:21,540 --> 01:17:24,880
+ So, I mean, you're talking about how rare this kind of thinking is.
+
+996
+01:17:24,960 --> 01:17:30,880
+ It's because it's resisting the insecurity of the speculative movement that Hegel's articulating
+
+997
+01:17:30,880 --> 01:17:31,200
+ here.
+
+998
+01:17:31,500 --> 01:17:36,300
+ It's like, that's where, that's where this is really like a proto, uh, psychoanalytic thing
+
+999
+01:17:36,300 --> 01:17:36,780
+ for me.
+
+1000
+01:17:36,820 --> 01:17:43,820
+ Cause it's talking about what in our own, like, you know, implicit, unconscious desiring mechanism
+
+1001
+01:17:43,820 --> 01:17:46,860
+ resists this complexity of thinking.
+
+1002
+01:17:46,960 --> 01:17:47,480
+ Right.
+
+1003
+01:17:47,480 --> 01:17:52,160
+ It's like, we want security in the proposition and for Hegel, you just don't get that.
+
+1004
+01:17:53,160 --> 01:17:59,020
+ There, there's no solid ground, um, for us to rest on, you know?
+
+1005
+01:17:59,020 --> 01:18:01,260
+ Rather, the solid ground is movement, right?
+
+1006
+01:18:01,340 --> 01:18:05,180
+ The solid ground is the negative and that's the only ground that there is.
+
+1007
+01:18:17,480 --> 01:18:29,420
+ There, there, there, there, there, there, there, there, there, there.
+

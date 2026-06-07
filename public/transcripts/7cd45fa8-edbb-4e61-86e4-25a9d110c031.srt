@@ -1,0 +1,3016 @@
+1
+00:00:00,000 --> 00:00:22,700
+ All right, shall we talk some Deleuze?
+
+2
+00:00:23,800 --> 00:00:24,280
+ Sure.
+
+3
+00:00:24,420 --> 00:00:24,660
+ Sure.
+
+4
+00:00:26,760 --> 00:00:27,560
+ A little Deleuze.
+
+5
+00:00:27,560 --> 00:00:37,140
+ This is good because I really want your guys' help on these things because – so the time thing is always hard for me.
+
+6
+00:00:37,300 --> 00:00:38,720
+ I mean I just have a hard time.
+
+7
+00:00:38,780 --> 00:00:39,920
+ I don't know why it is.
+
+8
+00:00:40,000 --> 00:00:46,280
+ Like there's no other major conceptual thing that I have a harder time with than thinking about time.
+
+9
+00:00:47,240 --> 00:00:49,820
+ That's the name of this episode then, hard times with time.
+
+10
+00:00:52,040 --> 00:00:52,900
+ The time thing.
+
+11
+00:00:52,900 --> 00:01:06,240
+ I mean that's – I'm just interested in – I'm really interested in us just talking through it because I don't really – I don't have a good – I feel like when I understand some of these series, I kind of have like a – I don't know.
+
+12
+00:01:06,300 --> 00:01:13,820
+ At least some sort of mental picture, a mental model of the conceptual dynamics and for whatever reason – and it's not just Deleuze.
+
+13
+00:01:13,940 --> 00:01:15,320
+ It's anything that I read on time.
+
+14
+00:01:15,360 --> 00:01:21,060
+ I just have a very hard – it's very difficult for me to conceptualize time.
+
+15
+00:01:21,260 --> 00:01:22,140
+ It's a country song.
+
+16
+00:01:22,300 --> 00:01:23,900
+ Hard time with time.
+
+17
+00:01:25,260 --> 00:01:25,660
+ Yeah.
+
+18
+00:01:26,080 --> 00:01:30,140
+ No, I had a lot more trouble with that second series than with the alcohol one.
+
+19
+00:01:30,260 --> 00:01:47,800
+ I felt like the first one for today was not straightforward but it was kind of more impressionistic or poetic and you could – I found myself latching on to a few of the key little arguments or like the imagery of that first series for today.
+
+20
+00:01:47,800 --> 00:01:58,360
+ And then the second one was pretty highly technical and was going through all the dynamics of Kronos and then Aeon and I didn't feel – it wasn't like I wasn't understanding it.
+
+21
+00:01:58,460 --> 00:02:08,160
+ It's just that – I mean like you're saying, I think the most interesting thing I – personally I can say about time is that I don't really have anything interesting to say about it.
+
+22
+00:02:08,380 --> 00:02:14,300
+ It's just like I don't really know what to do with some of that conceptual material.
+
+23
+00:02:14,760 --> 00:02:16,540
+ But maybe Nathaniel has the answers.
+
+24
+00:02:16,700 --> 00:02:17,840
+ I don't have the answers.
+
+25
+00:02:17,920 --> 00:02:30,660
+ I like thinking through time just because it's – when I can see it, it feels great and then when I can't, I feel totally disoriented and I can't even utter a single sentence about it.
+
+26
+00:02:31,040 --> 00:02:43,240
+ But reading something like this is – it gets me in those – it allows me to position myself where I can get those little glimpses of what's going on and I love that.
+
+27
+00:02:43,920 --> 00:02:45,140
+ I get the glimpses.
+
+28
+00:02:45,140 --> 00:02:46,560
+ I mean I get the glimpses too.
+
+29
+00:02:48,260 --> 00:02:57,740
+ I mean for example, and I – at least for me, the thing that is most helpful for thinking about time is usually Derrida.
+
+30
+00:02:59,020 --> 00:03:15,280
+ And so in terms of like the Kronos thing, I think of it in terms of Derrida where Derrida has this line in something where he says, you know, every thinking about the future is always of a future present, which is it conceptualizes the future as another moment that's – that it's just not here yet.
+
+31
+00:03:15,660 --> 00:03:19,180
+ Or the past as something that is – it's a present.
+
+32
+00:03:19,340 --> 00:03:23,760
+ It's just not – it's already, you know, behind us or something like that.
+
+33
+00:03:23,820 --> 00:03:25,600
+ So it's all conceptualized in terms of present.
+
+34
+00:03:26,000 --> 00:03:27,920
+ So that to me made sense, right?
+
+35
+00:03:28,000 --> 00:03:32,580
+ Like it's, you know, that Kronos image of it's just a series of presents.
+
+36
+00:03:32,720 --> 00:03:41,400
+ And then, you know, he talks about the Zeus view, the sort of God's eye view where all of that would count as present.
+
+37
+00:03:42,040 --> 00:03:46,560
+ And so that's the sort of – the unity of, you know, the universal unity.
+
+38
+00:03:46,580 --> 00:03:47,500
+ The eternal present.
+
+39
+00:03:47,860 --> 00:03:48,000
+ Yeah.
+
+40
+00:03:48,120 --> 00:03:48,440
+ Right.
+
+41
+00:03:48,560 --> 00:03:50,660
+ Like – and so I feel like I get that part.
+
+42
+00:03:50,740 --> 00:03:53,260
+ I mean I get that component of Kronos.
+
+43
+00:03:53,740 --> 00:03:59,240
+ And then I also get the sort of critique dimension of the eon, which is that there's no presence.
+
+44
+00:03:59,680 --> 00:04:02,760
+ There's no present in the eon version.
+
+45
+00:04:04,040 --> 00:04:04,400
+ Right, right.
+
+46
+00:04:04,400 --> 00:04:16,700
+ And that to me is – it just – the way I understand it is it's just kind of a deconstruction of the notion of presence, like fairly simply, you know, which is that even that present moment is always split.
+
+47
+00:04:17,940 --> 00:04:22,060
+ And it's sort of coming to be passing away in Heidegger's terminology.
+
+48
+00:04:22,880 --> 00:04:24,040
+ So I get that.
+
+49
+00:04:24,100 --> 00:04:31,460
+ I get that sense of like on the one hand, there are these presents, some of which we call the past, some of which we call the future, some of which we call the present.
+
+50
+00:04:31,880 --> 00:04:35,120
+ On the other hand, there is this sense of which there's no presence ever.
+
+51
+00:04:35,720 --> 00:04:40,840
+ There is only the dehescences, like the term that Derrida uses at the heart of it.
+
+52
+00:04:41,140 --> 00:04:46,480
+ So I get – and I took that to be like the basic kind of architecture of the two.
+
+53
+00:04:46,760 --> 00:04:54,300
+ But there is a lot more going on there that I feel like I'm just – other than – you know, I get those – the basic points.
+
+54
+00:04:55,320 --> 00:05:02,080
+ But I feel like I don't really know what else to say about time other than kind of deconstructing presence.
+
+55
+00:05:02,220 --> 00:05:04,340
+ I mean that's the Derridian in me.
+
+56
+00:05:04,420 --> 00:05:06,260
+ It's like, hey, the presence is never simply present.
+
+57
+00:05:06,700 --> 00:05:13,520
+ And, you know, I mean there's a way in which that's a kind of like 16-year-old stoner point, right?
+
+58
+00:05:13,740 --> 00:05:19,280
+ Like – so like the minute you say now, it's already – you know, like all of that kind of thinking.
+
+59
+00:05:19,520 --> 00:05:30,000
+ So – and that's about as far as I go conceptually in terms of – even in this chapter, I realize – I get the sense that there's a lot more to their interplay and dynamics.
+
+60
+00:05:30,140 --> 00:05:32,040
+ But I don't really have a sense of what it is.
+
+61
+00:05:32,260 --> 00:05:35,160
+ So – and I didn't expect either of you guys to have an answer.
+
+62
+00:05:35,240 --> 00:05:39,520
+ I just figured we'll talk through the shit and through some of the examples and out of that is going to come some stuff.
+
+63
+00:05:39,680 --> 00:05:43,580
+ So it wasn't like, hey, quick, come up with something, you know.
+
+64
+00:05:48,220 --> 00:06:05,180
+ One of the things I would really like to think through, you know, the two notions of time and the relationship to each other, not just in and of it for itself, but also the version of Kronos that we get here is so different than the version of Kronos that typically traffics.
+
+65
+00:06:05,280 --> 00:06:10,920
+ And I think we talked about this in a few episodes ago, but I don't want to just say there are two different versions of Kronos.
+
+66
+00:06:10,980 --> 00:06:13,820
+ I kind of want to figure out the hinge that that links the two.
+
+67
+00:06:14,040 --> 00:06:14,760
+ Well, let's do it.
+
+68
+00:06:14,860 --> 00:06:15,060
+ Right.
+
+69
+00:06:15,700 --> 00:06:16,000
+ Cool.
+
+70
+00:06:16,440 --> 00:06:24,320
+ Well, first of all, I mean this is a much more complex Kronos, right, than the one that I'm familiar with, right?
+
+71
+00:06:24,380 --> 00:06:29,900
+ I mean how would we define Kronos in its most vulgar form, you know?
+
+72
+00:06:29,900 --> 00:06:38,440
+ I would say to vulgarize it, you would say, you know, time is some natural thing that is constantly unfolding.
+
+73
+00:06:38,880 --> 00:06:46,100
+ And then Kronos is the scientific measurement of the unfolding of one of the two major dimensions of reality.
+
+74
+00:06:46,480 --> 00:06:54,160
+ And it's just sort of the regular realization, the sequencing of that, of what is otherwise an undifferentiated movement.
+
+75
+00:06:54,160 --> 00:07:00,420
+ And you're adding a sort of a system to differentiate it, you know, in terms of seconds, minutes, hours, years, whatever.
+
+76
+00:07:01,900 --> 00:07:02,320
+ Right, right.
+
+77
+00:07:02,360 --> 00:07:07,440
+ And then there would be an absolute separability between those moments, right?
+
+78
+00:07:07,800 --> 00:07:13,580
+ So chronologically, from past to present to future, each moment is separate and separable.
+
+79
+00:07:14,020 --> 00:07:15,000
+ Absolutely, right?
+
+80
+00:07:15,080 --> 00:07:19,580
+ There's no folding in that kind of vulgar notion of Kronos.
+
+81
+00:07:19,580 --> 00:07:21,140
+ Well, I mean, it depends on how you look at it.
+
+82
+00:07:21,220 --> 00:07:27,360
+ Like if you look at it sort of as – so take any unit of time, right, which would have to have a duration.
+
+83
+00:07:27,360 --> 00:07:28,760
+ So it could not be the aeon.
+
+84
+00:07:28,880 --> 00:07:34,720
+ It could not be, you know, the pure line without thickness.
+
+85
+00:07:35,000 --> 00:07:42,960
+ Like any unit of time in the vulgar – in the scientific notion of chronology would have to have a duration, right?
+
+86
+00:07:43,000 --> 00:07:43,900
+ It has a thickness to it.
+
+87
+00:07:44,420 --> 00:07:47,280
+ And then that thickness would have to encapsulate everything in there.
+
+88
+00:07:47,340 --> 00:07:49,880
+ And this is obviously sort of like introducing those paradox in there.
+
+89
+00:07:49,880 --> 00:07:57,240
+ It's like, all right, how do you – how are you going to singularize, you know, it's always infinitely more dividable, right?
+
+90
+00:07:57,360 --> 00:08:02,720
+ And you're not going to ever be able to get to sort of like the absolute, you know, atomic unit of time.
+
+91
+00:08:03,240 --> 00:08:17,300
+ But I do think that with it – I think that that apparatus invites its own complication in that – like take a scientifically deterministic paradigm.
+
+92
+00:08:17,300 --> 00:08:28,360
+ That would say – take any snapshot and you would say that it contains every cause that led to this moment.
+
+93
+00:08:29,680 --> 00:08:35,040
+ I mean – or it is the expression of every – the sum total of every cause in the universe that led to this moment.
+
+94
+00:08:35,040 --> 00:08:44,080
+ And it contains in it the causality that will lead to every effect, you know, in the future.
+
+95
+00:08:44,360 --> 00:08:54,580
+ So in a way, even that sort of vulgar sense of chronology sort of collapses all futures and pasts into itself.
+
+96
+00:08:55,580 --> 00:09:04,040
+ Yeah, well, it certainly invites its own critique at least, which kind of feeds into the version of Aeon that's elucidated here.
+
+97
+00:09:04,120 --> 00:09:05,920
+ But yeah, I think you're right.
+
+98
+00:09:06,280 --> 00:09:17,660
+ The really vulgar version of Kronos for me almost like just leaves out any notion of futurity or at least if it's – if the future – the future because of that notion of causality, right?
+
+99
+00:09:17,660 --> 00:09:27,440
+ Like the future is either totally determined by the – you know, by a certain whatever version of causality or it's completely unknown, right?
+
+100
+00:09:27,500 --> 00:09:29,040
+ It's totally unpredictable.
+
+101
+00:09:29,240 --> 00:09:37,260
+ That seems to be the two – so it's like you only get past and present in that – the kind of standard version of Kronos, linear.
+
+102
+00:09:37,800 --> 00:09:38,200
+ So –
+
+103
+00:09:38,200 --> 00:09:38,880
+ Yeah, yeah.
+
+104
+00:09:38,940 --> 00:09:46,480
+ I mean my version of the vulgar I think is a little bit different and maybe this is where – this is my starting point maybe is just one of confusion.
+
+105
+00:09:46,480 --> 00:09:57,480
+ Because I sort of think of a conventional understanding of time as being – time is just this thing sort of removed from life.
+
+106
+00:09:58,420 --> 00:10:04,120
+ Like life happens and time becomes this way of measuring it, right?
+
+107
+00:10:04,180 --> 00:10:16,460
+ Time is this sort of transcendent abstract series of divisions of whatever size that becomes just sort of ways of measuring – in other words, time is not embedded in bodies.
+
+108
+00:10:16,480 --> 00:10:35,080
+ Time is just the sort of way that we attempt – so for instance, when you said the two major forces, you know, space and time, I always feel like I understand that for space but I don't really understand that for time because I – my sort of intuition – and by the way, I think this is wrong, this intuition.
+
+109
+00:10:35,240 --> 00:10:35,680
+ I mean let me be clear.
+
+110
+00:10:35,680 --> 00:10:35,780
+ I mean let me be clear.
+
+111
+00:10:35,780 --> 00:10:41,500
+ But like is that time is not part of the interaction of bodies.
+
+112
+00:10:41,500 --> 00:10:45,720
+ It is just a term for describing the fact that things move, right?
+
+113
+00:10:45,720 --> 00:10:52,660
+ Like it's kind of like a transcendent category of – again, you can have seconds, hours, years, you know, you can have whatever.
+
+114
+00:10:53,160 --> 00:11:00,260
+ But it's like a line that exists above the world that moves, you know, with an arrow in one direction, right?
+
+115
+00:11:00,300 --> 00:11:05,240
+ Like that it can be divided however it wants to be divided, that it's not time.
+
+116
+00:11:05,240 --> 00:11:13,720
+ So I remember for me it was really kind of transformative when – and this is probably 20 years ago and I can't remember.
+
+117
+00:11:13,840 --> 00:11:20,320
+ It might have been Bergson where I started to think of time as being a component of bodies' interactions.
+
+118
+00:11:20,680 --> 00:11:23,680
+ Like that's what it means for relations.
+
+119
+00:11:24,160 --> 00:11:26,720
+ Relations mean time, right?
+
+120
+00:11:26,720 --> 00:11:43,100
+ Like that's where time is in fact located at that kind of notion of primordial relationality because otherwise to me, like I said, time just seems like it's extracted and removed and it just is a sort of measuring operation for like, yeah, life goes on as it goes on.
+
+121
+00:11:43,380 --> 00:11:46,840
+ But time is this sort of the thing – a thing hanging above them.
+
+122
+00:11:50,680 --> 00:12:01,840
+ So you couldn't say that time goes on or happens or any other verb without a sense of time being embedded into it, right?
+
+123
+00:12:01,900 --> 00:12:20,660
+ So, I mean, I think you would have to look at Kant as the kind of pivotal figure and say sort of like pre-Kant, you would – or at least, you know, this is the sort of story that Kant would tell is that pre-Kant, you know, we just think of time and space as the two natural dimensions of reality.
+
+124
+00:12:21,680 --> 00:12:30,080
+ And then, you know, we then have extra language that then represents those realities and measures them.
+
+125
+00:12:30,620 --> 00:12:33,760
+ And, you know, you can – I can measure meters and I can measure seconds.
+
+126
+00:12:34,020 --> 00:12:37,920
+ But that's just measuring something that already exists out there in the world.
+
+127
+00:12:37,980 --> 00:12:44,480
+ And frankly, this is, you know, for sort of everything under the paradigm of Newtonian physics.
+
+128
+00:12:44,680 --> 00:12:49,660
+ You would say that's just – that's just what time – like time and space are just those things, right?
+
+129
+00:12:49,660 --> 00:13:14,740
+ Now, obviously, they become much more complicated with Einstein and relativity and – but, you know, Kant, you know, does the Copernican flip and be like, you know, time and space are dimensions or sort of like dividing mechanisms of the human mind that, you know, that sort of vend order or lend an organizing logic to, you know, the numeral realm, right?
+
+130
+00:13:15,180 --> 00:13:15,440
+ Yeah.
+
+131
+00:13:16,100 --> 00:13:25,280
+ But then, you know, sort of like when you were talking about the abstracted, you know, arrow, you know, that's – you know, the pre-Kantian discourse, you would say that's not time.
+
+132
+00:13:25,840 --> 00:13:29,020
+ That's language about time, right?
+
+133
+00:13:29,740 --> 00:13:33,360
+ And then you would say that, no, time is real.
+
+134
+00:13:33,600 --> 00:13:36,500
+ It is just – but time equals movement.
+
+135
+00:13:36,660 --> 00:13:38,580
+ Time equals change.
+
+136
+00:13:39,640 --> 00:13:40,040
+ Right.
+
+137
+00:13:40,240 --> 00:13:42,360
+ Isn't that – so I associate that with Heidegger.
+
+138
+00:13:42,900 --> 00:13:53,580
+ Like to me – and I could be wrong, but, you know, the whole point of, to me, you know, being in time is that being is thrown, right?
+
+139
+00:13:53,660 --> 00:13:59,020
+ Like being is projected, you know, into an alterity and we can get to the details.
+
+140
+00:13:59,160 --> 00:14:06,800
+ But I always thought that's the thing – I mean, I got it in Bergson, but Bergson got it from Heidegger, you know, I presume.
+
+141
+00:14:08,320 --> 00:14:23,500
+ And that that was the transformative moment was that time is installed as a constitutive element, in his case, not just of Dazan, but of presence itself, you know, like that time is a component.
+
+142
+00:14:23,680 --> 00:14:27,340
+ It is not a transcendent operation that simply describes.
+
+143
+00:14:27,760 --> 00:14:31,460
+ Interestingly enough, because I don't have that problem with the concept of space.
+
+144
+00:14:31,720 --> 00:14:35,840
+ Space to me seems obviously like part of body's interactions.
+
+145
+00:14:36,700 --> 00:14:44,360
+ Time just seems like a secondary element of that spatialization that – because they – these things move, right?
+
+146
+00:14:44,440 --> 00:14:51,580
+ Like they do things that, you know – so I – and this might be a totally personal idiosyncrasy.
+
+147
+00:14:51,640 --> 00:14:52,040
+ I don't know.
+
+148
+00:14:52,340 --> 00:14:57,220
+ But space seems obvious to me why it's a fundamental quality of things.
+
+149
+00:14:57,580 --> 00:15:00,200
+ Time seems like it has to be added in some way.
+
+150
+00:15:00,260 --> 00:15:03,400
+ Like it doesn't seem as fundamental to me as space does.
+
+151
+00:15:04,020 --> 00:15:29,460
+ I see Heidegger and Kant's contributions as being quite different in that, you know, that one of – OK, so Zeno's paradox and the problem of change, you know, introduces a pretty – or sort of like recognizes a pretty major problem with the notion of time, which is, you know, if things are, right?
+
+152
+00:15:29,460 --> 00:15:37,800
+ In other words, if there are atomistic individual things out there and if things change, how the fuck do these two things happen together, right?
+
+153
+00:15:37,800 --> 00:15:41,820
+ How does anything ever undergo the process of change?
+
+154
+00:15:42,500 --> 00:15:47,580
+ And, you know, that the notion of time is the measurement of those changes.
+
+155
+00:15:47,860 --> 00:15:53,280
+ But the problem with it is that if you ever snapshot any duration of time –
+
+156
+00:15:53,280 --> 00:15:53,300
+ Right.
+
+157
+00:15:53,380 --> 00:15:53,860
+ That's right.
+
+158
+00:15:54,300 --> 00:15:58,120
+ Then, you know, it doesn't look like anything is changing.
+
+159
+00:15:58,560 --> 00:15:59,320
+ No, it's present.
+
+160
+00:15:59,540 --> 00:16:00,040
+ Everything is stabilized.
+
+161
+00:16:00,640 --> 00:16:02,840
+ So that's to me – that's the image.
+
+162
+00:16:03,020 --> 00:16:05,740
+ Let's call it the cinematic image, right?
+
+163
+00:16:05,740 --> 00:16:12,440
+ Like, I mean, that to me has always been the image of change, which is presence, presence, presence, presence, presence.
+
+164
+00:16:12,860 --> 00:16:14,020
+ And it's in the interstices.
+
+165
+00:16:14,200 --> 00:16:22,060
+ I mean, when you think, like, Deleuze is moving in, it's in the interstices between the frames that you attribute the causal agent of change.
+
+166
+00:16:22,520 --> 00:16:25,100
+ You just literally never see time.
+
+167
+00:16:25,340 --> 00:16:25,760
+ The change, yeah.
+
+168
+00:16:25,820 --> 00:16:30,300
+ Like, you know, because, you know, you see space, right?
+
+169
+00:16:30,340 --> 00:16:31,720
+ Like, you see it.
+
+170
+00:16:31,780 --> 00:16:31,940
+ Yeah.
+
+171
+00:16:31,940 --> 00:16:34,220
+ You don't ever see time.
+
+172
+00:16:34,320 --> 00:16:38,340
+ Time is just the concatenation of a series of still images.
+
+173
+00:16:38,680 --> 00:16:41,300
+ You know, the photograph that makes it into a movie, right?
+
+174
+00:16:41,380 --> 00:16:42,480
+ The flipping of the photograph.
+
+175
+00:16:42,780 --> 00:16:45,140
+ It was the action of the flipping, right?
+
+176
+00:16:45,300 --> 00:16:45,600
+ The flipping.
+
+177
+00:16:45,600 --> 00:16:47,440
+ Because they're all just stills, right?
+
+178
+00:16:47,900 --> 00:16:48,300
+ That's right.
+
+179
+00:16:48,440 --> 00:16:49,440
+ Just stills.
+
+180
+00:16:50,100 --> 00:16:56,600
+ And then Kant doesn't mess with that, at least not from my understanding of Kant.
+
+181
+00:16:56,700 --> 00:16:58,060
+ He doesn't mess with that so much.
+
+182
+00:16:58,200 --> 00:17:13,160
+ He just realizes that, you know, that epistemological function, it's not, you know, the sort of, like, the addition isn't a linguistic thing that we then add to an already, like, an existing property of the world.
+
+183
+00:17:13,160 --> 00:17:18,500
+ But it is a mental processing, a mental act of organizing or division.
+
+184
+00:17:19,420 --> 00:17:31,820
+ Like, he doesn't get, he doesn't attend to the motion of being because it's still, like, beings that then move and movement there means, like, displacement, right?
+
+185
+00:17:32,100 --> 00:17:35,200
+ Like, this holistic object moves from here to there.
+
+186
+00:17:35,200 --> 00:17:41,440
+ Or, you know, the evolution of an object is, you know, you can only see it in that cinematic version.
+
+187
+00:17:41,640 --> 00:17:48,700
+ And then the contribution that I see Heidegger adding is, like, being is never equal to itself.
+
+188
+00:17:49,400 --> 00:18:04,940
+ And, like, this is the major, I mean, I see Heidegger, Deleuze, you know, Brooks on, like, the whole sort of, like, cadre as the ones that their real target is the law of identity, right?
+
+189
+00:18:04,980 --> 00:18:09,300
+ Not even the law of the excluded middle or the law of non-contradiction.
+
+190
+00:18:09,360 --> 00:18:10,480
+ Non-contradiction, right.
+
+191
+00:18:10,660 --> 00:18:12,040
+ But that A doesn't equal A.
+
+192
+00:18:12,640 --> 00:18:26,780
+ And it's that sort of, like, what Heidegger is doing is saying, like, no, time as change is an integral dimension of being itself, which means that being, like, which is another way of just saying being is becoming.
+
+193
+00:18:27,320 --> 00:18:36,600
+ Not just, so the distinction there is, for Kant, it's a mental operation that we perform as opposed to an ontological operation for Heidegger.
+
+194
+00:18:36,940 --> 00:18:37,220
+ Correct.
+
+195
+00:18:37,520 --> 00:18:38,320
+ Well, yeah.
+
+196
+00:18:39,200 --> 00:18:40,620
+ Well, I think what.
+
+197
+00:18:40,620 --> 00:18:41,380
+ Well, ontological in quotation marks.
+
+198
+00:18:41,380 --> 00:18:54,660
+ But I think that the major difference is that change and movement are still fundamentally matters of displacement.
+
+199
+00:18:55,220 --> 00:18:57,200
+ A body moves, right?
+
+200
+00:18:57,680 --> 00:18:58,040
+ Right.
+
+201
+00:18:58,240 --> 00:19:00,580
+ As opposed to A does not equal A, right?
+
+202
+00:19:00,680 --> 00:19:03,040
+ Which is to say A body is movement.
+
+203
+00:19:03,660 --> 00:19:03,820
+ Right.
+
+204
+00:19:04,000 --> 00:19:04,980
+ A body is movement.
+
+205
+00:19:05,220 --> 00:19:06,300
+ Which also means –
+
+206
+00:19:06,300 --> 00:19:09,760
+ Identity is constituted by difference as opposed to identity differs.
+
+207
+00:19:10,480 --> 00:19:10,820
+ Exactly.
+
+208
+00:19:11,220 --> 00:19:27,240
+ So that's a really great way of understanding the sort of identity politics, right, like problem and difficulties is that it's always thinking identity in terms of, yes, there are identities and then they go act in the world as opposed to the sort of, you know, philosophy of difference.
+
+209
+00:19:27,240 --> 00:19:28,440
+ And stuff, which is like, no, no, no.
+
+210
+00:19:28,440 --> 00:19:30,020
+ There are no identities, right?
+
+211
+00:19:30,100 --> 00:19:33,280
+ Because identities are always constituted by their own transformation.
+
+212
+00:19:33,640 --> 00:19:35,720
+ There's no identity that then transforms.
+
+213
+00:19:36,300 --> 00:19:40,720
+ There is only the self-transformation of a residual identity.
+
+214
+00:19:41,300 --> 00:19:43,360
+ There's no such thing as a white person.
+
+215
+00:19:43,520 --> 00:19:46,120
+ There's only the whitening or blacking, right?
+
+216
+00:19:46,340 --> 00:19:46,840
+ That's right.
+
+217
+00:19:47,140 --> 00:19:47,280
+ Right.
+
+218
+00:19:48,480 --> 00:19:48,800
+ Yeah.
+
+219
+00:19:49,380 --> 00:20:01,260
+ And I think – I mean, another way to describe it, and you guys have basically said this, but like for Heidegger and I think also for Deleuze, time would be internal to being or it would be imminent to being.
+
+220
+00:20:01,400 --> 00:20:03,040
+ So becoming equals being.
+
+221
+00:20:03,040 --> 00:20:05,880
+ And for Kant, that wouldn't be the case, right?
+
+222
+00:20:05,940 --> 00:20:08,440
+ Time is like almost absolutely external.
+
+223
+00:20:09,000 --> 00:20:13,360
+ It's the noumena that is like the horizon of our thinking.
+
+224
+00:20:13,580 --> 00:20:26,460
+ And like you said, we can only apply the mental categories, insufficient mental categories to try to grasp what is an inaccessible noumenal dimension of being, right?
+
+225
+00:20:26,600 --> 00:20:29,900
+ Well, for Kant, importantly, time is not noumenal, right?
+
+226
+00:20:30,040 --> 00:20:31,500
+ It is mental.
+
+227
+00:20:31,740 --> 00:20:43,500
+ It is part of the – it is – so all of the faculties of the mind for Kant, judgment, understanding, rationalization, whatever they are, are only possible.
+
+228
+00:20:43,800 --> 00:20:44,280
+ Imagination.
+
+229
+00:20:44,280 --> 00:20:56,680
+ Are only possible because of a more fundamental faculty, like a passive faculty that is always spacing and timing, right?
+
+230
+00:20:56,680 --> 00:21:01,060
+ It's always doing the work of spacing and timing human-lived reality.
+
+231
+00:21:01,620 --> 00:21:08,300
+ And then it's within that domain that imagination, understanding, reason can then play out, right?
+
+232
+00:21:08,300 --> 00:21:13,900
+ And it's that shift, I mean, because Kant's the one that says no time is not noumenal.
+
+233
+00:21:14,040 --> 00:21:20,000
+ Time is not an ontological feature of the noumenal because, I mean, maybe it is, but I fucking don't know.
+
+234
+00:21:20,160 --> 00:21:26,860
+ But what I can say our experience of time is the activity of the faculties of the mind.
+
+235
+00:21:27,280 --> 00:21:36,360
+ And again, these faculties are things that we have no conscious control over, unlike the other capacities which we have semi-control over.
+
+236
+00:21:36,360 --> 00:21:47,600
+ Right, but time would – I mean, so apart from the mental categorizing principles, there would be some function of time in the thing in itself, right?
+
+237
+00:21:47,820 --> 00:21:52,700
+ I mean, Kant is not a vulgar, like, identitarian sort of thinker, right?
+
+238
+00:21:52,740 --> 00:21:56,120
+ I mean, the thing in itself has a temporal dimension, I would assume.
+
+239
+00:21:56,120 --> 00:21:56,780
+ No, no, no, no, no.
+
+240
+00:21:57,400 --> 00:22:09,660
+ You would have – for him, the ding on zik is unknowable, radically unknowable, which means that our – like, to talk about it temporally would be to already anthropomorphize it.
+
+241
+00:22:09,820 --> 00:22:10,820
+ Well, that's what I mean, though.
+
+242
+00:22:11,020 --> 00:22:18,100
+ Like, but it has – I mean, the thing in itself, even if it is temporal, the key part is its inaccessibility, right?
+
+243
+00:22:19,040 --> 00:22:24,620
+ But you would never be able to say it is temporal or non-temporal, right?
+
+244
+00:22:24,800 --> 00:22:34,400
+ Like, you – like, the – because any category we have of describing it is already a transformation of the ding on zik, epistemologically.
+
+245
+00:22:34,700 --> 00:22:38,900
+ Like, in that sense, there would be no such thing as time itself, right?
+
+246
+00:22:38,940 --> 00:22:40,980
+ There's no time – that doesn't make –
+
+247
+00:22:40,980 --> 00:22:43,680
+ There's no time itself, there's no space itself, right?
+
+248
+00:22:44,280 --> 00:23:08,000
+ That's – I mean, that is the major Copernican revolution of Kant is time and space, which up until now, everyone thought were, like, the most fundamental ontological properties of reality itself are actually the most fundamental properties of, yeah, like, faculties of the human mind.
+
+249
+00:23:08,000 --> 00:23:11,260
+ Of the people, yeah, of human mind, yeah, yeah, yeah.
+
+250
+00:23:11,380 --> 00:23:30,060
+ I mean, and that's – I feel like at least experientially then we are still in some way in Kant's horizon because what you were talking about earlier, John, about the way that you can kind of easily get a grasp on space, right, because it lends itself to identities, right?
+
+251
+00:23:30,060 --> 00:23:38,520
+ I mean, space easily allows you to think through identity, whereas time completely unravels any easy notion of identity or a thing.
+
+252
+00:23:38,940 --> 00:23:45,280
+ So it's like at least day to day, you're kind of living more as Kant than you are as Heidegger or as Deleuze.
+
+253
+00:23:45,360 --> 00:23:52,240
+ Now, they seem to want to instill that ontological view into our ways of living, right?
+
+254
+00:23:52,280 --> 00:23:55,720
+ That seems to be part of the ethics of both of their thinking.
+
+255
+00:23:56,100 --> 00:24:08,300
+ But, I mean, I do think Kant's – you know, even if the categories are strict and by now they seem a little bit outdated, it does seem like we still operate with some of those assumptions.
+
+256
+00:24:08,300 --> 00:24:09,600
+ I think Kant's are higher rated.
+
+257
+00:24:10,660 --> 00:24:11,940
+ Oh, yeah, yeah.
+
+258
+00:24:12,220 --> 00:24:24,000
+ I mean, I think the way I would adjust that a little bit is that they – I think the claim would be that that – Kant's description of those things is a normative one, whether he wants it to be or not.
+
+259
+00:24:24,740 --> 00:24:28,080
+ And, in fact, it's not that we do experience it that way.
+
+260
+00:24:28,160 --> 00:24:32,960
+ It's that we have inherited the normative frame for thinking of it that way.
+
+261
+00:24:32,960 --> 00:24:37,000
+ And so I don't think that Deleuze is offering the sort of more ontological versions.
+
+262
+00:24:37,180 --> 00:24:38,380
+ Like, there are other versions.
+
+263
+00:24:38,540 --> 00:24:46,020
+ There are other ways of experiencing that – in fact, I mean, the argument – you know, think of the alcoholism and schizophrenia chapters.
+
+264
+00:24:46,120 --> 00:24:48,040
+ Like, look, this is how these people lived, right?
+
+265
+00:24:48,040 --> 00:24:50,840
+ This is Fitzgerald's life is that he's talking about, right?
+
+266
+00:24:50,900 --> 00:24:55,080
+ This is not – I mean, he uses the novels, but he's talking about Fitzgerald.
+
+267
+00:24:56,440 --> 00:25:05,080
+ And so this is like these – and that's consistently been the thing for Deleuze is like Matt – you know, Sacher van Massach and Kafka and these figures that are like,
+
+268
+00:25:05,560 --> 00:25:07,800
+ hey, these people experimented with different ways of living.
+
+269
+00:25:08,040 --> 00:25:09,340
+ They didn't consciously experiment.
+
+270
+00:25:09,420 --> 00:25:12,500
+ It wasn't like they said, I will go, you know, try something different.
+
+271
+00:25:12,600 --> 00:25:15,860
+ It's just they live differently and experience differently.
+
+272
+00:25:15,980 --> 00:25:26,320
+ And I think that's the thing that interests Deleuze is that there is a philosophy or an ontology implicit in these other ways of living that is different from,
+
+273
+00:25:26,480 --> 00:25:29,100
+ they say, the normative Kantian mode.
+
+274
+00:25:29,260 --> 00:25:34,280
+ So that's where I would just say it's not that people don't experience it that way and we really experience it Kantian.
+
+275
+00:25:34,400 --> 00:25:38,800
+ It's just that there's a bunch of differences, one of which seems to be really normative.
+
+276
+00:25:50,000 --> 00:25:52,960
+ Deleuze's book on Kant is so good.
+
+277
+00:25:53,060 --> 00:25:59,600
+ He takes on that normative function within – that sort of like quite fascistic function within Kant that is like,
+
+278
+00:25:59,660 --> 00:26:04,620
+ all right, you know, I've made the move of saying like these are processes that are sort of like –
+
+279
+00:26:04,620 --> 00:26:06,980
+ these are mental faculties of the human mind.
+
+280
+00:26:07,380 --> 00:26:14,600
+ And then he immediately needs to govern them and he wants to create a system because, you know, think about how –
+
+281
+00:26:14,600 --> 00:26:21,100
+ like in other words, he doesn't sort of appreciate the – like how radical his own claim is.
+
+282
+00:26:21,820 --> 00:26:34,820
+ And sort of like – or he does and it scares him and he has to sort of domesticate it a little bit by taking the sort of like the unhinged capacity of saying like
+
+283
+00:26:34,820 --> 00:26:37,840
+ our mental faculties make our experience of the world for us.
+
+284
+00:26:37,840 --> 00:26:46,080
+ So let's now install reason and understanding as governing these – or like they ought to be governing these things sort of like in the platonic sense.
+
+285
+00:26:46,420 --> 00:26:52,000
+ But there are sort of the right ways in which these things synthesize with each other and then there are the wrong things.
+
+286
+00:26:52,100 --> 00:26:57,820
+ We'll call those illusions or errors or whatever else and sort of –
+
+287
+00:26:57,820 --> 00:27:10,060
+ But he can never quite figure out the way that these syntheses happen and the sort of like – the sort of movement that allows for these faculties to work until he gets to imagination and then third critique.
+
+288
+00:27:10,060 --> 00:27:18,460
+ And then he has to, again, subjugate imagination under the rule of reason.
+
+289
+00:27:19,520 --> 00:27:36,420
+ But the brilliant move that Deleuze makes is to show that the very capacity of imagination to make the entire thing work also prevents imagination from simply being subjugated by these other things.
+
+290
+00:27:37,060 --> 00:27:51,260
+ Actually, the free play of the imagination actually allows for the coordinations, the syntheses that Kant wants as one kind of synthesis among infinite others, right?
+
+291
+00:27:52,080 --> 00:28:00,960
+ And that's where – I mean, that's why I love that book so much is that it unlocks Kant from Kant.
+
+292
+00:28:01,380 --> 00:28:12,860
+ One question I have, which is kind of related to what you just said is – so Kant's notion of the unknown, which would be related to the thing in itself, is terrifying.
+
+293
+00:28:13,260 --> 00:28:17,080
+ The noumena is terrifying, ontologically, it's terrifying, right?
+
+294
+00:28:17,100 --> 00:28:19,520
+ I mean, that's what drives you to act.
+
+295
+00:28:19,900 --> 00:28:23,180
+ It's this underbelly of like human existence.
+
+296
+00:28:23,580 --> 00:28:25,300
+ It's almost existential, not quite.
+
+297
+00:28:25,520 --> 00:28:34,500
+ But how then do we relate – because there's also an unknown in this first series that we read for today, which – well, I'm not sure.
+
+298
+00:28:34,600 --> 00:28:39,360
+ I don't know if you would call it an unknown, but there is terror in that first series, right?
+
+299
+00:28:39,440 --> 00:28:47,280
+ And if it's not attributed to an unknown, it's attributed to that crack in kind of the – in the ontology.
+
+300
+00:28:48,100 --> 00:28:58,380
+ And I'm just wondering how – because it seems like at a psychoanalytic or experiential level, like I was just saying, that's kind of the reason why I said Kant might still be with us today as well.
+
+301
+00:28:58,380 --> 00:29:19,860
+ Because it seems like that notion of terror of the unknown, either whether it's due to the ding on Zik or to some – our inability to process temporality, like it feels like we could not just – not collapse Kant and Heidegger, collapse Kant and Balooz.
+
+302
+00:29:20,020 --> 00:29:27,340
+ I'm just trying to tease out the differences between those – that fear and anxiety and how they operate with both figures.
+
+303
+00:29:27,340 --> 00:29:33,860
+ That's really helpful because, I mean, Kant doesn't seem particularly invested in fear and anxiety.
+
+304
+00:29:33,860 --> 00:29:37,720
+ And I think it's because of his commitment to the epistemological nature.
+
+305
+00:29:38,200 --> 00:29:51,080
+ Like he is totally committed to representation and the ways that – and while he fully commits to the idea that what representation is not is a reproduction of the real,
+
+306
+00:29:51,580 --> 00:30:01,920
+ he seems quite comfortable with the idea that it's some kind of – representation is a kind of transformation of the real that gives you no access to the real.
+
+307
+00:30:02,240 --> 00:30:03,380
+ And he's just like – and that's cool.
+
+308
+00:30:03,460 --> 00:30:04,760
+ We could never know what that is.
+
+309
+00:30:05,140 --> 00:30:06,980
+ You know, we have – so let's not even try.
+
+310
+00:30:07,340 --> 00:30:08,140
+ Set it aside.
+
+311
+00:30:08,140 --> 00:30:23,780
+ And then everything is all about the sort of the well-functioning or the poor functioning of the world that our faculties create in – for us to experience phenomenologically and epistemologically.
+
+312
+00:30:23,780 --> 00:30:37,860
+ But I think what the existentialist movement and what you're talking about here with the notion of the crack is that this is not some parallel epistemological realm of representations.
+
+313
+00:30:38,500 --> 00:30:49,800
+ That the activity of representation or translation or reproduction of the real does not create a stark divide, right?
+
+314
+00:30:49,900 --> 00:30:57,240
+ There are always cracks, unrepresentable cracks, unreproducible cracks that are running through it.
+
+315
+00:30:57,740 --> 00:31:01,240
+ That – like this is the very possibility of madness.
+
+316
+00:31:01,780 --> 00:31:04,600
+ Well, I mean, so now we're talking about the sublime, right?
+
+317
+00:31:04,640 --> 00:31:13,780
+ Like we're talking about – I mean, so to me, part of the question then would be like in Kant, what's the – what's the relation between noumena and the sublime?
+
+318
+00:31:13,780 --> 00:31:20,180
+ If the sublime is the experience of the limits of representation, right?
+
+319
+00:31:20,260 --> 00:31:22,120
+ Like God, for example.
+
+320
+00:31:22,900 --> 00:31:23,020
+ Right.
+
+321
+00:31:23,700 --> 00:31:26,240
+ Derrida loves that phrase, God, for example.
+
+322
+00:31:26,780 --> 00:31:33,160
+ But, yeah, I mean, so the experience of the sublime, which is an experience of terror, you know?
+
+323
+00:31:33,260 --> 00:31:35,320
+ I mean, that's how you describe it.
+
+324
+00:31:35,520 --> 00:31:41,740
+ It is that sort of the realization of the incapacity of representation to contain.
+
+325
+00:31:42,200 --> 00:31:44,280
+ It just – you can't image God.
+
+326
+00:31:44,460 --> 00:31:46,120
+ It's just not possible.
+
+327
+00:31:46,600 --> 00:31:50,160
+ But the impossibilities are located in very different places.
+
+328
+00:31:50,160 --> 00:31:56,360
+ It is that God is not the – a crack in that edifice for Kant.
+
+329
+00:31:56,880 --> 00:32:04,520
+ It is the making infinite of the faculties themselves, right?
+
+330
+00:32:04,860 --> 00:32:11,260
+ It's sort of like, you know, when the faculties converge in such and such a way to like – to imagine the infinite, right?
+
+331
+00:32:11,600 --> 00:32:15,920
+ Well, then, you know, that's – the infinity has nothing to do with the Ding on Zik.
+
+332
+00:32:16,140 --> 00:32:21,500
+ That is itself, right, a concept that is too big.
+
+333
+00:32:21,760 --> 00:32:25,300
+ The concept of infinity can't be contained by the concept of infinity, right?
+
+334
+00:32:25,460 --> 00:32:25,660
+ Right.
+
+335
+00:32:25,660 --> 00:32:27,260
+ It can't be contained by a concept.
+
+336
+00:32:27,480 --> 00:32:30,420
+ A concept is inadequate to –
+
+337
+00:32:30,420 --> 00:32:30,680
+ Right?
+
+338
+00:32:31,000 --> 00:32:31,680
+ I mean, when you get –
+
+339
+00:32:31,680 --> 00:32:36,820
+ Which is why, like, you know, when you were a kid, at least when I was a kid, I remember I used to try to think infinity.
+
+340
+00:32:36,820 --> 00:32:41,800
+ And I would always – it would always induce this kind of vertigo of, like, you know –
+
+341
+00:32:41,800 --> 00:32:48,040
+ That's the sublime, not the sublime of – I mean, I think this is often the way that the sublime is talked about.
+
+342
+00:32:48,120 --> 00:32:53,060
+ It's sort of like the unrepresentability of the real world, right?
+
+343
+00:32:53,380 --> 00:32:57,680
+ It is not – my understanding is that is not the Kantian sense of the sublime.
+
+344
+00:32:57,680 --> 00:33:10,340
+ That when it is, say, induced by something that we might call, like, natural, like, the size of the universe or, you know, like, the Grand Canyon or, like, a hurricane or something like that, that has nothing to do with the noumenal realm.
+
+345
+00:33:10,340 --> 00:33:21,980
+ That has everything to do with the sort of overwhelmingness of the interplay of, like, sound and color and noise and –
+
+346
+00:33:21,980 --> 00:33:22,760
+ Scale, size.
+
+347
+00:33:22,760 --> 00:33:24,520
+ And scale, exactly, right?
+
+348
+00:33:24,800 --> 00:33:29,380
+ I remember having conversations with you about the vastness of space and the sort of tear that produces –
+
+349
+00:33:29,380 --> 00:33:30,700
+ Yeah, I fucking hate space.
+
+350
+00:33:35,420 --> 00:33:43,400
+ Well, that's what I'm saying is that what the sublime does is it points to the limits of representation, not the inability to represent any particular thing.
+
+351
+00:33:43,680 --> 00:33:44,280
+ Yeah, yes.
+
+352
+00:33:44,540 --> 00:33:54,280
+ It just says representation itself can't do the – like, there's a point at which, with infinity, with God, with these series of things, like, representation can't do it.
+
+353
+00:33:54,380 --> 00:33:56,620
+ It just can't operate.
+
+354
+00:33:57,040 --> 00:34:07,180
+ If you take representation as encapsulation, right, which might make you think – given the fact that these things can't do that, then you might think maybe representation isn't a matter of encapsulation.
+
+355
+00:34:07,740 --> 00:34:08,380
+ Well, right.
+
+356
+00:34:08,500 --> 00:34:10,420
+ I mean, that would be – at some point –
+
+357
+00:34:10,420 --> 00:34:10,520
+ Well, exactly.
+
+358
+00:34:10,760 --> 00:34:21,800
+ I mean, that to me is – that's like, you know, the 300-year-old – we've had this problem for 300 years, and at some point it's like, well, why don't we start going maybe the purpose of language and thought isn't to represent?
+
+359
+00:34:22,460 --> 00:34:33,640
+ Like, either that or we're going to do – because to me, that's a lot of what I – I mean, the logic of that is a lot of what I don't like about the sort of – the Zizek types of moves and the Lacanian influence types of moves.
+
+360
+00:34:33,960 --> 00:34:46,140
+ It's just a perpetual demonstration of the failure to adequately represent, and it's like, well, yeah, either there's a constant process of failure or it's doing something else.
+
+361
+00:34:46,400 --> 00:34:48,920
+ You know, it's production, you know.
+
+362
+00:34:49,120 --> 00:34:49,900
+ Right, right.
+
+363
+00:34:50,080 --> 00:35:02,500
+ Yeah, but I mean for Kant also, like that impasse, so the inability of representations to adequately represent anything, themselves, not even the noumena, that's what actually allows for freedom.
+
+364
+00:35:03,060 --> 00:35:07,560
+ You know, it's not just like a – it's not just a failure and a paralysis.
+
+365
+00:35:07,560 --> 00:35:07,800
+ No, that's right.
+
+366
+00:35:07,900 --> 00:35:08,660
+ No, no, that's right.
+
+367
+00:35:08,760 --> 00:35:09,140
+ Right, right.
+
+368
+00:35:09,140 --> 00:35:09,380
+ That's right.
+
+369
+00:35:09,480 --> 00:35:27,540
+ No, no, so I'm just – I mean, I'm just saying, just to outline this real quick, because one of the weird things about the Ding on Zik is that Kant's formulation basically is that if humans actually had access to the thing in itself, we would become automaton.
+
+370
+00:35:28,040 --> 00:35:28,120
+ Right.
+
+371
+00:35:28,320 --> 00:35:30,320
+ So if you actually confront it –
+
+372
+00:35:30,320 --> 00:35:30,840
+ It's totalization.
+
+373
+00:35:31,240 --> 00:35:35,320
+ If you can totalize the representation, there's no more work to do.
+
+374
+00:35:35,420 --> 00:35:44,100
+ It's precisely because of the Zenos – it's precisely because you're like an inch closer and then a half inch closer that you're always getting closer, but you're never going to be there, that there's always somewhere to go.
+
+375
+00:35:44,500 --> 00:35:44,780
+ Right?
+
+376
+00:35:44,900 --> 00:35:48,360
+ Like it's what drives – and you're absolutely right.
+
+377
+00:35:48,440 --> 00:35:52,320
+ Like the notion of lack is an engine for psychoanalysis.
+
+378
+00:35:52,320 --> 00:35:56,980
+ It's – and it is the lack – the only thing it's ever lacking is totalization, right?
+
+379
+00:35:57,060 --> 00:36:00,200
+ Like the lack or failure to totalize.
+
+380
+00:36:00,840 --> 00:36:05,280
+ But again, like the flip side would be maybe it was never even trying to totalize.
+
+381
+00:36:05,420 --> 00:36:21,440
+ Maybe that's – the game has never been totalization or representation at all, which strikes me as – I mean, that just strikes me as a way more interesting and second line of thinking is what if language was never, ever in the game of representation?
+
+382
+00:36:21,440 --> 00:36:24,260
+ You know, and instead was in the game of what?
+
+383
+00:36:24,400 --> 00:36:28,080
+ Making, production, action, whatever, whatever sort of terminology.
+
+384
+00:36:28,260 --> 00:36:45,680
+ But I take Nate's point to be a little bit different there that – I mean, I don't think that the kind of representation that Kant is after is totalization, totalizing reproduction of the Ding on Zik because, I mean, that's sort of like move one for him.
+
+385
+00:36:45,780 --> 00:36:47,420
+ No, this is reproduction, right?
+
+386
+00:36:47,460 --> 00:36:49,060
+ This is transformation.
+
+387
+00:36:50,020 --> 00:36:58,920
+ And the actual fear there is that if you could have that one-to-one reproduction, then it would be pure determinism.
+
+388
+00:36:58,920 --> 00:37:16,720
+ And that it is precisely like the mental operation that now creates an entire world out of its perversions, transformations, whatever else of the noumenal realm creates space for movement, creates space for decision freedom.
+
+389
+00:37:17,300 --> 00:37:24,060
+ And that's what allows for the moral realm to exist at all, that we can make decisions.
+
+390
+00:37:25,120 --> 00:37:25,560
+ Right.
+
+391
+00:37:25,640 --> 00:37:34,660
+ But, I mean, that's the failure to totalize representation is the thing that allows for that just a little bit of – a little opening at the end of the circle.
+
+392
+00:37:34,780 --> 00:37:36,920
+ Like the circle does not close, right?
+
+393
+00:37:36,920 --> 00:37:40,920
+ If it closed, yeah, you'd have determinism.
+
+394
+00:37:41,260 --> 00:37:49,000
+ But because it's not closed, there's a perpetual opening, even if it's just a sliver, a perpetual opening that allows for transformation.
+
+395
+00:37:49,180 --> 00:37:56,200
+ But, again, I mean, to me, that problem gets solved by a conception of multiplicity too, right?
+
+396
+00:37:56,300 --> 00:38:06,120
+ That you needn't think about like sort of self-contained automaton, totalized automatons bumping into self-contained totalized automatons, right?
+
+397
+00:38:06,360 --> 00:38:06,600
+ Right.
+
+398
+00:38:06,660 --> 00:38:17,820
+ Well, all you have is – all you have is the crack or a series or a multiplicity of cracks rather than a – like so he wants to get rid of the circle basically is what Deleuze wants to do, right?
+
+399
+00:38:17,860 --> 00:38:23,480
+ I mean there's no concept of circularity at least in this previous series, right?
+
+400
+00:38:23,500 --> 00:38:29,700
+ It's just a line, a series of cracks that enable certain things but there's no telos.
+
+401
+00:38:29,700 --> 00:38:34,000
+ Right, but think of the difference and that's to me – I mean I – and maybe this is my own weirdness.
+
+402
+00:38:34,160 --> 00:38:41,560
+ I really don't know but I feel like so much of what people think about in terms of philosophy is given stuff, how do you change it?
+
+403
+00:38:41,820 --> 00:38:51,840
+ But to me, if you take that other orientation, the question is exactly the opposite which is like given constant transformation, how does shit ever stay the same, right?
+
+404
+00:38:51,840 --> 00:38:58,600
+ Like how do things cohere enough that we think we're the same people, we think we go back to the same – you know, like so that becomes –
+
+405
+00:38:58,600 --> 00:39:05,220
+ your problem set becomes completely opposite of the problem set of normal thinking, you know?
+
+406
+00:39:05,540 --> 00:39:16,320
+ You invert the problematic in a way and I think even just the title of Deleuze's big book, I mean Difference in Repetition, you can see what that does to being in time, right?
+
+407
+00:39:16,400 --> 00:39:24,840
+ I mean if difference is the ontologically primary principle, then we don't even really – I mean you still have to worry about identity but that's not what you start with.
+
+408
+00:39:25,080 --> 00:39:27,800
+ No, you start – it's like how do you ever get there?
+
+409
+00:39:27,800 --> 00:39:34,420
+ How do you ever get to – like how could life desire identity given difference?
+
+410
+00:39:35,280 --> 00:39:37,800
+ You know, how does it have to coagulate?
+
+411
+00:39:37,960 --> 00:39:47,740
+ So what are the strata of formations that are necessary in order to produce this thing called consciousness that believes that it's the same as itself, right?
+
+412
+00:39:47,740 --> 00:39:54,100
+ And so that's a completely opposite problem from – given that consciousness thinks that it is an I.
+
+413
+00:39:54,360 --> 00:39:55,220
+ So it's exactly the I.
+
+414
+00:39:55,300 --> 00:40:07,200
+ It's like, you know, given the logic of identity, how do things change versus, you know, how do you ever get to – how do you have to build to the idea of identity?
+
+415
+00:40:07,860 --> 00:40:18,640
+ You know, so given – and again, I mean to me the hard thing about that is what – change in that second register doesn't mean the same thing as it does in the first, right?
+
+416
+00:40:19,060 --> 00:40:22,500
+ Change in the first register, and this is usually how we think of it.
+
+417
+00:40:22,840 --> 00:40:29,240
+ It means an identity that is transformed from point A to point B like the movie clips before.
+
+418
+00:40:29,620 --> 00:40:33,680
+ But the sense of quote-unquote change in the other one, you don't start with a preexisting identity.
+
+419
+00:40:33,680 --> 00:40:37,840
+ So it's – and you don't start with even a concept.
+
+420
+00:40:38,100 --> 00:40:44,540
+ So that's what's hard, I think, is that it is a kind of a-conceptual thinking.
+
+421
+00:40:44,720 --> 00:40:44,820
+ Yeah.
+
+422
+00:40:45,280 --> 00:40:45,720
+ You know?
+
+423
+00:40:45,920 --> 00:40:46,120
+ Yeah.
+
+424
+00:40:46,320 --> 00:40:46,480
+ Yeah.
+
+425
+00:40:46,540 --> 00:40:50,920
+ I mean change does not happen to identities for Deleuze at least, right?
+
+426
+00:40:51,140 --> 00:40:58,000
+ Change would be – change is becoming and that is – I mean it's primordial, I suppose you could say.
+
+427
+00:40:58,000 --> 00:41:12,340
+ I mean we've kind of covered this at least once, but the challenging thing for me and you can – is like when you think about it at a biological level, like with the notion of autopoiesis or something like that.
+
+428
+00:41:12,920 --> 00:41:18,280
+ It's like – and this doesn't – it almost feels like the both and move, but it's a little different from that.
+
+429
+00:41:19,040 --> 00:41:25,340
+ But you kind of have to think the simultaneity, right, of both identity and difference.
+
+430
+00:41:25,340 --> 00:41:32,300
+ Like because for the possibility of life – and I don't know anything about biology, but you need a cell.
+
+431
+00:41:32,480 --> 00:41:41,260
+ You need something that's at least provisionally an identity in order for there to be relations between, you know, things.
+
+432
+00:41:41,400 --> 00:41:48,960
+ But again, like I don't – how you think the priority of that is – I mean it's just confusing, you know, to me at some point.
+
+433
+00:41:48,960 --> 00:41:55,620
+ I like thinking about that example because, you know, when you say you need a cell, it's the need that you need.
+
+434
+00:41:55,700 --> 00:41:58,380
+ You need the function of what we call a cell.
+
+435
+00:41:58,540 --> 00:42:02,080
+ But you would say in the sort of strict sense there are no cells, right?
+
+436
+00:42:02,140 --> 00:42:05,240
+ There are only the movements and becomings and evolutions.
+
+437
+00:42:05,740 --> 00:42:17,320
+ But then you need things to sort of intersect or function in such a way as to do the operation that we attribute to this thing called – that we call a cell.
+
+438
+00:42:17,400 --> 00:42:20,980
+ And that's what I really like about what he's doing with Aeon and Kronos here.
+
+439
+00:42:21,060 --> 00:42:30,880
+ Just like, you know, it seems to me that what we would call identities are only possible because of events.
+
+440
+00:42:31,280 --> 00:42:43,400
+ That events are sort of like the logics that rip through or hover over bodies and make, you know, momentary individuating – like that give them sense, right?
+
+441
+00:42:43,400 --> 00:42:58,900
+ And sense – what is sense other than sort of like a kind of spacing and like introducing this kind of spacing and organizing spacing to things that, you know, just – that doesn't – that actually makes the things of the things.
+
+442
+00:42:59,560 --> 00:43:05,320
+ Makes the thingness of the things, not the substance of the things but the sort of like the demarcating boundaries of the things.
+
+443
+00:43:09,820 --> 00:43:19,700
+ I was trying to run through this example in my head when he was talking about the sort of the differences between Kronos and Aeon.
+
+444
+00:43:19,980 --> 00:43:29,040
+ And I was trying to imagine this in terms of, you know, the same – let's call it the same temporal phenomenon.
+
+445
+00:43:29,320 --> 00:43:33,220
+ I would otherwise say event, but I don't want to get the technical sense of event in here.
+
+446
+00:43:33,220 --> 00:43:41,580
+ And look at something as a now and as an instant from, you know, from these two perspectives.
+
+447
+00:43:41,780 --> 00:43:49,840
+ You know, Aeon is sort of composed of instances that have no duration, that are only – that are events.
+
+448
+00:43:50,360 --> 00:44:01,600
+ And Kronos are only nows, which are sort of the mixtures of bodies that have the entire pressures of all futures and pasts sort of imminent to them.
+
+449
+00:44:01,600 --> 00:44:04,220
+ And sort of expressing through them, right?
+
+450
+00:44:05,180 --> 00:44:11,300
+ So let's take an example of like Julius Caesar crossing the Rubicon, right?
+
+451
+00:44:11,400 --> 00:44:14,800
+ And then let's imagine that as a now and as an instance.
+
+452
+00:44:15,360 --> 00:44:18,980
+ And I have like a starting point, but I don't feel super comfortable with it.
+
+453
+00:44:19,020 --> 00:44:21,700
+ I'd be curious to see where – how it sparks you.
+
+454
+00:44:22,440 --> 00:44:46,180
+ So like imagine Caesar crossing the Rubicon as a now and, you know, as a present that contains all futures and pasts that sort of like, you know, you can sort of see all of the pressures or all of the sort of factors and variables that lead to the moment of, you know, of the crossing of the river.
+
+455
+00:44:46,180 --> 00:44:55,200
+ And then the sort of ways that that then ripples out and sort of sets things into motion into a future, setting out a future.
+
+456
+00:44:56,360 --> 00:45:16,820
+ So now let's look at that as an instance, which – or think about it as an event that has no duration, that is only dividing – that event is now dividing the past and the future in both directions at once infinitely.
+
+457
+00:45:16,820 --> 00:45:28,500
+ That is – and it's sort of like a doubling of all futures and pasts that have now been sort of shot through with the inventiveness of Caesar crossing, you know, the Rubicon.
+
+458
+00:45:29,040 --> 00:45:33,400
+ And in fact, even the language that – the phrase Caesar crosses the Rubicon –
+
+459
+00:45:33,400 --> 00:45:34,340
+ Right, that's what I was thinking because that's –
+
+460
+00:45:34,340 --> 00:45:35,060
+ It only makes sense.
+
+461
+00:45:35,580 --> 00:45:35,980
+ Right.
+
+462
+00:45:36,200 --> 00:45:36,440
+ Right.
+
+463
+00:45:36,860 --> 00:45:42,720
+ In that second – like only according to the Aeon does the event Caesar crosses the Rubicon make sense.
+
+464
+00:45:42,720 --> 00:45:55,580
+ Whereas, you know, from the point of view of the – of Kronos, you know, even calling it that is already – event is already taking on the Aeon's perspective of the thing.
+
+465
+00:45:56,780 --> 00:45:56,860
+ Right.
+
+466
+00:45:56,860 --> 00:46:03,940
+ I don't like about that thought experiment as it sort of like imagines like a baseline thing that you would then interpret in two different ways.
+
+467
+00:46:04,100 --> 00:46:04,860
+ Right, right, right.
+
+468
+00:46:04,860 --> 00:46:07,040
+ And you have to – you have to sort of like think –
+
+469
+00:46:07,040 --> 00:46:09,240
+ Well, I mean, no, I mean, that is an interesting question.
+
+470
+00:46:09,360 --> 00:46:15,740
+ I mean, what it brings – what it brings up for me is kind of the stabilizing function of grammar.
+
+471
+00:46:16,520 --> 00:46:20,180
+ And that – like, John, you just brought this up.
+
+472
+00:46:20,260 --> 00:46:30,620
+ Like maybe language's function was not, you know, primarily or ever to represent adequately information or the world.
+
+473
+00:46:30,620 --> 00:46:44,300
+ But it does seem to me – I mean, again, at least at an experiential level, it seems like grammar and language does – like it has to stabilize something, right?
+
+474
+00:46:44,520 --> 00:46:49,320
+ Or at least it feels like it has a telos almost embedded in it.
+
+475
+00:46:49,620 --> 00:46:52,400
+ It's like almost internally fascistic.
+
+476
+00:46:52,400 --> 00:47:02,340
+ So to me, I feel like, again, like sort of following the elocutionary thinking, I mean, my answer is always going to be some variation on performativity, the elocution specifically.
+
+477
+00:47:02,520 --> 00:47:07,640
+ But like why – I have no problem with the idea of a slowing down, right?
+
+478
+00:47:07,740 --> 00:47:12,980
+ Like this is – so language or concepts are ways of slowing down and distributing.
+
+479
+00:47:13,240 --> 00:47:15,680
+ I mean, you're sort of following the Nietzsche thinking, right?
+
+480
+00:47:15,740 --> 00:47:19,940
+ Like so it's like we call it a leaf and the moment we call it a leaf, it also becomes a concept.
+
+481
+00:47:19,940 --> 00:47:34,100
+ But to me, to think of language as a sort of slowing down or a modulating of the speed, let's say it that way, of a modulating of the speed of, say, thinking, I have no problem with that.
+
+482
+00:47:34,160 --> 00:47:36,620
+ That's not a representation anymore, right?
+
+483
+00:47:36,740 --> 00:47:44,440
+ Like it is an action and the action is simply one of coagulating, slowing down and stalling stillness so that things aren't just a constant blur.
+
+484
+00:47:44,440 --> 00:47:48,280
+ Or we call that a leaf instead of a house or whatever.
+
+485
+00:47:49,780 --> 00:47:57,020
+ And it allows us – I mean, that's where the – at least for me, the kind of pragmatic orientation, which is like, yeah, it lets us do stuff, right?
+
+486
+00:47:57,040 --> 00:47:58,560
+ It allows us to move around in the world.
+
+487
+00:47:58,660 --> 00:47:59,800
+ It allows us to have conversations.
+
+488
+00:48:00,020 --> 00:48:05,440
+ It allows all kinds of relations and interactions that wouldn't otherwise be available.
+
+489
+00:48:05,680 --> 00:48:13,800
+ But it's just a question of modulating speeds relative to particular organisms and different organisms are going to work differently as we know.
+
+490
+00:48:13,960 --> 00:48:16,160
+ I mean, conversations are different with different people.
+
+491
+00:48:16,160 --> 00:48:21,360
+ Well, I was going to say another way of thinking about it is that language doesn't represent eyes.
+
+492
+00:48:21,540 --> 00:48:22,840
+ It makes eyes, right?
+
+493
+00:48:23,040 --> 00:48:35,660
+ Like the word eye is always in the process of sort of formulating something around some kind of organizational force of the eye rather than representing an eye that simply exists prior to it.
+
+494
+00:48:35,900 --> 00:48:38,560
+ And that's one way of thinking about the force of language.
+
+495
+00:48:38,560 --> 00:48:44,160
+ Yeah, and I just – I mean, all I would add to that is I wouldn't put too much of – like that gives language too much power.
+
+496
+00:48:44,700 --> 00:48:47,220
+ You know, like language is this determining thing.
+
+497
+00:48:47,640 --> 00:48:48,200
+ It to me –
+
+498
+00:48:48,200 --> 00:48:48,780
+ No, it's one –
+
+499
+00:48:48,780 --> 00:48:50,000
+ It's one –
+
+500
+00:48:50,000 --> 00:48:50,440
+ Right.
+
+501
+00:48:50,760 --> 00:48:56,160
+ Like language, conceptuality, like the thing that humans do, I would say, you know, these are an apparatus.
+
+502
+00:48:56,160 --> 00:49:03,860
+ Like one of the things that we do is we slow down the movement of things so we can produce different kinds of relations with each other and with them, right?
+
+503
+00:49:03,940 --> 00:49:13,140
+ Like – and so that's – I think in terms of what is, you know, what is philosophy where he talks about like the – and the distinctions are really, I mean, kind of coarse.
+
+504
+00:49:13,140 --> 00:49:27,960
+ But, you know, the functive, the functive, the job of the functive as opposed to the concept, the job of the functive, the function is to stabilize and concretize something into an identity so that you can do other things with it, right?
+
+505
+00:49:28,220 --> 00:49:29,860
+ Like so – right, exactly.
+
+506
+00:49:30,060 --> 00:49:41,400
+ So it's – you know, if you don't – if you don't recognize the existence of a phenomena, you are less able to experiment with it.
+
+507
+00:49:42,220 --> 00:49:42,380
+ Right.
+
+508
+00:49:42,460 --> 00:49:55,500
+ And so that's that sense that I've always – like science has never been in the job of producing knowledge or if it has, that's only been a like – it's just kind of a misnomer that in fact science is always in the job of experimentation.
+
+509
+00:49:56,380 --> 00:50:13,160
+ That's the thing that's always been – that's what's been its driving force and knowledge in quotation marks is just a sort of relay in that process, the sort of slowing down of concrete stuff to a point where we can do a –
+
+510
+00:50:13,160 --> 00:50:16,460
+ Well, the slowing down of it makes concrete stuff.
+
+511
+00:50:16,600 --> 00:50:23,340
+ And if you experiment with it one way, I mean, where I would sort of push back on that is that like there's no recognition.
+
+512
+00:50:23,580 --> 00:50:40,540
+ There's no sort of like phenomenon that exists prior to all of these operations that all of these slowing downs or modulations are simultaneously – like they're not representing or recognizing something that exists prior to it.
+
+513
+00:50:40,540 --> 00:50:46,380
+ But they're both making the thing and then seeing what that thing can do.
+
+514
+00:50:46,620 --> 00:50:49,580
+ I mean, that's what I – I mean, I agree with that.
+
+515
+00:50:49,700 --> 00:50:51,380
+ Like I will totally accept that.
+
+516
+00:50:52,300 --> 00:50:54,980
+ It's in the job of making things but not on its own.
+
+517
+00:50:55,140 --> 00:50:59,620
+ Like again, just like I said that about language, I would still say that about our organism, right?
+
+518
+00:50:59,700 --> 00:51:01,840
+ Like I mean – so it's not the only thing.
+
+519
+00:51:02,480 --> 00:51:05,860
+ So there are – for instance, we're not making leaves.
+
+520
+00:51:05,860 --> 00:51:08,880
+ So we're making the concept and the particularly – but there are other forces.
+
+521
+00:51:09,500 --> 00:51:10,600
+ We call them geological.
+
+522
+00:51:10,920 --> 00:51:13,620
+ We call them weather and all these sorts of things, right?
+
+523
+00:51:13,660 --> 00:51:15,380
+ Like there are other forces out there.
+
+524
+00:51:16,040 --> 00:51:27,180
+ But I mean assembled in the particular nexus, yeah, that we produce understanding, knowledge of these things and see what they can do and what they can't do.
+
+525
+00:51:27,180 --> 00:51:34,500
+ And this is where Spinoza – like we don't yet know what a body can do as the perpetual state, not like we haven't figured it out yet but we'll get there next week.
+
+526
+00:51:34,620 --> 00:51:35,300
+ It's like no, no, no.
+
+527
+00:51:35,300 --> 00:51:39,960
+ The perpetual state is one of we don't know what bodies can do.
+
+528
+00:51:51,540 --> 00:52:09,180
+ Well, as long as we're talking about language and the power of language – well, there are kind of two things that I want to talk about is one, I mean, is this section on – where you talk – where he sort of like says that language is sort of only made possible because of this – what's the adjectival form of aion?
+
+529
+00:52:09,260 --> 00:52:09,780
+ Aionic?
+
+530
+00:52:10,020 --> 00:52:10,720
+ I like that.
+
+531
+00:52:11,020 --> 00:52:11,740
+ Sure, yeah.
+
+532
+00:52:12,360 --> 00:52:14,700
+ Aionic dimension of time.
+
+533
+00:52:14,700 --> 00:52:28,540
+ The other one, thinking about Kronos is, you know, he so nonchalantly flips back and forth between Kronos and Saturn and getting between the Roman and the Greek, you know, articulations of Zeus's father.
+
+534
+00:52:29,100 --> 00:52:32,740
+ But there's also like Zeus, Kronos slash Saturn.
+
+535
+00:52:33,460 --> 00:52:39,140
+ And it seems to me that the whole mythological dimension of Zeus eating Kronos – or not – no.
+
+536
+00:52:39,580 --> 00:52:42,620
+ No, Kronos eats his kids and Zeus kills Kronos.
+
+537
+00:52:42,620 --> 00:52:44,160
+ Right, Zeus kills Kronos, right.
+
+538
+00:52:44,160 --> 00:52:51,460
+ Yeah, that dynamic just at least seems a little bit worth, like, keeping in the back of our head.
+
+539
+00:52:52,320 --> 00:52:54,080
+ I don't care which one you want to get first.
+
+540
+00:52:54,400 --> 00:52:55,440
+ Let's do the language thing.
+
+541
+00:52:55,700 --> 00:52:57,300
+ You're on 166, I assume?
+
+542
+00:52:57,340 --> 00:52:58,860
+ Yeah, yeah, yeah, two there.
+
+543
+00:52:59,600 --> 00:53:04,800
+ It is this new world of incorporeal effects or surface effects which makes language possible.
+
+544
+00:53:05,380 --> 00:53:10,000
+ And, like, it was – that first sentence just got me immediately thinking, oh, I'm not going to like this.
+
+545
+00:53:10,640 --> 00:53:12,300
+ But that quickly changed.
+
+546
+00:53:13,120 --> 00:53:26,520
+ Because – I mean just because of the way that it was – I anticipated that it was going to make language somehow removed from some kind of real version or, like, make language not bodily enough or material enough.
+
+547
+00:53:26,980 --> 00:53:27,600
+ Oh, okay.
+
+548
+00:53:28,080 --> 00:53:35,980
+ When I read that, I read, like, the illocutionary is the condition of possibility for locution.
+
+549
+00:53:36,160 --> 00:53:37,760
+ Like, that's actually what I read.
+
+550
+00:53:37,820 --> 00:53:39,520
+ When I read that sentence, that's how I read it.
+
+551
+00:53:39,620 --> 00:53:40,680
+ I'm like, yeah, that seems right.
+
+552
+00:53:42,760 --> 00:53:44,320
+ Too much bullshit in my life.
+
+553
+00:53:46,840 --> 00:53:47,240
+ Okay.
+
+554
+00:53:48,120 --> 00:53:58,020
+ So, for, as we shall see, it is this world which draws the sound from their simple state of corporeal action and passions.
+
+555
+00:53:58,920 --> 00:54:08,640
+ It is this new world which distinguishes language, prevents it being from confused with sound effects of bodies, and abstracts it from their oral-anal determinations.
+
+556
+00:54:09,280 --> 00:54:14,120
+ It's not just grunts and farts anymore, but it becomes language.
+
+557
+00:54:14,120 --> 00:54:29,020
+ Pure events ground language because they wait for it as much as they wait for us and have a pure, singular, impersonal, and pre-individual existence only inside the language which expresses them.
+
+558
+00:54:29,600 --> 00:54:34,580
+ It is what is expressed in its independence that grounds language and expression.
+
+559
+00:54:34,580 --> 00:54:48,560
+ It is the metaphysical property that sounds acquire in order to have a sense, and, secondarily, to signify, manifest, and denote, rather than to belong to bodies as physical qualities.
+
+560
+00:54:49,180 --> 00:54:59,580
+ So, that's not terribly, I mean, just as an addendum, like, that's not terribly dissimilar from the way that you were describing this kind of passive precondition of the faculties in context.
+
+561
+00:54:59,600 --> 00:55:10,300
+ That you have here, this is sort of the evental precondition for, you know, for signification, manifestation, and denotation, right?
+
+562
+00:55:10,420 --> 00:55:15,620
+ Like, which are the three functions of language that he talked about, like, in series two or whatever.
+
+563
+00:55:16,140 --> 00:55:21,880
+ Except for the fact that this pre-individuality and personality is not a generality.
+
+564
+00:55:22,760 --> 00:55:24,060
+ That's right, that's right.
+
+565
+00:55:24,060 --> 00:55:33,500
+ Like, I mean, these are evolving events that sort of then, you could say, infect or are incorporated, right?
+
+566
+00:55:33,840 --> 00:55:36,640
+ Or sort of, I mean, never quite, they never become bodies.
+
+567
+00:55:36,980 --> 00:55:46,460
+ Whereas, for Kant, that perhaps pre-individual operation is happening at the general level of the human mind.
+
+568
+00:55:46,960 --> 00:55:52,180
+ And then it gets sort of disseminated down to individual human minds who use them better or worse.
+
+569
+00:55:52,740 --> 00:56:01,860
+ So, think about this as a possible follow-up from what you just said, is that we always think of language acquisition as something that people sort of go through at a certain age, right?
+
+570
+00:56:01,900 --> 00:56:05,420
+ Like, whatever two years old, you know, one to two years old, whatever age it is.
+
+571
+00:56:05,740 --> 00:56:10,860
+ And that, you know, relative degrees of completeness and sophistication, and then, you know, we're in language now.
+
+572
+00:56:11,100 --> 00:56:21,820
+ But I feel like what's being said there is the entry into language is so dispersed, we don't all go through this process of, and that's another place where the word language is just inadequate.
+
+573
+00:56:22,160 --> 00:56:32,500
+ Because what we do, what each of us does with words isn't the same thing, that we are not particulars of a general process of acquiring language.
+
+574
+00:56:33,320 --> 00:56:52,920
+ I mean, if events, right, are this kind of precondition, then it is so fully singular, I mean, that's a ridiculous phrase, but it's so singular as to, you know, sort of erase or eradicate the idea that the three of us have language.
+
+575
+00:56:52,920 --> 00:56:58,620
+ Not even that we have English or a language, but that we all have some version of the same thing.
+
+576
+00:56:58,940 --> 00:57:02,000
+ And it's like, no, I mean, I think one of the, that would be one of the upshots, right?
+
+577
+00:57:02,040 --> 00:57:10,760
+ Is that there, there isn't just like this general capacity to acquire, this is where the, the sort of linguistics folks would be like, that doesn't make any sense.
+
+578
+00:57:10,960 --> 00:57:11,160
+ Yeah.
+
+579
+00:57:11,380 --> 00:57:11,920
+ I would think.
+
+580
+00:57:12,040 --> 00:57:18,900
+ I mean, because, you know, there has, you can only think of language in terms of its generality, in terms of its predicates.
+
+581
+00:57:18,900 --> 00:57:19,360
+ That's right.
+
+582
+00:57:19,360 --> 00:57:24,320
+ You know, you've got these six predicates, you're missing these four, so you're at 60, you know, 60%.
+
+583
+00:57:24,320 --> 00:57:24,800
+ Right.
+
+584
+00:57:25,940 --> 00:57:34,680
+ But yeah, but to think about, but that always then introduces the problem of like, all right, well then where are the boundaries of language and how does it, how do you demarcate against something else?
+
+585
+00:57:34,740 --> 00:57:35,840
+ What are the boundaries of English?
+
+586
+00:57:35,980 --> 00:57:37,460
+ How do you demarcate against something else?
+
+587
+00:57:37,520 --> 00:57:41,100
+ And it's just the, the, the, the, the, the problem of identity.
+
+588
+00:57:41,360 --> 00:57:47,760
+ But I mean, it's interesting because for me, that just, it just, and you, you talk about that, you use the word experientially.
+
+589
+00:57:47,900 --> 00:57:51,640
+ So I'll use Nate's word experientially, but like, it just makes way more sense.
+
+590
+00:57:51,640 --> 00:57:53,400
+ Like we're not all speaking language.
+
+591
+00:57:53,400 --> 00:57:54,540
+ That's not what's happening.
+
+592
+00:57:54,860 --> 00:57:55,260
+ Right.
+
+593
+00:57:55,300 --> 00:58:05,060
+ Like, uh, and that, that sort of sense of, I mean, to me, a whole series of problems about disagreements and a lack of understanding, they just sort of go away.
+
+594
+00:58:05,420 --> 00:58:15,580
+ If you give up the idea that you all have the same, not even just the same language, but the same capacity for language or, you know, that language functions as the same thing.
+
+595
+00:58:15,620 --> 00:58:29,160
+ It's like, no, Hey, look, as a person who chews tobacco, my relationship of morality and sound and spit is different than your guys's, which, which means that the thing that I'm calling language is a different operation for me than it is for you.
+
+596
+00:58:29,160 --> 00:58:44,540
+ It has to be, but we would also have to like, look at, I mean, we'd have to just radically de-territorialize, um, language in, in a way that you never call it a thing that you could never, you never use the word language.
+
+597
+00:58:44,680 --> 00:58:46,800
+ The word language is the thing that doesn't make sense.
+
+598
+00:58:46,880 --> 00:58:49,360
+ It's not even like language and dialects.
+
+599
+00:58:49,420 --> 00:58:51,020
+ It's like, it's all dialect.
+
+600
+00:58:51,620 --> 00:58:51,800
+ Right.
+
+601
+00:58:52,040 --> 00:59:01,080
+ I mean, it's all, this is exactly what interests me so much in it is because from the one perspective, the word language is the problem.
+
+602
+00:59:01,080 --> 00:59:05,860
+ And frankly, any, any noun is a problem, right?
+
+603
+00:59:05,920 --> 00:59:11,560
+ Because it's always sort of like this, this after effect, any verb is going to be the problem, is going to be a problem, right?
+
+604
+00:59:11,600 --> 00:59:21,920
+ Any hypostasizing of anything, except for the fact that hypostasizing nouns, words, the word language does a whole lot of shit as well.
+
+605
+00:59:22,020 --> 00:59:24,020
+ The problem is not the slowing down.
+
+606
+00:59:24,100 --> 00:59:28,340
+ The problem is that we believe in the thing that has been slowed down, right?
+
+607
+00:59:28,340 --> 00:59:30,560
+ Like, so it's not fine.
+
+608
+00:59:30,680 --> 00:59:44,140
+ We perform a certain type of operation and we call it language and we're going to continue to, even, even though we operate, or I certainly feel like I operate under the idea that this isn't the same thing that we're all, even the three of us who share a lot of commonality.
+
+609
+00:59:44,140 --> 00:59:56,500
+ Like, it's not the same operation that's happening, but to me, that's what makes interactions with other people interesting, is precisely because, like, I don't think we're doing the same thing when they think we're having a conversation.
+
+610
+00:59:57,040 --> 01:00:07,980
+ And I'm just like, I get fascinated by the most banal, ridiculous kind of interactions that, you know, a friend of mine might look at that and be like, I can't believe that interest in you.
+
+611
+01:00:08,040 --> 01:00:09,560
+ Or why did you bother talking to that person?
+
+612
+01:00:09,620 --> 01:00:11,120
+ I'm like, because I don't think they were talking.
+
+613
+01:00:11,520 --> 01:00:15,540
+ But, you know, like, I don't think I was talking or whatever, right?
+
+614
+01:00:15,600 --> 01:00:17,440
+ Like, I mean, something else was happening there.
+
+615
+01:00:18,280 --> 01:00:20,680
+ And that to me, I mean, that to me, so you're right.
+
+616
+01:00:20,800 --> 01:00:29,100
+ Like, it's not that it's the problem, you know, if there's a problem, the problem is that we believe that there is this thing called language as an actual thing.
+
+617
+01:00:29,480 --> 01:00:35,180
+ The creation of the word concept in order to produce different kinds of interactions, I don't have a, that's not a, that's not a problem.
+
+618
+01:00:35,620 --> 01:00:37,500
+ You know, that's, there's nothing wrong with that.
+
+619
+01:00:37,560 --> 01:00:40,040
+ That's just a process like any other process.
+
+620
+01:00:40,420 --> 01:00:43,960
+ But, like, so, look, go back to the Caesar crossing the Rubicon example.
+
+621
+01:00:44,080 --> 01:00:44,260
+ Yeah.
+
+622
+01:00:44,520 --> 01:00:44,880
+ Yes.
+
+623
+01:00:44,880 --> 01:01:00,740
+ I mean, it's like, what I want to think is the simultaneity of the fact that that is from the version that you're describing, like, the calling it the Caesar crossing the Rubicon event is a hypostasizing that is just not the case, right?
+
+624
+01:01:01,220 --> 01:01:02,500
+ It's not that it's not the, right.
+
+625
+01:01:02,580 --> 01:01:04,840
+ It's not that it's not the case, because what would the case be?
+
+626
+01:01:04,860 --> 01:01:06,640
+ That's the noumena, right?
+
+627
+01:01:06,820 --> 01:01:07,160
+ Exactly.
+
+628
+01:01:08,400 --> 01:01:10,200
+ It's as much the case as anything else.
+
+629
+01:01:10,620 --> 01:01:10,860
+ Yeah.
+
+630
+01:01:11,780 --> 01:01:21,580
+ But on the other hand, the event, Caesar crossing the Rubicon is, is incredibly powerful and is an event, right?
+
+631
+01:01:21,580 --> 01:01:23,560
+ And it's the simultaneity of those things.
+
+632
+01:01:23,780 --> 01:01:34,200
+ And for me, the more interesting half of those, for a long time, because I had to destabilize the sort of, you know, the vulgar belief in, you know, the event as the event or language as language or whatever else.
+
+633
+01:01:34,200 --> 01:01:39,900
+ The more interesting thing was to get to the point where you're, I was like, I wasn't talking language is the problem.
+
+634
+01:01:40,120 --> 01:01:45,420
+ You know, this is, you know, your belief in the thing of language is the problem.
+
+635
+01:01:46,180 --> 01:01:52,060
+ And now that I've kind of, like, got an okay, I've sort of wrapped my head around that a little bit more.
+
+636
+01:01:52,060 --> 01:02:05,520
+ It's now actually going back to, you know, what you could use other language to call it, like, the molar entities of, you know, things called language and English and you and me and I and whatever else.
+
+637
+01:02:05,980 --> 01:02:12,400
+ Like, all right, now let's rethink how those work, right, as tropes.
+
+638
+01:02:12,620 --> 01:02:26,920
+ Like, and I think you would actually have to think about those as tropological deployments that now have, you know, sort of like molar rather than molecular effects.
+
+639
+01:02:27,380 --> 01:02:31,060
+ Well, they all, but they, yeah, but they always have molecular effects.
+
+640
+01:02:31,280 --> 01:02:36,700
+ I mean, that's where it's like, you know, lodge yourself on a stratum and experiment with the lines of flight that are available there.
+
+641
+01:02:36,860 --> 01:02:43,100
+ It doesn't matter if it's a sentence about Caesar or, you know, a sentence from Deleuze or anything else.
+
+642
+01:02:43,400 --> 01:02:45,980
+ Like, and, you know, to me, it's like, well, that's what we're doing.
+
+643
+01:02:46,140 --> 01:02:50,120
+ I mean, that's what every, I mean, there's no alternative, right?
+
+644
+01:02:50,600 --> 01:02:50,760
+ Right.
+
+645
+01:02:51,120 --> 01:02:53,100
+ So try to not do that.
+
+646
+01:02:53,460 --> 01:02:54,580
+ You can't, right?
+
+647
+01:02:54,700 --> 01:03:05,140
+ So, and it doesn't have to be, that's where, to me, I mean, you know, I'm just really resistant to the idea of getting, giving language too much agency, you know, to, it's because of the field.
+
+648
+01:03:05,320 --> 01:03:09,300
+ It's because we're in a field called rhetoric where they, everybody wants to say language does everything.
+
+649
+01:03:09,300 --> 01:03:14,000
+ And even the smarter people, right, want to say, want to talk about the incredible power of language.
+
+650
+01:03:14,000 --> 01:03:36,820
+ And I, look, I think language is a force and I think it's a force to be reckoned with because it's significant, but I don't, it's signifying, significant, but I don't, I don't give it credit for any particular thing, even to the point of not wanting to dislike it, you know, but it's like the very concept of the, of language and the kind of molarizing effect that that concept has.
+
+651
+01:03:37,940 --> 01:03:39,860
+ There's nothing wrong with the molarizing effect.
+
+652
+01:03:40,100 --> 01:03:42,780
+ There's nothing that can be done other than the formation of stratus.
+
+653
+01:03:43,340 --> 01:03:52,800
+ It's just a question of whether or not you believe in the strata or you're disposed to experiment with the strata in ways that figure out, well, what else can we do if we don't call it language, right?
+
+654
+01:03:52,800 --> 01:03:59,000
+ Or if we provisionally, or we put the word language in quotation marks all the time, what, what will that do?
+
+655
+01:03:59,480 --> 01:03:59,600
+ Right.
+
+656
+01:03:59,740 --> 01:03:59,860
+ Yeah.
+
+657
+01:04:00,300 --> 01:04:00,540
+ Yeah.
+
+658
+01:04:01,040 --> 01:04:08,220
+ I mean, it's easy, it's easy to see why Deleuze, um, innovates, uh, with his terminology.
+
+659
+01:04:08,420 --> 01:04:08,580
+ Sure.
+
+660
+01:04:08,580 --> 01:04:13,120
+ I mean, it's like, cause so much, so like Caesar crosses the Rubicon.
+
+661
+01:04:13,120 --> 01:04:14,760
+ One, I went to the grocery store.
+
+662
+01:04:14,860 --> 01:04:19,220
+ I mean, any simple sentence is laden with humanist presuppositions.
+
+663
+01:04:19,440 --> 01:04:28,920
+ So in order to even get a grasp on the complexity that's at work there, you almost have to, uh, not unravel, but experiment with the grammar.
+
+664
+01:04:28,920 --> 01:04:29,400
+ Right.
+
+665
+01:04:29,440 --> 01:04:41,460
+ I mean, you'd have to say the assemblage that makes up the singularity that is I, you know, the forces that are me, um, were compelled by a series of drives to go to the grocery store, you know?
+
+666
+01:04:41,460 --> 01:04:47,000
+ And so it's like the complexity of even any simple action, um, right.
+
+667
+01:04:47,480 --> 01:04:55,400
+ Is, is, is, is both stabilized by grammar and potentially upsets that grammar that we take for granted, you know?
+
+668
+01:04:56,040 --> 01:05:03,340
+ Well, this is, I mean, I think, I think you're exactly what you're, what you said right there is exactly why Heidegger turns to poetry, you know?
+
+669
+01:05:03,340 --> 01:05:13,220
+ Um, because he sees in the syntactical qualities of poetry, uh, the possibility of different lives, different, you know?
+
+670
+01:05:13,320 --> 01:05:16,040
+ I mean, I think that really is what it is, right?
+
+671
+01:05:16,140 --> 01:05:27,300
+ Like, um, now in his case, I think it is a more authentic relationship to, you know, the thrownness of being, but nevertheless, like, you know, you can just remove the word authentic and say like, hey, this is a different way of living.
+
+672
+01:05:27,300 --> 01:05:33,200
+ Like the Deleuze would just take the word authentic out and be like, yeah, there's different possibilities for life there, you know?
+
+673
+01:05:34,120 --> 01:05:34,580
+ So, yeah.
+
+674
+01:05:34,720 --> 01:05:34,840
+ Right.
+
+675
+01:05:35,200 --> 01:05:38,720
+ And, but I also, but the other part of that is I think people do that all the time.
+
+676
+01:05:38,720 --> 01:05:55,960
+ Like, you know, for instance, in the ways that we think about our responsibility for various things, like, well, it's because of my parents or because of the circumstance, you know, we, we mentally at times reconfigure the eye such that we dispose of whatever agency we might have.
+
+677
+01:05:55,960 --> 01:05:57,600
+ And then other times like, well, I want that.
+
+678
+01:05:57,600 --> 01:06:08,700
+ I mean, so, you know, in, in terms of actual daily life, we vacillate on the terminology of the eye in our thinking, even though what we do is we install the eye somewhere else.
+
+679
+01:06:08,720 --> 01:06:13,400
+ Which is my parents or, you know, my history or the circumstances that I'm in.
+
+680
+01:06:13,680 --> 01:06:21,440
+ They just become, they assume, that's the syntactical point is they assume the role of the subject of the sentence, even if they're not people, right?
+
+681
+01:06:21,500 --> 01:06:23,820
+ They, they become the subject that then acts.
+
+682
+01:06:24,360 --> 01:06:29,360
+ So we're still maintaining that notion of subject, action, object, right?
+
+683
+01:06:30,720 --> 01:06:31,160
+ Right.
+
+684
+01:06:31,160 --> 01:06:39,680
+ I get the sense that I want to pitch this to y'all that the figure of the trope and, you know, I, I, I sort of recognize the duplicity of saying.
+
+685
+01:06:39,680 --> 01:06:40,580
+ The figure of the trope, right.
+
+686
+01:06:40,580 --> 01:06:40,720
+ Right.
+
+687
+01:06:42,080 --> 01:06:53,760
+ And it seems to be a, if not privileged by at least interesting place to think about the intersection between the molar and the molecular or the, like.
+
+688
+01:06:53,760 --> 01:07:02,540
+ Like, where, like, the, like, the, the, the, the troping in its topological functions of cutting and turning and, you know, right?
+
+689
+01:07:02,680 --> 01:07:07,940
+ But then at the same time, you know, the, the trope in terms of its, like, its content.
+
+690
+01:07:14,280 --> 01:07:30,100
+ So this is just after we were just reading about sort of like the arising of, of language within the event that sort of demarcates sounds as more than, than, you know, sounds.
+
+691
+01:07:30,500 --> 01:07:30,600
+ Okay.
+
+692
+01:07:30,600 --> 01:07:35,420
+ The most general operation of this, of sense is this.
+
+693
+01:07:35,860 --> 01:07:39,120
+ It brings that which expresses it into existence.
+
+694
+01:07:39,580 --> 01:07:46,920
+ And from that point on, as pure adherence, it brings itself to exist within that which expresses it.
+
+695
+01:07:47,160 --> 01:07:51,420
+ And that's obviously a very important line there.
+
+696
+01:07:51,420 --> 01:08:02,520
+ But that's what he's been arguing or been sort of, like, tearing with the entire, the entire book so far is how is this thing that's not a thing get adhered in things without being a thing?
+
+697
+01:08:03,120 --> 01:08:07,400
+ And also, by the way, make the thing, you know, like the mist that hovers.
+
+698
+01:08:07,840 --> 01:08:17,080
+ It rests, therefore, with the aeon as the milieu of surface effects or events to trace a frontier between things and propositions.
+
+699
+01:08:17,360 --> 01:08:21,020
+ And the aeon traces it with its entire straight line.
+
+700
+01:08:21,620 --> 01:08:26,380
+ Without it, sounds would fall back on bodies and propositions themselves would not be possible.
+
+701
+01:08:27,060 --> 01:08:33,300
+ Language is rendered possible by the frontier, which separates it from things and from bodies, including those which speak.
+
+702
+01:08:33,780 --> 01:08:38,700
+ We can thus take up again the account of the surface organization as it is determined by the aeon.
+
+703
+01:08:39,360 --> 01:08:53,380
+ So the thing I'm uncomfortable with there is this sort of separation between, like, some kind of line of separation between things and body.
+
+704
+01:08:53,680 --> 01:09:02,220
+ You know, the, I mean, it just feels too, I don't know, like, clean.
+
+705
+01:09:02,700 --> 01:09:12,560
+ I mean, for lack of a better word, like, discrete is language is rendered possible by the frontier, which separates it, right?
+
+706
+01:09:12,600 --> 01:09:16,340
+ So you got language on the one hand, and then you have bodies on the other, you know, from bodies.
+
+707
+01:09:17,560 --> 01:09:23,220
+ And I mean, I understand the point, which is like certain sounds aren't language, right?
+
+708
+01:09:23,300 --> 01:09:30,780
+ Like sounds, the sort of bodily sounds, you know, like, I mean, no one thinks that's language, right?
+
+709
+01:09:30,980 --> 01:09:38,120
+ And so what is it that makes it language is this sort of schism between, you know.
+
+710
+01:09:38,200 --> 01:09:42,900
+ But that's a good example, because the way you just went, I would say that is language, right?
+
+711
+01:09:42,920 --> 01:09:47,900
+ Because it was functioning within a repetition of sounds that was sort of like, it was structured as an example.
+
+712
+01:09:47,900 --> 01:09:50,620
+ Like that was an example of a nonsense sound, right?
+
+713
+01:09:50,660 --> 01:09:51,020
+ Exactly.
+
+714
+01:09:51,340 --> 01:09:57,000
+ If that's all you said today, if that's all you were doing today, then that probably wouldn't be language.
+
+715
+01:09:57,840 --> 01:10:00,140
+ But no, but compare that to the burp.
+
+716
+01:10:00,300 --> 01:10:08,260
+ That's the distinction, because the cough and the burp, you know, they aren't, but they don't get taken up in the same register.
+
+717
+01:10:08,860 --> 01:10:09,800
+ Sure, for sure.
+
+718
+01:10:09,800 --> 01:10:18,140
+ But they're also, I mean, they're also, I mean, I don't know, like, at least to me, you know, when you got to burp, you got to burp, right?
+
+719
+01:10:18,320 --> 01:10:21,360
+ Like, you don't have to speak, you know.
+
+720
+01:10:21,400 --> 01:10:28,260
+ So it seems to me that there is a kind of determinism of the body that works with some of those sounds that doesn't work with the other one.
+
+721
+01:10:28,260 --> 01:10:30,840
+ See, that seems to cling to me for one.
+
+722
+01:10:30,980 --> 01:10:33,820
+ I mean, let's talk about sort of like the compulsion to speak.
+
+723
+01:10:33,980 --> 01:10:39,280
+ I mean, my God, if people do need to speak, you encounter them all the time.
+
+724
+01:10:39,800 --> 01:10:47,660
+ They need to, but I guess I feel like maybe I'm just relying on an old distinction where, like, the physiological need is a different thing.
+
+725
+01:10:48,420 --> 01:11:07,120
+ But we also, but like the, I would also say burps and farts and other, like, noises aren't simply, you know, undetermined or by some kind of, you know, like decision or whatever else that they're, that, you know, like.
+
+726
+01:11:07,600 --> 01:11:09,780
+ Like talking about to lose makes you cough?
+
+727
+01:11:11,920 --> 01:11:20,200
+ No, but the way that the coughing, like, I deferred the cough as long as I could so I could finish reading the paragraph.
+
+728
+01:11:20,940 --> 01:11:27,640
+ And then, you know, the way in which I was coughing, like, it's not, I had a pretty narrow limit of choices, right?
+
+729
+01:11:27,740 --> 01:11:32,860
+ But there were definitely, like, options, you know, within them to choose from, right?
+
+730
+01:11:32,960 --> 01:11:35,460
+ And, you know, like, the burp is another one.
+
+731
+01:11:35,540 --> 01:11:39,140
+ Like, you can more sort of, like, ostentatiously or not, like, burp.
+
+732
+01:11:39,300 --> 01:11:41,740
+ There's a lot, there's, like, wiggle room within that.
+
+733
+01:11:42,260 --> 01:11:44,280
+ And the same thing with, with the language.
+
+734
+01:11:44,280 --> 01:11:49,300
+ I would say it's not just a matter of choosing to talk or not to talk is, I mean, let's.
+
+735
+01:11:49,540 --> 01:11:54,260
+ But how does Aeon, how does, how does, how does a sense of temporality?
+
+736
+01:11:54,260 --> 01:11:56,160
+ And I get that it's not sort of present.
+
+737
+01:11:56,160 --> 01:12:05,460
+ But how is it that, why is it that Aeon is the thing that traces that line that distinguishes coughs from language?
+
+738
+01:12:05,820 --> 01:12:07,720
+ You know, does the question make sense?
+
+739
+01:12:07,840 --> 01:12:10,120
+ Like, why is it the dimension of temporality?
+
+740
+01:12:10,240 --> 01:12:16,440
+ Like, for instance, when I got to this paragraph, I was just sort of confused why we were talking about language in reference to time.
+
+741
+01:12:17,180 --> 01:12:41,580
+ Because I think that is this, that the organizing spacing that, you know, later he talks about the Aeon as a pure operation that has no substance, has no bodily, has no incorporation, that is the pure, like, Kronos as the, like, I mean, think about Kronos as more sort of like.
+
+742
+01:12:41,980 --> 01:12:43,260
+ The pure perverse moment.
+
+743
+01:12:43,680 --> 01:12:44,800
+ The present without thickness.
+
+744
+01:12:45,960 --> 01:12:46,380
+ Right.
+
+745
+01:12:46,380 --> 01:12:51,320
+ So, like, think about Kronos as more of like the Dionysian oneness, right?
+
+746
+01:12:51,740 --> 01:12:54,920
+ Which, you know, doesn't mean a homogenous blob, right?
+
+747
+01:12:54,960 --> 01:12:59,300
+ There's still heterogeneity within oneness, within Ammonism.
+
+748
+01:12:59,940 --> 01:13:02,520
+ But, you know, there are different mixtures and they're sort of like moving around.
+
+749
+01:13:02,600 --> 01:13:10,580
+ But there's a whole other layer that Deleuze is introducing here of logical distinctions and organizings, right?
+
+750
+01:13:10,780 --> 01:13:23,900
+ That make more differentiations that then sort of get, sort of like help, that reorganize molecular organizations and then sort of, you know, there's a feedback loop between the two.
+
+751
+01:13:24,120 --> 01:13:36,840
+ But that, you know, I mean, he's trying to think logic here and think about logic not as a general principle, but as like the, it is the logic of the event, the logic of sense.
+
+752
+01:13:37,300 --> 01:13:41,120
+ This is the first time I think I've actually understood the title or at least been able to grapple with the title.
+
+753
+01:13:41,260 --> 01:13:43,840
+ In that way, it's the sense of logic, right?
+
+754
+01:13:43,940 --> 01:13:45,020
+ The sense of logic, yeah.
+

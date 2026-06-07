@@ -1,0 +1,3380 @@
+1
+00:00:00,000 --> 00:00:27,960
+ The movement from self-certainty to perception, you know, it's like, I get it.
+
+2
+00:00:27,960 --> 00:00:37,140
+ I mean, it makes sense. I understand. I mean, for me, I had a number of thoughts and notes that I jotted down, not least of which is nobody talks very much.
+
+3
+00:00:37,180 --> 00:00:52,020
+ There must have been like a huge mine filled with semicolons somewhere in the Yenna region because this book, the number of semicolons per page is like nothing I've ever seen.
+
+4
+00:00:52,920 --> 00:01:07,260
+ Yeah. No, the syntax is so strange. And I don't bizarre. It's not it's not secondary. I mean, that's something I think I will continuously come back to is kind of part of my thesis on Hagel.
+
+5
+00:01:07,260 --> 00:01:14,480
+ Like the syntax is what gives the dialectic its life. Like it's not some accessory to the text.
+
+6
+00:01:15,160 --> 00:01:26,500
+ So you should read Dan Smith, who used to be here. He's now well, he's out of academia now down in Texas. He wrote, I think, an excellent piece. It's called like bad writing.
+
+7
+00:01:27,380 --> 00:01:39,060
+ If you text me, you know, I'll forget. But if you text or email me, I'll remember and find the site for you. But his claim there is that the movement of Hagel, he uses Hagel, Adorno, and I think Zizek.
+
+8
+00:01:39,680 --> 00:01:47,880
+ And he's like, it's negative dialectic, whatever. But the claim is precisely what you're saying, which is the syntax is the pedagogy.
+
+9
+00:01:48,420 --> 00:01:48,600
+ Right.
+
+10
+00:01:48,680 --> 00:01:53,860
+ You know, so it's just a site that you can use. And it's a smart article. It's Dan. He's a smart guy.
+
+11
+00:01:54,300 --> 00:01:57,200
+ Yeah. No, I'll have to. I'll write it down. Dan Smith.
+
+12
+00:01:57,320 --> 00:01:57,480
+ Yeah.
+
+13
+00:01:57,580 --> 00:02:16,740
+ Yeah. Dan Smith. And the title of it is like bad writing. He's taking people that have conventionally been considered bad writers. And he's saying it's only bad writing in the sense of some romantic experience of reading. It's not bad writing in the sense of a pedagogy.
+
+14
+00:02:17,140 --> 00:02:17,260
+ Right.
+
+15
+00:02:17,260 --> 00:02:19,400
+ And that those are different kinds of things, you know.
+
+16
+00:02:19,920 --> 00:02:27,780
+ So, yeah, it's Hagel, Adorno. And I really feel like the third is Zizek, the third example he takes, but I'm not sure.
+
+17
+00:02:28,620 --> 00:02:31,120
+ Could it be Butler with the bad writing awards?
+
+18
+00:02:31,900 --> 00:02:34,900
+ It could have been Butler. You might be right. It could have been.
+
+19
+00:02:35,200 --> 00:02:37,460
+ Yeah, she's always talked about with that conversation.
+
+20
+00:02:38,360 --> 00:02:41,840
+ Yeah, but that's a different, I mean, that circumstance was so political.
+
+21
+00:02:42,820 --> 00:02:42,980
+ Yeah.
+
+22
+00:02:43,640 --> 00:02:49,660
+ I mean, implicitly. So a lot of people don't. Like Chris Holcomb wrote and published an essay on this and never really knew.
+
+23
+00:02:49,920 --> 00:02:55,620
+ Because when he showed it to me and I was like, Chris, you completely ignore the politics of this journal.
+
+24
+00:02:55,780 --> 00:03:00,720
+ Like it's a journal that gave her that award and it's an analytic, it's a conservative analytic journal.
+
+25
+00:03:01,540 --> 00:03:05,360
+ And if you look at the winners, they're all continental, you know, continental philosophers.
+
+26
+00:03:05,820 --> 00:03:11,500
+ Well, it's funny to me, like reading this and then going to Butler and being like, she's too confusing.
+
+27
+00:03:12,160 --> 00:03:22,920
+ Like, yeah, but Butler is like, like very clear and like there's an emphasis on clarity and simplicity when you look at someone like Hegel or someone like Deleuze.
+
+28
+00:03:23,020 --> 00:03:27,620
+ Like, you know what I mean? Like what? I've never had the sensation that Butler was difficult to read.
+
+29
+00:03:28,420 --> 00:03:28,520
+ Yeah.
+
+30
+00:03:28,640 --> 00:03:28,960
+ Me neither.
+
+31
+00:03:29,340 --> 00:03:29,540
+ Agree.
+
+32
+00:03:30,020 --> 00:03:30,580
+ Yeah.
+
+33
+00:03:30,940 --> 00:03:31,580
+ Agree with you.
+
+34
+00:03:31,800 --> 00:03:36,740
+ I mean, not in any way, not in any sense that any philosophy is difficult to read.
+
+35
+00:03:36,980 --> 00:03:37,220
+ Right.
+
+36
+00:03:37,560 --> 00:03:38,200
+ Right, right, right.
+
+37
+00:03:39,100 --> 00:03:39,320
+ Right.
+
+38
+00:03:39,660 --> 00:03:45,460
+ And unfortunately, but unfortunately she wrote that, the same has been true whenever I teach that in grad classes.
+
+39
+00:03:46,040 --> 00:03:49,680
+ Grad students across the board are always like, why do people think this is so hard to read?
+
+40
+00:03:49,780 --> 00:03:52,100
+ Like, this doesn't seem that hard to read.
+
+41
+00:03:52,180 --> 00:03:53,820
+ I mean, it's philosophy, you know.
+
+42
+00:03:54,220 --> 00:04:00,600
+ But unfortunately she wrote that, she wrote a defense after, this is a couple years after, after getting that award.
+
+43
+00:04:00,680 --> 00:04:07,980
+ She wrote a defense that was published in the New York Times and her defense was difficult ideas require difficult writing, which is the worst.
+
+44
+00:04:08,940 --> 00:04:10,600
+ I mean, to me, it's the worst defense.
+
+45
+00:04:10,780 --> 00:04:15,100
+ Like, the proper defense is this is not difficult writing for people who read philosophy.
+
+46
+00:04:15,760 --> 00:04:16,520
+ Right, yeah.
+
+47
+00:04:16,600 --> 00:04:17,880
+ She should have just done that take.
+
+48
+00:04:17,880 --> 00:04:19,560
+ Yeah, that would have been a more modest take.
+
+49
+00:04:20,360 --> 00:04:21,040
+ Right, right.
+
+50
+00:04:21,160 --> 00:04:33,020
+ Well, because what she does is she links the ideas to the quality of the writing and that's a whole representational argument that shouldn't, she shouldn't, you wouldn't think that she would be supportive.
+
+51
+00:04:33,640 --> 00:04:34,340
+ That's right.
+
+52
+00:04:34,960 --> 00:04:41,620
+ I regret, I mean, it's so much because so many times I've heard people reference Butler's defense and I'm like, oh, I hate that defense so much.
+
+53
+00:04:41,920 --> 00:04:49,440
+ There's a really good one, which is, this is a specialist idiom like every other specialist idiom in the world.
+
+54
+00:04:50,100 --> 00:04:50,140
+ Right.
+
+55
+00:04:50,320 --> 00:04:56,160
+ And for that specialist idiom, it's not to, like, mathematics is bad writing, right?
+
+56
+00:04:56,560 --> 00:04:58,960
+ Because it's not written for us to understand.
+
+57
+00:04:59,100 --> 00:05:01,000
+ Like, quantum mechanics, bad writing.
+
+58
+00:05:01,240 --> 00:05:01,440
+ Yeah.
+
+59
+00:05:01,540 --> 00:05:09,060
+ Nobody says quantum mechanics is bad writing because they understand it's a specialist language, an idiom for physicists.
+
+60
+00:05:10,180 --> 00:05:16,200
+ Yeah, it's a technical language and insofar as Butler's is a technical language, it's pretty simple.
+
+61
+00:05:16,640 --> 00:05:27,460
+ It's symmetrical, it's not, like, it's not even that ambiguous when you, like, if you compare it to Hegel or a lot of these writers that we're, that we're dealing with, you know?
+
+62
+00:05:27,780 --> 00:05:28,040
+ Yeah.
+
+63
+00:05:29,280 --> 00:05:29,680
+ Yeah.
+
+64
+00:05:29,820 --> 00:05:35,400
+ Although, interestingly, people don't really say that about Deleuze, even though Deleuze is way harder to read.
+
+65
+00:05:35,860 --> 00:05:48,140
+ But because it's so clearly making, you know, neologism, you know, because it's so clearly kind of playful, for whatever reason, people just don't associate that with bad writing.
+
+66
+00:05:48,260 --> 00:05:53,800
+ And they just, like, oh, well, they're being playful, they're just making up bodybuildings and, right, they're creative, right, right.
+
+67
+00:05:54,140 --> 00:05:54,260
+ Yeah.
+
+68
+00:05:55,120 --> 00:06:05,840
+ But I have a strain, I mean, I'm still, my reading and relationship with Butler has sort of evolved over the last few years and she's still pretty central to my project.
+
+69
+00:06:06,340 --> 00:06:15,920
+ But if you read any of, like, her most recent stuff, it seems like she's kind of regressed into just a basic liberal humanism.
+
+70
+00:06:16,420 --> 00:06:27,360
+ Like, and I know there's, there's a difference between pop butler and, like, hard theoretical butler, but the pop butler is not good for me.
+
+71
+00:06:27,780 --> 00:06:37,180
+ Like, she's published a couple pieces in just, like, popular magazines recently and it's like, these are just strange, like, really conservative arguments, you know?
+
+72
+00:06:37,280 --> 00:06:37,500
+ Yeah.
+
+73
+00:06:37,580 --> 00:06:38,780
+ I don't know if you've read any of them.
+
+74
+00:06:38,980 --> 00:06:40,080
+ It's hard to imagine.
+
+75
+00:06:40,160 --> 00:06:40,800
+ I have.
+
+76
+00:06:41,140 --> 00:06:42,860
+ I've had the same response that you did.
+
+77
+00:06:42,960 --> 00:06:45,080
+ It's like, this sounds like liberalism to me.
+
+78
+00:06:45,360 --> 00:06:45,520
+ Yeah.
+
+79
+00:06:45,520 --> 00:06:50,040
+ The only thing that I give her a break for, well, there are many things I give her a break for because I think she's smart as fuck.
+
+80
+00:06:50,240 --> 00:06:57,080
+ But, like, being in a position like she is is something that I will never understand, which is I have to write, right?
+
+81
+00:06:57,120 --> 00:06:59,500
+ I get to write for you guys, right?
+
+82
+00:06:59,560 --> 00:07:06,520
+ And for a fairly narrow group of, you know, of sort of theory types in the rhetoric field or whatever.
+
+83
+00:07:06,660 --> 00:07:09,300
+ And maybe there's a few outliers in philosophy or whatever.
+
+84
+00:07:09,300 --> 00:07:18,780
+ But, like, I don't ever have to be concerned that the bulk of the people responding to my thing are going to say, make it intelligible to me, you know?
+
+85
+00:07:18,960 --> 00:07:19,140
+ Right.
+
+86
+00:07:19,220 --> 00:07:20,220
+ And she really is.
+
+87
+00:07:20,280 --> 00:07:25,900
+ I mean, she is a – she's more of a public figure than sort of intellectual anymore.
+
+88
+00:07:26,020 --> 00:07:27,820
+ And I don't mean that as a disparaging comment.
+
+89
+00:07:27,960 --> 00:07:39,800
+ It's because of her extraordinary success that she's called on and asked to speak to, you know, the Palestinian question at MLA, for example, a couple of years ago, right, when there was that.
+
+90
+00:07:40,220 --> 00:07:43,580
+ And she is called upon to offer a perspective.
+
+91
+00:07:43,820 --> 00:07:57,740
+ Well, you know, she can't possibly be a master of all of this content and also speak to all of these constituencies in that sort of – you know, Derrida, you know, there's Derrida that's like that as well.
+
+92
+00:07:57,740 --> 00:08:06,940
+ You know, there are times where, like, talking on apartheid and he usually managed to turn it back to some sort of esoteric question of hospitality and et cetera, et cetera.
+
+93
+00:08:07,120 --> 00:08:17,240
+ But there are moments where I'm like, yeah, I just can't understand the position that a person like that has gone from this and now they've got a – we call it a larger public.
+
+94
+00:08:17,360 --> 00:08:19,900
+ But it's just a different – it's a different public.
+
+95
+00:08:20,920 --> 00:08:23,740
+ And to write, it's like I don't –
+
+96
+00:08:23,740 --> 00:08:31,620
+ Yeah, well, you assume a political position and then your views sort of by necessity have to be narrowed in a way, you know.
+
+97
+00:08:31,620 --> 00:08:42,040
+ I mean, her defense of academia in that one article – I forget what the publication was – it was like this makes perfect sense if you're speaking from her position.
+
+98
+00:08:42,840 --> 00:08:43,500
+ Right, right.
+
+99
+00:08:43,500 --> 00:08:52,880
+ So, but from anybody – from my position, from your guys' position, it's like that argument, it was so elitist, which whatever, there's good and bad versions of every writer.
+
+100
+00:08:53,380 --> 00:08:56,000
+ So, it's like, well, I guess this is just the version I don't like.
+
+101
+00:08:56,420 --> 00:08:57,120
+ I mean, you know what I mean?
+
+102
+00:08:57,180 --> 00:08:58,260
+ So, I don't know.
+
+103
+00:08:58,380 --> 00:08:59,220
+ It's kind of arbitrary.
+
+104
+00:08:59,420 --> 00:08:59,600
+ Right.
+
+105
+00:08:59,820 --> 00:09:00,100
+ Maybe.
+
+106
+00:09:00,300 --> 00:09:00,540
+ Yeah.
+
+107
+00:09:01,840 --> 00:09:02,400
+ But, yeah.
+
+108
+00:09:02,540 --> 00:09:16,260
+ And she – and I think – I mean, look, the other thing to keep in mind is how totally excoriated she was by so many feminists back in the 80s – well, rather, the 90s, late 80s and early 90s because of her stuff was unreadable.
+
+109
+00:09:16,260 --> 00:09:18,920
+ And that she was not supporting the cause.
+
+110
+00:09:18,920 --> 00:09:21,500
+ And my take on that was that bothered her, right?
+
+111
+00:09:21,640 --> 00:09:27,240
+ Like, because she very much saw herself as an activist, activist theorist.
+
+112
+00:09:28,220 --> 00:09:38,240
+ And so, yeah, it does seem like her work became more recognizably activist rather than recognizably – I mean, she's still smart as fuck, like, obviously.
+
+113
+00:09:38,720 --> 00:09:45,500
+ But it just seems – and, again, that's a circumstance where I can't imagine it, you know?
+
+114
+00:09:45,980 --> 00:09:47,820
+ I think that – that's my sense, too.
+
+115
+00:09:47,940 --> 00:09:59,960
+ I mean, think about the sort of genealogy and series of critiques she gives at the beginning of Gender Trouble where, I mean, it's not just that, you know, she's got shit for being, you know, quote, unquote, unreadable.
+
+116
+00:09:59,960 --> 00:10:09,000
+ But she also, like, really went after a whole bunch of, you know, concepts that are pretty central to most versions of feminism.
+
+117
+00:10:09,400 --> 00:10:13,820
+ Like, there is a recognizable thing that we can call woman, right?
+
+118
+00:10:14,040 --> 00:10:14,360
+ Right.
+
+119
+00:10:14,780 --> 00:10:24,060
+ Which, to me, I mean, that makes Butler far more interesting as a – I mean, as a feminist to actually take up, you know, woman – the category of woman as a question.
+
+120
+00:10:24,060 --> 00:10:37,060
+ And to question the – I mean, to my mind, you know, like, her and de Beauvoir are, you know, at the – you know, are the most interesting thinkers in that arena.
+
+121
+00:10:37,220 --> 00:10:55,920
+ But someone like Siksou, who just sort of, like, assumes sort of, like, prefigured versions of masculinity and femininity and then ascribes them to kinds of writing, is just like, you know, you're not actually thinking about gender.
+
+122
+00:10:56,060 --> 00:11:03,060
+ You're just thinking about the way that contemporary gender norms get distributed and pointing out very obvious disparities between them.
+
+123
+00:11:03,100 --> 00:11:04,680
+ But you're not thinking about gender at all.
+
+124
+00:11:04,680 --> 00:11:09,420
+ I mean, that's a – that's the tough part.
+
+125
+00:11:10,000 --> 00:11:10,200
+ Yeah.
+
+126
+00:11:10,420 --> 00:11:24,440
+ What seems to suck is that, like, the more activist, like, the bent of your writing becomes or the more – like, if you have dogs in a fight, the less adventurous and provocative your thinking becomes.
+
+127
+00:11:24,700 --> 00:11:27,120
+ Which doesn't seem like it has to be the case.
+
+128
+00:11:27,160 --> 00:11:30,200
+ It just seems like that's usually the way it goes, you know.
+
+129
+00:11:30,560 --> 00:11:46,360
+ Which it's like someone like Zizek, he will have, like, kind of activist political tendencies, but the writing itself doesn't seem to be burdened by, like, a responsibility to humanity or to a specific group, you know.
+
+130
+00:11:46,360 --> 00:12:01,480
+ Which I find that uncomfortable sometimes reading him, but I also – I don't think I could ever, like, fully just endorse something, which is what Butler seems to lean into later in her career, you know, that kind of orientation.
+
+131
+00:12:01,900 --> 00:12:02,380
+ I don't know.
+
+132
+00:12:02,660 --> 00:12:13,500
+ I mean, it seems like you could find a balance between those two, but for me, the more explicitly, like, about social justice issues you become, the less adventurous the thinking.
+
+133
+00:12:14,040 --> 00:12:14,700
+ I don't know.
+
+134
+00:12:14,800 --> 00:12:15,480
+ It's just – yeah.
+
+135
+00:12:16,360 --> 00:12:23,320
+ Well, you have to harden yourself into a position to advocate for something generally means you have to articulate the boundaries of the thing that you're advocating for, right?
+
+136
+00:12:23,440 --> 00:12:23,640
+ Right.
+
+137
+00:12:23,880 --> 00:12:24,240
+ Yeah, exactly.
+
+138
+00:12:24,760 --> 00:12:39,000
+ And I've always felt like – and this is just in the microcosm that is the classroom, but particularly for undergrads, but I've always felt like current events, like, I felt a responsibility to say something interesting about them.
+
+139
+00:12:39,160 --> 00:12:47,740
+ And I often don't have anything interesting to say, and I feel like that, like – and that's a much, much smaller microcosm.
+
+140
+00:12:47,740 --> 00:13:00,280
+ I imagine, you know, projecting that to the position of, like, you know, Judith Butler or Zizek or someone who, you know, where anything that they write on a topic – and they're being asked constantly, like, hey, will you write about this issue?
+
+141
+00:13:00,360 --> 00:13:02,100
+ Will you write about – will you do something on this issue?
+
+142
+00:13:02,220 --> 00:13:05,760
+ Will you come give a talk on this, you know, to this group or whatever?
+
+143
+00:13:06,320 --> 00:13:10,600
+ And I can't – I can't imagine that sort of success.
+
+144
+00:13:10,760 --> 00:13:11,700
+ I think that you're right.
+
+145
+00:13:11,780 --> 00:13:20,200
+ It would just sort of like, well, now I've got to have something interesting to say about something that's, like I said, a current event where I'm like, well, things happened and other things happened.
+
+146
+00:13:20,820 --> 00:13:25,600
+ Well, some stuff – I mean, have you read really anything interesting about the pandemic?
+
+147
+00:13:25,900 --> 00:13:30,860
+ Like, literally, over the past year, have you read anything that was like, wow, that's really interesting and provocative?
+
+148
+00:13:30,860 --> 00:13:31,780
+ Oh, bylines give it away.
+
+149
+00:13:31,860 --> 00:13:33,400
+ There's nothing to read beyond the byline.
+
+150
+00:13:34,240 --> 00:13:34,940
+ Yeah, yeah.
+
+151
+00:13:35,660 --> 00:13:36,660
+ I don't know, man.
+
+152
+00:13:36,780 --> 00:13:40,140
+ There was this brilliant essay in this PNR special issue.
+
+153
+00:13:40,660 --> 00:13:41,620
+ Yeah, yeah, yeah.
+
+154
+00:13:42,440 --> 00:13:44,100
+ By this Wuckelbauer guy.
+
+155
+00:13:44,140 --> 00:13:44,840
+ Right, right, right.
+
+156
+00:13:45,880 --> 00:13:46,920
+ You had to write it.
+
+157
+00:13:47,000 --> 00:13:47,760
+ You had to write it.
+
+158
+00:13:47,880 --> 00:13:48,880
+ You didn't read anything.
+
+159
+00:13:48,920 --> 00:13:49,500
+ You had to write it.
+
+160
+00:13:49,500 --> 00:13:50,460
+ I had to write it.
+
+161
+00:13:50,560 --> 00:13:50,700
+ Yeah.
+
+162
+00:13:52,040 --> 00:13:55,220
+ You know, and it's actually – it's about styles of reading, right?
+
+163
+00:13:55,280 --> 00:14:00,860
+ And that's what it ended up being about is how to resist the rage response of resentment.
+
+164
+00:14:01,220 --> 00:14:02,440
+ I mean, that's what it was about.
+
+165
+00:14:02,440 --> 00:14:05,660
+ And the interesting thing was I went through – I didn't read all of the other ones.
+
+166
+00:14:06,040 --> 00:14:09,880
+ I read just a few from some of the folks that I know, and they were all rage responses.
+
+167
+00:14:10,100 --> 00:14:11,920
+ They were all angry.
+
+168
+00:14:12,140 --> 00:14:14,500
+ And I was like, wow, that's an interesting juxtaposition.
+
+169
+00:14:14,680 --> 00:14:22,800
+ I wonder – because, you know, in my typical cryptic way, I don't say, like, hey, we need to resist the rage response, and here's a possible way of doing it.
+
+170
+00:14:22,800 --> 00:14:30,340
+ I just sort of start with, here's rage, I want to do something else, you know, so it's like it can easily not be seen as in dialogue with them.
+
+171
+00:14:30,580 --> 00:14:30,840
+ But, yeah.
+
+172
+00:14:31,220 --> 00:14:31,400
+ Right.
+
+173
+00:14:32,320 --> 00:14:36,420
+ How to do – I mean, to me, thinking is, like, it's hard, right?
+
+174
+00:14:36,620 --> 00:14:38,340
+ And it's particularly when you're pissed.
+
+175
+00:14:38,440 --> 00:14:43,140
+ Or, in my case, in the last couple of months, especially last week, when I'm worried or stressed.
+
+176
+00:14:43,380 --> 00:14:46,060
+ Like, thinking is not something I can do.
+
+177
+00:14:46,200 --> 00:14:51,980
+ I mean, it's just – and, again, I mean, I don't mean, like, can I manage to deal with my life, of course.
+
+178
+00:14:52,400 --> 00:14:56,800
+ But can I, like, do anything that makes me go, huh, that's an interesting direction.
+
+179
+00:14:56,880 --> 00:14:57,660
+ I'd like to pursue that.
+
+180
+00:14:57,740 --> 00:14:58,460
+ I can't.
+
+181
+00:15:02,940 --> 00:15:19,680
+ This is why I, by the way, I love teaching that section in book two of the rhetoric on the emotions and the way that Aristotle sort of, like, diagnoses, you know, what I would call, like, a physics of affective dynamics.
+
+182
+00:15:20,240 --> 00:15:24,280
+ They're, like, you know, what does anger do?
+
+183
+00:15:24,360 --> 00:15:27,860
+ It takes up an object as the object of its anger.
+
+184
+00:15:28,000 --> 00:15:29,460
+ It has to draw boundaries around.
+
+185
+00:15:29,580 --> 00:15:31,160
+ It has to create a rationale.
+
+186
+00:15:31,400 --> 00:15:35,440
+ It has to create sort of, like, a harm done to something, right?
+
+187
+00:15:35,900 --> 00:15:38,740
+ And, you know, it tightens your focus.
+
+188
+00:15:38,880 --> 00:15:42,840
+ It makes all of the boundaries look that much more concrete.
+
+189
+00:15:42,840 --> 00:15:50,140
+ And it opens up avenues for quicker, more decisive, more powerful action.
+
+190
+00:15:50,660 --> 00:15:54,960
+ But, by God, does it shut down the capacity to think and be curious about something, right?
+
+191
+00:15:54,960 --> 00:15:55,260
+ It does.
+
+192
+00:15:55,260 --> 00:15:57,180
+ It does for me, for damn sure.
+
+193
+00:15:57,760 --> 00:15:57,920
+ Yeah.
+
+194
+00:15:58,680 --> 00:16:05,780
+ I just like thinking about emotions in that way and less about the qualitative, you know, like, what's it like to be this?
+
+195
+00:16:05,780 --> 00:16:21,160
+ It's like, no, like, how does this situation, how does, you know, what this thing that we call, you know, sadness or fear or whatever else, how is it really much more of, like, you know, a set of relationships and a set of stylistic relationships to others?
+
+196
+00:16:21,160 --> 00:16:30,260
+ Well, and then anger is more comforting because it takes an object, like you said.
+
+197
+00:16:30,620 --> 00:16:44,880
+ Like, without an object, it becomes just sort of a flat depression or existential angst, you know, and that's the much more uncomfortable state because there's no distinct object to pin, you know, to pin down.
+
+198
+00:16:45,820 --> 00:17:01,840
+ Well, and look, that's, frankly, that's a perfectly good description of what the Trump political sphere did quite well is it took this amorphous ennui of, you know, working class America and said liberals, you know, and like, fuck the liberals, let's piss them off.
+
+199
+00:17:01,840 --> 00:17:09,860
+ And that's really became, like, yeah, to hell with the liberals, we're going to, you know, and that really became the focal point.
+
+200
+00:17:10,440 --> 00:17:10,520
+ Yeah.
+
+201
+00:17:10,900 --> 00:17:12,160
+ Comfort is the right word.
+
+202
+00:17:12,560 --> 00:17:12,760
+ Right.
+
+203
+00:17:13,380 --> 00:17:27,920
+ Well, scapegoating is sort of a, it's like a psychosocial coping mechanism more than anything, you know, and that goes back to, like, I mean, we don't have to dive into the text right now, but to the despair that Hegel talks about actually cultivating.
+
+204
+00:17:28,220 --> 00:17:35,060
+ Like, you need to actually level that out and find existential, like, despair and angst.
+
+205
+00:17:35,380 --> 00:17:37,640
+ Like, that's the good place.
+
+206
+00:17:38,460 --> 00:17:40,280
+ That's the productive place for Hegel.
+
+207
+00:17:42,280 --> 00:18:03,440
+ He is talking about, in the first section of sense certainty, basically about the overconfidence of, I mean, it's a certainty, but it's certain because it's wrong, you know, in the sense that, like, it, it, it, the, the purpose of it is certainly not to access the complexity of relations.
+
+208
+00:18:03,700 --> 00:18:05,720
+ Like, like, it's the exact opposite.
+
+209
+00:18:05,940 --> 00:18:06,980
+ It's, it's simplification.
+
+210
+00:18:07,420 --> 00:18:15,280
+ So, in that way, I mean, to relate that kind of crudely to what we were just talking about, I mean, scapegoating is a way of simplifying relations, you know?
+
+211
+00:18:15,460 --> 00:18:15,600
+ Yeah.
+
+212
+00:18:16,320 --> 00:18:24,400
+ But it's interesting, and, you know, this will obviously be important to the negative movement of the dialectic, is that simplicity isn't, like, the pure simplicity of immediacy, right?
+
+213
+00:18:24,440 --> 00:18:33,280
+ So, even within the self-certainty, there's still the creation of the, this is, this is the, this is the production of the subject-object relationship, right?
+
+214
+00:18:33,380 --> 00:18:56,780
+ There is the, the object and my relationship to the object, and it's that relationship that becomes self-certained, which is, despite the fact that it's two things, that it's, it's covering over the, the, the complexity of, of the, you know, whole, how do you call it, the whole series, the, um, a rich complex of connections or related to various ways and other, and other things.
+
+215
+00:18:57,240 --> 00:18:57,680
+ Right.
+
+216
+00:18:58,460 --> 00:18:58,900
+ Yeah.
+
+217
+00:18:59,520 --> 00:19:02,420
+ So, so I had a couple thoughts on the beginning of this.
+
+218
+00:19:02,420 --> 00:19:08,620
+ Um, one was, again, he deals with the problem of beginning quite definitely, right?
+
+219
+00:19:08,780 --> 00:19:21,120
+ Like, like he did in the preface of, um, but, you know, he's like, all right, let's start with the simplest fucking most obvious thing here, this sense certainty, this just sort of like, this is, right?
+
+220
+00:19:21,240 --> 00:19:22,040
+ It is.
+
+221
+00:19:22,600 --> 00:19:26,580
+ Um, and, and that gesture itself, to me, is interesting, right?
+
+222
+00:19:26,580 --> 00:19:42,300
+ Like, uh, like, uh, in, in, in so far as, you know, there's a teleology built into, let's start here, um, that's, you know, that you can't, you can't raise all of the questions at once.
+
+223
+00:19:42,360 --> 00:19:44,540
+ You have to start somewhere, right?
+
+224
+00:19:44,580 --> 00:19:48,340
+ So, and what, you know, obviously what he does is he says, let's start with immediacy.
+
+225
+00:19:48,540 --> 00:19:52,500
+ And then by page two, it'd be like, and we'll see that immediacy is me, right?
+
+226
+00:19:52,580 --> 00:19:54,520
+ Like, it's not immediate.
+
+227
+00:19:54,640 --> 00:19:56,120
+ So, it turns out we were wrong.
+
+228
+00:19:56,280 --> 00:20:12,680
+ And there's this, just the list of times, there's this one where he, like, walks you through the steps on one chunk of it, um, where I just remember, like, the number of times he's like, and I was wrong when I said, and it was literally like a sentence before that he said that thing.
+
+229
+00:20:12,920 --> 00:20:15,260
+ Like, I was wrong when I said this, now I know this.
+
+230
+00:20:15,260 --> 00:20:18,900
+ And then the next sentence will be, and I was wrong when I said that, now I said, you know.
+
+231
+00:20:19,460 --> 00:20:31,420
+ I mean, so it's, it's, it is that constant sort of, oh yeah, it's, that's on, uh, for paragraph 117 down through all, well, basically all of 117, where he's just like, I did not perceive it correctly.
+
+232
+00:20:31,860 --> 00:20:33,760
+ Uh, I didn't understand it in its truth.
+
+233
+00:20:33,840 --> 00:20:34,840
+ This was not his true being.
+
+234
+00:20:34,860 --> 00:20:39,840
+ It's just this series of statements undermine a statement, statement undermine a statement.
+
+235
+00:20:39,840 --> 00:20:41,880
+ You know, it's that constant process.
+
+236
+00:20:42,480 --> 00:20:49,380
+ Um, nevertheless, I still do feel, and so I get, like, given all of that, right, I get the whole, like,
+
+237
+00:20:49,460 --> 00:20:55,240
+ we've got to start with something and we're going to immediately undermine the thing that we started with and show that it's already mediated and whatever.
+
+238
+00:20:55,600 --> 00:21:07,520
+ But the whole idea of starting with simplicity and moving to complexity is, I mean, I feel like you've built in your whole world historical view from, from the word go, right?
+
+239
+00:21:07,520 --> 00:21:15,200
+ Like, which is that, I mean, for instance, I can imagine, it's imaginable to me to say, okay, let's understand what consciousness is.
+
+240
+00:21:15,440 --> 00:21:17,420
+ Let's not start from a baby.
+
+241
+00:21:17,960 --> 00:21:21,480
+ Let's start from adult consciousness, right?
+
+242
+00:21:21,560 --> 00:21:25,540
+ Like, let's start at the point of complexity.
+
+243
+00:21:25,540 --> 00:21:41,180
+ Let's not think of it developmentally, or rather, not that there isn't development, but to say that development is going to teach us something about its later manifestations contains a whole lot of, uh, what I would call, like, analytic,
+
+244
+00:21:41,660 --> 00:21:50,440
+ in the, in the traditional sense, right, analytic assumptions of, uh, you know, we can partition this out, if we can remove the draw.
+
+245
+00:21:50,540 --> 00:21:54,600
+ So there's something very kind of empirical in a sensibility about it.
+
+246
+00:21:54,600 --> 00:21:59,560
+ Like, let's get rid of the, uh, as many variables as possible and start with simplicity.
+
+247
+00:21:59,560 --> 00:22:05,400
+ Yes, we're going to show that simplicity is already more complicated, but it's still not as complicated as the next complication.
+
+248
+00:22:05,800 --> 00:22:08,420
+ So you're still moving from simplicity to complexity.
+
+249
+00:22:09,200 --> 00:22:14,020
+ But the, the, describing that teleologically, I think is, is right there as well.
+
+250
+00:22:14,140 --> 00:22:16,500
+ The say, like, I want to figure out what consciousness is.
+
+251
+00:22:16,560 --> 00:22:20,120
+ Let's look at the child's consciousness and look, look at how it develops.
+
+252
+00:22:20,120 --> 00:22:32,240
+ Well, you've already turned, like, the adult, uh, consciousness, whatever it is, into an end point, the development as the process by which it realizes those ends, right?
+
+253
+00:22:32,300 --> 00:22:41,060
+ So as you say, from the moment go, you've already pre-structured the, the, the route along which the, the analytic can, can take place.
+
+254
+00:22:41,720 --> 00:22:42,800
+ Right, that's right.
+
+255
+00:22:42,920 --> 00:22:49,880
+ So it, I mean, that for, you know how I am with difference in repetition, so I feel like I'm going to do this with, uh, you know, with phenomenology spirit.
+
+256
+00:22:50,000 --> 00:22:52,000
+ Like, here's my beef, the very first sentence.
+
+257
+00:22:52,440 --> 00:22:58,400
+ The knowledge or knowing which is at the start is immediately our object cannot be anything else but immediate knowledge itself.
+
+258
+00:22:58,480 --> 00:23:00,200
+ Like, well, yes, it can, right?
+
+259
+00:23:00,280 --> 00:23:02,800
+ Like, I mean, it really can, right?
+
+260
+00:23:02,840 --> 00:23:16,600
+ Like, in other words, it's not even ludicrous to say you could start your investigation of consciousness not at what you pre-supposed to be the simplest version but in the sort of standard, the, the norm version, right?
+
+261
+00:23:16,620 --> 00:23:17,820
+ Like, let's start there.
+
+262
+00:23:17,940 --> 00:23:27,920
+ And you'd have a whole different sensibility of questioning if you, if you, if you, now, that doesn't mean that you would get rid of the negative and get rid of all of the, it doesn't mean that at all.
+
+263
+00:23:27,920 --> 00:23:36,960
+ It's just that you would lose the progressive, uh, uh, component that is from, literally from the first sentence that is, it's baked in there.
+
+264
+00:23:41,540 --> 00:23:43,040
+ No, I mean, I agree.
+
+265
+00:23:43,620 --> 00:23:46,160
+ Like, certainly Hegel is not Nietzsche.
+
+266
+00:23:46,540 --> 00:23:53,760
+ Like, he's not, he's not yet at that movement of thinking, like, in its, in its complexity or in its idiosyncrasies.
+
+267
+00:23:53,820 --> 00:24:06,860
+ But I do think, I mean, just to complicate this point a little bit, I think that the, some of this prefigures Nietzsche in the sense that, you know, from the, the movement from the line to the, like, back to the child or to the, is that how it goes?
+
+268
+00:24:06,980 --> 00:24:09,600
+ Like, so the, the child is sort of the end point, the overman.
+
+269
+00:24:09,840 --> 00:24:10,740
+ The child is the end point.
+
+270
+00:24:10,900 --> 00:24:11,480
+ Right, right.
+
+271
+00:24:11,480 --> 00:24:29,100
+ I think there is, even though Hegel's text does kind of frame itself as that progressive teleological, like, Bildungsroman thing, where, like, you start from the, the immediacy of sense certainty and then you get, like, the complexity of self-consciousness in adulthood.
+
+272
+00:24:29,640 --> 00:24:39,320
+ I think basically what he endorses, kind of paradoxically, is a return to that immediacy, but just with a shift in perspective.
+
+273
+00:24:39,960 --> 00:24:40,400
+ Absolutely.
+
+274
+00:24:40,660 --> 00:24:42,160
+ To the phenomenology, right?
+
+275
+00:24:42,600 --> 00:24:42,880
+ Right.
+
+276
+00:24:43,100 --> 00:24:43,320
+ Yeah.
+
+277
+00:24:43,940 --> 00:24:44,260
+ Right.
+
+278
+00:24:44,560 --> 00:24:44,860
+ So it's,
+
+279
+00:24:44,920 --> 00:24:45,660
+ And it's quite clear.
+
+280
+00:24:45,760 --> 00:24:54,360
+ I mean, one of the, one of the things that's really good here is that, you know, when you go through sense certainty the second time after, you know, reading the first two pages, he says,
+
+281
+00:24:54,360 --> 00:25:05,560
+ you go back to self-sense, to sense certainty, but it's not the same sense certainty that it was, because you have that mediated sort of awareness of how the movement of sense certainty works.
+
+282
+00:25:05,980 --> 00:25:12,940
+ So to experience sense certainty after one has become aware of the dynamics of sense certainty is not exactly sense certainty.
+
+283
+00:25:13,000 --> 00:25:15,960
+ It's, it's like sense certainty prime, you know.
+
+284
+00:25:16,880 --> 00:25:18,000
+ So, so you're right.
+
+285
+00:25:18,120 --> 00:25:20,440
+ I mean, and I do think that's, I mean, I think that that's right.
+
+286
+00:25:20,500 --> 00:25:22,800
+ I do think that that's built in here.
+
+287
+00:25:22,800 --> 00:25:28,600
+ But nevertheless, like whether, whether or not, you know, we want to write it, you know, big or small, it still is developmental.
+
+288
+00:25:29,160 --> 00:25:31,780
+ And so it still is going to be hierarchical.
+
+289
+00:25:31,940 --> 00:25:33,480
+ It's, it can't not be.
+
+290
+00:25:33,720 --> 00:25:48,060
+ So you can't just, for instance, just step in and say, look, sense certainty and the immediacy of the recognition of physical objects is actually like just one component among others.
+
+291
+00:25:48,060 --> 00:25:54,920
+ Like that's, that's, that's a different thing than saying it's the starting point or it's even the analytic starting point, you know.
+
+292
+00:25:55,140 --> 00:25:55,360
+ Right.
+
+293
+00:25:55,840 --> 00:26:02,040
+ And, and I just, I just, I just, again, I don't think it's wrong and I don't think it's, I mean, I don't think that at all.
+
+294
+00:26:02,100 --> 00:26:03,000
+ You have to start.
+
+295
+00:26:03,380 --> 00:26:11,060
+ And, and what I find admirable in Hegel that I hadn't appreciated as much as before is here's my strategy for starting.
+
+296
+00:26:11,280 --> 00:26:14,340
+ I'm going to fucking start and then I'm going to undo the starting point.
+
+297
+00:26:14,680 --> 00:26:14,820
+ Right.
+
+298
+00:26:14,960 --> 00:26:15,080
+ Right.
+
+299
+00:26:15,660 --> 00:26:15,900
+ Right.
+
+300
+00:26:16,020 --> 00:26:25,260
+ You know, that to me is, that's a strategy for saying, you know, starting is a bad way of thinking of this, you know, because it doesn't start.
+
+301
+00:26:25,860 --> 00:26:36,180
+ I mean, I appreciate all of those underminings and all, and, and just the way that the, you know, oppositions take on a much more nuanced function for him.
+
+302
+00:26:36,180 --> 00:26:46,100
+ Because they don't eradicate each other or create any kind of stasis or paralysis is that this is, it is the sense or nuance producing mechanism.
+
+303
+00:26:46,700 --> 00:26:49,200
+ And so, I mean, he does that with the starting point.
+
+304
+00:26:49,320 --> 00:27:00,220
+ It's also interesting to me the way that he sets up, you know, I hadn't thought of his take on the universal in, in quite this way as he does in the first few pages.
+
+305
+00:27:00,220 --> 00:27:15,320
+ Either way or like universals are sort of like topo, topo or tropological, just like generic sets of relationships that then get figured within contingent circumstances.
+
+306
+00:27:15,320 --> 00:27:18,580
+ So the content is completely indifferent.
+
+307
+00:27:18,580 --> 00:27:37,700
+ The only thing that like the universality is, is applying this here, this here, this here, I here, this, like these sets of relationships that then, you know, or organize the, the, the, it's, it's content and to like different objects into different moments.
+
+308
+00:27:37,700 --> 00:27:51,980
+ And those, but that, but that organizing schemata for him is, I mean, exclusively, but not reductively based in, in the negative, right?
+
+309
+00:27:51,980 --> 00:28:09,240
+ Where it's, it's, it's, you know, the, it, it's not just this because it's, it's, it's not just this because it's not that, but it is sort of like in this particular set of relations of not this, right?
+
+310
+00:28:09,240 --> 00:28:15,480
+ So it finds it's almost like it's coordinates, um, not based on just like an opposite, right?
+
+311
+00:28:15,480 --> 00:28:23,840
+ So we don't have to think about clumsy binaries, like man, woman, or whatever else, but we can think of like how will house tree, right?
+
+312
+00:28:23,920 --> 00:28:25,660
+ Which have no piece of paper.
+
+313
+00:28:26,020 --> 00:28:27,120
+ Yeah, exactly.
+
+314
+00:28:27,880 --> 00:28:28,100
+ Right.
+
+315
+00:28:28,160 --> 00:28:29,860
+ What's the opposite of a piece of paper?
+
+316
+00:28:30,140 --> 00:28:31,040
+ Yeah, exactly.
+
+317
+00:28:31,680 --> 00:28:32,080
+ Yeah.
+
+318
+00:28:32,940 --> 00:29:01,520
+ I was also like, I wonder, and I don't know enough in terms of linguistics terminology, but the, the categories for him are indexicals, you know, that's the category, the, this here, you know, now, um, I'm wondering if there's, I wonder if there's other categories that would make it seem kind of different, um, to, to, to start with, um, the, the kind of, and I agree that there's a self evidence to the, this here, there's a self evidence to the thinking.
+
+319
+00:29:02,480 --> 00:29:13,600
+ This is the critique of the thing that I just said, I guess, is there's a self evidence to the thinking of this here being primary and basic and it even makes the animal analogy directly, right?
+
+320
+00:29:13,680 --> 00:29:19,280
+ Like even animals, you know, have the, this here now, uh, component of it.
+
+321
+00:29:19,640 --> 00:29:32,020
+ Um, but you know, like, I just kind of wonder, uh, is there another way, is there another way of, of starting that that would make a big difference, um, in terms of how it plays?
+
+322
+00:29:32,020 --> 00:29:32,780
+ Of how it plays out.
+
+323
+00:29:32,840 --> 00:29:34,020
+ I mean, I, I don't know.
+
+324
+00:29:34,640 --> 00:29:35,780
+ I have two thoughts.
+
+325
+00:29:36,420 --> 00:29:38,020
+ Well, I have two thoughts on that.
+
+326
+00:29:38,100 --> 00:29:44,600
+ Like, well, the one is just to think of the connection to Freud's, um, uh, does, was it not does on da?
+
+327
+00:29:44,760 --> 00:29:45,720
+ What's the German here?
+
+328
+00:29:45,820 --> 00:29:49,400
+ They're for, for, for, for, for, for, for, for, right.
+
+329
+00:29:49,460 --> 00:29:49,780
+ Yeah.
+
+330
+00:29:49,780 --> 00:30:01,560
+ The distinction of the, you know, the child, I mean, this would be to take the developmental orientation to things, but just like applying for here, like applying that universalizable, you know, set of relationship.
+
+331
+00:30:01,560 --> 00:30:09,540
+ Relationships in order to make sense of, or to construct the, you know, the, the reality of the mother being there and not being there.
+
+332
+00:30:10,300 --> 00:30:16,320
+ Um, the other thing is just to, I mean, just as a thought experiment, I don't have, you know, I don't have a clear take on this.
+
+333
+00:30:16,320 --> 00:30:23,480
+ But, okay, so you, we can think of the indexical or the demonstrative class, which are always set of relationships, right?
+
+334
+00:30:23,940 --> 00:30:28,160
+ What about other grammatical sets of relationships, like prepositions, right?
+
+335
+00:30:28,400 --> 00:30:35,640
+ For, from, by, how, how, how would that create a different, you know, a different starting point, a different logic?
+
+336
+00:30:35,840 --> 00:30:36,440
+ Would you?
+
+337
+00:30:36,840 --> 00:30:38,540
+ Well, what's, he uses the conjunction, right?
+
+338
+00:30:38,620 --> 00:30:40,080
+ Isn't it also, I think?
+
+339
+00:30:40,260 --> 00:30:42,720
+ Also and insofar is used on my terms.
+
+340
+00:30:42,720 --> 00:30:43,820
+ Also and insofar.
+
+341
+00:30:44,020 --> 00:30:46,660
+ So that's, and that's how he deals with the multiple, right?
+
+342
+00:30:46,660 --> 00:30:52,660
+ The problem of multiplicity, multiple attributes, which, by the way, did fucking salt taste differently in the 19th century?
+
+343
+00:30:52,660 --> 00:30:57,360
+ Because I would never, to think of describing, uh, uh, salt as tart.
+
+344
+00:30:57,740 --> 00:30:58,840
+ Yeah, tangy or something.
+
+345
+00:30:59,260 --> 00:30:59,880
+ Tangy, right?
+
+346
+00:31:00,040 --> 00:31:02,560
+ Like, I mean, like, did they have different salt?
+
+347
+00:31:03,820 --> 00:31:05,360
+ Uh, really shitty salt.
+
+348
+00:31:07,260 --> 00:31:07,660
+ Right.
+
+349
+00:31:07,980 --> 00:31:11,420
+ Um, so yeah, also and, uh, insofar, yeah.
+
+350
+00:31:11,800 --> 00:31:17,400
+ So that, you know, that, that's his way of saying, you know, those, I mean, it's really, I mean, you're right.
+
+351
+00:31:17,840 --> 00:31:22,240
+ Underlying that, and I think maybe underlying what both of us are saying in a sense is there's a real,
+
+352
+00:31:22,660 --> 00:31:26,400
+ grammatical quality to this that's kind of unacknowledged, right?
+
+353
+00:31:26,400 --> 00:31:31,220
+ Like, that he does, he does, in fact, mention, and this is where, I wanted to bring this up for Nate,
+
+354
+00:31:31,300 --> 00:31:35,960
+ because this is where he goes to failure, and I'd be like, why, why go to failure?
+
+355
+00:31:36,600 --> 00:31:46,940
+ Um, so, uh, it, it is about the, the inadequacy, um, this is in, uh, paragraph, right before the perception chapter, 110.
+
+356
+00:31:47,500 --> 00:31:48,380
+ Paragraph 110.
+
+357
+00:31:49,460 --> 00:31:52,540
+ Um, so there had been,
+
+358
+00:31:52,660 --> 00:31:59,220
+ uh, uh, gestures towards this point throughout, but, you know, he doesn't really explicitly talk about language yet, right?
+
+359
+00:31:59,220 --> 00:32:03,040
+ Because he's not dealing with language, he's dealing with just sort of sense perception.
+
+360
+00:32:03,560 --> 00:32:03,740
+ Right.
+
+361
+00:32:03,740 --> 00:32:09,160
+ But, um, you know, in, in 110, and this is about a middle of the way through that first paragraph,
+
+362
+00:32:09,820 --> 00:32:13,680
+ so it says, um, if they, well, let's, I'll start earlier.
+
+363
+00:32:13,860 --> 00:32:16,940
+ Uh, at the top of page 66 for you, Nathaniel, they say, it says,
+
+364
+00:32:17,580 --> 00:32:23,880
+ they speak of the existence of external objects, which can be more precisely defined as actual, singular, personal, individual things,
+
+365
+00:32:23,920 --> 00:32:25,920
+ each of them absolutely unlike anything else.
+
+366
+00:32:26,260 --> 00:32:28,780
+ This existence has absolute certainty and truth, they say.
+
+367
+00:32:29,200 --> 00:32:34,520
+ They mean this bit of paper on which I am writing, or rather have written, right?
+
+368
+00:32:34,600 --> 00:32:36,600
+ So a little, like, this.
+
+369
+00:32:36,940 --> 00:32:40,680
+ But what they say is not what they, or what they mean is not what they say.
+
+370
+00:32:40,920 --> 00:32:47,980
+ If they actually wanted to say this bit of paper, which they mean, if they wanted to say it, then this is impossible.
+
+371
+00:32:48,480 --> 00:32:56,180
+ Because the sensuous this, that is what cannot be reached by language, which belongs to consciousness,
+
+372
+00:32:56,820 --> 00:32:59,820
+ i.e., to that which is inherently universal.
+
+373
+00:33:00,600 --> 00:33:04,080
+ And that's the moment where I was like, for Nate in particular, I'm like,
+
+374
+00:33:04,720 --> 00:33:09,420
+ but you have to presume that the purpose of language is to re-present and capture.
+
+375
+00:33:09,900 --> 00:33:13,300
+ And if you don't presume that, then there is no failure.
+
+376
+00:33:13,920 --> 00:33:14,100
+ Right.
+
+377
+00:33:14,100 --> 00:33:21,040
+ Like, you know, so that you have to presume, to say that the sensuous this cannot be reached by language
+
+378
+00:33:21,040 --> 00:33:26,620
+ is only if you assume that language is trying to capture the sensuous this.
+
+379
+00:33:27,240 --> 00:33:27,300
+ Yeah.
+
+380
+00:33:27,340 --> 00:33:32,100
+ Well, this correlates with paragraph 95 toward the end.
+
+381
+00:33:32,720 --> 00:33:36,720
+ You know, I don't think we have to turn to it, but he's just writing about how nothing is lost
+
+382
+00:33:36,720 --> 00:33:39,600
+ when you write it down in terms of the propositional truth of the thing.
+
+383
+00:33:39,600 --> 00:33:41,960
+ You know, we write down this truth.
+
+384
+00:33:42,140 --> 00:33:48,780
+ The truth cannot lose anything by being written down any more than it can lose anything through our preserving it.
+
+385
+00:33:49,420 --> 00:33:54,140
+ If now, this noon, we look again at the written truth, we shall have to say that it has become stale.
+
+386
+00:33:54,940 --> 00:33:55,160
+ Right.
+
+387
+00:33:55,340 --> 00:34:02,200
+ But that, I mean, how does that reconcile with his much more robust take on, you know,
+
+388
+00:34:02,260 --> 00:34:05,260
+ the reductiveness of propositional truth writ large?
+
+389
+00:34:06,260 --> 00:34:12,860
+ I mean, the only thing that I can think there is that we're not, he's dealing with the confusing
+
+390
+00:34:12,860 --> 00:34:16,700
+ situation of having to write about not writing, you know.
+
+391
+00:34:16,820 --> 00:34:21,140
+ So he's having to write it, but what he's talking about doesn't involve language yet.
+
+392
+00:34:21,220 --> 00:34:25,960
+ It just involves the sheer awareness of the thisness of things.
+
+393
+00:34:26,740 --> 00:34:30,600
+ But how to talk about the thisness of things without talk, right?
+
+394
+00:34:30,680 --> 00:34:33,780
+ Because thisness only occurs within language.
+
+395
+00:34:34,000 --> 00:34:35,720
+ And he's writing in the early 19th century.
+
+396
+00:34:35,900 --> 00:34:45,520
+ So, I mean, to me, that he brings language into the question is itself interesting and relevant.
+
+397
+00:34:45,660 --> 00:34:50,560
+ So, yeah, we write down this truth, truth can't lose anything by being written down, except
+
+398
+00:34:50,560 --> 00:34:52,060
+ for yes, it can, right?
+
+399
+00:34:52,140 --> 00:34:56,360
+ Like, I mean, except for it loses everything by being written down because it's no longer
+
+400
+00:34:56,360 --> 00:35:00,140
+ this night, you know, when I read it the next day, it's this morning, you know.
+
+401
+00:35:00,300 --> 00:35:06,900
+ So, I mean, I think that he's hinting at, I mean, I honestly don't know if there's a more
+
+402
+00:35:06,900 --> 00:35:12,880
+ extensive discussion of language specifically and its role in this formation.
+
+403
+00:35:12,880 --> 00:35:19,580
+ But even if there is, it's going to be representational because it's already prefigured as
+
+404
+00:35:19,580 --> 00:35:24,440
+ representational, you know, that its goal is to capture and it both, you know, and the
+
+405
+00:35:24,440 --> 00:35:27,620
+ answer is always going to be it both does and doesn't, right?
+
+406
+00:35:27,740 --> 00:35:33,500
+ Yes, it captures it and it also lets something loose or enters into a relationship with the
+
+407
+00:35:33,500 --> 00:35:37,240
+ other, which from a higher level captures it differently, which lets in a different, you
+
+408
+00:35:37,240 --> 00:35:37,560
+ know what I mean?
+
+409
+00:35:37,560 --> 00:35:42,560
+ Like, it's constantly going to be that story of attempt to totalize failure, attempt to
+
+410
+00:35:42,560 --> 00:35:43,580
+ totalize failure.
+
+411
+00:35:44,180 --> 00:35:50,720
+ So, in that sense, language will be like knowledge or like consciousness, things that are attempting
+
+412
+00:35:50,720 --> 00:35:54,900
+ to comprehend or to totalize whatever its object is.
+
+413
+00:35:55,620 --> 00:36:01,880
+ It makes me want to turn to Johann Herder in his philosophical fragments and his stuff on
+
+414
+00:36:01,880 --> 00:36:03,560
+ philosophy of language.
+
+415
+00:36:03,760 --> 00:36:04,240
+ I mean, he's a contemporary.
+
+416
+00:36:04,240 --> 00:36:08,300
+ I have to say, I'm pretty sure that no one has said that sentence that you just said
+
+417
+00:36:08,300 --> 00:36:08,560
+ ever.
+
+418
+00:36:09,960 --> 00:36:12,360
+ This makes me want to turn, but that's pretty cool.
+
+419
+00:36:14,880 --> 00:36:21,900
+ I mean, just because like he's attentive to the, like the relationship between language
+
+420
+00:36:21,900 --> 00:36:27,980
+ and materiality and like, you know, writes about, he's writing about the evolution of
+
+421
+00:36:27,980 --> 00:36:33,740
+ language and talking about like the geography and which language is developed and is like,
+
+422
+00:36:33,820 --> 00:36:40,000
+ look, like seafaring, like languages that, you know, sort of evolve in like seafaring areas,
+
+423
+00:36:40,000 --> 00:36:45,380
+ they produce the world differently than, you know, they do in agricultural or like mining
+
+424
+00:36:45,380 --> 00:36:46,240
+ areas.
+
+425
+00:36:46,600 --> 00:36:53,980
+ And I mean, you know, I, I haven't, I, it's been so long since I've read it.
+
+426
+00:36:54,080 --> 00:36:56,600
+ I was intrigued by it as an undergrad.
+
+427
+00:36:56,700 --> 00:37:03,360
+ And then I returned to it in one of Byron's classes because one of his mentors is big into
+
+428
+00:37:03,360 --> 00:37:03,680
+ Herder.
+
+429
+00:37:04,900 --> 00:37:10,300
+ And I think Thomas Rickert is, is sort of interested in that stuff as well, but you can, you know,
+
+430
+00:37:10,300 --> 00:37:16,140
+ like just because he's interested in this sort of like the material linguist, like language
+
+431
+00:37:16,140 --> 00:37:22,100
+ connection, but it would just, it just seems interesting in this case that that, you know,
+
+432
+00:37:22,140 --> 00:37:31,220
+ that grammar like is not so, it still can be universal in terms of its practical mobilizations,
+
+433
+00:37:31,220 --> 00:37:36,720
+ but you would have to, but this would have to sort of like ground that universality and
+
+434
+00:37:36,720 --> 00:37:43,060
+ like, you'd have to imagine that universality being run out on a, on a flatter plane that
+
+435
+00:37:43,060 --> 00:37:46,780
+ it isn't sort of logically prior, but it's contingently prior.
+
+436
+00:37:52,040 --> 00:37:58,440
+ And another way to look at the, the universal here, I think is for Hegel, at least on the level of
+
+437
+00:37:58,440 --> 00:38:06,940
+ sense certainty is it's obscuring context, right? So it's a failure to negotiate one's context.
+
+438
+00:38:07,100 --> 00:38:11,760
+ That's one part. That's one part of the universal. The second part, which is kind of the proper
+
+439
+00:38:11,760 --> 00:38:19,860
+ for Alf Hebong is the negation of that, uh, first initial negotiation. So the negation of that negation
+
+440
+00:38:19,860 --> 00:38:26,460
+ is what enables sense certainty, right? Um, and that's the kind of universal movement that he's
+
+441
+00:38:26,460 --> 00:38:32,240
+ trying to articulate here. And so, I mean, one, that's, that's one way I think you could look at
+
+442
+00:38:32,240 --> 00:38:37,460
+ the problem of his representationalism. He's inheriting a tradition quite obviously.
+
+443
+00:38:37,460 --> 00:38:43,700
+ Um, and we talked a little bit about Bacon last week, uh, Nathaniel and about his kind of clear
+
+444
+00:38:43,700 --> 00:38:51,280
+ project of trying to invent or predicting a kind of transparent language that could accurately identify
+
+445
+00:38:51,280 --> 00:38:57,360
+ its objects in the material world, et cetera. Hegel's obviously saying here, we never get, there's no,
+
+446
+00:38:57,480 --> 00:39:03,640
+ that's not possible. It's never been possible. And it's stupid to even try that. Um, so that I do,
+
+447
+00:39:03,640 --> 00:39:08,560
+ I mean, there's no doubt that he is still in the tradition of representationalism. Again,
+
+448
+00:39:08,880 --> 00:39:15,000
+ he's not quite Nietzsche yet. You know, I mean, Nietzsche goes past that at a certain point and says,
+
+449
+00:39:15,000 --> 00:39:21,940
+ like, we can just play, right? I mean, that's kind of the step past the, the, um, the compulsion to
+
+450
+00:39:21,940 --> 00:39:27,500
+ capture. But I mean, for Hegel, that's still, that's still part of the dynamic. It's, it's inescapable,
+
+451
+00:39:27,500 --> 00:39:34,180
+ you know, to an extent. Well, and just, just to say, cause to me, uh, and this would fit for Hegel
+
+452
+00:39:34,180 --> 00:39:38,720
+ as well, but those two positions to me are two sides of the same coin. The idea of a language,
+
+453
+00:39:38,720 --> 00:39:44,900
+ which is absolutely adequate to its object and the idea of an incapacity of language to encapsulate
+
+454
+00:39:44,900 --> 00:39:49,360
+ its object. Those to me are the same. I mean, the, the, they, they rest on the same assumptions
+
+455
+00:39:49,360 --> 00:39:54,180
+ about language, the same assumptions about the relation between language and objects. So even though
+
+456
+00:39:54,180 --> 00:40:01,340
+ they're opposing, you know, I mean, again, that's a Hegelian point, right? Right. Right. Um, but if,
+
+457
+00:40:01,340 --> 00:40:08,120
+ if anything, I'm sort of doing Hegel on Hegel there, right. To say, um, at a certain point,
+
+458
+00:40:08,120 --> 00:40:12,720
+ but, but I do still, I mean, that, that is the recurring thing for me is to figure these things
+
+459
+00:40:12,720 --> 00:40:18,920
+ as failure, um, or as inadequacy or as a lack of truth or all of those types of things. I feel like
+
+460
+00:40:18,920 --> 00:40:22,800
+ he's really good at that in most cases, because like what Nathaniel was saying about the universal
+
+461
+00:40:22,800 --> 00:40:28,560
+ is really great. I mean, in essence is another word where you read it in this particular movement
+
+462
+00:40:28,560 --> 00:40:33,560
+ and I'm like, Oh, I get why universality. Yeah, that's universality. And it's the, it's a
+
+463
+00:40:33,560 --> 00:40:37,660
+ universality of the particular, but there's a different, you know, it's universal from one
+
+464
+00:40:37,660 --> 00:40:41,160
+ level than at another level. It's not at all universal. It's entirely contingent. Right.
+
+465
+00:40:41,240 --> 00:40:45,540
+ So, so it's in, in order for it to really be universality, it doesn't have to be universality,
+
+466
+00:40:45,660 --> 00:40:51,540
+ whatever. Like, I mean, I get the, I get those moves, but it feels to me that the,
+
+467
+00:40:51,540 --> 00:40:57,280
+ the quote unquote next move and that, that we're using Nietzsche's name for isn't a step
+
+468
+00:40:57,300 --> 00:41:03,980
+ past that. It's just a different step. It's not like, you know, you go with this sort of
+
+469
+00:41:03,980 --> 00:41:09,720
+ failure or absolute transparency model, and then you can move to something like performativity.
+
+470
+00:41:09,940 --> 00:41:14,100
+ It just seems to me like it's a fundamental, I mean, maybe I'm wrong about that. It just feels
+
+471
+00:41:14,100 --> 00:41:19,020
+ like a totally different, you know, it's not a development. It doesn't feel like a development.
+
+472
+00:41:19,020 --> 00:41:24,700
+ It's just like, Hey, there's a premise here of languages. And by the way, language here is a
+
+473
+00:41:24,700 --> 00:41:29,980
+ synecdoche for consciousness, for knowledge, for all that shit. Right. And so the whole question of
+
+474
+00:41:29,980 --> 00:41:36,360
+ capture as it's figured here is going to be attempted capture failure, attempted capture failure,
+
+475
+00:41:36,360 --> 00:41:41,800
+ and it will play out. There's literally nothing that won't be an example of that. And, and that's
+
+476
+00:41:41,800 --> 00:41:48,420
+ brilliant. And yet I also feel like that's just a different orientation into these questions that
+
+477
+00:41:48,420 --> 00:41:56,000
+ what if it's never been an issue of, of, uh, of capture or of comprehend that that's never the
+
+478
+00:41:56,000 --> 00:42:02,360
+ telos, that it's never that absolute universality. That's the telos, you know, so there's a way in
+
+479
+00:42:02,360 --> 00:42:08,640
+ which as I'm talking through it, I think that telos is actually much more, much more powerful than maybe
+
+480
+00:42:08,640 --> 00:42:13,300
+ we're giving it credit for. It's not just like something that you could remove and have a kind
+
+481
+00:42:13,300 --> 00:42:18,100
+ of, you know, more flat plane Hegel. It's like you wouldn't have Hegel anymore. If you, if you took
+
+482
+00:42:18,100 --> 00:42:23,760
+ that out, cause it's just so built in, it feels like. Right. Well, my, my tendency is to just like,
+
+483
+00:42:23,760 --> 00:42:31,020
+ kind of go back to like almost a crude, like biological or evolutionary argument where it's
+
+484
+00:42:31,020 --> 00:42:36,540
+ like, which is what you see, especially with the sense certainty stuff where it's like, how can you
+
+485
+00:42:36,540 --> 00:42:44,040
+ think of senses, especially on an animal level without the notion of capture or comprehension,
+
+486
+00:42:44,040 --> 00:42:51,840
+ right? Like how can you think of the use of your own senses without the, the notion of like
+
+487
+00:42:51,840 --> 00:42:57,680
+ appropriating or navigating one's environment successfully? Like it almost seems like you
+
+488
+00:42:57,680 --> 00:43:04,000
+ need that, that binary. Those are totally, those are totally different things, right? The capacity
+
+489
+00:43:04,000 --> 00:43:09,940
+ to respond to one's environment and survive is totally different than the capacity to accurately
+
+490
+00:43:09,940 --> 00:43:15,420
+ represent one's environment, to be able to make decisions in response to it. Right. Right. Right.
+
+491
+00:43:15,480 --> 00:43:19,480
+ One's pragmatist. The other's ideal, you know. Well, yeah, that's true. Yeah. I mean,
+
+492
+00:43:19,480 --> 00:43:23,800
+ like the animal doesn't, I mean, this, like, in fact, I think turning to the animal was a great
+
+493
+00:43:23,800 --> 00:43:30,140
+ opportunity here. I was, because it allows us to subtract human consciousness and let's ignore,
+
+494
+00:43:30,140 --> 00:43:35,980
+ you know, the animal theory, people who want to, like those particular animal theory, people who want
+
+495
+00:43:35,980 --> 00:43:43,320
+ to sort of like erase the animal human distinction by inserting human consciousness into, into some kind
+
+496
+00:43:43,320 --> 00:43:51,320
+ proto version of it, which is just to say, like, if I'm a critter, you know, like my sense, my senses
+
+497
+00:43:51,320 --> 00:43:58,040
+ exert force on me, right? There's, there ends up being sort of, you know, unequal relationships between
+
+498
+00:43:58,040 --> 00:44:05,640
+ my sensory organs and the world around me. And then I like instinctually want to respond to those forces.
+
+499
+00:44:05,640 --> 00:44:12,980
+ Right. And, you know, the ones that habituate ways that are habituated. Right. Yeah. Right. But that
+
+500
+00:44:12,980 --> 00:44:18,960
+ doesn't, that doesn't, you don't need a representational, like to me, it's much better to success,
+
+501
+00:44:18,960 --> 00:44:26,480
+ but failure and success for a different, a different metric is, is governing failure and success. Right.
+
+502
+00:44:26,480 --> 00:44:33,160
+ And one that we can say, like the fail, the failure success, uh, rubric has nothing to do with whether
+
+503
+00:44:33,160 --> 00:44:38,460
+ or not that's actually a tree I'm looking at. Right. Or whether for John's example, whether that's
+
+504
+00:44:38,460 --> 00:44:43,560
+ actually the same saber tooth tiger that I'm, that I'm looking at. Right. Like it has the failure
+
+505
+00:44:43,560 --> 00:44:53,720
+ success is like, did my response to this network of forces, uh, lead to my death or not? Right. Right.
+
+506
+00:44:53,720 --> 00:44:59,800
+ And that's only a failure to do something that is, that is like, you know, that's not a necessary,
+
+507
+00:44:59,800 --> 00:45:04,880
+ it's only a failure to live or die, but that's, you know, that's, that's not like, this is,
+
+508
+00:45:04,880 --> 00:45:10,040
+ this is an interesting point. Cause then in that sense, the animal is much closer to the truth of
+
+509
+00:45:10,040 --> 00:45:15,560
+ the dialectic than the human is because they, they bypass the whole issue of the thing in itself.
+
+510
+00:45:15,560 --> 00:45:21,560
+ Animals have no concern over whether they're accessing the tree in itself or the squirrel in itself.
+
+511
+00:45:21,560 --> 00:45:26,300
+ They just care whether that thing is useful for it, which is basically, that's the point of the,
+
+512
+00:45:26,300 --> 00:45:30,720
+ that's the point of my saber tooth tiger story is that like, which, which one of the cavemen
+
+513
+00:45:30,720 --> 00:45:37,280
+ is true is, is the truer, the one who dies because of seeing difference or the one who lives and
+
+514
+00:45:37,280 --> 00:45:40,900
+ writes the book on the truth of the saber tooth tigers. Right. Like we're thinking about the,
+
+515
+00:45:40,900 --> 00:45:47,820
+ the lamb hawk example with, with Nietzsche's like for, for the lamb, the hawk is a hawk,
+
+516
+00:45:47,820 --> 00:45:54,340
+ right. And it, and achieves its hawkness by its predation on lambs, by its violation of the sanctity
+
+517
+00:45:54,340 --> 00:46:03,500
+ of the lamb for the hawk. Why even the, even, even the notion of the lamb as a lamb is secondary at
+
+518
+00:46:03,500 --> 00:46:13,140
+ right. It's, it's, it's, yeah, it's, it's, it's a meal, you know, and even that isn't like a, um, a
+
+519
+00:46:13,140 --> 00:46:18,960
+ categorizable thing. Right. It's like that, that's where, that's where that's all master slave. Like
+
+520
+00:46:18,960 --> 00:46:23,820
+ what you're, what you're pointing to there, Nathaniel is the recognition of another consciousness.
+
+521
+00:46:23,820 --> 00:46:28,580
+ Yeah. Right. Like, and that that's not what's occurring, you know, at that level, but that
+
+522
+00:46:28,580 --> 00:46:33,760
+ that changes for Hegel, that changes things like the, when, when a consciousness recognizes another
+
+523
+00:46:33,760 --> 00:46:37,420
+ conscious or even what we're doing, what all three of us are doing right there is, I mean,
+
+524
+00:46:37,440 --> 00:46:41,880
+ it's kind of amazing thought experiment. We all just sort of easily performed, which was let's
+
+525
+00:46:41,880 --> 00:46:46,700
+ project an understanding of what it would mean to be a critter. Right. Like, I mean, but when you
+
+526
+00:46:46,700 --> 00:46:51,580
+ think about that for a second, that's an extraordinary experiment, right? Like I am going to try to
+
+527
+00:46:51,580 --> 00:46:57,840
+ imagine what it, what I think it would be like, which of course is all that tells us about is
+
+528
+00:46:57,840 --> 00:47:02,860
+ the presuppositions we have of animality, right? It doesn't tell us anything about animality. It
+
+529
+00:47:02,860 --> 00:47:08,320
+ tells us about the presuppositions, but nevertheless, that's all we can work with, right? That's all,
+
+530
+00:47:08,420 --> 00:47:13,160
+ that's all that we can do. And so that's what we, and so that's what we do, you know, so that,
+
+531
+00:47:13,200 --> 00:47:17,780
+ but that, what we're doing is we're projecting an imaginary version of consciousness and trying to
+
+532
+00:47:17,780 --> 00:47:23,420
+ understand it as, you know, the hawk and the, and the lamb and how they experience it. At least we
+
+533
+00:47:23,420 --> 00:47:29,680
+ know that no animals have written like about the noumenal thing in itself. So we do know that much,
+
+534
+00:47:29,740 --> 00:47:34,820
+ right? How do we know that? How do we know? You haven't written about it in English. They haven't
+
+535
+00:47:34,820 --> 00:47:38,120
+ written it in a language, fine, but that doesn't mean they haven't written about it. They have tried to
+
+536
+00:47:38,120 --> 00:47:44,720
+ communicate to us about it. Well, they know they might. See, you see how every time you're going
+
+537
+00:47:44,720 --> 00:47:48,700
+ to try, they're going to be like, what do you mean? That's all my dog is telling me all the time. I
+
+538
+00:47:48,700 --> 00:47:52,460
+ don't know how to hear it. All your dog's thinking about is Kant and he just can't tell you. He's like,
+
+539
+00:47:52,460 --> 00:47:59,380
+ dig on seek. Dig on seek. That's, that's actually all they're thinking about is the thing. Make sure,
+
+540
+00:47:59,520 --> 00:48:03,480
+ make sure you keep that one in the podcast. We got to have the barking dig on seek.
+
+541
+00:48:05,120 --> 00:48:10,220
+ Yeah. I mean, I don't know that, but that does, I mean, I get these thought experiments. That does
+
+542
+00:48:10,220 --> 00:48:14,080
+ seem like a fair assumption though, to me at least. I mean, I realized that there's a whole,
+
+543
+00:48:14,380 --> 00:48:19,680
+ there's an emphasis on like on animality and like kind of a post-human relation towards,
+
+544
+00:48:19,760 --> 00:48:27,260
+ or like a post-human, uh, what's the word? Uh, like, uh, I mean, yeah, I, I, to me,
+
+545
+00:48:27,400 --> 00:48:32,480
+ and let me, let me be clear. When I say we don't know, that's not a bust move or reason to stop
+
+546
+00:48:32,480 --> 00:48:37,360
+ conversing because the same would be true of all of us. Right. Like, so with each other. So,
+
+547
+00:48:37,360 --> 00:48:42,860
+ I mean, it's not, it's a, it's a point that you can point out for, you know, whatever a parlor game
+
+548
+00:48:42,860 --> 00:48:48,080
+ sake, but yes, of course that we have to say like from, from the perspective, it seems reasonable that
+
+549
+00:48:48,080 --> 00:48:53,880
+ like the ding on seek is not something that animals, uh, care about. Right. Like, and, and so,
+
+550
+00:48:54,080 --> 00:49:01,000
+ yeah, fine. Like I'm totally, it's also, it's also not something that we really, or it's not something
+
+551
+00:49:01,000 --> 00:49:07,620
+ that I care about. And I, it's not some, it's not something that Hegel cares about insofar as he
+
+552
+00:49:07,620 --> 00:49:14,120
+ is aiming to surpass Kant, you know? So he's not, he's not dealing with the thing in itself in the
+
+553
+00:49:14,120 --> 00:49:18,680
+ same way at all. I mean, well, there is, there is none or rather, I mean, the thing in itself is
+
+554
+00:49:18,680 --> 00:49:25,580
+ language or the concept or the movement of the movement of mediation negation. I mean, that's,
+
+555
+00:49:25,980 --> 00:49:32,100
+ that's where, you know, the, it's, I mean, his solution to that problem is that Kant's move
+
+556
+00:49:32,100 --> 00:49:38,480
+ is a moment of the dialectic. Right. It's not the end of the dialectic because the, the, the lesson
+
+557
+00:49:38,480 --> 00:49:44,480
+ is the dialectic. Right. Well, Kant was unwilling to accept that like the sort of labyrinthian,
+
+558
+00:49:44,480 --> 00:49:51,060
+ uh, complex of language and mediation, that that's all there was. Like he was unwilling to accept the
+
+559
+00:49:51,060 --> 00:49:56,960
+ kind of like the weird dread that might accompany that sort of revelation, that there's nothing outside
+
+560
+00:49:56,960 --> 00:50:03,380
+ of those folds of, of mediation or, or difference. Right. I mean, that's where, that's where you get
+
+561
+00:50:03,380 --> 00:50:08,540
+ to, I mean, Derrida is like, I mean, when you said, uh, you know, we know that no animals have
+
+562
+00:50:08,540 --> 00:50:13,300
+ written about it. I was like, well, do you mean Derrida's kind of writing? Cause you know, uh, yeah.
+
+563
+00:50:13,300 --> 00:50:17,820
+ And that's why Derrida, I mean, that's one of the big reasons that Derrida uses the word writing
+
+564
+00:50:17,820 --> 00:50:23,260
+ and keeps the word writing when it's not, he's not referring to, you know, the scriptural kind of
+
+565
+00:50:23,260 --> 00:50:28,740
+ writing that we think of. Um, but writing in general has iterability of the mark of what,
+
+566
+00:50:28,900 --> 00:50:34,760
+ of whatever, of whatever kind. A lot of this, a lot of this passage, especially towards the
+
+567
+00:50:34,760 --> 00:50:39,540
+ beginning reminded me of, of Derrida and the critique of presence and all of that. I mean,
+
+568
+00:50:39,600 --> 00:50:44,940
+ the whole, this, cause this was the first time he really explicitly invoked temporality. Right.
+
+569
+00:50:45,120 --> 00:50:49,140
+ I mean, of course we, there's becoming is all throughout the preface and everything,
+
+570
+00:50:49,140 --> 00:50:53,420
+ but here he's talking about specific tenses and how they relate to each other. And I was like,
+
+571
+00:50:53,740 --> 00:50:58,240
+ this is just sounds like the critique or the critique of a metaphysics of presence. Right.
+
+572
+00:50:58,460 --> 00:51:04,040
+ Yeah. I mean, it sounded like Derrida. There was also, I agree with you. And, um, but it did remind
+
+573
+00:51:04,040 --> 00:51:13,580
+ me of those, you know, those hours of like in undergrad of like talking about like, well, it's not really
+
+574
+00:51:13,580 --> 00:51:20,220
+ now because whenever you say that it's immediately like, yeah, I'm talking about time. Yeah. Right.
+
+575
+00:51:20,260 --> 00:51:24,360
+ I wish when I was 18 years old, someone had just been like, that's been done. Shut the fuck up,
+
+576
+00:51:24,400 --> 00:51:29,140
+ Muckle Bauer. Like here, here, just, just read this because that's not insightful. The moment you
+
+577
+00:51:29,140 --> 00:51:35,680
+ say now it's already gone. Right. Like, you know, when, back when I was 18, 19 years old, I was like,
+
+578
+00:51:35,680 --> 00:51:41,760
+ that's really clever and insightful. Like, nah, not really. That's like page, that's like page four of
+
+579
+00:51:41,760 --> 00:51:49,760
+ the phenomenology. Right. Yeah. I know. I know some of the examples are so like almost juvenile,
+
+580
+00:51:50,100 --> 00:51:55,200
+ but then, I mean, if you take the, if you run the implications of them, that's when they become
+
+581
+00:51:55,200 --> 00:52:00,060
+ sort of disorienting and even disturbing. Like, so that is kind of a dumb example, but I mean,
+
+582
+00:52:00,080 --> 00:52:05,560
+ if you really, if you want to run out those implications, they, they are kind of staggering,
+
+583
+00:52:05,560 --> 00:52:11,460
+ you know, what I do appreciate though. And Derrida is he almost, he allows his formulations
+
+584
+00:52:11,460 --> 00:52:17,240
+ occasionally to be kind of clumsy, which is because, I mean, to me, it's like, because thinking it is
+
+585
+00:52:17,240 --> 00:52:23,740
+ clumsy. I mean, there's no avoiding that clumsiness. Whereas someone like Karen Barad, uh, there's like
+
+586
+00:52:23,740 --> 00:52:29,900
+ a, there's a real cleanliness to the concept space, time mattering. Right. She coins the term
+
+587
+00:52:29,900 --> 00:52:35,840
+ and then it has a nice neat definition where it's just a collapsing of the binaries. And it's like,
+
+588
+00:52:35,860 --> 00:52:39,980
+ it's not as simple as you don't simply collapse one into the other. And then it's a nice, like,
+
+589
+00:52:39,980 --> 00:52:45,120
+ oh, everything's relational. It's, it's not. Why does that simply collapse the boundaries between
+
+590
+00:52:45,120 --> 00:52:51,280
+ time and space? Yes. Uh, but by the way, what you're saying there, what you're coming in my
+
+591
+00:52:51,280 --> 00:52:58,160
+ terminology is like your beef and I totally get this. Your beef with her is style, right? Your beef with
+
+592
+00:52:58,160 --> 00:53:04,600
+ her. It's not what she's saying, right? Like it's the how of the thinking. And it's like, you're making
+
+593
+00:53:04,600 --> 00:53:10,500
+ it too clean, too easy. I mean, I like, like the word clean and I get it because there are times with
+
+594
+00:53:10,500 --> 00:53:16,440
+ other thinkers where I'm like, it's just too neat. It just feels too neat. It feels too tidy. And yeah,
+
+595
+00:53:16,500 --> 00:53:20,900
+ yeah, it's like, it's, it's messier than this and it needs, and it needs that messiness is a
+
+596
+00:53:20,900 --> 00:53:27,100
+ constitutive part of the thinking and of the concept. It's not just like the thing you have to go
+
+597
+00:53:27,100 --> 00:53:32,880
+ through in order to get to the concept. Yeah. Now you've got space, time, mattering, TM, you know,
+
+598
+00:53:32,880 --> 00:53:38,560
+ like C with a circle around it or whatever. Right. Like, yeah. And I, I mean, I get that. I get this
+
+599
+00:53:38,560 --> 00:53:44,920
+ sort of, that sense of sort of self-certainty, you know, with which she, not sense certainty,
+
+600
+00:53:45,120 --> 00:53:49,860
+ self-certainty. Self-certainty. Right. With which she proceeds. I get that. I get that.
+
+601
+00:53:49,860 --> 00:53:55,160
+ Yeah. Yeah. I mean, you want to be a messier, you, you like the messier writers. Well, right. I
+
+602
+00:53:55,160 --> 00:54:01,240
+ mean, the, the, the, the compulsion to tame the mess is just all throughout Barad. And it's
+
+603
+00:54:01,240 --> 00:54:05,740
+ like, that's, that to me is almost a dangerous compulsion. It's not just, we're all, we're all
+
+604
+00:54:05,740 --> 00:54:11,380
+ taming the mess in that sense. For sure. For sure. But there are different ways of like,
+
+605
+00:54:11,800 --> 00:54:19,320
+ you know, like, okay, got it. Nice, tiny, neat versus. Right. Like, like I want to feel like
+
+606
+00:54:19,320 --> 00:54:24,240
+ the writer is struggling a little bit. I don't want them to be like, got it done. Well, I
+
+607
+00:54:24,240 --> 00:54:28,240
+ mean, and it can go back to the scapegoating thing, you know, that's a way of taming the
+
+608
+00:54:28,240 --> 00:54:32,480
+ mess. And there's better, there's, there's more dangerous and less dangerous ways of taming
+
+609
+00:54:32,480 --> 00:54:37,860
+ the mess. I'm not saying my way is like the ethical way, but I'm saying the assumption of
+
+610
+00:54:37,860 --> 00:54:45,020
+ Barad's ethicality is a problem for me anyway. Yeah. We don't have to. Yeah. But look, I'm
+
+611
+00:54:45,020 --> 00:54:49,080
+ with you on that. I mean, that's the, the thing. I mean, you know, I have a different
+
+612
+00:54:49,080 --> 00:54:53,040
+ variation on Barad because I've different, I focus on different texts primarily and I
+
+613
+00:54:53,040 --> 00:54:57,440
+ focus it mostly on a response, but I get that move. I mean, I feel like I say, you've heard
+
+614
+00:54:57,440 --> 00:55:01,700
+ me say this in so many classes, both of you guys have like, it's there, there's a sense
+
+615
+00:55:01,700 --> 00:55:07,040
+ of a moralism of like, here's the right way to do it. That always turns me off. I mean,
+
+616
+00:55:07,040 --> 00:55:12,700
+ always turns me off of, of many thinkers who I would otherwise find interesting. I just
+
+617
+00:55:12,700 --> 00:55:17,880
+ don't get how you make that presumption about yourself that you would have access to that
+
+618
+00:55:17,880 --> 00:55:23,580
+ kind of knowledge that for everybody, that you can prescribe a set of relations or a way
+
+619
+00:55:23,580 --> 00:55:30,500
+ of relating. Or for anybody. Yeah. For one, for myself. For yourself. I can't make a policy
+
+620
+00:55:30,500 --> 00:55:37,120
+ for one person. Why would I assume to be able to do it for everybody? I mean, yeah. Just,
+
+621
+00:55:37,260 --> 00:55:43,160
+ I mean, just the presumption that, that violence can, like there are, I mean, when we're talking
+
+622
+00:55:43,160 --> 00:55:48,720
+ about ethics, we're generally talking about like violence and we've got like two problematic
+
+623
+00:55:48,720 --> 00:55:54,380
+ relationships to violence, either one, that violence can somehow be avoided and life can
+
+624
+00:55:54,380 --> 00:56:02,900
+ continue to exist. And two, that some like kinds of violence are just okay. Right. It's like,
+
+625
+00:56:02,980 --> 00:56:08,620
+ yeah. You know, I, either the notion that violence can be avoided altogether, it can't. And then,
+
+626
+00:56:09,040 --> 00:56:12,400
+ you know, it's then if you move from that to say like, all right, violence can't be avoided.
+
+627
+00:56:12,400 --> 00:56:16,840
+ So let's find the right forms of violence or the okay forms of violence.
+
+628
+00:56:17,360 --> 00:56:21,060
+ Right. The less violent violence. Yeah. The less violent violence. Like,
+
+629
+00:56:21,400 --> 00:56:27,800
+ like you, I mean, as soon as you're feeling okay about it. Right. Right. You have to lean in,
+
+630
+00:56:27,940 --> 00:56:32,800
+ for me at least, you have to lean into the notion that everything at root is a, it has to be a form
+
+631
+00:56:32,800 --> 00:56:37,660
+ of violence. I mean, at least that, that, if you're buying into to some degree the, the dialectic,
+
+632
+00:56:37,700 --> 00:56:41,540
+ I mean, that's certainly the case. Every single mediation is a violence.
+
+633
+00:56:42,060 --> 00:56:48,100
+ With someone, with someone like Barad, her, the, the, when you get to the root of relations,
+
+634
+00:56:48,100 --> 00:56:53,580
+ it's not violence. Like the primordial set of relations, whatever you want to call it for her
+
+635
+00:56:53,580 --> 00:57:00,220
+ interaction, that's not violence for her. And it's like, I mean, I just don't get, I don't buy that
+
+636
+00:57:00,220 --> 00:57:05,280
+ premise either. Does she, does she say that or is that a sense that you? It's implicit. No, no,
+
+637
+00:57:05,320 --> 00:57:08,960
+ she doesn't, she wouldn't, I don't think she would ever come out and just say that. No, but she might,
+
+638
+00:57:08,960 --> 00:57:12,800
+ I mean, she, she might, but I'm just curious because, because I agree with you. I mean,
+
+639
+00:57:12,800 --> 00:57:17,640
+ that's where to me, that's where Nietzsche's will to power, right? Life is will to power and
+
+640
+00:57:17,640 --> 00:57:23,080
+ nothing else. And so it is violence. I do also think, I mean, you know, we'd have to be careful
+
+641
+00:57:23,080 --> 00:57:26,920
+ about each of these words, but I think, I feel like I'm sympathetic towards the sense of like,
+
+642
+00:57:27,000 --> 00:57:32,180
+ look, I want to try to be less, less violent or less violent violence. Like what I just said,
+
+643
+00:57:32,220 --> 00:57:38,080
+ kind of periodically, I do feel like, yeah, I want to figure out a, again, not let, it's not a
+
+644
+00:57:38,080 --> 00:57:44,200
+ question of quantity. It's just a question of like, I want my violence to be something that doesn't
+
+645
+00:57:44,200 --> 00:57:49,580
+ cause too much suffering in a bad way. You know what I mean? Like, that is the goal. Like you are
+
+646
+00:57:49,580 --> 00:57:54,640
+ trying to figure that out, but that, but that is always situational. It is not a policy, right?
+
+647
+00:57:54,640 --> 00:58:00,360
+ It's not like, okay, follow these six rules, right? It's like, no, it's, it's only, that's where I end
+
+648
+00:58:00,360 --> 00:58:05,720
+ up going right to Aristotle. The, the, you know, the character ethics, right? Of that is like, look,
+
+649
+00:58:05,760 --> 00:58:11,320
+ it's about cultivating dispositions of ways of being in the world and not about understanding them,
+
+650
+00:58:11,680 --> 00:58:17,460
+ you know? And, and that's all, but, but again, we're all teachers. That's why we think that way,
+
+651
+00:58:17,460 --> 00:58:23,280
+ you know? And to, to, to me though, real quick, sorry, to me, I mean, to, in order to,
+
+652
+00:58:23,280 --> 00:58:29,280
+ to cause less suffering, you have to kind of accept the basic premise that you are causing
+
+653
+00:58:29,280 --> 00:58:33,700
+ suffering, some kind of suffering. You do. Always. And it's the presumption that you're
+
+654
+00:58:33,700 --> 00:58:38,760
+ not is what leads to more. It's like with the, with Descartes' presumption that animals
+
+655
+00:58:38,760 --> 00:58:44,900
+ are automata or whatever, it's like that justifies the slaughtering, right? So it's like, well,
+
+656
+00:58:44,920 --> 00:58:48,020
+ they can't, they can't, they don't have any feelings, so we can fucking kill them. It's
+
+657
+00:58:48,020 --> 00:58:52,480
+ like, you have to at least accept the basic premise that everything is, that all relations
+
+658
+00:58:52,480 --> 00:58:53,620
+ are violent to some extent.
+
+659
+00:58:54,020 --> 00:58:57,820
+ But I think, I like the way that you put it, it's like, we can kill them, which is different
+
+660
+00:58:57,820 --> 00:59:02,380
+ than, I mean, it's the problem I have with that isn't the killing them. The problem with
+
+661
+00:59:02,380 --> 00:59:05,020
+ it is the, the license of the word can, right?
+
+662
+00:59:05,020 --> 00:59:05,020
+ Right.
+
+663
+00:59:05,020 --> 00:59:10,980
+ Is that, I mean, is to go back to our, the problem of the comfort, it's like to define
+
+664
+00:59:10,980 --> 00:59:18,380
+ the comfort where your actions have no consequence or no meaningful consequence that can be sort
+
+665
+00:59:18,380 --> 00:59:24,400
+ of like folded back on you in some way, like that could fold, your violence can fall back
+
+666
+00:59:24,400 --> 00:59:30,740
+ onto you in some kind of guilt, right? That I want to be on team righteous, team blameless,
+
+667
+00:59:30,940 --> 00:59:35,300
+ you know, my violence is okay, my violence, or my violence is not violence, or my violence
+
+668
+00:59:35,300 --> 00:59:39,580
+ is okay, or my violence is okay because I agonize over it, right? Like, no, you have
+
+669
+00:59:39,580 --> 00:59:47,260
+ to like be fully immersed in the violence without ever pardoning it or, you know, just, you know,
+
+670
+00:59:47,260 --> 00:59:52,960
+ It's hard, it's hard to remember sometimes though, because I agree with the sense that you're
+
+671
+00:59:52,960 --> 00:59:57,140
+ articulating there, Nathaniel, I very much do. I'm thinking of this in terms of the last few
+
+672
+00:59:57,140 --> 01:00:04,600
+ weeks of my life. And, uh, the extent to which like my response to all of these things has been
+
+673
+01:00:04,600 --> 01:00:13,540
+ a retreat and a strong desire to retreat, which is just like, I want to get away from, um, the world
+
+674
+01:00:13,540 --> 01:00:20,940
+ from the outside. Like I want to eliminate my exposure because exposure is vulnerability and,
+
+675
+01:00:20,940 --> 01:00:28,640
+ and damage, right? And, and so, so I get that kind of the oscillation part as well of like, look, I don't
+
+676
+01:00:28,640 --> 01:00:33,400
+ want to do any damage, so I'm just going to fucking not move, right? Like if I could just stay in my
+
+677
+01:00:33,400 --> 01:00:39,100
+ bedroom and watch Netflix, no one's going to get hurt by that. I mean, I have these fantasies as well
+
+678
+01:00:39,100 --> 01:00:45,180
+ where like, you know, you escape to the cottage in the woods and, you know, you're just away from
+
+679
+01:00:45,180 --> 01:00:51,040
+ people, right? And, and largely because of the vulnerability, both your own and other, and those
+
+680
+01:00:51,040 --> 01:00:57,360
+ of others, right? Yeah. And then like the, the, the, I, every time I go there, the longer I sit in that
+
+681
+01:00:57,360 --> 01:01:06,280
+ place, the more like my, my life atrophies to the point of like sleep or nothing, right? Or death.
+
+682
+01:01:06,280 --> 01:01:12,840
+ Yeah. Which is all equivalent to death, right? Right. Right. Yeah. I mean, you're right. And so
+
+683
+01:01:12,840 --> 01:01:17,320
+ that's, you know, I'm hopefully entering a bounce back phase, but I definitely had this,
+
+684
+01:01:17,680 --> 01:01:23,260
+ like anything that pulled me literally physically, like out of my room was, I experienced this like
+
+685
+01:01:23,260 --> 01:01:29,380
+ almost terror. I'm like, I don't, you know. Um, but interestingly enough, um, I don't know if I
+
+686
+01:01:29,380 --> 01:01:34,180
+ mentioned this, the book that I revisited, the sci-fi book that I mentioned this last time when we
+
+687
+01:01:34,180 --> 01:01:40,400
+ talked. So, uh, just, just for some background, the book, the name of the book is Blindsight. Um,
+
+688
+01:01:40,420 --> 01:01:44,920
+ and if you guys recall, I, I kind of, well, you didn't know me then, Nate, but about a decade ago,
+
+689
+01:01:44,920 --> 01:01:50,200
+ I kind of dove into sci-fi. Remember Nathaniel? You told me about this one. Yeah. Right. Like I just
+
+690
+01:01:50,200 --> 01:01:56,580
+ kind of told me about this one. Yeah. And I, you know, um, I had read sci-fi my whole life,
+
+691
+01:01:56,620 --> 01:02:01,140
+ but never really like read, read. I'm just kind of, and then about 10 years ago or 12 years ago,
+
+692
+01:02:01,140 --> 01:02:04,860
+ I was like, you know what, I'm going to fucking learn sci-fi. Like I'm just going to read it.
+
+693
+01:02:05,100 --> 01:02:08,940
+ And I have for the last decade, but just coincidentally, one of the first couple of
+
+694
+01:02:08,940 --> 01:02:14,460
+ books I read was this book called Blindsight by this guy, Peter Watts. And, uh, it just blew me the
+
+695
+01:02:14,460 --> 01:02:18,200
+ way, blew me away. And I just, but, but because it was one of the early books, I thought, well,
+
+696
+01:02:18,200 --> 01:02:23,240
+ that's how sci-fi is going to be. And it's not right. It's not nearly as good as this book.
+
+697
+01:02:23,240 --> 01:02:26,600
+ And I just went back a couple of weeks ago and reread Blindsight. It was like,
+
+698
+01:02:27,040 --> 01:02:32,620
+ holy fuck, this is maybe the best science fiction book ever written. Like it's, and it's very dense.
+
+699
+01:02:33,140 --> 01:02:37,300
+ It's not page turnery, although the plot is incredibly simple. It's just a first contact,
+
+700
+01:02:37,600 --> 01:02:42,560
+ you know, first contact with an alien, but it's a very dense book. But one of the interesting
+
+701
+01:02:42,560 --> 01:02:48,260
+ concepts, and there are so many of them in this book is this alien species experienced communication
+
+702
+01:02:48,260 --> 01:02:55,140
+ as violence. And, um, that's something that's just unfathomable to humans because communication
+
+703
+01:02:55,140 --> 01:03:00,080
+ is the thing that we think now how we communicate, we might experience as violence, but the act of
+
+704
+01:03:00,080 --> 01:03:05,000
+ communication is the way that we think of as kind of bringing things together, reaching and
+
+705
+01:03:05,000 --> 01:03:09,020
+ understanding. And for this, this other, we don't even really know what it is because you don't
+
+706
+01:03:09,020 --> 01:03:14,340
+ to call it a species, whatever, but it's like, that's just not how they operate, right? They do not
+
+707
+01:03:14,340 --> 01:03:18,240
+ communicate. They do not want to communicate. They do not want to be friends. They don't want to be
+
+708
+01:03:18,240 --> 01:03:22,840
+ enemies. They don't want to be anything, right? Like they just want, and the realization that one of
+
+709
+01:03:22,840 --> 01:03:27,360
+ the characters experiences is like, who's a master of languages and perceptions. And she's like,
+
+710
+01:03:27,640 --> 01:03:34,580
+ there's, there's literally no language to this species because they don't value this thing that
+
+711
+01:03:34,580 --> 01:03:42,860
+ is so built into us of like, even the simple act of, you know, reaching out with, with words is, uh,
+
+712
+01:03:42,860 --> 01:03:50,140
+ something that is like, you know, an attack. Right. And that it's like, well, Jesus, I mean,
+
+713
+01:03:50,140 --> 01:03:56,160
+ what do you do? And the only answer is you leave them alone. Like you just, you know, and it's like,
+
+714
+01:03:56,180 --> 01:04:01,380
+ well, we can't, we don't know, we can't even fathom like, wait, you're telling me an alien species
+
+715
+01:04:01,380 --> 01:04:07,440
+ comes into our solar system. And we just like, yes, that's the only way we're going to survive
+
+716
+01:04:07,440 --> 01:04:12,100
+ is to just leave them alone. And by the way, that's really, really hard to do.
+
+717
+01:04:14,260 --> 01:04:18,300
+ Well, I mean, just think of, I mean, like think about Althusser and interpolation. I mean, we
+
+718
+01:04:18,300 --> 01:04:25,100
+ shouldn't, it shouldn't be that much of a leap to think about communication, like at its most basic
+
+719
+01:04:25,100 --> 01:04:31,660
+ level as being of like, I mean, you know, not always intolerably or not, you know, not always
+
+720
+01:04:31,660 --> 01:04:35,540
+ intolerably. Productively. I mean, it's violent, but we think that it's productively violent. Like
+
+721
+01:04:35,540 --> 01:04:41,200
+ this is a violence that will push you like Hegel, right? This is a, an incursion into self, which will
+
+722
+01:04:41,200 --> 01:04:50,960
+ make you a better, higher version of self. Yeah. That, I mean, yeah. I mean, whenever I think about the
+
+723
+01:04:50,960 --> 01:04:56,720
+ unavoidability of violence, I, you know, just like breaking down violence, just to think of in terms
+
+724
+01:04:56,720 --> 01:05:02,040
+ of it as violation, right? Just to violate the boundaries of something. And then as soon as you
+
+725
+01:05:02,040 --> 01:05:10,900
+ take that seriously, there's no such thing that isn't that, right? Right. Right. Yeah. Like the ending of
+
+726
+01:05:10,900 --> 01:05:17,080
+ violation is the ending of life. Yeah. Yeah. Every, every relation is violent. I mean, that to me is
+
+727
+01:05:17,080 --> 01:05:23,060
+ like the ground premise of this book of the phenomenology is that every context is violent.
+
+728
+01:05:23,180 --> 01:05:30,880
+ And our method of dealing with that is, you know, it's sub, it's on some level is sublimation
+
+729
+01:05:30,880 --> 01:05:37,420
+ and simplification, right? So if a context is violent, you deal with it by simplifying it and,
+
+730
+01:05:37,420 --> 01:05:44,180
+ uh, you deal with it by capturing it, capturing it, you know, as best as you can, you know? Yeah. And
+
+731
+01:05:44,180 --> 01:05:49,600
+ you fail, and you fail to capture and then someone else later on captures it more adequately or you do
+
+732
+01:05:49,600 --> 01:05:53,060
+ later on or something like that. Yeah. Yeah. Yeah. Right. Although, but think about it. I mean,
+
+733
+01:05:53,060 --> 01:05:57,140
+ the notion of violation that's presumed there, you have to have, in order to have a notion of
+
+734
+01:05:57,140 --> 01:06:01,080
+ violation, you have to have a notion of integrity of some kind, right? Like a, you know, that something
+
+735
+01:06:01,080 --> 01:06:08,000
+ is kind of self, self-contained. So if, if you open that up, I mean, this, this folds back on my
+
+736
+01:06:08,000 --> 01:06:13,100
+ failure argument is if you open that up, then there would be no violence, right? Like, um, or you'd
+
+737
+01:06:13,100 --> 01:06:18,720
+ have to have a different kind of matrix for thinking about the differences between say language and
+
+738
+01:06:18,720 --> 01:06:23,760
+ shooting someone and all those sorts of things of like, it's not a question of a violation of an
+
+739
+01:06:23,760 --> 01:06:28,580
+ integrity because the integrity, and you could do this with Hegel, the integrity of self-certainty
+
+740
+01:06:28,580 --> 01:06:36,580
+ only exists through a series of, uh, ignored mediations of, uh, non-self, right? Like that's,
+
+741
+01:06:36,960 --> 01:06:42,980
+ that's how the integrity of the self comes, comes to be. But I think you're, like, you just need a
+
+742
+01:06:42,980 --> 01:06:48,060
+ different logic or a different grammar of, of, of violence, right? Because like, I want to be able
+
+743
+01:06:48,060 --> 01:06:54,220
+ to maintain the difference between shooting someone and speaking to them. And I, and I don't want to
+
+744
+01:06:54,220 --> 01:07:00,760
+ reduce either of them to like, well, I violated your, yeah, your, your boundary, right?
+
+745
+01:07:01,020 --> 01:07:05,720
+ Yeah. That's where the continuum, I mean, I, increasingly I think like these categories,
+
+746
+01:07:05,900 --> 01:07:11,340
+ we need to think a way of them existing on a continuum, violence, non-violence, there's just
+
+747
+01:07:11,340 --> 01:07:16,120
+ a continuum, but without the poles. And I don't know how to imagine that, right? In other words,
+
+748
+01:07:16,260 --> 01:07:21,360
+ because the problem with the continuum is that it's, it presumes the preexistence of, oh, there's an
+
+749
+01:07:21,360 --> 01:07:26,020
+ absolute violence or there's an absolute non-violence. Like, no, there's none of that. There is only the
+
+750
+01:07:26,020 --> 01:07:32,020
+ gray, but that gray isn't organized by a black and a white. It's just all gray. And I don't really
+
+751
+01:07:32,020 --> 01:07:37,480
+ know how, or I don't know what the model or the analogy would be for thinking a spectrum
+
+752
+01:07:37,480 --> 01:07:42,500
+ without, you know, uh, what would Kairos be an interesting, a helpful concept in that? I
+
+753
+01:07:42,500 --> 01:07:47,880
+ mean, just like what Kairos does to the concept of time, rather than thinking about it as being
+
+754
+01:07:47,880 --> 01:07:53,020
+ more or less or shorter or faster in those quantitative terms, but like as the unique
+
+755
+01:07:53,020 --> 01:07:59,780
+ intersection of a series of, of qualities, like, you know, this, like this violence is not
+
+756
+01:07:59,780 --> 01:08:06,960
+ more or less of anything. It is just the, it is the phenomenon of this particular set of,
+
+757
+01:08:06,960 --> 01:08:08,660
+ of, um, intersections.
+
+758
+01:08:09,140 --> 01:08:13,340
+ Oh, okay. I, you went into, I thought you were going to, yeah, yeah, yeah. I have to think
+
+759
+01:08:13,340 --> 01:08:15,780
+ about that. That's not how I thought you were going to say it. I thought you were saying
+
+760
+01:08:15,780 --> 01:08:21,620
+ we should think of terms like violence, the exact same way that we think of terms like Kairos,
+
+761
+01:08:21,620 --> 01:08:30,180
+ which is that it describes not, um, um, something versus a nonviolent moment. It's not like the word
+
+762
+01:08:30,180 --> 01:08:34,820
+ violence refers to this is violence and implying that all those things over there are not violence,
+
+763
+01:08:35,300 --> 01:08:41,060
+ but it's just, it's a qualitative, like Kairos. It's not like it doesn't quite, Kairos doesn't tell you
+
+764
+01:08:41,060 --> 01:08:48,240
+ anything, right? It doesn't, it doesn't tell you, uh, when anything happens or even hap, like it doesn't,
+
+765
+01:08:48,240 --> 01:08:54,880
+ it just, but it gives you, so it's, but, but a Kairotic look at, at a time gives you like a,
+
+766
+01:08:54,880 --> 01:09:03,920
+ not a snapshot by a, um, um, well, it does, it is kind of a, right. It is kind of a snapshot of
+
+767
+01:09:03,920 --> 01:09:10,140
+ interrelations, right? So it's what, what, what makes something Kairotic in that sense is not
+
+768
+01:09:10,140 --> 01:09:17,680
+ any particular component of this, the shot or the scene or the time span. It is the, the,
+
+769
+01:09:17,680 --> 01:09:24,780
+ the relations. And so violence would be that too, right? Violence means a series of relations among
+
+770
+01:09:24,780 --> 01:09:30,260
+ things that maybe work to one of those things, detriments. And we're right back at Spinoza,
+
+771
+01:09:30,260 --> 01:09:35,420
+ right? Sad passions, right? Like it's the things that reduce your capacities to affect and be affected
+
+772
+01:09:35,420 --> 01:09:40,780
+ rather than increasing them, you know? Yeah. Right. Yeah. Yeah. I mean, the, the danger that could be
+
+773
+01:09:40,780 --> 01:09:46,700
+ like, um, I could imagine a certain kind of utilitarianism getting implemented, they're
+
+774
+01:09:46,700 --> 01:09:51,500
+ reintroduced, which is, which would be to say like, all right, you know, what are the quantity of units
+
+775
+01:09:51,500 --> 01:09:57,680
+ of happiness and for how many, you know, bodies is it interjected into and how do we measure that
+
+776
+01:09:57,680 --> 01:10:04,800
+ against the units of sadness that are, you know, equal, like unequally introduced into the,
+
+777
+01:10:04,800 --> 01:10:08,960
+ that's why, that's, that's why, I mean, this is where I agree with, you know, Zizek or, I mean,
+
+778
+01:10:08,960 --> 01:10:14,480
+ there's many other thinkers, but like contingency has to, has to, has to be thought as irreducible.
+
+779
+01:10:14,800 --> 01:10:20,080
+ Otherwise it is a just, it, you know, like, in other words, if I can figure out the ground upon
+
+780
+01:10:20,080 --> 01:10:24,960
+ which contingency is based, then it's going to lend itself to all sorts of calculus, all sorts of,
+
+781
+01:10:24,960 --> 01:10:30,000
+ and you know, we know how that thing operates. So contingency has to be thought as irreducible,
+
+782
+01:10:30,000 --> 01:10:34,720
+ like contingency is only contingent to itself or something like that, right? Like one of those kind of,
+
+783
+01:10:35,440 --> 01:10:39,600
+ phrases that doesn't say anything that makes you go, you know, but yeah.
+
+784
+01:10:40,320 --> 01:10:46,240
+ Well, and the, and the, and the ethical demand is to orient yourself to that irreducible contingency
+
+785
+01:10:46,240 --> 01:10:52,960
+ in some way, as opposed to like with the understanding for Hegel, the, the main function of the understanding
+
+786
+01:10:52,960 --> 01:10:59,040
+ is to do violence to contingency. It's doing violence to contingency in order to reduce self-harm,
+
+787
+01:10:59,040 --> 01:11:06,800
+ right? And so to get past that, uh, you have to basically, I don't know, like subsume yourself
+
+788
+01:11:06,800 --> 01:11:13,440
+ in that contingency in some way, accept it, uh, orient yourself towards it. And, uh, that's,
+
+789
+01:11:13,440 --> 01:11:17,920
+ I mean, that's what leads to the despair and dread that Hegel wants.
+
+790
+01:11:17,920 --> 01:11:22,240
+ Yeah. Or, or, or the, or the joy, because that would be another way of saying the way that I thought in the
+
+791
+01:11:22,240 --> 01:11:26,640
+ invention book for me, it was to the sense of affirmation, which we would call irreducible
+
+792
+01:11:26,640 --> 01:11:33,360
+ contingency within, you know, the countable and articulable and measurable and all the,
+
+793
+01:11:33,360 --> 01:11:37,600
+ like the irreducible contingency within the utilitarian, right? Like, in other words,
+
+794
+01:11:37,600 --> 01:11:42,000
+ it's not like stop with the utilitarian shit. Let's, you know, go irreducible contingency,
+
+795
+01:11:42,000 --> 01:11:46,640
+ but you, the utilitarian thing springs its own irreducible contingency.
+
+796
+01:11:46,640 --> 01:11:51,200
+ Yeah. Yeah. Um, yeah, it's, it, it can't be anything other than, so this whole
+
+797
+01:11:51,200 --> 01:11:56,240
+ economization and quantification of culture is just a way of spreading chance.
+
+798
+01:12:02,240 --> 01:12:08,560
+ This is why this, uh, like our conversations and my, you know, my chance to sit and read quietly to
+
+799
+01:12:08,560 --> 01:12:14,640
+ myself has become so important in the, in the Trump years, because I, I, I felt the same way. I felt like,
+
+800
+01:12:14,640 --> 01:12:19,680
+ you know, I could actually focus a lot of my attention on critiquing the nuances of something
+
+801
+01:12:19,680 --> 01:12:26,560
+ called liberalism and progressivism and the enlightenment. And then Trump realized I, I, with Trump, I realized,
+
+802
+01:12:26,560 --> 01:12:33,040
+ do I seriously just have to like, is, am I, is my body best utilized as throwing rocks at the idiots?
+
+803
+01:12:33,040 --> 01:12:39,600
+ I mean, is this seriously what I need to be doing? And that to me is that, that isn't that, you know,
+
+804
+01:12:39,600 --> 01:12:45,760
+ that, that is, I mean, that's a great way of, that's a great way of phrasing it too. I think that that's,
+
+805
+01:12:45,760 --> 01:12:49,840
+ that's a good way of phrasing what I feel like I've been struggling with for a couple of years now of
+
+806
+01:12:49,840 --> 01:12:55,760
+ like, you know, doing the things that we do and that we really enjoy doing in this context is so
+
+807
+01:12:55,760 --> 01:13:03,540
+ circumscribed, um, and, and yet so important to me, right? Like, so important. I mean, the only, the, no joke,
+
+808
+01:13:03,540 --> 01:13:08,560
+ when I was going, when I was at the lowest points and I'm like, I gotta, I, I gotta pull myself out of this
+
+809
+01:13:08,560 --> 01:13:14,480
+ because I'm like, I'm going into hyper-reclusive mode and that's just bad. And I'm like, I gotta, and what did I do?
+
+810
+01:13:14,580 --> 01:13:20,460
+ I read Nietzsche because that's it. Like, that's the, like, it's not because I was studying Nietzsche. I'm like, this,
+
+811
+01:13:21,200 --> 01:13:24,960
+ this reminds me of the joy of, I think I texted you guys, like, it's the only thing that can pull me
+
+812
+01:13:24,960 --> 01:13:31,640
+ into the joy of thinking because I have, there's no joy over here. This is, and I need this. So it's
+
+813
+01:13:31,640 --> 01:13:40,660
+ like, it's so deeply, truly therapeutically important in that sense, you know? And, and it's interesting
+
+814
+01:13:40,660 --> 01:13:44,920
+ because I think one of the things that's happening is I'm developing, and this explains, you know, my
+
+815
+01:13:44,920 --> 01:13:50,640
+ turning the corner on Hegel over the last few months is like, when you have a therapeutic relationship to
+
+816
+01:13:50,640 --> 01:13:54,840
+ these kinds of thinking, it's a very different understanding than what I would call the kind
+
+817
+01:13:54,840 --> 01:14:00,160
+ of, like, analytic continental tribalisms with which I was trained and with which I was raised
+
+818
+01:14:00,160 --> 01:14:04,180
+ and the aversion to psychoanalysis, the aversion to negation and these sorts of things. And I'm like,
+
+819
+01:14:04,600 --> 01:14:08,320
+ when it's a question of therapy and no longer a question of, like, fighting this battle, like,
+
+820
+01:14:08,440 --> 01:14:12,220
+ I, it allows me to read Hegel pretty differently.
+
+821
+01:14:12,320 --> 01:14:18,400
+ And that's a really good thing. Like, I like that, you know, the, the injury or whatever
+
+822
+01:14:18,400 --> 01:14:23,420
+ to my psyche that I've been experiencing made something else available, right?
+
+823
+01:14:23,480 --> 01:14:27,840
+ Let's plug the title of the podcast, right? Like when it becomes a matter of thinking with
+
+824
+01:14:27,840 --> 01:14:36,660
+ Hegel, right? Just like an opportunity to like jump in this sort of like these waters and swim
+
+825
+01:14:36,660 --> 01:14:40,660
+ around to them for a good, like that, that's just a totally different orientation.
+
+826
+01:14:40,800 --> 01:14:45,520
+ That's how we should, that's how we should frame, I mean, at least for me, that's been 100% true
+
+827
+01:14:45,520 --> 01:14:49,880
+ of our interactions, truthfully, from the beginning. It's just become more palpable for me in the last
+
+828
+01:14:49,880 --> 01:14:56,780
+ couple of months. But like, this is so therapeutic. It's like, it's, I mean, I look forward to this.
+
+829
+01:14:56,840 --> 01:15:02,300
+ I like, can't wait to do it. Oh, we're just gonna, and, and just like, you know, I know we're running
+
+830
+01:15:02,300 --> 01:15:06,240
+ out of time again, but I mean, just like the last, the last couple of times, I feel like we've just
+
+831
+01:15:06,240 --> 01:15:11,100
+ had, I mean, last time I was knocked out after 20 minutes, but the, the, the couple of times before
+
+832
+01:15:11,100 --> 01:15:15,260
+ that, after I got back from DC, we've done this like four times and three of them were like, to me,
+
+833
+01:15:15,800 --> 01:15:20,940
+ the best ones we've done. And each time, like in today, I feel the same way. I'm like, this was so
+
+834
+01:15:20,940 --> 01:15:27,020
+ great. Like, I'm so glad we did this. I've enjoyed listening. I've really enjoyed listening them
+
+835
+01:15:27,020 --> 01:15:35,540
+ to them as well, because I mean, it does allow me to hear the two of you differently. And, and I feel
+
+836
+01:15:35,540 --> 01:15:40,220
+ like better, you know, I mean, I know, especially in the earlier episodes, when I was listening to
+
+837
+01:15:40,220 --> 01:15:44,360
+ the two of you, I was like, the thing is stopping, like you're, you're responding to them, but you're
+
+838
+01:15:44,360 --> 01:15:49,820
+ not hearing the questions. You're not, you know, actually attending to the sense of them. And,
+
+839
+01:15:49,820 --> 01:15:56,940
+ you know, I also, yeah. Yeah. When I listen afterwards, it's always different. It's not
+
+840
+01:15:56,940 --> 01:16:02,780
+ how I recall experiencing it. And I do, I hear your guys' stuff differently. And I hear,
+
+841
+01:16:02,860 --> 01:16:05,480
+ I feel the same way. I'm like, John, shut the fuck up. But I don't.
+
+842
+01:16:05,480 --> 01:16:21,480
+ I'm like, John, shut the fuck up.
+
+843
+01:16:21,480 --> 01:16:27,240
+ I'm like, John, shut the fuck up.
+
+844
+01:16:27,240 --> 01:16:30,520
+ I'm like, John, shut the fuck up.
+
+845
+01:16:35,480 --> 01:17:05,460
+ Thank you.
+
