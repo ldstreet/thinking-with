@@ -4,6 +4,7 @@ import SubscribeLinks from '../../components/SubscribeLinks.astro';
 import Transcript from '../../components/Transcript.astro';
 import { allEpisodes } from '../../lib/episodes';
 import { transcriptFor } from '../../lib/transcripts';
+import { guestsFor } from '../../lib/guests';
 import { u } from '../../lib/url';
 
 export function getStaticPaths() {
@@ -12,6 +13,7 @@ export function getStaticPaths() {
 
 const { ep } = Astro.props;
 const tr = transcriptFor(ep.guid);
+const epGuests = guestsFor(ep.guid);
 
 function fmtDuration(d?: string) {
   if (!d) return '';
@@ -52,6 +54,19 @@ const trNote = tr
         {ep.duration && <span>{fmtDuration(ep.duration)}</span>}
       </div>
       {ep.description && <p class="ep-desc">{ep.description}</p>}
+      {epGuests.length > 0 && (
+        <div class="ep-guests">
+          <span class="ep-guests-label">Featuring</span>
+          <ul>
+            {epGuests.map((g) => (
+              <li>
+                {g.url ? <a href={g.url} target="_blank" rel="noopener">{g.name}</a> : <span>{g.name}</span>}
+                {g.role && <span class="ep-guest-role">{g.role}</span>}
+              </li>
+            ))}
+          </ul>
+        </div>
+      )}
       <audio id="ep-audio" class="ep-audio" controls preload="none" src={ep.audio}></audio>
     </div>
   </section>
@@ -86,6 +101,16 @@ const trNote = tr
   .ep-title { font-size: clamp(2rem, 6vw, 3.2rem); margin: 0.2rem 0 0.5rem; line-height: 1.1; }
   .ep-meta { display: flex; gap: 0.5rem; font-size: 0.9rem; color: var(--ink-faint); margin-bottom: 1rem; }
   .ep-desc { font-size: 1.05rem; color: var(--ink-soft); max-width: 44rem; }
+  .ep-guests { margin-top: 1.2rem; }
+  .ep-guests-label {
+    font-family: var(--font-body); font-size: 0.72rem; font-weight: 700;
+    letter-spacing: 0.12em; text-transform: uppercase; color: var(--accent);
+  }
+  .ep-guests ul { list-style: none; margin: 0.3rem 0 0; padding: 0; display: grid; gap: 0.3rem; }
+  .ep-guests li { display: flex; flex-wrap: wrap; align-items: baseline; gap: 0.5rem; }
+  .ep-guests a { color: var(--ink); font-weight: 600; text-decoration: underline; text-underline-offset: 2px; }
+  .ep-guests a:hover { color: var(--accent); }
+  .ep-guest-role { font-size: 0.85rem; color: var(--ink-faint); }
   .ep-audio { width: 100%; height: 44px; margin-top: 1.3rem; }
   .ep-audio::-webkit-media-controls-panel { background: var(--paper); }
   .t-pending { padding: 2rem; text-align: center; display: grid; gap: 0.5rem; justify-items: center; }
