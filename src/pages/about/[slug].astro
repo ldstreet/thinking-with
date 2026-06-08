@@ -1,0 +1,70 @@
+---
+import Base from '../../layouts/Base.astro';
+import { hosts } from '../../data/podcast';
+import { u } from '../../lib/url';
+
+export function getStaticPaths() {
+  return hosts.map((h) => ({ params: { slug: h.slug }, props: { host: h } }));
+}
+
+const { host } = Astro.props;
+const description = host.bio.length
+  ? host.bio[0].slice(0, 160)
+  : `${host.name} — ${host.role}.`;
+---
+
+<Base title={host.name} description={description}>
+  <section class="section">
+    <div class="wrap prose-wrap">
+      <a href={u('/about')} class="back">← About the show</a>
+      <p class="eyebrow">Who we are</p>
+      <h1 class="name">{host.name}</h1>
+      <p class="role">{host.role}</p>
+      {host.location && <p class="loc muted">{host.location}</p>}
+
+      <div class="bio">
+        {host.bio.length > 0 ? (
+          host.bio.map((p) => <p>{p}</p>)
+        ) : (
+          <p class="ph muted">
+            ⚙︎ {host.name}'s bio is coming soon — this page is ready and renders from
+            <code>hosts</code> in <code>src/data/podcast.ts</code> as soon as a bio is added.
+          </p>
+        )}
+      </div>
+
+      {host.links && host.links.length > 0 && (
+        <ul class="links">
+          {host.links.map((l) => (
+            <li><a href={l.url} target="_blank" rel="noopener">{l.label}</a></li>
+          ))}
+        </ul>
+      )}
+
+      <div class="more">
+        <a href={u('/about')} class="btn btn--ghost">Meet the rest of us</a>
+        <a href={u('/podcasts')} class="btn btn--primary">Browse the seasons</a>
+      </div>
+    </div>
+  </section>
+</Base>
+
+<style>
+  .back { font-family: var(--font-body); font-size: 0.9rem; color: var(--ink-soft); text-decoration: none; }
+  .back:hover { color: var(--ink); }
+  .name { font-size: clamp(2.2rem, 6vw, 3.4rem); margin: 0.6rem 0 0.2rem; }
+  .role { font-size: 1.15rem; color: var(--accent-deep); margin: 0; }
+  .loc { font-size: 0.95rem; margin: 0.2rem 0 0; }
+  .bio { margin-top: 2rem; }
+  .bio p { font-size: 1.12rem; }
+  .ph {
+    background: color-mix(in srgb, var(--gold) 14%, transparent);
+    border: 1px dashed color-mix(in srgb, var(--gold) 55%, transparent);
+    border-radius: var(--radius); padding: 0.9rem 1rem; font-size: 0.98rem;
+  }
+  .ph code { font-size: 0.82em; }
+  .links { list-style: none; padding: 0; margin: 1.5rem 0 0; display: grid; gap: 0.4rem; }
+  .links a { color: var(--ink); font-weight: 600; }
+  .links a:hover { color: var(--accent); }
+  .more { display: flex; gap: 0.8rem; flex-wrap: wrap; margin-top: 2.6rem; padding-top: 2rem; border-top: 1px solid var(--line-soft); }
+</style>

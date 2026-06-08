@@ -1,26 +1,70 @@
 :root {
-  /* Editorial palette — warm ivory paper, warm near-black ink, terracotta accent */
-  --paper: #f6f0e1;
-  --paper-2: #efe7d3;
-  --paper-card: #fbf7ec;
-  --ink: #1b1714;
-  --ink-soft: #4a433b;
-  --ink-faint: #6f675b;
-  --line: #ddd2bb;
-  --line-soft: #e7dcc6;
-  --accent: #c0563f; /* terracotta — master brand accent */
-  --accent-deep: #9c4330;
-  --accent-ink: #f6f0e1;
+  color-scheme: light;
 
+  /* ---------- Derrida-desert palette (light) ----------
+     Drawn from the "Truth or Derrida" cover: warm sand, terracotta dune,
+     deep brick red, gold, and the teal-grey starry night sky. The beige is gone —
+     paper is a warmer near-white sand. Token NAMES are stable so component CSS
+     keeps working; --teal / --gold / --shadow-rgb are the new semantic additions. */
+  --paper: #faf6ee;       /* sand near-white */
+  --paper-2: #f2ead9;     /* dune shadow */
+  --paper-card: #fdfaf2;  /* lifted card */
+  --ink: #1c1916;         /* near-black, warm */
+  --ink-soft: #4c4439;
+  --ink-faint: #756b5c;
+  --line: #e2d6bf;
+  --line-soft: #ece1cd;
+  --accent: #c6552f;      /* terracotta — master brand accent */
+  --accent-deep: #a23f23;
+  --accent-ink: #faf6ee;
+  --teal: #3f5d63;        /* night-sky teal — secondary accent */
+  --teal-deep: #2c4248;
+  --gold: #d8a13c;        /* dune-light highlight */
+
+  /* surfaces for the dark footer / inverted blocks (kept readable in both modes) */
+  --invert-bg: #1c2024;
+  --invert-text: #e9e0cf;
+  --invert-faint: #9a9180;
+
+  --shadow-rgb: 28, 25, 22;
   --maxw: 76rem;
   --maxw-prose: 42rem;
   --radius: 14px;
   --radius-lg: 22px;
-  --shadow: 0 1px 2px rgba(27, 23, 20, 0.05), 0 18px 40px -28px rgba(27, 23, 20, 0.35);
-  --shadow-lift: 0 2px 4px rgba(27, 23, 20, 0.06), 0 30px 60px -34px rgba(27, 23, 20, 0.45);
+  --shadow: 0 1px 2px rgba(var(--shadow-rgb), 0.05), 0 18px 40px -28px rgba(var(--shadow-rgb), 0.35);
+  --shadow-lift: 0 2px 4px rgba(var(--shadow-rgb), 0.06), 0 30px 60px -34px rgba(var(--shadow-rgb), 0.45);
 
   --font-display: 'Fraunces Variable', 'Fraunces', Georgia, 'Times New Roman', serif;
   --font-body: 'Newsreader Variable', 'Newsreader', Georgia, serif;
+}
+
+/* ---------- Derrida-desert palette (dark) ----------
+   Night-sky side of the same cover: deep slate ground, warm sand text,
+   a brightened terracotta so it still reads as the brand on dark. */
+:root[data-theme='dark'] {
+  color-scheme: dark;
+  --paper: #15171a;
+  --paper-2: #1e2126;
+  --paper-card: #1e2126;
+  --ink: #ece3d4;
+  --ink-soft: #c3bbac;
+  --ink-faint: #938b7d;
+  --line: #2f343b;
+  --line-soft: #272b31;
+  --accent: #e07a52;      /* warmed terracotta for dark */
+  --accent-deep: #ec926e;
+  --accent-ink: #15171a;
+  --teal: #7fa6ad;
+  --teal-deep: #9cbcc2;
+  --gold: #e6b860;
+
+  --invert-bg: #0f1113;
+  --invert-text: #ece3d4;
+  --invert-faint: #8b8275;
+
+  --shadow-rgb: 0, 0, 0;
+  --shadow: 0 1px 2px rgba(var(--shadow-rgb), 0.3), 0 18px 40px -28px rgba(var(--shadow-rgb), 0.8);
+  --shadow-lift: 0 2px 4px rgba(var(--shadow-rgb), 0.35), 0 30px 60px -34px rgba(var(--shadow-rgb), 0.9);
 }
 
 * { box-sizing: border-box; }
@@ -50,8 +94,8 @@ body::before {
   pointer-events: none;
   z-index: -1;
   background:
-    radial-gradient(1200px 600px at 80% -10%, rgba(192, 86, 63, 0.06), transparent 60%),
-    radial-gradient(900px 500px at -10% 10%, rgba(110, 121, 224, 0.05), transparent 55%);
+    radial-gradient(1200px 600px at 80% -10%, color-mix(in srgb, var(--accent) 9%, transparent), transparent 60%),
+    radial-gradient(900px 500px at -10% 10%, color-mix(in srgb, var(--teal) 8%, transparent), transparent 55%);
 }
 
 h1, h2, h3, h4 {
@@ -77,7 +121,7 @@ hr {
   margin: 3rem 0;
 }
 
-::selection { background: rgba(192, 86, 63, 0.22); }
+::selection { background: color-mix(in srgb, var(--accent) 28%, transparent); }
 
 /* ---------- layout helpers ---------- */
 .wrap { width: 100%; max-width: var(--maxw); margin-inline: auto; padding-inline: clamp(1.1rem, 4vw, 2.5rem); }

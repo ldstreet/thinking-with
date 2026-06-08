@@ -1,0 +1,4 @@
+{
+  "_README": "Manual editorial tags per episode, keyed by episode GUID. These are MERGED with tags derived automatically from the season (see lib/tags.ts: Heidegger seasons -> 'heidegger', Nietzsche -> 'affirmation', a season's Critique theme -> 'critique'). Add entries like \"<guid>\": [\"teaching\", \"critique\"]. Use slugs from src/data/tags.ts. Keys starting with '_' are ignored.",
+  "1552e84e-c814-4a78-96b3-4922d9bcc707": ["teaching", "notes"]
+}

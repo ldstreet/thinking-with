@@ -1,0 +1,87 @@
+---
+// Editorial sub-menu: a row of tag/category links the authors asked for —
+// sits below the static navbar and above the page's featured content.
+// Reusable; currently placed on the home page. Pulls from the tag taxonomy.
+import { featuredTags } from '../data/tags';
+import { u } from '../lib/url';
+
+interface Props {
+  /** Optionally highlight the active tag (e.g. on a tag landing page). */
+  active?: string;
+  label?: string;
+}
+const { active, label = 'Browse by' } = Astro.props;
+---
+
+<nav class="editorial" aria-label="Browse by category">
+  <div class="wrap editorial-inner">
+    <span class="editorial-label">{label}</span>
+    <ul class="editorial-list">
+      {featuredTags.map((t) => (
+        <li>
+          <a
+            href={u(`/tags/${t.slug}`)}
+            class:list={['etag', { active: active === t.slug }]}
+          >{t.label}</a>
+        </li>
+      ))}
+      <li>
+        <a href={u('/tags')} class="etag etag--all">All topics →</a>
+      </li>
+    </ul>
+  </div>
+</nav>
+
+<style>
+  .editorial {
+    border-bottom: 1px solid var(--line-soft);
+    background: color-mix(in srgb, var(--paper-2) 60%, transparent);
+  }
+  .editorial-inner {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    padding-block: 0.6rem;
+    overflow-x: auto;
+    scrollbar-width: none;
+  }
+  .editorial-inner::-webkit-scrollbar { display: none; }
+  .editorial-label {
+    font-family: var(--font-body);
+    font-size: 0.72rem;
+    font-weight: 700;
+    letter-spacing: 0.16em;
+    text-transform: uppercase;
+    color: var(--ink-faint);
+    white-space: nowrap;
+    flex-shrink: 0;
+  }
+  .editorial-list {
+    list-style: none;
+    display: flex;
+    align-items: center;
+    gap: 0.4rem;
+    margin: 0;
+    padding: 0;
+  }
+  .etag {
+    display: inline-block;
+    white-space: nowrap;
+    font-family: var(--font-body);
+    font-size: 0.9rem;
+    font-weight: 560;
+    text-decoration: none;
+    color: var(--ink-soft);
+    padding: 0.32rem 0.7rem;
+    border-radius: 999px;
+    border: 1px solid transparent;
+    transition: background 0.15s ease, color 0.15s ease, border-color 0.15s ease;
+  }
+  .etag:hover { color: var(--ink); background: var(--paper-2); }
+  .etag.active {
+    color: var(--accent-deep);
+    border-color: color-mix(in srgb, var(--accent) 40%, transparent);
+    background: color-mix(in srgb, var(--accent) 10%, transparent);
+  }
+  .etag--all { color: var(--ink-faint); }
+</style>

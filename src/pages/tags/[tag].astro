@@ -1,0 +1,72 @@
+---
+import Base from '../../layouts/Base.astro';
+import EpisodeItem from '../../components/EpisodeItem.astro';
+import EditorialBar from '../../components/EditorialBar.astro';
+import { tags, getTag } from '../../data/tags';
+import { itemsForTag } from '../../lib/tags';
+import { u } from '../../lib/url';
+
+export function getStaticPaths() {
+  return tags.map((t) => ({ params: { tag: t.slug }, props: { tag: t } }));
+}
+
+const { tag } = Astro.props;
+const items = await itemsForTag(tag.slug);
+const fmt = (d: Date) => d.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' });
+---
+
+<Base title={tag.label} description={tag.blurb}>
+  <EditorialBar active={tag.slug} />
+  <section class="section">
+    <div class="wrap">
+      <a href={u('/tags')} class="back">← All topics</a>
+      <p class="eyebrow">Topic</p>
+      <h1 class="page-title">{tag.label}</h1>
+      <p class="lede prose-wrap">{tag.blurb}</p>
+
+      {items.length === 0 ? (
+        <div class="empty card">
+          <p class="muted">Nothing tagged “{tag.label}” yet — check back as we publish.</p>
+        </div>
+      ) : (
+        <div class="items">
+          {items.map((it) =>
+            it.kind === 'writing' ? (
+              <a class="post card" href={u(`/writing/${it.slug}`)}>
+                <div class="post-meta">
+                  <time datetime={it.date.toISOString()}>{fmt(it.date)}</time>
+                  {it.series && <span class="series-tag">{it.series}</span>}
+                  {it.draft && <span class="pill draft">Draft</span>}
+                  <span class="kind">Essay</span>
+                </div>
+                <h3>{it.title}</h3>
+                <p class="post-desc">{it.description}</p>
+                <span class="post-by muted">{it.author}</span>
+              </a>
+            ) : (
+              <EpisodeItem episode={it.episode} accent={it.episode.accent} />
+            )
+          )}
+        </div>
+      )}
+    </div>
+  </section>
+</Base>
+
+<style>
+  .back { font-family: var(--font-body); font-size: 0.9rem; color: var(--ink-soft); text-decoration: none; }
+  .back:hover { color: var(--ink); }
+  .page-title { font-size: clamp(2.2rem, 6vw, 3.6rem); margin-top: 0.3rem; }
+  .lede { margin-bottom: 2.4rem; }
+  .items { display: grid; gap: 1rem; max-width: 52rem; }
+  .post { display: block; text-decoration: none; color: inherit; padding: 1.4rem 1.5rem; transition: transform 0.18s ease, box-shadow 0.18s ease; }
+  .post:hover { transform: translateY(-2px); box-shadow: var(--shadow-lift); }
+  .post-meta { display: flex; align-items: center; gap: 0.8rem; font-size: 0.8rem; color: var(--ink-faint); margin-bottom: 0.4rem; flex-wrap: wrap; }
+  .series-tag { color: var(--accent); font-weight: 600; }
+  .kind { margin-left: auto; text-transform: uppercase; letter-spacing: 0.12em; font-size: 0.68rem; font-weight: 700; color: var(--teal); }
+  .draft { font-size: 0.66rem; padding: 0.15rem 0.5rem; }
+  .post h3 { font-size: 1.4rem; margin: 0 0 0.3rem; }
+  .post-desc { color: var(--ink-soft); margin: 0 0 0.5rem; font-size: 0.98rem; }
+  .post-by { font-size: 0.85rem; }
+  .empty { padding: 2rem; text-align: center; }
+</style>

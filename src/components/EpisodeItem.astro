@@ -54,7 +54,7 @@ const label = ep.kind === 'intro' ? 'Intro' : ep.episode ? `Ep. ${ep.episode}` :
   {slug && (
     <div class="ep-links">
       <a class="ep-link" href={u(`/episodes/${slug}`)}>
-        {transcript ? 'Read transcript' : 'Episode page'} →
+        {transcript ? 'Show notes & transcript' : 'Show notes'} →
       </a>
     </div>
   )}

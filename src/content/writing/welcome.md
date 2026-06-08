@@ -6,7 +6,7 @@ author: Thinking With…
 tags: ['notes']
 ---
 
-For five seasons now we have been reading slowly and out loud — Hegel, Deleuze, Heidegger, Derrida, Nietzsche — less to master these texts than to think alongside them. The podcast was always meant as an invitation rather than a lecture: a way of showing what thinking *with* a text actually looks like, hesitations and wrong turns included.
+For five seasons now we have been reading slowly and closely — Hegel, Deleuze, Heidegger, Derrida, Nietzsche — less to master these texts than to think alongside them. The podcast was always meant as an invitation rather than a lecture: a way of showing what thinking *with* a text actually looks like, hesitations and wrong turns included.
 
 This site is the next part of that experiment. It gives us somewhere to do three things we couldn't do in an audio feed alone.
 

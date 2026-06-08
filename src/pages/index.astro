@@ -3,6 +3,8 @@ import Base from '../layouts/Base.astro';
 import SeasonCard from '../components/SeasonCard.astro';
 import EpisodeItem from '../components/EpisodeItem.astro';
 import SubscribeLinks from '../components/SubscribeLinks.astro';
+import EditorialBar from '../components/EditorialBar.astro';
+import FeaturedLatest from '../components/FeaturedLatest.astro';
 import { show, seasons } from '../data/podcast';
 import episodes from '../data/episodes.json';
 import { getCollection } from 'astro:content';
@@ -20,15 +22,19 @@ const fmt = (d: Date) => d.toLocaleDateString('en-US', { year: 'numeric', month:
 ---
 
 <Base>
-  <!-- HERO -->
-  <section class="hero">
-    <div class="wrap hero-inner">
-      <p class="hero-eyebrow">{show.tagline}</p>
-      <h1 class="hero-mark">Thinking&nbsp;With<span class="ellip">…</span></h1>
+  <!-- EDITORIAL SUB-MENU -->
+  <EditorialBar />
+
+  <!-- ROTATING LATEST FEATURE (replaces the old static overview) -->
+  <FeaturedLatest />
+
+  <!-- INTRO: ethos + actions -->
+  <section class="intro">
+    <div class="wrap intro-inner">
       <p class="hero-ethos">{show.ethos}</p>
       <div class="hero-actions">
         <a href={u('/podcasts')} class="btn btn--primary">Browse the seasons</a>
-        <a href={u('/writing')} class="btn btn--ghost">Read the writing</a>
+        <a href={u('/writing')} class="btn btn--ghost">Read the writings</a>
       </div>
       <div class="hero-listen"><SubscribeLinks size="sm" /></div>
     </div>
@@ -72,9 +78,9 @@ const fmt = (d: Date) => d.toLocaleDateString('en-US', { year: 'numeric', month:
       <div class="row-head">
         <div>
           <p class="eyebrow">From the page</p>
-          <h2 class="row-title">Writing</h2>
+          <h2 class="row-title">Writings</h2>
         </div>
-        <a href={u('/writing')} class="row-link">All writing →</a>
+        <a href={u('/writing')} class="row-link">All writings →</a>
       </div>
       <div class="posts">
         {posts.map((p) => (
@@ -106,28 +112,14 @@ const fmt = (d: Date) => d.toLocaleDateString('en-US', { year: 'numeric', month:
 </Base>
 
 <style>
-  /* hero */
-  .hero { padding-block: clamp(3.5rem, 9vw, 7rem) clamp(2rem, 5vw, 3.5rem); text-align: center; }
-  .hero-inner { max-width: 52rem; margin-inline: auto; }
-  .hero-eyebrow {
-    font-family: var(--font-body); font-size: 0.82rem; font-weight: 600;
-    letter-spacing: 0.24em; text-transform: uppercase; color: var(--ink-faint); margin: 0 0 1rem;
-  }
-  .hero-mark {
-    font-family: var(--font-display);
-    font-style: italic;
-    font-weight: 420;
-    font-size: clamp(3.2rem, 12vw, 7rem);
-    line-height: 0.98;
-    letter-spacing: -0.02em;
-    margin: 0;
-  }
-  .hero-mark .ellip { font-style: normal; color: var(--accent); }
+  /* intro: ethos + actions, below the rotating feature */
+  .intro { padding-block: clamp(1.5rem, 4vw, 2.6rem) clamp(2rem, 5vw, 3.5rem); text-align: center; }
+  .intro-inner { max-width: 48rem; margin-inline: auto; }
   .hero-ethos {
     font-size: clamp(1.15rem, 2.6vw, 1.5rem);
     color: var(--ink-soft);
     max-width: 36rem;
-    margin: 1.4rem auto 2rem;
+    margin: 0 auto 2rem;
     line-height: 1.5;
     text-wrap: balance;
   }

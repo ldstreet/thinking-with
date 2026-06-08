@@ -1,0 +1,192 @@
+---
+// Rotating "latest" feature for the home page — replaces the old static overview.
+// Cycles the ~3 most recent publications (essays + episodes), newest first.
+// Auto-advances on a timer; pauses on hover/focus; honors prefers-reduced-motion.
+import { getCollection } from 'astro:content';
+import { allEpisodes } from '../lib/episodes';
+import { u } from '../lib/url';
+
+interface Props {
+  count?: number;
+}
+const { count = 3 } = Astro.props;
+
+type Feature = {
+  kind: 'Essay' | 'Episode';
+  href: string;
+  title: string;
+  description: string;
+  dateLabel: string;
+  ts: number;
+  meta: string;
+};
+
+const fmt = (d: Date) => d.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' });
+
+const essays: Feature[] = (await getCollection('writing')).map((p) => ({
+  kind: 'Essay',
+  href: u(`/writing/${p.slug}`),
+  title: p.data.title,
+  description: p.data.description,
+  dateLabel: fmt(p.data.date),
+  ts: p.data.date.valueOf(),
+  meta: p.data.series ? `${p.data.series} · ${p.data.author}` : p.data.author,
+}));
+
+const eps: Feature[] = allEpisodes
+  .filter((ep) => ep.slug)
+  .map((ep) => ({
+    kind: 'Episode',
+    href: u(`/episodes/${ep.slug}`),
+    title: ep.title,
+    description: ep.description ?? `${ep.seasonAlias} — ${ep.title}`,
+    dateLabel: ep.dateLabel,
+    ts: new Date(ep.date).valueOf(),
+    meta: ep.seasonAlias,
+  }));
+
+const features = [...essays, ...eps].sort((a, b) => b.ts - a.ts).slice(0, count);
+---
+
+<section class="featured" aria-roledescription="carousel" aria-label="Latest publications" data-featured>
+  <div class="wrap featured-inner">
+    <div class="featured-head">
+      <p class="eyebrow">Latest</p>
+      <span class="featured-wordmark">Thinking&nbsp;With<span class="ellip">…</span></span>
+    </div>
+
+    <div class="slides">
+      {features.map((f, i) => (
+        <a
+          href={f.href}
+          class:list={['slide', { active: i === 0 }]}
+          data-slide={i}
+          aria-hidden={i === 0 ? 'false' : 'true'}
+          tabindex={i === 0 ? undefined : -1}
+        >
+          <span class="slide-kind">{f.kind}</span>
+          <h2 class="slide-title">{f.title}</h2>
+          <p class="slide-desc">{f.description}</p>
+          <span class="slide-meta muted">{f.dateLabel} · {f.meta}</span>
+          <span class="slide-go">Read this →</span>
+        </a>
+      ))}
+    </div>
+
+    {features.length > 1 && (
+      <div class="dots" role="tablist" aria-label="Choose a publication">
+        {features.map((f, i) => (
+          <button
+            type="button"
+            class:list={['dot', { active: i === 0 }]}
+            data-dot={i}
+            role="tab"
+            aria-selected={i === 0 ? 'true' : 'false'}
+            aria-label={`Show: ${f.title}`}
+          ></button>
+        ))}
+      </div>
+    )}
+  </div>
+</section>
+
+<style>
+  .featured { padding-block: clamp(2.2rem, 5vw, 3.6rem) clamp(1.5rem, 3vw, 2.2rem); }
+  .featured-inner { max-width: 60rem; margin-inline: auto; }
+  .featured-head { display: flex; align-items: baseline; justify-content: space-between; gap: 1rem; margin-bottom: 1rem; }
+  .featured-head .eyebrow { margin: 0; }
+  .featured-wordmark {
+    font-family: var(--font-display); font-style: italic; font-weight: 500;
+    font-size: 1.3rem; color: var(--ink-soft);
+  }
+  .featured-wordmark .ellip { color: var(--accent); font-style: normal; }
+
+  .slides { display: grid; }
+  .slide {
+    grid-area: 1 / 1;
+    display: flex;
+    flex-direction: column;
+    gap: 0.55rem;
+    text-decoration: none;
+    color: inherit;
+    background: var(--paper-card);
+    border: 1px solid var(--line-soft);
+    border-left: 4px solid var(--accent);
+    border-radius: var(--radius-lg);
+    padding: clamp(1.6rem, 4vw, 2.6rem);
+    box-shadow: var(--shadow);
+    opacity: 0;
+    visibility: hidden;
+    transform: translateY(8px);
+    transition: opacity 0.4s ease, transform 0.4s ease;
+    pointer-events: none;
+  }
+  .slide.active { opacity: 1; visibility: visible; transform: none; pointer-events: auto; }
+  .slide:hover { box-shadow: var(--shadow-lift); }
+  .slide-kind {
+    font-family: var(--font-body); font-size: 0.7rem; font-weight: 700;
+    letter-spacing: 0.14em; text-transform: uppercase; color: var(--accent-deep);
+  }
+  .slide-title { font-size: clamp(1.7rem, 4vw, 2.6rem); margin: 0; line-height: 1.08; }
+  .slide-desc { font-size: 1.1rem; color: var(--ink-soft); margin: 0; max-width: 44rem; }
+  .slide-meta { font-size: 0.85rem; }
+  .slide-go { font-family: var(--font-body); font-weight: 600; font-size: 0.92rem; color: var(--accent-deep); margin-top: 0.3rem; }
+
+  .dots { display: flex; gap: 0.5rem; justify-content: center; margin-top: 1.2rem; }
+  .dot {
+    width: 9px; height: 9px; padding: 0; border-radius: 999px;
+    border: 1px solid var(--ink-faint); background: transparent; cursor: pointer;
+    transition: background 0.15s ease, border-color 0.15s ease, transform 0.15s ease;
+  }
+  .dot:hover { border-color: var(--accent); }
+  .dot.active { background: var(--accent); border-color: var(--accent); transform: scale(1.15); }
+
+  @media (prefers-reduced-motion: reduce) {
+    .slide { transition: opacity 0.01s; transform: none; }
+  }
+</style>
+
+<script is:inline>
+  (() => {
+    const root = document.querySelector('[data-featured]');
+    if (!root) return;
+    const slides = Array.from(root.querySelectorAll('.slide'));
+    const dots = Array.from(root.querySelectorAll('.dot'));
+    if (slides.length < 2) return;
+
+    let current = 0;
+    let timer = null;
+    const reduce = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+
+    const show = (n) => {
+      current = (n + slides.length) % slides.length;
+      slides.forEach((s, i) => {
+        const on = i === current;
+        s.classList.toggle('active', on);
+        s.setAttribute('aria-hidden', on ? 'false' : 'true');
+        if (on) s.removeAttribute('tabindex');
+        else s.setAttribute('tabindex', '-1');
+      });
+      dots.forEach((d, i) => {
+        d.classList.toggle('active', i === current);
+        d.setAttribute('aria-selected', i === current ? 'true' : 'false');
+      });
+    };
+
+    const start = () => {
+      if (reduce || timer) return;
+      timer = window.setInterval(() => show(current + 1), 6000);
+    };
+    const stop = () => { if (timer) { clearInterval(timer); timer = null; } };
+
+    dots.forEach((d, i) =>
+      d.addEventListener('click', () => { stop(); show(i); start(); })
+    );
+    root.addEventListener('mouseenter', stop);
+    root.addEventListener('mouseleave', start);
+    root.addEventListener('focusin', stop);
+    root.addEventListener('focusout', start);
+
+    start();
+  })();
+</script>

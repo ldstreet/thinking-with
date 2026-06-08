@@ -18,7 +18,9 @@ const {
   ogImage = '/covers/season-5.png',
 } = Astro.props;
 
-const fullTitle = title ? `${title} · ${show.name}` : `${show.name} ${show.tagline}`;
+const fullTitle = title
+  ? `${title} · ${show.name}`
+  : [show.name, show.tagline].filter(Boolean).join(' ');
 const canonical = new URL(Astro.url.pathname, Astro.site ?? Astro.url).href;
 ---
 
@@ -27,6 +29,20 @@ const canonical = new URL(Astro.url.pathname, Astro.site ?? Astro.url).href;
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
+    {/* Set the theme before first paint to avoid a flash of the wrong mode. */}
+    <script is:inline>
+      (() => {
+        try {
+          const stored = localStorage.getItem('theme');
+          const theme =
+            stored ||
+            (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
+          document.documentElement.setAttribute('data-theme', theme);
+          const meta = { light: '#faf6ee', dark: '#15171a' };
+          document.documentElement.dataset.themeColor = meta[theme] || meta.light;
+        } catch (e) {}
+      })();
+    </script>
     <title>{fullTitle}</title>
     <meta name="description" content={description} />
     <link rel="canonical" href={canonical} />
@@ -35,7 +51,7 @@ const canonical = new URL(Astro.url.pathname, Astro.site ?? Astro.url).href;
     <meta property="og:description" content={description} />
     <meta property="og:image" content={new URL(u(ogImage), Astro.site ?? Astro.url).href} />
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="theme-color" content="#f6f0e1" />
+    <meta name="theme-color" id="theme-color" content="#faf6ee" />
     <link rel="icon" href={u('/favicon.svg')} type="image/svg+xml" />
     <link rel="alternate" type="application/rss+xml" title={show.name} href="https://anchor.fm/s/4d44a168/podcast/rss" />
   </head>

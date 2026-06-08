@@ -1,8 +1,10 @@
 ---
 // Interactive, timestamped transcript reader.
-// Fetches a WebVTT file client-side, renders cues as clickable lines, and
-// keeps them in sync with the given <audio> element (seek on click, highlight
-// + auto-scroll the active cue as it plays).
+// Fetches a WebVTT file client-side, MERGES the many short whisper cues into
+// readable paragraphs (one timestamp each), and keeps them in sync with the given
+// <audio> element (seek on click, highlight + auto-scroll the active block).
+// Compact by default: the body is height-capped and scrolls within itself, with an
+// "Expand" toggle to read the whole thing inline.
 interface Props {
   vttUrl: string;
   /** id of the <audio> element this transcript drives. */
@@ -33,9 +35,13 @@ const { vttUrl, audioId, downloads = [], note } = Astro.props;
   </div>
   {note && <p class="t-note">{note}</p>}
   <input class="t-search" type="search" placeholder="Search this transcript…" aria-label="Search transcript" />
-  <ol class="t-cues" aria-live="off">
-    <li class="t-loading">Loading transcript…</li>
-  </ol>
+  <div class="t-wrap">
+    <ol class="t-cues" aria-live="off">
+      <li class="t-loading">Loading transcript…</li>
+    </ol>
+    <div class="t-fade" aria-hidden="true"></div>
+  </div>
+  <button type="button" class="t-expand" aria-expanded="false" hidden>Expand full transcript</button>
 </section>
 
 <script>
@@ -49,7 +55,6 @@ const { vttUrl, audioId, downloads = [], note } = Astro.props;
   }
 
   function parseTimestamp(t: string): number {
-    // HH:MM:SS.mmm or MM:SS.mmm
     const parts = t.trim().split(':');
     let s = 0;
     for (const p of parts) s = s * 60 + parseFloat(p.replace(',', '.'));
@@ -75,17 +80,48 @@ const { vttUrl, audioId, downloads = [], note } = Astro.props;
     return cues;
   }
 
+  // Merge short cues into paragraph-sized blocks for compact, readable scanning.
+  function groupCues(cues: Cue[]): Cue[] {
+    const MAX_CHARS = 420;
+    const MAX_SPAN = 60; // seconds
+    const out: Cue[] = [];
+    let cur: Cue | null = null;
+    for (const c of cues) {
+      if (!cur) { cur = { ...c }; continue; }
+      const span = c.end - cur.start;
+      const wouldLen = cur.text.length + 1 + c.text.length;
+      const endsSentence = /[.!?]["”’)]?\s*$/.test(cur.text);
+      if (wouldLen > MAX_CHARS || span > MAX_SPAN || (endsSentence && cur.text.length > 240)) {
+        out.push(cur);
+        cur = { ...c };
+      } else {
+        cur.text += ' ' + c.text;
+        cur.end = c.end;
+      }
+    }
+    if (cur) out.push(cur);
+    return out;
+  }
+
   function initTranscript(root: HTMLElement) {
     const vttUrl = root.dataset.vtt!;
     const audio = document.getElementById(root.dataset.audio!) as HTMLAudioElement | null;
+    const scroll = root.querySelector('.t-wrap') as HTMLElement;
     const list = root.querySelector('.t-cues') as HTMLOListElement;
     const follow = root.querySelector('.t-follow-input') as HTMLInputElement;
     const search = root.querySelector('.t-search') as HTMLInputElement;
+    const expand = root.querySelector('.t-expand') as HTMLButtonElement;
+
+    expand.addEventListener('click', () => {
+      const open = root.classList.toggle('is-expanded');
+      expand.setAttribute('aria-expanded', String(open));
+      expand.textContent = open ? 'Collapse transcript' : 'Expand full transcript';
+    });
 
     fetch(vttUrl)
       .then((r) => (r.ok ? r.text() : Promise.reject(r.status)))
       .then((raw) => {
-        const cues = parseVtt(raw);
+        const cues = groupCues(parseVtt(raw));
         list.innerHTML = '';
         const items: HTMLLIElement[] = cues.map((c) => {
           const li = document.createElement('li');
@@ -109,13 +145,15 @@ const { vttUrl, audioId, downloads = [], note } = Astro.props;
           return li;
         });
 
-        // Highlight + autoscroll the active cue during playback.
+        // Only offer expand/collapse if the transcript actually overflows the cap.
+        if (scroll.scrollHeight > scroll.clientHeight + 8) expand.hidden = false;
+
+        // Highlight + autoscroll the active block during playback.
         let active = -1;
         const sync = () => {
           if (!audio) return;
           const t = audio.currentTime;
           let idx = -1;
-          // linear scan is fine for a single episode's cue count
           for (let i = 0; i < cues.length; i++) {
             if (t >= cues[i].start && t < cues[i].end) { idx = i; break; }
             if (t >= cues[i].start) idx = i;
@@ -123,16 +161,22 @@ const { vttUrl, audioId, downloads = [], note } = Astro.props;
           if (idx === active) return;
           if (active >= 0) items[active]?.classList.remove('is-active');
           active = idx;
-          if (idx >= 0) {
+          if (idx >= 0 && follow.checked) {
             const el = items[idx];
             el.classList.add('is-active');
-            if (follow.checked) el.scrollIntoView({ block: 'center', behavior: 'smooth' });
+            // scroll within the capped panel (or the page when expanded)
+            const target = root.classList.contains('is-expanded') ? undefined : scroll;
+            if (target) {
+              const top = el.offsetTop - target.clientHeight / 2 + el.clientHeight / 2;
+              target.scrollTo({ top, behavior: 'smooth' });
+            } else {
+              el.scrollIntoView({ block: 'center', behavior: 'smooth' });
+            }
+          } else if (idx >= 0) {
+            items[idx].classList.add('is-active');
           }
         };
         audio?.addEventListener('timeupdate', sync);
-
-        // Pause autoscroll if the user manually scrolls the page.
-        // (kept lightweight — toggle remains the source of truth)
 
         // Search filter.
         search.addEventListener('input', () => {
@@ -169,11 +213,21 @@ const { vttUrl, audioId, downloads = [], note } = Astro.props;
     border: 1px solid var(--line-soft); border-radius: var(--radius); background: var(--paper-2);
     font: inherit; font-size: 0.92rem;
   }
+
+  /* compact, height-capped scroll panel */
+  .t-wrap { position: relative; max-height: 32rem; overflow-y: auto; scroll-behavior: smooth; }
+  .transcript.is-expanded .t-wrap { max-height: none; overflow: visible; }
+  .t-fade {
+    position: sticky; bottom: 0; left: 0; right: 0; height: 3.5rem; margin-top: -3.5rem;
+    background: linear-gradient(transparent, var(--paper)); pointer-events: none;
+  }
+  .transcript.is-expanded .t-fade { display: none; }
+
   .t-cues { list-style: none; margin: 0.6rem 0 0; padding: 0; max-width: 46rem; }
   .t-loading { color: var(--ink-faint); padding: 0.6rem 0; }
   .t-cue {
     display: grid; grid-template-columns: 3.6rem 1fr; gap: 0.7rem;
-    padding: 0.28rem 0.5rem; border-radius: var(--radius); scroll-margin: 40vh;
+    padding: 0.4rem 0.5rem; border-radius: var(--radius); scroll-margin: 40vh;
   }
   .t-cue.is-active { background: color-mix(in srgb, var(--accent) 14%, transparent); }
   .t-time {
@@ -184,4 +238,17 @@ const { vttUrl, audioId, downloads = [], note } = Astro.props;
   .t-time:hover { text-decoration: underline; }
   .t-text { color: var(--ink); line-height: 1.7; }
   .t-cue.is-active .t-text { color: var(--ink); font-weight: 500; }
+
+  .t-expand {
+    margin-top: 0.8rem;
+    font-family: var(--font-body); font-size: 0.9rem; font-weight: 600;
+    color: var(--accent); background: none; border: 1px solid var(--line);
+    padding: 0.5rem 1rem; border-radius: 999px; cursor: pointer;
+    transition: border-color 0.15s ease, background 0.15s ease;
+  }
+  .t-expand:hover { border-color: var(--accent); background: color-mix(in srgb, var(--accent) 8%, transparent); }
+
+  @media (prefers-reduced-motion: reduce) {
+    .t-wrap { scroll-behavior: auto; }
+  }
 </style>

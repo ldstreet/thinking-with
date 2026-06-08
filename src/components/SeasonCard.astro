@@ -22,6 +22,7 @@ const inProduction = s.status === 'in-production';
     <span class="scard-no">Season {s.number}{count ? ` · ${count} episodes` : ''}</span>
     <h3 class="scard-title">{s.alias}</h3>
     <p class="scard-work">Thinking With… <em>{s.work}</em></p>
+    {s.theme && <span class="scard-theme">Theme · {s.theme}</span>}
   </div>
 </a>
 
@@ -67,4 +68,9 @@ const inProduction = s.status === 'in-production';
   .scard-title { font-size: 1.5rem; margin: 0.1rem 0 0; }
   .scard-work { margin: 0; color: var(--ink-soft); font-size: 0.95rem; }
   .scard-work em { font-style: italic; }
+  .scard-theme {
+    margin-top: 0.35rem;
+    font-family: var(--font-body); font-size: 0.7rem; font-weight: 700;
+    letter-spacing: 0.1em; text-transform: uppercase; color: var(--teal);
+  }
 </style>

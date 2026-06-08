@@ -1,0 +1,50 @@
+---
+import Base from '../../layouts/Base.astro';
+import EditorialBar from '../../components/EditorialBar.astro';
+import { tags } from '../../data/tags';
+import { tagCounts } from '../../lib/tags';
+import { u } from '../../lib/url';
+
+const counts = await tagCounts();
+---
+
+<Base title="Topics" description="Browse Thinking With… by topic — essays and episodes gathered under the ideas we keep returning to.">
+  <EditorialBar />
+  <section class="section">
+    <div class="wrap">
+      <p class="eyebrow">Browse by topic</p>
+      <h1 class="page-title">All topics</h1>
+      <p class="lede prose-wrap">
+        The ideas we keep returning to — gathering essays and episodes under each.
+      </p>
+
+      <div class="grid">
+        {tags.map((t) => (
+          <a class="tcard card" href={u(`/tags/${t.slug}`)}>
+            <div class="tcard-head">
+              <h2>{t.label}</h2>
+              <span class="count">{counts[t.slug] ?? 0}</span>
+            </div>
+            <p class="muted">{t.blurb}</p>
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+</Base>
+
+<style>
+  .page-title { font-size: clamp(2.2rem, 6vw, 3.6rem); }
+  .lede { margin-bottom: 2.6rem; }
+  .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 1.2rem; }
+  .tcard { display: block; text-decoration: none; color: inherit; padding: 1.4rem 1.5rem; transition: transform 0.18s ease, box-shadow 0.18s ease; }
+  .tcard:hover { transform: translateY(-2px); box-shadow: var(--shadow-lift); }
+  .tcard-head { display: flex; align-items: baseline; justify-content: space-between; gap: 0.6rem; }
+  .tcard h2 { font-size: 1.4rem; margin: 0 0 0.3rem; }
+  .count {
+    font-family: var(--font-body); font-weight: 700; font-size: 0.8rem;
+    color: var(--teal); background: color-mix(in srgb, var(--teal) 12%, transparent);
+    padding: 0.1rem 0.55rem; border-radius: 999px;
+  }
+  .tcard p { font-size: 0.96rem; margin: 0; }
+</style>

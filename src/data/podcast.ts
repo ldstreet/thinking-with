@@ -2,11 +2,14 @@
 
 export const show = {
   name: 'Thinking With…',
-  tagline: 'A Rhetorical Theory Podcast',
+  // The authors dropped "A Rhetorical Theory Podcast" — a broader phrase may eventually
+  // follow the ellipsis, and Kara is developing a logo. Leave empty; the UI hides the
+  // tagline/sub-line wherever it's blank, so a future value lights up automatically.
+  tagline: '',
   ethos:
     'A pedagogical experiment — an invitation to think along with the text, with us, and with each other.',
   description:
-    '“Thinking With…” takes a major work of philosophy each season and reads it slowly, generously, and out loud. Three teachers of rhetorical theory follow the text where it leads, less to explain it than to think alongside it.',
+    '“Thinking With…” takes a major work of philosophy each season and reads it slowly, generously, and together. Three teachers of rhetorical theory follow the text where it leads, less to explain it than to think alongside it.',
   email: 'thinkingwithpod@gmail.com',
   copyrightHolder: 'Thinking With…',
 };
@@ -18,20 +21,46 @@ export const listen = {
   rss: 'https://anchor.fm/s/4d44a168/podcast/rss',
 };
 
-export const hosts = [
+export type Host = {
+  name: string;
+  slug: string;
+  role: string;
+  location?: string;
+  /** First-person bio paragraphs. Empty array → page shows a friendly placeholder. */
+  bio: string[];
+  links?: { label: string; url: string }[];
+};
+
+// TODO(authors): Nate DeProspo and John Muckelbauer bios are placeholders — the "About Us"
+// doc left them blank. Drop real first-person paragraphs into `bio` below and they render.
+export const hosts: Host[] = [
   {
     name: 'Nate DeProspo',
+    slug: 'nate-deprospo',
     role: 'Visiting Assistant Professor, Oberlin College',
+    bio: [],
   },
   {
     name: 'John Muckelbauer',
+    slug: 'john-muckelbauer',
     role: 'Associate Professor, University of South Carolina',
+    bio: [],
   },
   {
     name: 'Nathaniel Street',
-    role: 'Assistant Professor, Mount Saint Vincent University',
+    slug: 'nathaniel-street',
+    role: 'Associate Professor of Writing and Rhetoric, Mount Saint Vincent University',
+    location: 'Halifax, Nova Scotia',
+    bio: [
+      'I’m an Associate Professor of Writing and Rhetoric in the English Department at Mount Saint Vincent University in Halifax, Nova Scotia. I’ve taught at MSVU and coordinated the English Department’s Writing Program since 2017. I routinely teach courses on academic, persuasive, and creative writing, rhetorical analysis, the history of rhetoric, and rhetorical theory.',
+      'During the pandemic, I took up hand-tool woodworking to re-orient myself after long sessions of talking with Nate and John about esoteric ideas. More recently, I managed to collapse the two worlds by writing on how contemporary hand-tool woodworkers / internet-content-makers configure their relationship to the past in a distinctly digital medium.',
+    ],
   },
 ];
+
+export function getHost(slug: string) {
+  return hosts.find((h) => h.slug === slug);
+}
 
 export type Season = {
   number: number;
@@ -42,6 +71,12 @@ export type Season = {
   work: string;
   /** "Thinking With… <title>" as it appears in the brief. */
   title: string;
+  /**
+   * Organizing idea for the season, when it has one beyond the primary text.
+   * The authors are reorganizing around themes (e.g. "Critique") rather than a
+   * single book — surfaced as a label on season cards/pages when present.
+   */
+  theme?: string;
   cover?: string;
   accent: string;
   accentInk: string; // readable text color on the accent
@@ -57,11 +92,14 @@ export const seasons: Season[] = [
     thinker: 'Martin Heidegger',
     work: 'Being and Time',
     title: 'Thinking With… Being and Time',
+    // TODO(authors): confirm whether "Critique" is this season's organizing theme or a
+    // separate upcoming season. Modeled as a data field so it flips with one edit.
+    theme: 'Critique',
     accent: '#3B5747',
     accentInk: '#F6F0E1',
     status: 'in-production',
     blurb:
-      'Back to Heidegger — this time the big one. We return to the question that organizes everything else: what does it mean to be? New episodes are in production now.',
+      'Back to Heidegger — this time the big one. We return to the question that organizes everything else: what does it mean to be? This season we read it under the sign of critique. New episodes are in production now.',
   },
   {
     number: 5,

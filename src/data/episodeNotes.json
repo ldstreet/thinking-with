@@ -1,0 +1,33 @@
+{
+  "_README": "Hand-authored show-note EXTRAS and overrides, keyed by episode GUID. Merged on top of the auto-imported feed notes (episodeNotesFeed.json), and manual fields win. Per entry: { summary: string|string[] (a written overview), references: [{label, url, note?}] (texts & thinkers + links), pages?: string, drafted?: bool, overview?/chapters?: override the feed }. Keys starting with '_' are ignored. The three entries below are AUTO-DRAFTED samples (Nietzsche S5E9, Derrida S4E1, Hegel S1E1) for format review.",
+
+  "e731648d-62cb-4d81-90a7-0a2be49333a4": {
+    "drafted": true,
+    "summary": "Reading Book IV of The Gay Science, the conversation turns to the tone of affirmative thinking — amor fati, Nietzsche's \"brief habits,\" and the cheerful science as a practice of living rather than a doctrine to be argued for. Thinking becomes therapeutic: less refuting an opponent than situating them within a larger narrative, and cultivating a capacity to sense.",
+    "references": [
+      { "label": "Friedrich Nietzsche", "url": "https://plato.stanford.edu/entries/nietzsche/", "note": "Stanford Encyclopedia of Philosophy" },
+      { "label": "Nietzsche, The Gay Science", "url": "https://bookshop.org/search?keywords=nietzsche+gay+science", "note": "the season's text — Book IV" },
+      { "label": "Gilles Deleuze", "url": "https://plato.stanford.edu/entries/deleuze/", "note": "on the \"refrain,\" repetition, speeds and slowness" }
+    ]
+  },
+
+  "7c4404c3-1fc6-4730-bdec-5c9e4d9ed16c": {
+    "drafted": true,
+    "summary": "The Derrida season opens. After a short intro to the season (and the new intro music), we take up \"Différance\" — the components of Derrida's central (non)concept, how he diverges from Heidegger, and what the essay says about the dynamics of contemporary theory.",
+    "references": [
+      { "label": "Jacques Derrida", "url": "https://plato.stanford.edu/entries/derrida/", "note": "Stanford Encyclopedia of Philosophy" },
+      { "label": "Derrida, \"Différance\" (in Margins of Philosophy)", "url": "https://bookshop.org/search?keywords=derrida+margins+of+philosophy", "note": "the essay discussed" },
+      { "label": "Derrida, Of Grammatology", "url": "https://bookshop.org/search?keywords=derrida+of+grammatology" },
+      { "label": "Martin Heidegger", "url": "https://plato.stanford.edu/entries/heidegger/", "note": "the Heidegger/Derrida contrast" }
+    ]
+  },
+
+  "cd7d14d9-7f14-4dbe-b61c-dea295f73b38": {
+    "drafted": true,
+    "summary": "The maiden episode. We start with styles of reading and teaching, academic dispositions and authority, then move into the Phenomenology from §13 of the Preface — Hegel's Understanding versus Self-Consciousness, and the conditions of possibility for scientific knowledge.",
+    "references": [
+      { "label": "G. W. F. Hegel", "url": "https://plato.stanford.edu/entries/hegel/", "note": "Stanford Encyclopedia of Philosophy" },
+      { "label": "Hegel, Phenomenology of Spirit", "url": "https://bookshop.org/search?keywords=hegel+phenomenology+of+spirit", "note": "the season's text — Preface, §13ff." }
+    ]
+  }
+}

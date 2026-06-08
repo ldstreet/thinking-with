@@ -1,7 +1,7 @@
 ---
 import { show, listen, seasons } from '../data/podcast';
 import { u } from '../lib/url';
-const year = 2025;
+const year = new Date().getFullYear();
 const published = seasons.filter((s) => s.status === 'published');
 ---
 
@@ -22,7 +22,8 @@ const published = seasons.filter((s) => s.status === 'published');
     <nav class="foot-col" aria-label="Site">
       <h3>Explore</h3>
       <a href={u('/podcasts')}>Podcasts</a>
-      <a href={u('/writing')}>Writing</a>
+      <a href={u('/writing')}>Writings</a>
+      <a href={u('/links')}>Links</a>
       <a href={u('/about')}>About</a>
       <a href={u('/contact')}>Contact</a>
     </nav>
@@ -45,8 +46,8 @@ const published = seasons.filter((s) => s.status === 'published');
 <style>
   .site-footer {
     margin-top: 4rem;
-    background: var(--ink);
-    color: #e9e0cf;
+    background: var(--invert-bg);
+    color: var(--invert-text);
     padding-block: clamp(2.5rem, 5vw, 3.5rem) 1.5rem;
   }
   .foot-grid {
@@ -54,20 +55,20 @@ const published = seasons.filter((s) => s.status === 'published');
     grid-template-columns: 1.6fr 1fr 1fr 1fr;
     gap: 2.5rem;
   }
-  .brand-mark { font-family: var(--font-display); font-style: italic; font-size: 1.5rem; color: #f6f0e1; }
+  .brand-mark { font-family: var(--font-display); font-style: italic; font-size: 1.5rem; color: var(--invert-text); }
   .brand-mark .ellip { color: var(--accent); font-style: normal; }
-  .foot-tag { margin-top: 0.9rem; max-width: 24rem; color: #b7ad9b; font-size: 0.98rem; }
+  .foot-tag { margin-top: 0.9rem; max-width: 24rem; color: var(--invert-faint); font-size: 0.98rem; }
   .foot-col { display: flex; flex-direction: column; gap: 0.55rem; }
   .foot-col h3 {
     font-family: var(--font-body);
     font-size: 0.72rem;
     letter-spacing: 0.16em;
     text-transform: uppercase;
-    color: #8d8473;
+    color: var(--invert-faint);
     margin: 0 0 0.4rem;
   }
-  .foot-col a { color: #ddd3c1; text-decoration: none; font-size: 0.96rem; }
-  .foot-col a:hover { color: #fff; }
+  .foot-col a { color: color-mix(in srgb, var(--invert-text) 86%, transparent); text-decoration: none; font-size: 0.96rem; }
+  .foot-col a:hover { color: var(--invert-text); }
   .foot-base {
     display: flex;
     justify-content: space-between;
@@ -75,7 +76,7 @@ const published = seasons.filter((s) => s.status === 'published');
     padding-top: 1.4rem;
     border-top: 1px solid rgba(255,255,255,0.1);
     font-size: 0.85rem;
-    color: #9a9180;
+    color: var(--invert-faint);
   }
   @media (max-width: 760px) {
     .foot-grid { grid-template-columns: 1fr 1fr; gap: 1.8rem; }

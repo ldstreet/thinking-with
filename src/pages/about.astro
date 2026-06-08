@@ -8,36 +8,100 @@ import { u } from '../lib/url';
   <section class="section">
     <div class="wrap prose-wrap">
       <p class="eyebrow">About</p>
-      <h1 class="title">What “Thinking With…” is all about</h1>
+      <h1 class="title">Thinking With… is a pedagogical experiment</h1>
       <p class="lede">{show.ethos}</p>
 
       <div class="body">
-        <h2>How we started doing this</h2>
+        <h2>How it started</h2>
         <p>
-          Thinking With… began as a pedagogical experiment among three teachers of rhetorical
-          theory. We wanted to record what it actually sounds like to read a difficult text
-          together — not the polished summary you'd give in a lecture, but the live work of
-          following an argument, getting stuck, doubling back, and occasionally surprising
-          ourselves. The first season took the Preface to Hegel's <em>Phenomenology of Spirit</em>
-          as a catalyst, and we've kept going since.
+          We started Thinking With… in 2020, during the depths of the pandemic. We were all
+          stuck, largely isolated, and intellectually starving — teaching online, our usual
+          conferences canceled, with little of the ordinary opportunity to think and talk with
+          other people. Then, on some random day in June, John called Nathaniel and said,
+          “hey, you should read this really smart dissertation proposal I just got from a
+          student of mine, Nate DeProspo.” Things spiraled from there. Nathaniel and Nate met,
+          along with John, on this new thing called “Zoom,” to talk about Nate's project — and
+          to ask him why in the world he was so invested in G. W. F. Hegel of all people.
+        </p>
+        <p>
+          We kept Zooming, as a reading group. After a while we imagined our discussions were
+          for an audience. It was something of a joke at first — us, starting a podcast on
+          esoteric philosophy. But it got us thinking about how we'd relate to listeners. If we
+          were to make a podcast, what would the goal be, especially since we spend most of our
+          time teaching in a classroom? There's no shortage of material on the internet aimed at
+          teaching. And one of the ideas we kept circling back to is that the most powerful
+          teaching and learning we do has little to do with presenting and remembering
+          propositions, arguments, and histories. For us, philosophy <em>and</em> rhetoric are
+          about teaching styles of thinking — and we learn styles of thinking by getting swept
+          up in a current.
+        </p>
+        <p>
+          We wanted our podcast to be a stream to get caught up in, for our listeners and for
+          us. We wanted to “think with.” The question was, think with <em>what?</em> The answer
+          had to be ambiguous and precise at once: think with each other, with texts, with
+          intellectual traditions and longstanding but ever-mutating questions and concepts. We
+          wanted to imagine that our listeners weren't taking notes for an exam but were swept up
+          and thinking along with us — and imagining that audience shaped how we read, spoke, and
+          positioned ourselves while recording. That's why we added the ellipsis: the whole idea
+          was an experiment in thinking with… an ever-changing complex of things.
         </p>
 
-        <h2>What the show is</h2>
+        <h2>Why Hegel, and what came after</h2>
         <p>
-          Each season we take a single major work and stay with it. The point is less to explain
-          these texts than to <em>think with</em> them — to treat reading as a practice rather than
-          a transfer of information. Hegel, Deleuze, Heidegger, Derrida, Nietzsche: the figures
-          change, but the invitation is the same. Think along with the text, with us, and with each
-          other.
+          We recorded our first “season” on Hegel's <em>Phenomenology of Spirit</em>. If the goal
+          had been a big audience, this may have been the single worst text we could have chosen:
+          early-19th-century, infamously dense, and — despite Hegel's enormous influence — the
+          subject of a critical mass of critiques across the 20th century. Who reads Hegel
+          anymore? What rhetorical theorist reads Hegel? Almost no one. Except Nate DeProspo, who
+          thought Hegel shows us something about the nature of subjectivity that most contemporary
+          theories would rather wish away. So we read the <em>Phenomenology</em> to better
+          understand Hegel, to better understand Nate's affinity for him, and to launch the maiden
+          voyage of the show.
+        </p>
+        <p>
+          The season was a pedagogical experiment. We read the book slowly. Very slowly — a few
+          pages per episode. We read passages closely, tried to understand them, and thought with
+          them. We published twelve episodes and covered the preface: a whole forty-five pages. We
+          liked it so much we did it again — with Gilles Deleuze's <em>The Logic of Sense</em>;
+          and again with Martin Heidegger's <em>What Is Called Thinking?</em>; and again with a
+          set of essays and chapters by Jacques Derrida; and again with Friedrich Nietzsche's
+          <em>The Gay Science</em>; and again with Heidegger's <em>Being and Time</em>.
+        </p>
+
+        <h2>What's changing</h2>
+        <p>
+          After six years, we want to change things up a little. The main goal is the same: this is
+          still a pedagogical experiment in provoking styles of thinking by thinking with… But
+          we're organizing things a bit differently. First, there's this website — with archives of
+          our seasons, this page so you can actually know who we are, and ways to contact us and
+          subscribe.
+        </p>
+        <p>
+          We're also reorganizing our upcoming season. We're making a concerted effort to briefly
+          overview the focus of each episode to orient listeners before we dive in. And we're
+          organizing the season around an idea — <strong>“Critique”</strong> — rather than a single
+          text. Alongside the episodes, we'll post our thoughts and responses to the texts we read,
+          to engage and provoke our listeners on the questions we're working through, and we'll
+          publish something of a “syllabus” for our schedule of readings so you can keep track of
+          where we are and where we're going. We're also planning to co-write a more robust essay,
+          likely for an academic journal, and to dedicate a few episodes to a real-time glimpse of
+          what it's like to write and publish an academic article.
+        </p>
+        <p>
+          So stay tuned. Things are going to be different. But also the same. Is there any other
+          option?
         </p>
 
         <h2>Who we are</h2>
-        <p>We are three academics who specialize in rhetorical theory.</p>
+        <p>We're three academics who specialize in rhetorical theory.</p>
         <ul class="hosts">
           {hosts.map((h) => (
             <li class="host">
-              <span class="host-name">{h.name}</span>
-              <span class="host-role muted">{h.role}</span>
+              <a class="host-link" href={u(`/about/${h.slug}`)}>
+                <span class="host-name">{h.name}</span>
+                <span class="host-role muted">{h.role}</span>
+                <span class="host-more">Read more →</span>
+              </a>
             </li>
           ))}
         </ul>
@@ -62,15 +126,22 @@ import { u } from '../lib/url';
   .body em { font-style: italic; }
   .hosts { list-style: none; padding: 0; margin: 1.2rem 0 0; display: grid; gap: 1rem; }
   .host {
-    display: flex; flex-direction: column;
-    padding: 1.1rem 1.3rem;
     background: var(--paper-card);
     border: 1px solid var(--line-soft);
     border-left: 3px solid var(--accent);
     border-radius: var(--radius);
   }
+  .host-link {
+    display: grid; gap: 0.15rem;
+    padding: 1.1rem 1.3rem;
+    text-decoration: none; color: inherit;
+    transition: background 0.15s ease;
+    border-radius: var(--radius);
+  }
+  .host-link:hover { background: var(--paper-2); }
   .host-name { font-family: var(--font-display); font-size: 1.25rem; }
-  .host-role { font-size: 0.95rem; margin-top: 0.15rem; }
+  .host-role { font-size: 0.95rem; }
+  .host-more { font-family: var(--font-body); font-size: 0.85rem; font-weight: 600; color: var(--accent-deep); margin-top: 0.3rem; }
   .cta { margin-top: 3rem; padding: 1.8rem 2rem; text-align: center; }
   .cta p { font-size: 1.15rem; margin-bottom: 1.2rem; }
   .cta-actions { display: flex; gap: 0.8rem; justify-content: center; flex-wrap: wrap; }

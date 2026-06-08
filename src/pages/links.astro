@@ -1,0 +1,66 @@
+---
+import Base from '../layouts/Base.astro';
+import { linkSections } from '../data/links';
+---
+
+<Base
+  title="Links"
+  description="Presses and journals, podcasts we're vibing with, and a bibliography of the core texts Thinking With… keeps returning to."
+>
+  <section class="section">
+    <div class="wrap">
+      <p class="eyebrow">Elsewhere</p>
+      <h1 class="page-title">Links</h1>
+      <p class="lede prose-wrap">
+        A few directions outward — scholarly things we read, things we're just vibing with, and
+        the core texts we keep coming back to.
+      </p>
+
+      <div class="sections">
+        {linkSections.map((sec) => (
+          <section class="lsec" id={sec.slug}>
+            <div class="lsec-head">
+              <h2>{sec.title}</h2>
+              <p class="muted">{sec.blurb}</p>
+              {sec.curate && (
+                <p class="curate">⚙︎ A starting set — the authors are still curating this list.</p>
+              )}
+            </div>
+            <ul class="llist">
+              {sec.items.map((item) => (
+                <li class="litem">
+                  <a href={item.url} target="_blank" rel="noopener">{item.label}</a>
+                  {item.note && <span class="lnote muted">{item.note}</span>}
+                </li>
+              ))}
+            </ul>
+          </section>
+        ))}
+      </div>
+    </div>
+  </section>
+</Base>
+
+<style>
+  .page-title { font-size: clamp(2.2rem, 6vw, 3.6rem); }
+  .lede { margin-bottom: 2.8rem; }
+  .sections { display: grid; gap: 2.8rem; max-width: 50rem; }
+  .lsec-head h2 { font-size: 1.7rem; margin: 0 0 0.3rem; }
+  .lsec-head p { margin: 0; font-size: 1rem; }
+  .curate {
+    margin-top: 0.6rem !important;
+    font-size: 0.86rem; color: var(--ink-faint);
+    background: color-mix(in srgb, var(--gold) 14%, transparent);
+    border: 1px dashed color-mix(in srgb, var(--gold) 55%, transparent);
+    border-radius: var(--radius); padding: 0.55rem 0.8rem; display: inline-block;
+  }
+  .llist { list-style: none; padding: 0; margin: 1.1rem 0 0; display: grid; gap: 0; }
+  .litem {
+    display: flex; flex-wrap: wrap; align-items: baseline; gap: 0.6rem;
+    padding: 0.9rem 0.2rem; border-top: 1px solid var(--line-soft);
+  }
+  .litem:last-child { border-bottom: 1px solid var(--line-soft); }
+  .litem a { color: var(--ink); font-weight: 600; font-size: 1.08rem; text-underline-offset: 3px; }
+  .litem a:hover { color: var(--accent); }
+  .lnote { font-size: 0.9rem; }
+</style>
