@@ -1,488 +1,549 @@
 {
   "8ccd8070-9339-46d5-a70b-788b4432fc45": {
-    "generated": "2026-06-06",
+    "generated": "2026-06-09",
     "model": "large-v3-turbo",
     "cleaned": true,
+    "speakers": true,
     "vtt": "/transcripts/8ccd8070-9339-46d5-a70b-788b4432fc45.vtt",
     "txt": "/transcripts/8ccd8070-9339-46d5-a70b-788b4432fc45.txt",
     "srt": "/transcripts/8ccd8070-9339-46d5-a70b-788b4432fc45.srt"
   },
   "2dd833ff-3602-4469-bfbb-454f9c25d235": {
-    "generated": "2026-06-06",
+    "generated": "2026-06-09",
     "model": "large-v3-turbo",
     "cleaned": true,
+    "speakers": false,
     "vtt": "/transcripts/2dd833ff-3602-4469-bfbb-454f9c25d235.vtt",
     "txt": "/transcripts/2dd833ff-3602-4469-bfbb-454f9c25d235.txt",
     "srt": "/transcripts/2dd833ff-3602-4469-bfbb-454f9c25d235.srt"
   },
   "2233f912-6f73-4054-a554-2419fa73c90f": {
-    "generated": "2026-06-06",
+    "generated": "2026-06-09",
     "model": "large-v3-turbo",
     "cleaned": true,
+    "speakers": false,
     "vtt": "/transcripts/2233f912-6f73-4054-a554-2419fa73c90f.vtt",
     "txt": "/transcripts/2233f912-6f73-4054-a554-2419fa73c90f.txt",
     "srt": "/transcripts/2233f912-6f73-4054-a554-2419fa73c90f.srt"
   },
   "e731648d-62cb-4d81-90a7-0a2be49333a4": {
-    "generated": "2026-06-06",
+    "generated": "2026-06-09",
     "model": "large-v3-turbo",
     "cleaned": true,
+    "speakers": false,
     "vtt": "/transcripts/e731648d-62cb-4d81-90a7-0a2be49333a4.vtt",
     "txt": "/transcripts/e731648d-62cb-4d81-90a7-0a2be49333a4.txt",
     "srt": "/transcripts/e731648d-62cb-4d81-90a7-0a2be49333a4.srt"
   },
   "344ea602-b947-4d9b-9290-6b84bfda6fb7": {
-    "generated": "2026-06-06",
+    "generated": "2026-06-09",
     "model": "large-v3-turbo",
     "cleaned": true,
+    "speakers": false,
     "vtt": "/transcripts/344ea602-b947-4d9b-9290-6b84bfda6fb7.vtt",
     "txt": "/transcripts/344ea602-b947-4d9b-9290-6b84bfda6fb7.txt",
     "srt": "/transcripts/344ea602-b947-4d9b-9290-6b84bfda6fb7.srt"
   },
   "e34ec8c4-088f-4dde-a4d6-b6d233781b40": {
-    "generated": "2026-06-06",
+    "generated": "2026-06-09",
     "model": "large-v3-turbo",
     "cleaned": true,
+    "speakers": false,
     "vtt": "/transcripts/e34ec8c4-088f-4dde-a4d6-b6d233781b40.vtt",
     "txt": "/transcripts/e34ec8c4-088f-4dde-a4d6-b6d233781b40.txt",
     "srt": "/transcripts/e34ec8c4-088f-4dde-a4d6-b6d233781b40.srt"
   },
   "ab50d7f6-e777-432b-810c-90452a1bf78c": {
-    "generated": "2026-06-06",
+    "generated": "2026-06-09",
     "model": "large-v3-turbo",
     "cleaned": true,
+    "speakers": false,
     "vtt": "/transcripts/ab50d7f6-e777-432b-810c-90452a1bf78c.vtt",
     "txt": "/transcripts/ab50d7f6-e777-432b-810c-90452a1bf78c.txt",
     "srt": "/transcripts/ab50d7f6-e777-432b-810c-90452a1bf78c.srt"
   },
   "8b2c4fbe-f395-437b-a3b0-47c11f2bccd8": {
-    "generated": "2026-06-06",
+    "generated": "2026-06-09",
     "model": "large-v3-turbo",
     "cleaned": true,
+    "speakers": false,
     "vtt": "/transcripts/8b2c4fbe-f395-437b-a3b0-47c11f2bccd8.vtt",
     "txt": "/transcripts/8b2c4fbe-f395-437b-a3b0-47c11f2bccd8.txt",
     "srt": "/transcripts/8b2c4fbe-f395-437b-a3b0-47c11f2bccd8.srt"
   },
   "83860b04-2db3-467d-a0b2-08d86acd9f90": {
-    "generated": "2026-06-06",
+    "generated": "2026-06-09",
     "model": "large-v3-turbo",
     "cleaned": true,
+    "speakers": false,
     "vtt": "/transcripts/83860b04-2db3-467d-a0b2-08d86acd9f90.vtt",
     "txt": "/transcripts/83860b04-2db3-467d-a0b2-08d86acd9f90.txt",
     "srt": "/transcripts/83860b04-2db3-467d-a0b2-08d86acd9f90.srt"
   },
   "365cdcae-431a-4f4d-a090-0b426f6384ff": {
-    "generated": "2026-06-06",
+    "generated": "2026-06-09",
     "model": "large-v3-turbo",
     "cleaned": true,
+    "speakers": false,
     "vtt": "/transcripts/365cdcae-431a-4f4d-a090-0b426f6384ff.vtt",
     "txt": "/transcripts/365cdcae-431a-4f4d-a090-0b426f6384ff.txt",
     "srt": "/transcripts/365cdcae-431a-4f4d-a090-0b426f6384ff.srt"
   },
   "1f13297e-1da4-449f-8517-1cb7316c961a": {
-    "generated": "2026-06-06",
+    "generated": "2026-06-09",
     "model": "large-v3-turbo",
     "cleaned": true,
+    "speakers": false,
     "vtt": "/transcripts/1f13297e-1da4-449f-8517-1cb7316c961a.vtt",
     "txt": "/transcripts/1f13297e-1da4-449f-8517-1cb7316c961a.txt",
     "srt": "/transcripts/1f13297e-1da4-449f-8517-1cb7316c961a.srt"
   },
   "81b7b30f-9cb0-42b9-a222-920272d7739f": {
-    "generated": "2026-06-06",
+    "generated": "2026-06-09",
     "model": "large-v3-turbo",
     "cleaned": true,
+    "speakers": false,
     "vtt": "/transcripts/81b7b30f-9cb0-42b9-a222-920272d7739f.vtt",
     "txt": "/transcripts/81b7b30f-9cb0-42b9-a222-920272d7739f.txt",
     "srt": "/transcripts/81b7b30f-9cb0-42b9-a222-920272d7739f.srt"
   },
   "e961e9b7-553c-46de-bc76-4463b9b5cc3c": {
-    "generated": "2026-06-06",
+    "generated": "2026-06-09",
     "model": "large-v3-turbo",
     "cleaned": true,
+    "speakers": false,
     "vtt": "/transcripts/e961e9b7-553c-46de-bc76-4463b9b5cc3c.vtt",
     "txt": "/transcripts/e961e9b7-553c-46de-bc76-4463b9b5cc3c.txt",
     "srt": "/transcripts/e961e9b7-553c-46de-bc76-4463b9b5cc3c.srt"
   },
   "2f38294a-7aa9-4ad2-9a1c-0008fae5c6d0": {
-    "generated": "2026-06-06",
+    "generated": "2026-06-09",
     "model": "large-v3-turbo",
     "cleaned": true,
+    "speakers": false,
     "vtt": "/transcripts/2f38294a-7aa9-4ad2-9a1c-0008fae5c6d0.vtt",
     "txt": "/transcripts/2f38294a-7aa9-4ad2-9a1c-0008fae5c6d0.txt",
     "srt": "/transcripts/2f38294a-7aa9-4ad2-9a1c-0008fae5c6d0.srt"
   },
   "a795ee72-40bc-4eff-86f4-85e01bb7cb02": {
-    "generated": "2026-06-06",
+    "generated": "2026-06-09",
     "model": "large-v3-turbo",
     "cleaned": true,
+    "speakers": false,
     "vtt": "/transcripts/a795ee72-40bc-4eff-86f4-85e01bb7cb02.vtt",
     "txt": "/transcripts/a795ee72-40bc-4eff-86f4-85e01bb7cb02.txt",
     "srt": "/transcripts/a795ee72-40bc-4eff-86f4-85e01bb7cb02.srt"
   },
   "6fc2ff03-a0cc-447e-9590-1f43c3ff2f4b": {
-    "generated": "2026-06-06",
+    "generated": "2026-06-09",
     "model": "large-v3-turbo",
     "cleaned": true,
+    "speakers": false,
     "vtt": "/transcripts/6fc2ff03-a0cc-447e-9590-1f43c3ff2f4b.vtt",
     "txt": "/transcripts/6fc2ff03-a0cc-447e-9590-1f43c3ff2f4b.txt",
     "srt": "/transcripts/6fc2ff03-a0cc-447e-9590-1f43c3ff2f4b.srt"
   },
   "be4f47dd-6792-406b-82be-029311769369": {
-    "generated": "2026-06-06",
+    "generated": "2026-06-09",
     "model": "large-v3-turbo",
     "cleaned": true,
+    "speakers": false,
     "vtt": "/transcripts/be4f47dd-6792-406b-82be-029311769369.vtt",
     "txt": "/transcripts/be4f47dd-6792-406b-82be-029311769369.txt",
     "srt": "/transcripts/be4f47dd-6792-406b-82be-029311769369.srt"
   },
   "1438c2bb-c6c0-45b3-8cb6-6ee610b32e1e": {
-    "generated": "2026-06-06",
+    "generated": "2026-06-09",
     "model": "large-v3-turbo",
     "cleaned": true,
+    "speakers": false,
     "vtt": "/transcripts/1438c2bb-c6c0-45b3-8cb6-6ee610b32e1e.vtt",
     "txt": "/transcripts/1438c2bb-c6c0-45b3-8cb6-6ee610b32e1e.txt",
     "srt": "/transcripts/1438c2bb-c6c0-45b3-8cb6-6ee610b32e1e.srt"
   },
   "fb40219f-00fc-4e0a-9bab-677f1896632c": {
-    "generated": "2026-06-06",
+    "generated": "2026-06-09",
     "model": "large-v3-turbo",
     "cleaned": true,
+    "speakers": false,
     "vtt": "/transcripts/fb40219f-00fc-4e0a-9bab-677f1896632c.vtt",
     "txt": "/transcripts/fb40219f-00fc-4e0a-9bab-677f1896632c.txt",
     "srt": "/transcripts/fb40219f-00fc-4e0a-9bab-677f1896632c.srt"
   },
   "55072789-e2c7-4cbd-92e8-d3bdd9eab10c": {
-    "generated": "2026-06-06",
+    "generated": "2026-06-09",
     "model": "large-v3-turbo",
     "cleaned": true,
+    "speakers": false,
     "vtt": "/transcripts/55072789-e2c7-4cbd-92e8-d3bdd9eab10c.vtt",
     "txt": "/transcripts/55072789-e2c7-4cbd-92e8-d3bdd9eab10c.txt",
     "srt": "/transcripts/55072789-e2c7-4cbd-92e8-d3bdd9eab10c.srt"
   },
   "467f210c-54b9-43b1-af20-cd98a232eea2": {
-    "generated": "2026-06-06",
+    "generated": "2026-06-09",
     "model": "large-v3-turbo",
     "cleaned": true,
+    "speakers": false,
     "vtt": "/transcripts/467f210c-54b9-43b1-af20-cd98a232eea2.vtt",
     "txt": "/transcripts/467f210c-54b9-43b1-af20-cd98a232eea2.txt",
     "srt": "/transcripts/467f210c-54b9-43b1-af20-cd98a232eea2.srt"
   },
   "7c4404c3-1fc6-4730-bdec-5c9e4d9ed16c": {
-    "generated": "2026-06-06",
+    "generated": "2026-06-09",
     "model": "large-v3-turbo",
     "cleaned": true,
+    "speakers": false,
     "vtt": "/transcripts/7c4404c3-1fc6-4730-bdec-5c9e4d9ed16c.vtt",
     "txt": "/transcripts/7c4404c3-1fc6-4730-bdec-5c9e4d9ed16c.txt",
     "srt": "/transcripts/7c4404c3-1fc6-4730-bdec-5c9e4d9ed16c.srt"
   },
   "42b3fae1-bb8c-4537-ba41-84f95234c0b8": {
-    "generated": "2026-06-06",
+    "generated": "2026-06-09",
     "model": "large-v3-turbo",
     "cleaned": true,
+    "speakers": false,
     "vtt": "/transcripts/42b3fae1-bb8c-4537-ba41-84f95234c0b8.vtt",
     "txt": "/transcripts/42b3fae1-bb8c-4537-ba41-84f95234c0b8.txt",
     "srt": "/transcripts/42b3fae1-bb8c-4537-ba41-84f95234c0b8.srt"
   },
   "f0a303d1-21ea-4f62-b3c3-809ccceeb2e1": {
-    "generated": "2026-06-06",
+    "generated": "2026-06-09",
     "model": "large-v3-turbo",
     "cleaned": true,
+    "speakers": false,
     "vtt": "/transcripts/f0a303d1-21ea-4f62-b3c3-809ccceeb2e1.vtt",
     "txt": "/transcripts/f0a303d1-21ea-4f62-b3c3-809ccceeb2e1.txt",
     "srt": "/transcripts/f0a303d1-21ea-4f62-b3c3-809ccceeb2e1.srt"
   },
   "d47295d9-c9b9-4c3f-880b-ba16affcf2cb": {
-    "generated": "2026-06-06",
+    "generated": "2026-06-09",
     "model": "large-v3-turbo",
     "cleaned": true,
+    "speakers": false,
     "vtt": "/transcripts/d47295d9-c9b9-4c3f-880b-ba16affcf2cb.vtt",
     "txt": "/transcripts/d47295d9-c9b9-4c3f-880b-ba16affcf2cb.txt",
     "srt": "/transcripts/d47295d9-c9b9-4c3f-880b-ba16affcf2cb.srt"
   },
   "b4268633-69e2-4315-a404-b2a6c5a14c00": {
-    "generated": "2026-06-06",
+    "generated": "2026-06-09",
     "model": "large-v3-turbo",
     "cleaned": true,
+    "speakers": false,
     "vtt": "/transcripts/b4268633-69e2-4315-a404-b2a6c5a14c00.vtt",
     "txt": "/transcripts/b4268633-69e2-4315-a404-b2a6c5a14c00.txt",
     "srt": "/transcripts/b4268633-69e2-4315-a404-b2a6c5a14c00.srt"
   },
   "191f8ecc-8a8e-4b9a-bf6f-816c8cf93188": {
-    "generated": "2026-06-06",
+    "generated": "2026-06-09",
     "model": "large-v3-turbo",
     "cleaned": true,
+    "speakers": false,
     "vtt": "/transcripts/191f8ecc-8a8e-4b9a-bf6f-816c8cf93188.vtt",
     "txt": "/transcripts/191f8ecc-8a8e-4b9a-bf6f-816c8cf93188.txt",
     "srt": "/transcripts/191f8ecc-8a8e-4b9a-bf6f-816c8cf93188.srt"
   },
   "d5588fb9-8819-4310-9317-db55910830a8": {
-    "generated": "2026-06-06",
+    "generated": "2026-06-09",
     "model": "large-v3-turbo",
     "cleaned": true,
+    "speakers": false,
     "vtt": "/transcripts/d5588fb9-8819-4310-9317-db55910830a8.vtt",
     "txt": "/transcripts/d5588fb9-8819-4310-9317-db55910830a8.txt",
     "srt": "/transcripts/d5588fb9-8819-4310-9317-db55910830a8.srt"
   },
   "7b4ecf72-24e6-45c2-9c52-a628663b2997": {
-    "generated": "2026-06-06",
+    "generated": "2026-06-09",
     "model": "large-v3-turbo",
     "cleaned": true,
+    "speakers": false,
     "vtt": "/transcripts/7b4ecf72-24e6-45c2-9c52-a628663b2997.vtt",
     "txt": "/transcripts/7b4ecf72-24e6-45c2-9c52-a628663b2997.txt",
     "srt": "/transcripts/7b4ecf72-24e6-45c2-9c52-a628663b2997.srt"
   },
   "a6a3276d-5cb0-424b-bac3-0f4d9545bc56": {
-    "generated": "2026-06-06",
+    "generated": "2026-06-09",
     "model": "large-v3-turbo",
     "cleaned": true,
+    "speakers": false,
     "vtt": "/transcripts/a6a3276d-5cb0-424b-bac3-0f4d9545bc56.vtt",
     "txt": "/transcripts/a6a3276d-5cb0-424b-bac3-0f4d9545bc56.txt",
     "srt": "/transcripts/a6a3276d-5cb0-424b-bac3-0f4d9545bc56.srt"
   },
   "c1159584-05c3-4d2e-bbcd-9aa076d5313f": {
-    "generated": "2026-06-06",
+    "generated": "2026-06-09",
     "model": "large-v3-turbo",
     "cleaned": true,
+    "speakers": false,
     "vtt": "/transcripts/c1159584-05c3-4d2e-bbcd-9aa076d5313f.vtt",
     "txt": "/transcripts/c1159584-05c3-4d2e-bbcd-9aa076d5313f.txt",
     "srt": "/transcripts/c1159584-05c3-4d2e-bbcd-9aa076d5313f.srt"
   },
   "132c5f95-6da4-4dcc-97c3-d11b8935f20d": {
-    "generated": "2026-06-06",
+    "generated": "2026-06-09",
     "model": "large-v3-turbo",
     "cleaned": true,
+    "speakers": false,
     "vtt": "/transcripts/132c5f95-6da4-4dcc-97c3-d11b8935f20d.vtt",
     "txt": "/transcripts/132c5f95-6da4-4dcc-97c3-d11b8935f20d.txt",
     "srt": "/transcripts/132c5f95-6da4-4dcc-97c3-d11b8935f20d.srt"
   },
   "1f21667d-5dae-4010-a10d-39d9b6cf6742": {
-    "generated": "2026-06-06",
+    "generated": "2026-06-09",
     "model": "large-v3-turbo",
     "cleaned": true,
+    "speakers": false,
     "vtt": "/transcripts/1f21667d-5dae-4010-a10d-39d9b6cf6742.vtt",
     "txt": "/transcripts/1f21667d-5dae-4010-a10d-39d9b6cf6742.txt",
     "srt": "/transcripts/1f21667d-5dae-4010-a10d-39d9b6cf6742.srt"
   },
   "35e8ffa6-fd36-4f8b-95d5-df81c3b25f0a": {
-    "generated": "2026-06-06",
+    "generated": "2026-06-09",
     "model": "large-v3-turbo",
     "cleaned": true,
+    "speakers": false,
     "vtt": "/transcripts/35e8ffa6-fd36-4f8b-95d5-df81c3b25f0a.vtt",
     "txt": "/transcripts/35e8ffa6-fd36-4f8b-95d5-df81c3b25f0a.txt",
     "srt": "/transcripts/35e8ffa6-fd36-4f8b-95d5-df81c3b25f0a.srt"
   },
   "823ac2d2-3ad0-4a8e-9920-5b5b2f8f84ba": {
-    "generated": "2026-06-06",
+    "generated": "2026-06-09",
     "model": "large-v3-turbo",
     "cleaned": true,
+    "speakers": false,
     "vtt": "/transcripts/823ac2d2-3ad0-4a8e-9920-5b5b2f8f84ba.vtt",
     "txt": "/transcripts/823ac2d2-3ad0-4a8e-9920-5b5b2f8f84ba.txt",
     "srt": "/transcripts/823ac2d2-3ad0-4a8e-9920-5b5b2f8f84ba.srt"
   },
   "7cd45fa8-edbb-4e61-86e4-25a9d110c031": {
-    "generated": "2026-06-06",
+    "generated": "2026-06-09",
     "model": "large-v3-turbo",
     "cleaned": true,
+    "speakers": false,
     "vtt": "/transcripts/7cd45fa8-edbb-4e61-86e4-25a9d110c031.vtt",
     "txt": "/transcripts/7cd45fa8-edbb-4e61-86e4-25a9d110c031.txt",
     "srt": "/transcripts/7cd45fa8-edbb-4e61-86e4-25a9d110c031.srt"
   },
   "a1f2dae6-312b-4db3-904a-26c637debd6f": {
-    "generated": "2026-06-06",
+    "generated": "2026-06-09",
     "model": "large-v3-turbo",
     "cleaned": true,
+    "speakers": false,
     "vtt": "/transcripts/a1f2dae6-312b-4db3-904a-26c637debd6f.vtt",
     "txt": "/transcripts/a1f2dae6-312b-4db3-904a-26c637debd6f.txt",
     "srt": "/transcripts/a1f2dae6-312b-4db3-904a-26c637debd6f.srt"
   },
   "db774d3f-216e-4214-84ac-9aafa533d9f9": {
-    "generated": "2026-06-06",
+    "generated": "2026-06-09",
     "model": "large-v3-turbo",
     "cleaned": true,
+    "speakers": false,
     "vtt": "/transcripts/db774d3f-216e-4214-84ac-9aafa533d9f9.vtt",
     "txt": "/transcripts/db774d3f-216e-4214-84ac-9aafa533d9f9.txt",
     "srt": "/transcripts/db774d3f-216e-4214-84ac-9aafa533d9f9.srt"
   },
   "a0d27857-7ced-4b21-9807-30383e2747df": {
-    "generated": "2026-06-06",
+    "generated": "2026-06-09",
     "model": "large-v3-turbo",
     "cleaned": true,
+    "speakers": false,
     "vtt": "/transcripts/a0d27857-7ced-4b21-9807-30383e2747df.vtt",
     "txt": "/transcripts/a0d27857-7ced-4b21-9807-30383e2747df.txt",
     "srt": "/transcripts/a0d27857-7ced-4b21-9807-30383e2747df.srt"
   },
   "eb63a247-4ec3-4e68-888a-44ccae8bafdb": {
-    "generated": "2026-06-06",
+    "generated": "2026-06-09",
     "model": "large-v3-turbo",
     "cleaned": true,
+    "speakers": false,
     "vtt": "/transcripts/eb63a247-4ec3-4e68-888a-44ccae8bafdb.vtt",
     "txt": "/transcripts/eb63a247-4ec3-4e68-888a-44ccae8bafdb.txt",
     "srt": "/transcripts/eb63a247-4ec3-4e68-888a-44ccae8bafdb.srt"
   },
   "f7ed8eae-6f88-4a88-b041-695f0aeb0f23": {
-    "generated": "2026-06-06",
+    "generated": "2026-06-09",
     "model": "large-v3-turbo",
     "cleaned": true,
+    "speakers": false,
     "vtt": "/transcripts/f7ed8eae-6f88-4a88-b041-695f0aeb0f23.vtt",
     "txt": "/transcripts/f7ed8eae-6f88-4a88-b041-695f0aeb0f23.txt",
     "srt": "/transcripts/f7ed8eae-6f88-4a88-b041-695f0aeb0f23.srt"
   },
   "1789acd5-4b83-4446-a443-08f86f91ff74": {
-    "generated": "2026-06-06",
+    "generated": "2026-06-09",
     "model": "large-v3-turbo",
     "cleaned": true,
+    "speakers": false,
     "vtt": "/transcripts/1789acd5-4b83-4446-a443-08f86f91ff74.vtt",
     "txt": "/transcripts/1789acd5-4b83-4446-a443-08f86f91ff74.txt",
     "srt": "/transcripts/1789acd5-4b83-4446-a443-08f86f91ff74.srt"
   },
   "070d7e95-a6e8-4fd4-8b4b-4b4622135989": {
-    "generated": "2026-06-06",
+    "generated": "2026-06-09",
     "model": "large-v3-turbo",
     "cleaned": true,
+    "speakers": false,
     "vtt": "/transcripts/070d7e95-a6e8-4fd4-8b4b-4b4622135989.vtt",
     "txt": "/transcripts/070d7e95-a6e8-4fd4-8b4b-4b4622135989.txt",
     "srt": "/transcripts/070d7e95-a6e8-4fd4-8b4b-4b4622135989.srt"
   },
   "b2bf95e2-e4c5-4327-b3c0-bd3a6a1f5f49": {
-    "generated": "2026-06-06",
+    "generated": "2026-06-09",
     "model": "large-v3-turbo",
     "cleaned": true,
+    "speakers": false,
     "vtt": "/transcripts/b2bf95e2-e4c5-4327-b3c0-bd3a6a1f5f49.vtt",
     "txt": "/transcripts/b2bf95e2-e4c5-4327-b3c0-bd3a6a1f5f49.txt",
     "srt": "/transcripts/b2bf95e2-e4c5-4327-b3c0-bd3a6a1f5f49.srt"
   },
   "b22d8002-f97b-4b2f-bd8c-7b33008da87c": {
-    "generated": "2026-06-06",
+    "generated": "2026-06-09",
     "model": "large-v3-turbo",
     "cleaned": true,
+    "speakers": false,
     "vtt": "/transcripts/b22d8002-f97b-4b2f-bd8c-7b33008da87c.vtt",
     "txt": "/transcripts/b22d8002-f97b-4b2f-bd8c-7b33008da87c.txt",
     "srt": "/transcripts/b22d8002-f97b-4b2f-bd8c-7b33008da87c.srt"
   },
   "4d583144-e379-4a2d-bf02-458c82d07606": {
-    "generated": "2026-06-06",
+    "generated": "2026-06-09",
     "model": "large-v3-turbo",
     "cleaned": true,
+    "speakers": false,
     "vtt": "/transcripts/4d583144-e379-4a2d-bf02-458c82d07606.vtt",
     "txt": "/transcripts/4d583144-e379-4a2d-bf02-458c82d07606.txt",
     "srt": "/transcripts/4d583144-e379-4a2d-bf02-458c82d07606.srt"
   },
   "e1ec52cd-d9b7-4929-9459-36e035019b58": {
-    "generated": "2026-06-06",
+    "generated": "2026-06-09",
     "model": "large-v3-turbo",
     "cleaned": true,
+    "speakers": false,
     "vtt": "/transcripts/e1ec52cd-d9b7-4929-9459-36e035019b58.vtt",
     "txt": "/transcripts/e1ec52cd-d9b7-4929-9459-36e035019b58.txt",
     "srt": "/transcripts/e1ec52cd-d9b7-4929-9459-36e035019b58.srt"
   },
   "0492fded-02c6-495e-9adb-03d3d9356fbb": {
-    "generated": "2026-06-06",
+    "generated": "2026-06-09",
     "model": "large-v3-turbo",
     "cleaned": true,
+    "speakers": false,
     "vtt": "/transcripts/0492fded-02c6-495e-9adb-03d3d9356fbb.vtt",
     "txt": "/transcripts/0492fded-02c6-495e-9adb-03d3d9356fbb.txt",
     "srt": "/transcripts/0492fded-02c6-495e-9adb-03d3d9356fbb.srt"
   },
   "a8cbc5b6-c966-4c24-96b4-8c37ae396b90": {
-    "generated": "2026-06-06",
+    "generated": "2026-06-09",
     "model": "large-v3-turbo",
     "cleaned": true,
+    "speakers": false,
     "vtt": "/transcripts/a8cbc5b6-c966-4c24-96b4-8c37ae396b90.vtt",
     "txt": "/transcripts/a8cbc5b6-c966-4c24-96b4-8c37ae396b90.txt",
     "srt": "/transcripts/a8cbc5b6-c966-4c24-96b4-8c37ae396b90.srt"
   },
   "4f1f9b8c-29df-4bc9-85a7-d08b26e9d415": {
-    "generated": "2026-06-06",
+    "generated": "2026-06-09",
     "model": "large-v3-turbo",
     "cleaned": true,
+    "speakers": false,
     "vtt": "/transcripts/4f1f9b8c-29df-4bc9-85a7-d08b26e9d415.vtt",
     "txt": "/transcripts/4f1f9b8c-29df-4bc9-85a7-d08b26e9d415.txt",
     "srt": "/transcripts/4f1f9b8c-29df-4bc9-85a7-d08b26e9d415.srt"
   },
   "7c9de342-92a7-4022-8eac-4a8409b4ec7d": {
-    "generated": "2026-06-06",
+    "generated": "2026-06-09",
     "model": "large-v3-turbo",
     "cleaned": true,
+    "speakers": false,
     "vtt": "/transcripts/7c9de342-92a7-4022-8eac-4a8409b4ec7d.vtt",
     "txt": "/transcripts/7c9de342-92a7-4022-8eac-4a8409b4ec7d.txt",
     "srt": "/transcripts/7c9de342-92a7-4022-8eac-4a8409b4ec7d.srt"
   },
   "8f7ac685-0960-47c9-a2c9-54c4d80d6884": {
-    "generated": "2026-06-06",
+    "generated": "2026-06-09",
     "model": "large-v3-turbo",
     "cleaned": true,
+    "speakers": false,
     "vtt": "/transcripts/8f7ac685-0960-47c9-a2c9-54c4d80d6884.vtt",
     "txt": "/transcripts/8f7ac685-0960-47c9-a2c9-54c4d80d6884.txt",
     "srt": "/transcripts/8f7ac685-0960-47c9-a2c9-54c4d80d6884.srt"
   },
   "c16a2f5c-39f5-4812-be1a-5e96bbb97e09": {
-    "generated": "2026-06-06",
+    "generated": "2026-06-09",
     "model": "large-v3-turbo",
     "cleaned": true,
+    "speakers": false,
     "vtt": "/transcripts/c16a2f5c-39f5-4812-be1a-5e96bbb97e09.vtt",
     "txt": "/transcripts/c16a2f5c-39f5-4812-be1a-5e96bbb97e09.txt",
     "srt": "/transcripts/c16a2f5c-39f5-4812-be1a-5e96bbb97e09.srt"
   },
   "677d9044-c438-4235-9fc1-5fbdfb9b252c": {
-    "generated": "2026-06-06",
+    "generated": "2026-06-09",
     "model": "large-v3-turbo",
     "cleaned": true,
+    "speakers": false,
     "vtt": "/transcripts/677d9044-c438-4235-9fc1-5fbdfb9b252c.vtt",
     "txt": "/transcripts/677d9044-c438-4235-9fc1-5fbdfb9b252c.txt",
     "srt": "/transcripts/677d9044-c438-4235-9fc1-5fbdfb9b252c.srt"
   },
   "2840c0da-5d1f-49f6-92b3-13a8d29925fa": {
-    "generated": "2026-06-06",
+    "generated": "2026-06-09",
     "model": "large-v3-turbo",
     "cleaned": true,
+    "speakers": false,
     "vtt": "/transcripts/2840c0da-5d1f-49f6-92b3-13a8d29925fa.vtt",
     "txt": "/transcripts/2840c0da-5d1f-49f6-92b3-13a8d29925fa.txt",
     "srt": "/transcripts/2840c0da-5d1f-49f6-92b3-13a8d29925fa.srt"
   },
   "ae36ff94-269b-4581-805e-6d6d0d449d23": {
-    "generated": "2026-06-06",
+    "generated": "2026-06-09",
     "model": "large-v3-turbo",
     "cleaned": true,
+    "speakers": false,
     "vtt": "/transcripts/ae36ff94-269b-4581-805e-6d6d0d449d23.vtt",
     "txt": "/transcripts/ae36ff94-269b-4581-805e-6d6d0d449d23.txt",
     "srt": "/transcripts/ae36ff94-269b-4581-805e-6d6d0d449d23.srt"
   },
   "060e348d-1a2a-426c-9d49-03927344ece2": {
-    "generated": "2026-06-06",
+    "generated": "2026-06-09",
     "model": "large-v3-turbo",
     "cleaned": true,
+    "speakers": false,
     "vtt": "/transcripts/060e348d-1a2a-426c-9d49-03927344ece2.vtt",
     "txt": "/transcripts/060e348d-1a2a-426c-9d49-03927344ece2.txt",
     "srt": "/transcripts/060e348d-1a2a-426c-9d49-03927344ece2.srt"
   },
   "41f7e4b2-e0ed-4afd-a581-03d83b7e40b0": {
-    "generated": "2026-06-06",
+    "generated": "2026-06-09",
     "model": "large-v3-turbo",
     "cleaned": true,
+    "speakers": false,
     "vtt": "/transcripts/41f7e4b2-e0ed-4afd-a581-03d83b7e40b0.vtt",
     "txt": "/transcripts/41f7e4b2-e0ed-4afd-a581-03d83b7e40b0.txt",
     "srt": "/transcripts/41f7e4b2-e0ed-4afd-a581-03d83b7e40b0.srt"
   },
   "ebeb210f-acb3-443a-986e-22abb15a095c": {
-    "generated": "2026-06-06",
+    "generated": "2026-06-09",
     "model": "large-v3-turbo",
     "cleaned": true,
+    "speakers": false,
     "vtt": "/transcripts/ebeb210f-acb3-443a-986e-22abb15a095c.vtt",
     "txt": "/transcripts/ebeb210f-acb3-443a-986e-22abb15a095c.txt",
     "srt": "/transcripts/ebeb210f-acb3-443a-986e-22abb15a095c.srt"
   },
   "cd7d14d9-7f14-4dbe-b61c-dea295f73b38": {
-    "generated": "2026-06-06",
+    "generated": "2026-06-09",
     "model": "large-v3-turbo",
     "cleaned": true,
+    "speakers": false,
     "vtt": "/transcripts/cd7d14d9-7f14-4dbe-b61c-dea295f73b38.vtt",
     "txt": "/transcripts/cd7d14d9-7f14-4dbe-b61c-dea295f73b38.txt",
     "srt": "/transcripts/cd7d14d9-7f14-4dbe-b61c-dea295f73b38.srt"
   },
   "1552e84e-c814-4a78-96b3-4922d9bcc707": {
-    "generated": "2026-06-06",
+    "generated": "2026-06-09",
     "model": "large-v3-turbo",
     "cleaned": true,
+    "speakers": false,
     "vtt": "/transcripts/1552e84e-c814-4a78-96b3-4922d9bcc707.vtt",
     "txt": "/transcripts/1552e84e-c814-4a78-96b3-4922d9bcc707.txt",
     "srt": "/transcripts/1552e84e-c814-4a78-96b3-4922d9bcc707.srt"

@@ -61,7 +61,28 @@ const { vttUrl, audioId, downloads = [], note } = Astro.props;
     return s;
   }
 
-  interface Cue { start: number; end: number; text: string; }
+  interface Cue { start: number; end: number; text: string; speaker?: string; }
+
+  // Extract a WebVTT voice tag (<v Name>text</v>) if present, returning the
+  // speaker name and the plain text. Falls back to plain text when absent.
+  function parseVoice(raw: string): { speaker?: string; text: string } {
+    const m = raw.match(/^<v\s+([^>]+)>([\s\S]*?)(?:<\/v>)?\s*$/);
+    if (m) return { speaker: m[1].trim(), text: m[2].trim() };
+    return { text: raw.replace(/<\/?v[^>]*>/g, '').trim() };
+  }
+
+  // Stable colour per speaker: the three hosts get fixed hues site-wide;
+  // unknown guests cycle the remaining slots in order of appearance.
+  const FIXED: Record<string, number> = { nathaniel: 0, nate: 1, john: 2, guest: 3 };
+  const seen: string[] = [];
+  function speakerClass(name?: string): string {
+    if (!name) return '';
+    const k = name.toLowerCase();
+    if (k in FIXED) return `sp-${FIXED[k]}`;
+    let i = seen.indexOf(name);
+    if (i < 0) i = seen.push(name) - 1;
+    return `sp-${4 + (i % 2)}`;
+  }
 
   function parseVtt(raw: string): Cue[] {
     const cues: Cue[] = [];
@@ -73,9 +94,11 @@ const { vttUrl, audioId, downloads = [], note } = Astro.props;
       const [a, b] = timing.split('-->');
       const start = parseTimestamp(a);
       const end = parseTimestamp(b.trim().split(' ')[0]);
-      const text = lines.slice(lines.indexOf(timing) + 1).join(' ').trim();
+      const rawText = lines.slice(lines.indexOf(timing) + 1).join(' ').trim();
+      if (!rawText) continue;
+      const { speaker, text } = parseVoice(rawText);
       if (!text) continue;
-      cues.push({ start, end, text });
+      cues.push({ start, end, text, speaker });
     }
     return cues;
   }
@@ -91,7 +114,8 @@ const { vttUrl, audioId, downloads = [], note } = Astro.props;
       const span = c.end - cur.start;
       const wouldLen = cur.text.length + 1 + c.text.length;
       const endsSentence = /[.!?]["”’)]?\s*$/.test(cur.text);
-      if (wouldLen > MAX_CHARS || span > MAX_SPAN || (endsSentence && cur.text.length > 240)) {
+      const speakerChanged = c.speaker !== cur.speaker;
+      if (speakerChanged || wouldLen > MAX_CHARS || span > MAX_SPAN || (endsSentence && cur.text.length > 240)) {
         out.push(cur);
         cur = { ...c };
       } else {
@@ -137,10 +161,19 @@ const { vttUrl, audioId, downloads = [], note } = Astro.props;
             audio.currentTime = c.start;
             audio.play();
           });
+          const body = document.createElement('div');
+          body.className = 't-body';
+          if (c.speaker) {
+            const who = document.createElement('span');
+            who.className = `t-speaker ${speakerClass(c.speaker)}`;
+            who.textContent = c.speaker;
+            body.appendChild(who);
+          }
           const span = document.createElement('span');
           span.className = 't-text';
           span.textContent = c.text;
-          li.append(time, span);
+          body.appendChild(span);
+          li.append(time, body);
           list.appendChild(li);
           return li;
         });
@@ -195,7 +228,10 @@ const { vttUrl, audioId, downloads = [], note } = Astro.props;
   document.querySelectorAll<HTMLElement>('.transcript').forEach(initTranscript);
 </script>
 
-<style>
+<!-- Global: the cue rows are created client-side and never receive Astro's
+     scoping attribute, so scoped rules wouldn't reach them. All selectors here
+     are uniquely t-/transcript-prefixed, so global is safe. -->
+<style is:global>
   .transcript { margin-top: 2.5rem; }
   .t-head {
     display: flex; flex-wrap: wrap; align-items: baseline; justify-content: space-between;
@@ -236,8 +272,28 @@ const { vttUrl, audioId, downloads = [], note } = Astro.props;
     color: var(--accent); text-align: left; line-height: 1.7;
   }
   .t-time:hover { text-decoration: underline; }
+  .t-body { min-width: 0; }
   .t-text { color: var(--ink); line-height: 1.7; }
   .t-cue.is-active .t-text { color: var(--ink); font-weight: 500; }
+
+  /* Speaker attribution label (rendered when the VTT has <v Name> voice tags). */
+  .t-speaker {
+    display: block; font-size: 0.72rem; font-weight: 700;
+    letter-spacing: 0.06em; text-transform: uppercase;
+    line-height: 1.7; margin-bottom: 0.05rem; color: var(--sp, var(--ink-soft));
+  }
+  .t-speaker.sp-0 { --sp: #2f7d6b; }
+  .t-speaker.sp-1 { --sp: #3a5f9e; }
+  .t-speaker.sp-2 { --sp: #8d4a86; }
+  .t-speaker.sp-3 { --sp: #8a6d2f; }
+  .t-speaker.sp-4 { --sp: #5a6470; }
+  .t-speaker.sp-5 { --sp: #b0563a; }
+  :root[data-theme='dark'] .t-speaker.sp-0 { --sp: #6cbfab; }
+  :root[data-theme='dark'] .t-speaker.sp-1 { --sp: #8fb0e6; }
+  :root[data-theme='dark'] .t-speaker.sp-2 { --sp: #d199c8; }
+  :root[data-theme='dark'] .t-speaker.sp-3 { --sp: #cBae6a; }
+  :root[data-theme='dark'] .t-speaker.sp-4 { --sp: #a8b4c2; }
+  :root[data-theme='dark'] .t-speaker.sp-5 { --sp: #e58c6a; }
 
   .t-expand {
     margin-top: 0.8rem;
