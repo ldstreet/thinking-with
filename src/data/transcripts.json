@@ -12,7 +12,7 @@
     "generated": "2026-06-09",
     "model": "large-v3-turbo",
     "cleaned": true,
-    "speakers": false,
+    "speakers": true,
     "vtt": "/transcripts/2dd833ff-3602-4469-bfbb-454f9c25d235.vtt",
     "txt": "/transcripts/2dd833ff-3602-4469-bfbb-454f9c25d235.txt",
     "srt": "/transcripts/2dd833ff-3602-4469-bfbb-454f9c25d235.srt"
@@ -21,7 +21,7 @@
     "generated": "2026-06-09",
     "model": "large-v3-turbo",
     "cleaned": true,
-    "speakers": false,
+    "speakers": true,
     "vtt": "/transcripts/2233f912-6f73-4054-a554-2419fa73c90f.vtt",
     "txt": "/transcripts/2233f912-6f73-4054-a554-2419fa73c90f.txt",
     "srt": "/transcripts/2233f912-6f73-4054-a554-2419fa73c90f.srt"
@@ -30,7 +30,7 @@
     "generated": "2026-06-09",
     "model": "large-v3-turbo",
     "cleaned": true,
-    "speakers": false,
+    "speakers": true,
     "vtt": "/transcripts/e731648d-62cb-4d81-90a7-0a2be49333a4.vtt",
     "txt": "/transcripts/e731648d-62cb-4d81-90a7-0a2be49333a4.txt",
     "srt": "/transcripts/e731648d-62cb-4d81-90a7-0a2be49333a4.srt"
@@ -39,7 +39,7 @@
     "generated": "2026-06-09",
     "model": "large-v3-turbo",
     "cleaned": true,
-    "speakers": false,
+    "speakers": true,
     "vtt": "/transcripts/344ea602-b947-4d9b-9290-6b84bfda6fb7.vtt",
     "txt": "/transcripts/344ea602-b947-4d9b-9290-6b84bfda6fb7.txt",
     "srt": "/transcripts/344ea602-b947-4d9b-9290-6b84bfda6fb7.srt"
@@ -48,7 +48,7 @@
     "generated": "2026-06-09",
     "model": "large-v3-turbo",
     "cleaned": true,
-    "speakers": false,
+    "speakers": true,
     "vtt": "/transcripts/e34ec8c4-088f-4dde-a4d6-b6d233781b40.vtt",
     "txt": "/transcripts/e34ec8c4-088f-4dde-a4d6-b6d233781b40.txt",
     "srt": "/transcripts/e34ec8c4-088f-4dde-a4d6-b6d233781b40.srt"
@@ -57,7 +57,7 @@
     "generated": "2026-06-09",
     "model": "large-v3-turbo",
     "cleaned": true,
-    "speakers": false,
+    "speakers": true,
     "vtt": "/transcripts/ab50d7f6-e777-432b-810c-90452a1bf78c.vtt",
     "txt": "/transcripts/ab50d7f6-e777-432b-810c-90452a1bf78c.txt",
     "srt": "/transcripts/ab50d7f6-e777-432b-810c-90452a1bf78c.srt"
@@ -66,7 +66,7 @@
     "generated": "2026-06-09",
     "model": "large-v3-turbo",
     "cleaned": true,
-    "speakers": false,
+    "speakers": true,
     "vtt": "/transcripts/8b2c4fbe-f395-437b-a3b0-47c11f2bccd8.vtt",
     "txt": "/transcripts/8b2c4fbe-f395-437b-a3b0-47c11f2bccd8.txt",
     "srt": "/transcripts/8b2c4fbe-f395-437b-a3b0-47c11f2bccd8.srt"
@@ -75,7 +75,7 @@
     "generated": "2026-06-09",
     "model": "large-v3-turbo",
     "cleaned": true,
-    "speakers": false,
+    "speakers": true,
     "vtt": "/transcripts/83860b04-2db3-467d-a0b2-08d86acd9f90.vtt",
     "txt": "/transcripts/83860b04-2db3-467d-a0b2-08d86acd9f90.txt",
     "srt": "/transcripts/83860b04-2db3-467d-a0b2-08d86acd9f90.srt"
