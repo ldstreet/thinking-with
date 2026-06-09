@@ -41,7 +41,7 @@ const inProduction = season.status === 'in-production';
         {season.theme && <p class="hero-theme">Organized around <strong>{season.theme}</strong></p>}
         <p class="hero-blurb">{season.blurb}</p>
         {inProduction ? (
-          <p class="hero-note">New episodes drop as they're finished — subscribe to hear them first.</p>
+          <p class="hero-note">{season.statusNote ? `${season.statusNote}. ` : ''}New episodes drop as they're finished — subscribe to hear them first.</p>
         ) : (
           <p class="hero-count">{ordered.length} episodes</p>
         )}

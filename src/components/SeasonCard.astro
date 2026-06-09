@@ -16,7 +16,7 @@ const inProduction = s.status === 'in-production';
         <span class="ph-alias">{s.alias}</span>
       </div>
     )}
-    {inProduction && <span class="scard-flag">In production</span>}
+    {inProduction && <span class="scard-flag">{s.statusNote ?? 'In production'}</span>}
   </div>
   <div class="scard-body">
     <span class="scard-no">Season {s.number}{count ? ` · ${count} episodes` : ''}</span>

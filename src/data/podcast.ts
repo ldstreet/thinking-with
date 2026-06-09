@@ -82,9 +82,25 @@ export type Season = {
   accentInk: string; // readable text color on the accent
   blurb: string;
   status?: 'published' | 'in-production';
+  /** Precise state for in-production seasons, e.g. "Recorded — in editing". */
+  statusNote?: string;
 };
 
 export const seasons: Season[] = [
+  {
+    number: 7,
+    slug: 'critique',
+    alias: 'Critique',
+    thinker: 'An idea, not a text',
+    work: 'critique',
+    title: 'Thinking With… Critique',
+    accent: '#3F5D63',
+    accentInk: '#F6F0E1',
+    status: 'in-production',
+    statusNote: 'Planning & recording',
+    blurb:
+      'For the first time we organize a season around an idea rather than a single text: critique — what it is, what it’s for, and whether it has exhausted itself. We’re planning and recording it now, with a public syllabus and written provocations alongside the episodes.',
+  },
   {
     number: 6,
     slug: 'being-and-time',
@@ -92,14 +108,12 @@ export const seasons: Season[] = [
     thinker: 'Martin Heidegger',
     work: 'Being and Time',
     title: 'Thinking With… Being and Time',
-    // TODO(authors): confirm whether "Critique" is this season's organizing theme or a
-    // separate upcoming season. Modeled as a data field so it flips with one edit.
-    theme: 'Critique',
     accent: '#3B5747',
     accentInk: '#F6F0E1',
     status: 'in-production',
+    statusNote: 'Recorded — in editing',
     blurb:
-      'Back to Heidegger — this time the big one. We return to the question that organizes everything else: what does it mean to be? This season we read it under the sign of critique. New episodes are in production now.',
+      'Back to Heidegger — this time the big one. We return to the question that organizes everything else: what does it mean to be? The season is fully recorded and now in editing; episodes arrive in the feed as they’re finished.',
   },
   {
     number: 5,
