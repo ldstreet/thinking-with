@@ -1,33 +1,1448 @@
 {
   "_README": "Hand-authored show-note EXTRAS and overrides, keyed by episode GUID. Merged on top of the auto-imported feed notes (episodeNotesFeed.json), and manual fields win. Per entry: { summary: string|string[] (a written overview), references: [{label, url, note?}] (texts & thinkers + links), pages?: string, drafted?: bool, overview?/chapters?: override the feed }. Keys starting with '_' are ignored. The three entries below are AUTO-DRAFTED samples (Nietzsche S5E9, Derrida S4E1, Hegel S1E1) for format review.",
-
+  "f7ed8eae-6f88-4a88-b041-695f0aeb0f23": {
+    "drafted": true,
+    "summary": "A special episode: Nate, Nathaniel, and John, joined by Caroline Wigmore, riff on Bo Burnham's Netflix special Inside. The conversation uses the special as a prompt to talk through contemporary styles of comedy, the role of self-awareness in critique, the dynamics of cancel culture and branding, and what it means to perform sincerity from inside a saturated media culture.",
+    "references": [
+      {
+        "label": "Bo Burnham, Inside",
+        "url": "https://bookshop.org/search?keywords=bo+burnham+inside",
+        "note": "the comedy special discussed"
+      },
+      {
+        "label": "Friedrich Nietzsche",
+        "url": "https://plato.stanford.edu/entries/nietzsche/",
+        "note": "Stanford Encyclopedia of Philosophy"
+      }
+    ]
+  },
+  "2840c0da-5d1f-49f6-92b3-13a8d29925fa": {
+    "drafted": true,
+    "summary": "Continuing the Hegel season, the conversation circles questions of overcoming the human before turning back to the Phenomenology. Topics include the blurring of the production/consumption divide, enemies and indistinction, (meta)reflection and decision, the supposed superiority of the \"inside,\" and post/humanism and the unavoidability of invention.",
+    "references": [
+      {
+        "label": "G. W. F. Hegel",
+        "url": "https://plato.stanford.edu/entries/hegel/",
+        "note": "Stanford Encyclopedia of Philosophy"
+      },
+      {
+        "label": "Hegel, Phenomenology of Spirit",
+        "url": "https://bookshop.org/search?keywords=hegel+phenomenology+of+spirit",
+        "note": "the season's text — Preface"
+      }
+    ]
+  },
+  "a8cbc5b6-c966-4c24-96b4-8c37ae396b90": {
+    "drafted": true,
+    "summary": "Working through the Preface of the Phenomenology, the hosts dwell on Hegel's recursive \"moves\" — the way each apparent arrival at truth is revealed as only a pseudo-truth that mediates the next. The discussion turns on the figure of the genius, the individual gift, and whether such notions can survive Hegel's account of science and mediation.",
+    "references": [
+      {
+        "label": "G. W. F. Hegel",
+        "url": "https://plato.stanford.edu/entries/hegel/",
+        "note": "Stanford Encyclopedia of Philosophy"
+      },
+      {
+        "label": "Hegel, Phenomenology of Spirit",
+        "url": "https://bookshop.org/search?keywords=hegel+phenomenology+of+spirit",
+        "note": "the season's text — Preface"
+      }
+    ]
+  },
+  "070d7e95-a6e8-4fd4-8b4b-4b4622135989": {
+    "drafted": true,
+    "summary": "Reading the \"Twelfth Series of the Paradox\" and \"Thirteenth Series of the Schizophrenic and the Little Girl\" from The Logic of Sense, the group takes up Deleuze's contrast between two kinds of nonsense via Lewis Carroll and Antonin Artaud. From there: Deleuze's diagnostic style of reading, the temptation to romanticize becoming over being, the terror of deterritorialization, and the conceptual categories that survival seems to require.",
+    "references": [
+      {
+        "label": "Gilles Deleuze",
+        "url": "https://plato.stanford.edu/entries/deleuze/",
+        "note": "Stanford Encyclopedia of Philosophy"
+      },
+      {
+        "label": "Deleuze, The Logic of Sense",
+        "url": "https://bookshop.org/search?keywords=deleuze+logic+of+sense",
+        "note": "the season's text — Series 12 & 13"
+      },
+      {
+        "label": "Lewis Carroll, Alice's Adventures in Wonderland",
+        "url": "https://bookshop.org/search?keywords=lewis+carroll+alice",
+        "note": "Deleuze's central example"
+      },
+      {
+        "label": "Antonin Artaud",
+        "url": "https://bookshop.org/search?keywords=antonin+artaud",
+        "note": "his reading of Carroll's \"Jabberwocky\""
+      }
+    ]
+  },
+  "7cd45fa8-edbb-4e61-86e4-25a9d110c031": {
+    "drafted": true,
+    "summary": "On the \"22nd Series — Porcelain and Volcano\" and \"23rd Series of the Aion,\" the conversation wrestles with Deleuze's account of time, setting the Aion against Chronos. Detours run through Derrida on the deconstructed present and \"vulgar\" time, Kant on time, space, and the faculties, Heidegger on change and bodies, Deleuze's book on Kant and the sublime, and whether language is a container or a modulator.",
+    "references": [
+      {
+        "label": "Gilles Deleuze",
+        "url": "https://plato.stanford.edu/entries/deleuze/",
+        "note": "Stanford Encyclopedia of Philosophy"
+      },
+      {
+        "label": "Deleuze, The Logic of Sense",
+        "url": "https://bookshop.org/search?keywords=deleuze+logic+of+sense",
+        "note": "the season's text — Series 22 & 23"
+      },
+      {
+        "label": "Deleuze, Kant's Critical Philosophy",
+        "url": "https://bookshop.org/search?keywords=deleuze+kant+critical+philosophy",
+        "note": "Deleuze's book on Kant"
+      },
+      {
+        "label": "Immanuel Kant",
+        "url": "https://plato.stanford.edu/entries/kant/",
+        "note": "Stanford Encyclopedia of Philosophy — time, space, the sublime"
+      },
+      {
+        "label": "Martin Heidegger",
+        "url": "https://plato.stanford.edu/entries/heidegger/",
+        "note": "on change and bodies"
+      },
+      {
+        "label": "Jacques Derrida",
+        "url": "https://plato.stanford.edu/entries/derrida/",
+        "note": "the deconstructed present, \"vulgar\" time"
+      }
+    ]
+  },
+  "a6a3276d-5cb0-424b-bac3-0f4d9545bc56": {
+    "drafted": true,
+    "summary": "The Heidegger season takes up What Is Called Thinking?, opening with instinct or \"feel\" versus analysis and Heidegger's commitment to authenticity and becoming. The discussion turns to his strange etymology of \"blinking,\" the decisive importance of Nietzsche for Heidegger (and for post-structuralism), Heidegger's attempt to surpass Nietzsche, and the figures of the overman and the last man.",
+    "references": [
+      {
+        "label": "Martin Heidegger",
+        "url": "https://plato.stanford.edu/entries/heidegger/",
+        "note": "Stanford Encyclopedia of Philosophy"
+      },
+      {
+        "label": "Heidegger, What Is Called Thinking?",
+        "url": "https://bookshop.org/search?keywords=heidegger+what+is+called+thinking",
+        "note": "the season's text"
+      },
+      {
+        "label": "Friedrich Nietzsche",
+        "url": "https://plato.stanford.edu/entries/nietzsche/",
+        "note": "the overman and last man; Heidegger's reading of Nietzsche"
+      },
+      {
+        "label": "Nietzsche, Thus Spoke Zarathustra",
+        "url": "https://bookshop.org/search?keywords=nietzsche+thus+spoke+zarathustra",
+        "note": "source of the overman and last man"
+      }
+    ]
+  },
+  "f0a303d1-21ea-4f62-b3c3-809ccceeb2e1": {
+    "drafted": true,
+    "summary": "Still in What Is Called Thinking?, the hosts ask why Hegel and Heidegger — both thinkers of movement — avoid the word \"becoming.\" The conversation works through Heidegger's celebration (and arguable fetishizing) of ancient Greek thought, the duality of \"Being\" and \"being,\" essence in Heidegger versus Nietzsche, his obsession with origins, and what finally counts as philosophy for him.",
+    "references": [
+      {
+        "label": "Martin Heidegger",
+        "url": "https://plato.stanford.edu/entries/heidegger/",
+        "note": "Stanford Encyclopedia of Philosophy"
+      },
+      {
+        "label": "Heidegger, What Is Called Thinking?",
+        "url": "https://bookshop.org/search?keywords=heidegger+what+is+called+thinking",
+        "note": "the season's text"
+      },
+      {
+        "label": "Friedrich Nietzsche",
+        "url": "https://plato.stanford.edu/entries/nietzsche/",
+        "note": "essence and origins, contrasted with Heidegger"
+      },
+      {
+        "label": "G. W. F. Hegel",
+        "url": "https://plato.stanford.edu/entries/hegel/",
+        "note": "the other thinker of movement"
+      }
+    ]
+  },
+  "be4f47dd-6792-406b-82be-029311769369": {
+    "drafted": true,
+    "summary": "The episode works through Derrida's \"Signature Event Context,\" largely a reading and extension of J. L. Austin's How to Do Things with Words. The conversation covers Derrida's notion of iterability, Austin's performativity and illocutionary force, the Searle–Derrida exchange, and the philosophical desire for truth and certainty that the essay unsettles.",
+    "references": [
+      {
+        "label": "Jacques Derrida",
+        "url": "https://plato.stanford.edu/entries/derrida/",
+        "note": "Stanford Encyclopedia of Philosophy"
+      },
+      {
+        "label": "Derrida, \"Signature Event Context\" (in Margins of Philosophy)",
+        "url": "https://bookshop.org/search?keywords=derrida+margins+of+philosophy",
+        "note": "the essay discussed"
+      },
+      {
+        "label": "J. L. Austin, How to Do Things with Words",
+        "url": "https://bookshop.org/search?keywords=austin+how+to+do+things+with+words",
+        "note": "the text Derrida reads"
+      },
+      {
+        "label": "John Searle",
+        "url": "https://bookshop.org/search?keywords=searle+derrida+limited+inc",
+        "note": "the Searle–Derrida exchange (Limited Inc)"
+      }
+    ]
+  },
+  "1f13297e-1da4-449f-8517-1cb7316c961a": {
+    "drafted": true,
+    "summary": "Reading The Gay Science, the conversation begins with §2 \"Intellectual Conscience\" and the entanglement of questioning, certainty, and injustice. It moves through the instinct to evaluate and the art of questioning, the inadequacy of quantification and grading, §3 \"Noble and Common,\" and §14 \"The Things People Call Love\" — the common desire for possession against the noble desire for transformation.",
+    "references": [
+      {
+        "label": "Friedrich Nietzsche",
+        "url": "https://plato.stanford.edu/entries/nietzsche/",
+        "note": "Stanford Encyclopedia of Philosophy"
+      },
+      {
+        "label": "Nietzsche, The Gay Science",
+        "url": "https://bookshop.org/search?keywords=nietzsche+gay+science",
+        "note": "the season's text — §§2, 3, 14"
+      },
+      {
+        "label": "Plato, Phaedrus",
+        "url": "https://bookshop.org/search?keywords=plato+phaedrus",
+        "note": "on noble vs. common desire"
+      }
+    ]
+  },
+  "344ea602-b947-4d9b-9290-6b84bfda6fb7": {
+    "drafted": true,
+    "summary": "Closing Book III of The Gay Science, the hosts read the short maxims (§§192, 193, 195, 152) as a pedagogy and a diagnostic of styles of life. The conversation turns to hearing religion differently rather than as mere dishonesty, perspectivalism (§§159–160), laughter as education (§§177, 200), and §324's en media vita — thinking itself as an experiment and Nietzsche as the teacher of laughter.",
+    "references": [
+      {
+        "label": "Friedrich Nietzsche",
+        "url": "https://plato.stanford.edu/entries/nietzsche/",
+        "note": "Stanford Encyclopedia of Philosophy"
+      },
+      {
+        "label": "Nietzsche, The Gay Science",
+        "url": "https://bookshop.org/search?keywords=nietzsche+gay+science",
+        "note": "the season's text — end of Book III"
+      },
+      {
+        "label": "Nietzsche, Thus Spoke Zarathustra",
+        "url": "https://bookshop.org/search?keywords=nietzsche+thus+spoke+zarathustra",
+        "note": "the camel, lion, and child"
+      }
+    ]
+  },
+  "1552e84e-c814-4a78-96b3-4922d9bcc707": {
+    "drafted": true,
+    "summary": "The introductory episode. The three hosts — rhetorical-theory scholars Nate DeProspo, John Muckelbauer, and Nathaniel Street — lay out the impetus and structure of the podcast. This is not a course on Hegel and they aren't Hegel experts; instead the \"Hegel Tapes\" use sections of the Phenomenology of Spirit as touchstones and catalysts for thinking through theoretical questions. The show is framed as a pedagogical experiment: an invitation to think along with the text, the hosts, and each other.",
+    "references": [
+      {
+        "label": "G. W. F. Hegel",
+        "url": "https://plato.stanford.edu/entries/hegel/",
+        "note": "Stanford Encyclopedia of Philosophy"
+      },
+      {
+        "label": "Hegel, Phenomenology of Spirit",
+        "url": "https://bookshop.org/search?keywords=hegel+phenomenology+of+spirit",
+        "note": "the season's text — Preface"
+      }
+    ]
+  },
+  "677d9044-c438-4235-9fc1-5fbdfb9b252c": {
+    "drafted": true,
+    "summary": "A late episode in the Hegel season that opens with a blunt question: why do humans matter, if the Phenomenology is really the story of absolute spirit realizing itself? From there the conversation weighs theological versus anthropological readings of Hegel, the prospect of a flat ontology and differentiation on a single plane, and the tension between monism and dualism. It closes on the necessity of lingering with the text rather than rushing to resolution.",
+    "references": [
+      {
+        "label": "G. W. F. Hegel",
+        "url": "https://plato.stanford.edu/entries/hegel/",
+        "note": "Stanford Encyclopedia of Philosophy"
+      },
+      {
+        "label": "Hegel, Phenomenology of Spirit",
+        "url": "https://bookshop.org/search?keywords=hegel+phenomenology+of+spirit",
+        "note": "the season's text — §16, §28"
+      }
+    ]
+  },
+  "0492fded-02c6-495e-9adb-03d3d9356fbb": {
+    "drafted": true,
+    "summary": "A short bridge episode between seasons. Nathaniel and Nate close the books on the Hegel Tapes — twelve episodes through the Preface and into the start of the Phenomenology — and preview season two on Gilles Deleuze's The Logic of Sense. They explain that Dr. Caddie Alford, who works on doxa and opinion, was the catalyst for the new season and will join them alongside John Muckelbauer. Along the way: the neuroses of writing, and some NBA talk.",
+    "references": [
+      {
+        "label": "Gilles Deleuze",
+        "url": "https://plato.stanford.edu/entries/deleuze/",
+        "note": "Stanford Encyclopedia of Philosophy"
+      },
+      {
+        "label": "Deleuze, The Logic of Sense",
+        "url": "https://bookshop.org/search?keywords=deleuze+the+logic+of+sense",
+        "note": "the new season's text"
+      },
+      {
+        "label": "Hegel, Phenomenology of Spirit",
+        "url": "https://bookshop.org/search?keywords=hegel+phenomenology+of+spirit",
+        "note": "the season just concluded"
+      }
+    ]
+  },
+  "1789acd5-4b83-4446-a443-08f86f91ff74": {
+    "drafted": true,
+    "summary": "Reading the Fourteenth Series (\"Of Double Causality\") and Fifteenth Series (\"Of Singularities\") of The Logic of Sense, with Caddie Alford, John Muckelbauer, and Nathaniel Street. The discussion turns into a candid reflection on amateur philosophy, expertise, and intimacy — what it means to read Deleuze (and the Leibniz and Husserl behind him) without claiming mastery, and how reading for its own sake can be its own reward.",
+    "references": [
+      {
+        "label": "Gilles Deleuze",
+        "url": "https://plato.stanford.edu/entries/deleuze/",
+        "note": "Stanford Encyclopedia of Philosophy"
+      },
+      {
+        "label": "Deleuze, The Logic of Sense",
+        "url": "https://bookshop.org/search?keywords=deleuze+the+logic+of+sense",
+        "note": "the season's text — Series 14–15"
+      },
+      {
+        "label": "Gottfried Wilhelm Leibniz",
+        "url": "https://plato.stanford.edu/entries/leibniz/",
+        "note": "Stanford Encyclopedia of Philosophy"
+      },
+      {
+        "label": "Edmund Husserl",
+        "url": "https://plato.stanford.edu/entries/husserl/",
+        "note": "Stanford Encyclopedia of Philosophy"
+      }
+    ]
+  },
+  "823ac2d2-3ad0-4a8e-9920-5b5b2f8f84ba": {
+    "drafted": true,
+    "summary": "Working through the Twenty-Fourth Series (\"Of the Communication of Events\") of The Logic of Sense, with the full crew. The conversation stages Deleuze against Hegel — the productivity of distance versus the unity of opposites — and runs through compossibility and Leibniz, disjunction and conjunction, and Deleuze's odd grammar of infinitives (\"to butterfly\"). It widens out to whether first philosophy is ontology or ethics, the eternal return of the same versus difference, and Deleuze's call to \"make more towns.\"",
+    "references": [
+      {
+        "label": "Gilles Deleuze",
+        "url": "https://plato.stanford.edu/entries/deleuze/",
+        "note": "Stanford Encyclopedia of Philosophy"
+      },
+      {
+        "label": "Deleuze, The Logic of Sense",
+        "url": "https://bookshop.org/search?keywords=deleuze+the+logic+of+sense",
+        "note": "the season's text — Series 24"
+      },
+      {
+        "label": "Gottfried Wilhelm Leibniz",
+        "url": "https://plato.stanford.edu/entries/leibniz/",
+        "note": "on compossibility and incompossibility"
+      },
+      {
+        "label": "G. W. F. Hegel",
+        "url": "https://plato.stanford.edu/entries/hegel/",
+        "note": "the Deleuze/Hegel contrast — unity of opposites"
+      }
+    ]
+  },
+  "7b4ecf72-24e6-45c2-9c52-a628663b2997": {
+    "drafted": true,
+    "summary": "Continuing through Heidegger's What Is Called Thinking? (Lectures 9 and 10), the hosts ask what makes this text so compelling — and how Heidegger rehabilitates Nietzsche. The talk centers on the \"treasure of metaphysics,\" the near-inescapability of metaphysical thinking (Heidegger and Derrida both), and the eternal return as a way of overcoming the will's desire for revenge against time. It closes on representational thinking as revenge on difference, set against Hegel's Aufhebung and Nietzsche's transformation through the overman.",
+    "references": [
+      {
+        "label": "Martin Heidegger",
+        "url": "https://plato.stanford.edu/entries/heidegger/",
+        "note": "Stanford Encyclopedia of Philosophy"
+      },
+      {
+        "label": "Heidegger, What Is Called Thinking?",
+        "url": "https://bookshop.org/search?keywords=heidegger+what+is+called+thinking",
+        "note": "the season's text — Lectures 9–10"
+      },
+      {
+        "label": "Friedrich Nietzsche",
+        "url": "https://plato.stanford.edu/entries/nietzsche/",
+        "note": "the eternal return; the overman; revenge against time"
+      },
+      {
+        "label": "G. W. F. Hegel",
+        "url": "https://plato.stanford.edu/entries/hegel/",
+        "note": "Aufhebung / sublation, contrasted with Nietzschean transformation"
+      },
+      {
+        "label": "Jacques Derrida",
+        "url": "https://plato.stanford.edu/entries/derrida/",
+        "note": "on the inescapability of metaphysics"
+      }
+    ]
+  },
+  "42b3fae1-bb8c-4537-ba41-84f95234c0b8": {
+    "drafted": true,
+    "summary": "An outtakes episode: sampled conversations recorded during the Heidegger season that didn't make the final cuts but are still worth a listen. The threads include where a commitment to the proper and authentic can tip toward fascism, and what the opposite stance — non-recognition and disidentification — lends itself to, with side-trips through Deleuze and Nietzsche's \"become what you are.\"",
+    "references": [
+      {
+        "label": "Martin Heidegger",
+        "url": "https://plato.stanford.edu/entries/heidegger/",
+        "note": "Stanford Encyclopedia of Philosophy"
+      },
+      {
+        "label": "Heidegger, What Is Called Thinking?",
+        "url": "https://bookshop.org/search?keywords=heidegger+what+is+called+thinking",
+        "note": "the season's text"
+      },
+      {
+        "label": "Friedrich Nietzsche",
+        "url": "https://plato.stanford.edu/entries/nietzsche/",
+        "note": "Ecce Homo — \"become what you are\""
+      }
+    ]
+  },
+  "6fc2ff03-a0cc-447e-9590-1f43c3ff2f4b": {
+    "drafted": true,
+    "summary": "A close reading of Derrida's \"Structure, Sign, and Play in the Discourse of the Human Sciences.\" The hosts work through the link between ethnocentrism and metaphysics, our own culpability in metaphysical structures of engagement, and Derrida's distinctive sense of rigor in critical theory. Anchored in his treatment of Lévi-Strauss and the figures of bricoleur versus engineer, the episode also pushes on the limits of deconstruction and the relation between contingency and universality — against the caricature that Derrida simply \"decenters everything.\"",
+    "references": [
+      {
+        "label": "Jacques Derrida",
+        "url": "https://plato.stanford.edu/entries/derrida/",
+        "note": "Stanford Encyclopedia of Philosophy"
+      },
+      {
+        "label": "Derrida, \"Structure, Sign, and Play\" (in Writing and Difference)",
+        "url": "https://bookshop.org/search?keywords=derrida+writing+and+difference",
+        "note": "the essay discussed"
+      },
+      {
+        "label": "Claude Lévi-Strauss",
+        "url": "https://bookshop.org/search?keywords=levi-strauss+the+savage+mind",
+        "note": "Derrida's reading of structural anthropology; the bricoleur"
+      }
+    ]
+  },
+  "365cdcae-431a-4f4d-a090-0b426f6384ff": {
+    "drafted": true,
+    "summary": "A second pass through Book IV of The Gay Science, organized around taste as an active power. The hosts read aphorisms on \"What is Life?\" (§26), corruption and decay (§23–24), changed taste (§39), and the body's distrust of consciousness (§11) — arguing for the positivity of becoming and the non-linearity of futurity. From there: contradictions as bodies, what the concept's \"equal sign\" does, and how one might teach this material rather than merely write about it.",
+    "references": [
+      {
+        "label": "Friedrich Nietzsche",
+        "url": "https://plato.stanford.edu/entries/nietzsche/",
+        "note": "Stanford Encyclopedia of Philosophy"
+      },
+      {
+        "label": "Nietzsche, The Gay Science",
+        "url": "https://bookshop.org/search?keywords=nietzsche+gay+science",
+        "note": "the season's text — Book IV, §11, §23–24, §26, §37, §39"
+      },
+      {
+        "label": "G. W. F. Hegel",
+        "url": "https://plato.stanford.edu/entries/hegel/",
+        "note": "the recurring Nietzsche/Hegel contrast"
+      }
+    ]
+  },
+  "2233f912-6f73-4054-a554-2419fa73c90f": {
+    "drafted": true,
+    "summary": "The season finale, continuing in Book IV of The Gay Science. The conversation distinguishes advice from diagnostics (§301, §306, §308) and reframes amor fati as affirming rather than merely enduring fate — negation read as a shedding of skin, and a person as always multiple. It builds toward §341 and the eternal return: cosmological principle or existential test, return of the same or of difference, and re-turning as the being of becoming.",
+    "references": [
+      {
+        "label": "Friedrich Nietzsche",
+        "url": "https://plato.stanford.edu/entries/nietzsche/",
+        "note": "Stanford Encyclopedia of Philosophy"
+      },
+      {
+        "label": "Nietzsche, The Gay Science",
+        "url": "https://bookshop.org/search?keywords=nietzsche+gay+science",
+        "note": "the season's text — Book IV, §301, §306–308, §341"
+      },
+      {
+        "label": "Gilles Deleuze",
+        "url": "https://plato.stanford.edu/entries/deleuze/",
+        "note": "the eternal return as the return of difference"
+      }
+    ]
+  },
+  "ebeb210f-acb3-443a-986e-22abb15a095c": {
+    "drafted": true,
+    "summary": "The whole episode takes up the question of how to read theory, with Hegel as the jumping-off point. The hosts treat philosophy as a matter of \"taste,\" work through \"both/and\" responses to binaries, and contrast \"generous\" against \"adversarial\" reading as modes of critique. Karen Barad's work and its reception in rhetoric serves as a recurring example, before they close by reading a passage of the Phenomenology that stages the dynamics they have been describing.",
+    "references": [
+      {
+        "label": "G. W. F. Hegel",
+        "url": "https://plato.stanford.edu/entries/hegel/",
+        "note": "Stanford Encyclopedia of Philosophy"
+      },
+      {
+        "label": "Hegel, Phenomenology of Spirit",
+        "url": "https://bookshop.org/search?keywords=hegel+phenomenology+of+spirit",
+        "note": "the season's text — the Preface"
+      },
+      {
+        "label": "Karen Barad, Meeting the Universe Halfway",
+        "url": "https://bookshop.org/search?keywords=karen+barad+meeting+the+universe+halfway",
+        "note": "recurring example of theory's reception in rhetoric"
+      }
+    ]
+  },
+  "c16a2f5c-39f5-4812-be1a-5e96bbb97e09": {
+    "drafted": true,
+    "summary": "Beginning from John's turning point on reading Hegel as a thinker of movement and \"dialectical monism,\" the conversation works through paragraph 46 of the Preface and Hegel's critique of mathematical, representational thinking. It bridges Hegel and Deleuze as fellow thinkers of movement and repetition, weighs \"team affirmation\" against \"team negation\" (with detours through Nietzsche's and Žižek's humor), and ends on repetition as a vehicle for creation in nature, quantum physics, and autopoiesis.",
+    "references": [
+      {
+        "label": "G. W. F. Hegel",
+        "url": "https://plato.stanford.edu/entries/hegel/",
+        "note": "Stanford Encyclopedia of Philosophy"
+      },
+      {
+        "label": "Hegel, Phenomenology of Spirit",
+        "url": "https://bookshop.org/search?keywords=hegel+phenomenology+of+spirit",
+        "note": "the season's text — Preface, §46ff."
+      },
+      {
+        "label": "Gilles Deleuze",
+        "url": "https://plato.stanford.edu/entries/deleuze/",
+        "note": "movement and repetition, against representation"
+      },
+      {
+        "label": "Friedrich Nietzsche",
+        "url": "https://plato.stanford.edu/entries/nietzsche/",
+        "note": "on humor and affirmation against Hegel's seriousness"
+      }
+    ]
+  },
+  "e1ec52cd-d9b7-4929-9459-36e035019b58": {
+    "drafted": true,
+    "summary": "The Deleuze season opens with guest Caddie Alford, taking up the \"First Series of Paradoxes of Pure Becoming\" and \"Second Series of Paradoxes of Surface Events\" from The Logic of Sense. After comparing Deleuze's and Hegel's writing styles and their own reading speeds, the hosts turn to the task of rethinking Plato for the field of rhetoric — by way of the Phaedrus, the question of who \"Plato\" is, demagoguery, and self-awareness. They close on why the Stoics matter to Deleuze.",
+    "references": [
+      {
+        "label": "Gilles Deleuze",
+        "url": "https://plato.stanford.edu/entries/deleuze/",
+        "note": "Stanford Encyclopedia of Philosophy"
+      },
+      {
+        "label": "Deleuze, The Logic of Sense",
+        "url": "https://bookshop.org/search?keywords=deleuze+logic+of+sense",
+        "note": "the season's text — First and Second Series"
+      },
+      {
+        "label": "Plato",
+        "url": "https://plato.stanford.edu/entries/plato/",
+        "note": "the Phaedrus and the \"field\" of rhetoric"
+      },
+      {
+        "label": "Lewis Carroll, Alice's Adventures in Wonderland",
+        "url": "https://bookshop.org/search?keywords=lewis+carroll+alice+in+wonderland",
+        "note": "Deleuze's recurring touchstone for sense and becoming"
+      }
+    ]
+  },
+  "eb63a247-4ec3-4e68-888a-44ccae8bafdb": {
+    "drafted": true,
+    "summary": "Reading the \"Sixteenth Series of the Static Ontological Genesis,\" the hosts admit to being lost in Deleuze and attempt an introduction to Leibniz to find their footing. From there they map three images of philosophy — heights, depths, and surfaces — and connect immanence and transcendence to Nathaniel's reading of Plato's Phaedrus. The episode argues that diagnosis (and critique) is not itself transcendent, with a running analogy between philosophical styles and music.",
+    "references": [
+      {
+        "label": "Gilles Deleuze",
+        "url": "https://plato.stanford.edu/entries/deleuze/",
+        "note": "Stanford Encyclopedia of Philosophy"
+      },
+      {
+        "label": "Deleuze, The Logic of Sense",
+        "url": "https://bookshop.org/search?keywords=deleuze+logic+of+sense",
+        "note": "the season's text — Sixteenth Series"
+      },
+      {
+        "label": "Gottfried Wilhelm Leibniz",
+        "url": "https://plato.stanford.edu/entries/leibniz/",
+        "note": "Stanford Encyclopedia of Philosophy"
+      },
+      {
+        "label": "Plato",
+        "url": "https://plato.stanford.edu/entries/plato/",
+        "note": "the Phaedrus; heights, depths, and surfaces"
+      }
+    ]
+  },
+  "35e8ffa6-fd36-4f8b-95d5-df81c3b25f0a": {
+    "drafted": true,
+    "summary": "The closing episode of the Deleuze season reads the \"Twenty-Sixth Series of Language,\" \"Thirty-Third Series of Alice's Adventures,\" and \"Thirty-Fourth Series of Primary Order and Secondary Organization,\" reflecting on The Logic of Sense as a whole. The talk ranges over Deleuze's engagement with psychoanalysis, Lacan and structuralism, Žižek's defense of Hegel and Lacan, and the differences among humor, satire, and irony. It ends on re-intuiting representation: representation as production rather than capture, between being and becoming.",
+    "references": [
+      {
+        "label": "Gilles Deleuze",
+        "url": "https://plato.stanford.edu/entries/deleuze/",
+        "note": "Stanford Encyclopedia of Philosophy"
+      },
+      {
+        "label": "Deleuze, The Logic of Sense",
+        "url": "https://bookshop.org/search?keywords=deleuze+logic+of+sense",
+        "note": "the season's text — final Series"
+      },
+      {
+        "label": "Lewis Carroll, Alice's Adventures in Wonderland",
+        "url": "https://bookshop.org/search?keywords=lewis+carroll+alice+in+wonderland",
+        "note": "the \"Alice's Adventures\" series"
+      },
+      {
+        "label": "Sigmund Freud",
+        "url": "https://plato.stanford.edu/entries/freud/",
+        "note": "psychoanalysis, via Lacan and structuralism"
+      }
+    ]
+  },
+  "d5588fb9-8819-4310-9317-db55910830a8": {
+    "drafted": true,
+    "summary": "From The Heidegger Files: a reading of Lecture X of What Is Called Thinking? on how time complicates Being, the eternal return of the same, and Nietzsche's \"deliverance from revenge.\" The hosts ask why the \"same\" returns and what the \"eternal\" amounts to, working through Dasein and representational thinking, linear versus blurred time, and whether perspectivalism is epistemological or ontological. They close on misreadings of the eternal return and the contingency of essence and destiny.",
+    "references": [
+      {
+        "label": "Martin Heidegger",
+        "url": "https://plato.stanford.edu/entries/heidegger/",
+        "note": "Stanford Encyclopedia of Philosophy"
+      },
+      {
+        "label": "Heidegger, What Is Called Thinking?",
+        "url": "https://bookshop.org/search?keywords=heidegger+what+is+called+thinking",
+        "note": "the season's text — Lecture X"
+      },
+      {
+        "label": "Friedrich Nietzsche",
+        "url": "https://plato.stanford.edu/entries/nietzsche/",
+        "note": "eternal return and deliverance from revenge"
+      }
+    ]
+  },
+  "467f210c-54b9-43b1-af20-cd98a232eea2": {
+    "drafted": true,
+    "summary": "An itinerant, wide-ranging episode in the Derrida season that touches Derrida only loosely. It opens on the dynamics of appropriation, math and physics, the vocabulary of becoming, and Heraclitus, then drifts toward the brevity of history and a long appreciation of The Matrix. More a thinking-aloud session than a close reading.",
+    "references": [
+      {
+        "label": "Jacques Derrida",
+        "url": "https://plato.stanford.edu/entries/derrida/",
+        "note": "Stanford Encyclopedia of Philosophy"
+      },
+      {
+        "label": "Heraclitus",
+        "url": "https://plato.stanford.edu/entries/heraclitus/",
+        "note": "becoming and flux"
+      }
+    ]
+  },
+  "a795ee72-40bc-4eff-86f4-85e01bb7cb02": {
+    "drafted": true,
+    "summary": "A close reading of Derrida's essay \"From Restricted to General Economy: A Hegelianism Without Reserve.\" Much of the episode teases out the orientational differences between Hegel and Derrida — by way of Bataille's general economy, expenditure, and the comic — and weighs the difficulties and affordances of the post-Hegelian project more broadly.",
+    "references": [
+      {
+        "label": "Jacques Derrida",
+        "url": "https://plato.stanford.edu/entries/derrida/",
+        "note": "Stanford Encyclopedia of Philosophy"
+      },
+      {
+        "label": "Derrida, \"From Restricted to General Economy\" (in Writing and Difference)",
+        "url": "https://bookshop.org/search?keywords=derrida+writing+and+difference",
+        "note": "the essay discussed"
+      },
+      {
+        "label": "G. W. F. Hegel",
+        "url": "https://plato.stanford.edu/entries/hegel/",
+        "note": "the Hegel/Derrida contrast"
+      },
+      {
+        "label": "Georges Bataille, The Accursed Share",
+        "url": "https://bookshop.org/search?keywords=bataille+accursed+share",
+        "note": "general economy and expenditure"
+      }
+    ]
+  },
+  "83860b04-2db3-467d-a0b2-08d86acd9f90": {
+    "drafted": true,
+    "summary": "What does The Gay Science have to do with rhetoric? Reading §§57–59 (\"To the Realists,\" \"Only as Creators,\" \"We Artists\") and §76 (\"The Greatest Danger\"), the hosts probe our \"drunken passion for reality,\" creation versus maintenance, and the politics of the exception and the rule. They reframe rhetoric as making-equal — an activity, not a thing — that does not communicate so much as build alliances and produce the social, the desiring, and the persuasive at once. They close on Nietzsche as symptomatologist, taking the perspective of life.",
+    "references": [
+      {
+        "label": "Friedrich Nietzsche",
+        "url": "https://plato.stanford.edu/entries/nietzsche/",
+        "note": "Stanford Encyclopedia of Philosophy"
+      },
+      {
+        "label": "Nietzsche, The Gay Science",
+        "url": "https://bookshop.org/search?keywords=nietzsche+gay+science",
+        "note": "the season's text — §§57–59, §76"
+      },
+      {
+        "label": "Gilles Deleuze",
+        "url": "https://plato.stanford.edu/entries/deleuze/",
+        "note": "territorialization and the production of desire"
+      }
+    ]
+  },
+  "2dd833ff-3602-4469-bfbb-454f9c25d235": {
+    "drafted": true,
+    "summary": "Nominally on Book V of The Gay Science, the episode mostly stays with the recurring end-of-semester dilemma: applying a policy versus making a decision, \"fairness\" as a way to dodge responsibility, and the messy architecture of the teaching situation. Turning at last to Nietzsche (§§327, 334, 335, 339), the hosts unlink thinking from seriousness, defend laughter, and argue that responsibility and misunderstanding are the delightful parts of teaching — an affirmative Nietzsche against the gloomy, nihilist one.",
+    "references": [
+      {
+        "label": "Friedrich Nietzsche",
+        "url": "https://plato.stanford.edu/entries/nietzsche/",
+        "note": "Stanford Encyclopedia of Philosophy"
+      },
+      {
+        "label": "Nietzsche, The Gay Science",
+        "url": "https://bookshop.org/search?keywords=nietzsche+gay+science",
+        "note": "the season's text — Book V, §§327–339"
+      }
+    ]
+  },
+  "41f7e4b2-e0ed-4afd-a581-03d83b7e40b0": {
+    "drafted": true,
+    "summary": "The Hegel reading continues into paragraphs 17 and 18 of the Preface, taking up the basic movement of the dialectic and Hegel's simultaneous critique of empiricism and subjectivism. The hosts weigh affirmation against negation by setting Hegel beside Nietzsche and Deleuze — will to power, active and reactive force — and ask why Hegel insists so forcefully on distinguishing his system from every other, the question of distinctiveness versus indistinction.",
+    "references": [
+      {
+        "label": "G. W. F. Hegel",
+        "url": "https://plato.stanford.edu/entries/hegel/",
+        "note": "Stanford Encyclopedia of Philosophy"
+      },
+      {
+        "label": "Hegel, Phenomenology of Spirit",
+        "url": "https://bookshop.org/search?keywords=hegel+phenomenology+of+spirit",
+        "note": "the season's text — Preface, ¶17–18"
+      },
+      {
+        "label": "Friedrich Nietzsche",
+        "url": "https://plato.stanford.edu/entries/nietzsche/",
+        "note": "will to power, active and reactive force"
+      },
+      {
+        "label": "Gilles Deleuze",
+        "url": "https://plato.stanford.edu/entries/deleuze/",
+        "note": "affirmation vs. negation"
+      }
+    ]
+  },
+  "8f7ac685-0960-47c9-a2c9-54c4d80d6884": {
+    "drafted": true,
+    "summary": "Picking up around ¶56, the conversation centers on Hegel's authoritative, imperious tone and his relentless critique of \"picture thinking\" or representational thought. The hosts read his idealism as a kind of post-human, and as an inversion of Plato's, while tracking how the text seems to deconstruct itself — Hegel's argument about arguments — and reflecting on the difficulty of philosophical writing and the shame of learning.",
+    "references": [
+      {
+        "label": "G. W. F. Hegel",
+        "url": "https://plato.stanford.edu/entries/hegel/",
+        "note": "Stanford Encyclopedia of Philosophy"
+      },
+      {
+        "label": "Hegel, Phenomenology of Spirit",
+        "url": "https://bookshop.org/search?keywords=hegel+phenomenology+of+spirit",
+        "note": "the season's text — Preface, ¶56ff."
+      },
+      {
+        "label": "Plato",
+        "url": "https://plato.stanford.edu/entries/plato/",
+        "note": "Hegel as an inversion of Platonic idealism"
+      }
+    ]
+  },
+  "4d583144-e379-4a2d-bf02-458c82d07606": {
+    "drafted": true,
+    "summary": "Guest Caddie Alford joins the crew to work through the Fourth, Fifth, and Sixth series of The Logic of Sense — duality, sense, and serialization. The talk runs from Deleuze on Lewis Carroll (set against Derrida on Austin) and the limits of formal logic to denotation, non-subjective desire, and the failure to totalize, then turns to parataxis versus hypotaxis as a model for what teaching is, with detours through imposter syndrome, expertise, and Isocrates.",
+    "references": [
+      {
+        "label": "Gilles Deleuze",
+        "url": "https://plato.stanford.edu/entries/deleuze/",
+        "note": "Stanford Encyclopedia of Philosophy"
+      },
+      {
+        "label": "Deleuze, The Logic of Sense",
+        "url": "https://bookshop.org/search?keywords=deleuze+logic+of+sense",
+        "note": "the season's text — Fourth–Sixth Series"
+      },
+      {
+        "label": "J. L. Austin, How to Do Things with Words",
+        "url": "https://bookshop.org/search?keywords=austin+how+to+do+things+with+words",
+        "note": "speech acts, illocutionary force"
+      },
+      {
+        "label": "Jacques Derrida",
+        "url": "https://plato.stanford.edu/entries/derrida/",
+        "note": "Derrida on Austin, contrasted with Deleuze on Carroll"
+      }
+    ]
+  },
+  "a0d27857-7ced-4b21-9807-30383e2747df": {
+    "drafted": true,
+    "summary": "A looser, mostly Deleuze-adjacent episode (\"No Deleuze\") that circles around fandom and individuation — superfans, mimetic rhythms, narcissism and the undoing of the ego — before settling into pedagogy. The crew compares lecture and seminar formats, pacing course reading, and degrees of structure, and gets into teaching Derrida, performativity, and the Phaedrus, with a plug for Jeffrey Nealon.",
+    "references": [
+      {
+        "label": "Gilles Deleuze",
+        "url": "https://plato.stanford.edu/entries/deleuze/",
+        "note": "Stanford Encyclopedia of Philosophy"
+      },
+      {
+        "label": "Deleuze, The Logic of Sense",
+        "url": "https://bookshop.org/search?keywords=deleuze+logic+of+sense",
+        "note": "the season's text"
+      },
+      {
+        "label": "Plato, Phaedrus",
+        "url": "https://bookshop.org/search?keywords=plato+phaedrus",
+        "note": "on teaching and writing"
+      },
+      {
+        "label": "Jeffrey Nealon",
+        "url": "https://bookshop.org/search?keywords=jeffrey+nealon",
+        "note": "plugged on theory and pedagogy"
+      }
+    ]
+  },
+  "1f21667d-5dae-4010-a10d-39d9b6cf6742": {
+    "drafted": true,
+    "summary": "The Deleuze season finale takes up the appendix of The Logic of Sense, \"The Simulacrum and Ancient Philosophy,\" reading Plato and Lucretius on difference, identity, atomism, and the clinamen. The conversation moves through the eternal return and Deleuzian repetition, the orchid and the wasp as a figure for aparallel evolution and differential pedagogy, and the reversal of Platonism — closing on the politics of \"fragmented\" ontologies and the posthuman subject.",
+    "references": [
+      {
+        "label": "Gilles Deleuze",
+        "url": "https://plato.stanford.edu/entries/deleuze/",
+        "note": "Stanford Encyclopedia of Philosophy"
+      },
+      {
+        "label": "Deleuze, The Logic of Sense",
+        "url": "https://bookshop.org/search?keywords=deleuze+logic+of+sense",
+        "note": "the season's text — the Appendix"
+      },
+      {
+        "label": "Plato",
+        "url": "https://plato.stanford.edu/entries/plato/",
+        "note": "the reversal of Platonism"
+      },
+      {
+        "label": "Lucretius, On the Nature of Things",
+        "url": "https://bookshop.org/search?keywords=lucretius+on+the+nature+of+things",
+        "note": "atomism and the clinamen"
+      },
+      {
+        "label": "Friedrich Nietzsche",
+        "url": "https://plato.stanford.edu/entries/nietzsche/",
+        "note": "eternal return, the overman, posthumanism"
+      }
+    ]
+  },
+  "191f8ecc-8a8e-4b9a-bf6f-816c8cf93188": {
+    "drafted": true,
+    "summary": "Working through Heidegger's What Is Called Thinking?, the hosts trace his central question and his diagnosis of representational thinking, alongside the rhetoric of propriety and purity — and the fascism they find built into the text. The discussion contrasts Heidegger with Hegel on commonness and tradition, takes up the difficulties of language and representation, and ends on the functions of education, the fear of death, and a defense of provisional thinking.",
+    "references": [
+      {
+        "label": "Martin Heidegger",
+        "url": "https://plato.stanford.edu/entries/heidegger/",
+        "note": "Stanford Encyclopedia of Philosophy"
+      },
+      {
+        "label": "Heidegger, What Is Called Thinking?",
+        "url": "https://bookshop.org/search?keywords=heidegger+what+is+called+thinking",
+        "note": "the season's text"
+      },
+      {
+        "label": "G. W. F. Hegel",
+        "url": "https://plato.stanford.edu/entries/hegel/",
+        "note": "contrasted with Heidegger on tradition and commonness"
+      },
+      {
+        "label": "Friedrich Nietzsche",
+        "url": "https://plato.stanford.edu/entries/nietzsche/",
+        "note": "the shared lineage of the question of thinking"
+      }
+    ]
+  },
+  "55072789-e2c7-4cbd-92e8-d3bdd9eab10c": {
+    "drafted": true,
+    "summary": "The Derrida season turns to the first twenty-five pages of Of Grammatology and the primacy of writing. The hosts work through the embeddedness of metaphysics, Derrida's reading and unsettling of Saussure on the sign, and the splitting of signifier and signified — with a running thread on what it means to write something \"under erasure\" and on writing instruction as constitutively theological.",
+    "references": [
+      {
+        "label": "Jacques Derrida",
+        "url": "https://plato.stanford.edu/entries/derrida/",
+        "note": "Stanford Encyclopedia of Philosophy"
+      },
+      {
+        "label": "Derrida, Of Grammatology",
+        "url": "https://bookshop.org/search?keywords=derrida+of+grammatology",
+        "note": "the text discussed — first 25 pp."
+      },
+      {
+        "label": "Ferdinand de Saussure, Course in General Linguistics",
+        "url": "https://bookshop.org/search?keywords=saussure+course+in+general+linguistics",
+        "note": "the sign, signifier and signified"
+      }
+    ]
+  },
+  "2f38294a-7aa9-4ad2-9a1c-0008fae5c6d0": {
+    "drafted": true,
+    "summary": "A special episode with Dr. Brooke Rollins (Lehigh University), built around Derrida's interview \"Nietzsche and the Machine\" and Rollins's research on risk, gambling, and analytics in sports and in life. The conversation links Derridean decision and responsibility — the undecidable as the condition of any genuine decision — to rhetorical theory and the data-driven cultures of contemporary sport.",
+    "references": [
+      {
+        "label": "Jacques Derrida",
+        "url": "https://plato.stanford.edu/entries/derrida/",
+        "note": "Stanford Encyclopedia of Philosophy"
+      },
+      {
+        "label": "Derrida, \"Nietzsche and the Machine\" (in Negotiations)",
+        "url": "https://bookshop.org/search?keywords=derrida+negotiations",
+        "note": "the interview discussed"
+      },
+      {
+        "label": "Friedrich Nietzsche",
+        "url": "https://plato.stanford.edu/entries/nietzsche/",
+        "note": "the Nietzsche/Derrida thread"
+      },
+      {
+        "label": "Brooke Rollins",
+        "url": "https://bookshop.org/search?keywords=brooke+rollins+rhetoric",
+        "note": "guest — rhetoric, risk, and decision"
+      }
+    ]
+  },
+  "8b2c4fbe-f395-437b-a3b0-47c11f2bccd8": {
+    "drafted": true,
+    "summary": "Returning to The Gay Science, the hosts argue that Nietzsche's aphorisms \"on woman\" are not separable from the rest of the book but tightly coordinated with it — reading §59, §64, §68, §74, §75, and §80 together on surface, depth, and the feminine operation. From there the talk opens onto the multiplicity of misogyny, why gender is impossible to think and why that matters, and the prospect of a deconstructive feminism and the political conditions for thinking.",
+    "references": [
+      {
+        "label": "Friedrich Nietzsche",
+        "url": "https://plato.stanford.edu/entries/nietzsche/",
+        "note": "Stanford Encyclopedia of Philosophy"
+      },
+      {
+        "label": "Nietzsche, The Gay Science",
+        "url": "https://bookshop.org/search?keywords=nietzsche+gay+science",
+        "note": "the season's text — the aphorisms \"on woman\""
+      },
+      {
+        "label": "Jacques Derrida",
+        "url": "https://plato.stanford.edu/entries/derrida/",
+        "note": "deconstructive feminism; reading Nietzsche on \"woman\""
+      },
+      {
+        "label": "Plato",
+        "url": "https://plato.stanford.edu/entries/plato/",
+        "note": "Platonic ideals and the metaphysics of surface vs. depth"
+      }
+    ]
+  },
+  "8ccd8070-9339-46d5-a70b-788b4432fc45": {
+    "drafted": true,
+    "summary": "Part two of Book V of The Gay Science, recorded after a long hiatus, reads Nietzsche as therapy — against the seductions of dogmatic anger and the poison of ressentiment, and toward joy, rest, and the metaphorics of dancing. The discussion turns on philosophy as the expression of a way of life (§370, §372), the will to truth becoming suspicious of itself (§346), the scholar versus the experimentalist, and \"overcoming the human\" — with Foucault's recent \"man\" in view — before landing on consciousness, the body, and the overabundance of nature.",
+    "references": [
+      {
+        "label": "Friedrich Nietzsche",
+        "url": "https://plato.stanford.edu/entries/nietzsche/",
+        "note": "Stanford Encyclopedia of Philosophy"
+      },
+      {
+        "label": "Nietzsche, The Gay Science",
+        "url": "https://bookshop.org/search?keywords=nietzsche+gay+science",
+        "note": "the season's text — Book V"
+      },
+      {
+        "label": "Nietzsche, Thus Spoke Zarathustra",
+        "url": "https://bookshop.org/search?keywords=nietzsche+thus+spoke+zarathustra",
+        "note": "the camel, lion, and child"
+      },
+      {
+        "label": "Michel Foucault",
+        "url": "https://plato.stanford.edu/entries/foucault/",
+        "note": "\"man\" as a recent invention; overcoming the human"
+      }
+    ]
+  },
+  "060e348d-1a2a-426c-9d49-03927344ece2": {
+    "drafted": true,
+    "summary": "The conversation opens with the politics of grading and teaching styles before turning, around §19, to the seriousness of Hegel — his emphasis on suffering, labor, and the tragic dimension of life. From there it works through Hegel's ostensible essentialism and his anti-humanism, weighing the different valences of negation and the immanent \"engine\" of the dialectic.",
+    "references": [
+      {
+        "label": "G. W. F. Hegel",
+        "url": "https://plato.stanford.edu/entries/hegel/",
+        "note": "Stanford Encyclopedia of Philosophy"
+      },
+      {
+        "label": "Hegel, Phenomenology of Spirit",
+        "url": "https://bookshop.org/search?keywords=hegel+phenomenology+of+spirit",
+        "note": "the season's text — Preface, §19"
+      },
+      {
+        "label": "Slavoj Žižek",
+        "url": "https://bookshop.org/search?keywords=zizek+less+than+nothing",
+        "note": "his reading style and reading of Hegel"
+      },
+      {
+        "label": "Catherine Malabou",
+        "url": "https://bookshop.org/search?keywords=catherine+malabou+future+of+hegel",
+        "note": "her reading of Hegel"
+      }
+    ]
+  },
+  "7c9de342-92a7-4022-8eac-4a8409b4ec7d": {
+    "drafted": true,
+    "summary": "Picking up the Preface, the hosts contrast the Understanding with Self-Consciousness and ask after the shape of knowledge, progress, and teleology in Hegel. The logic of the proposition — essentiality versus performativity, the \"real\" as mobile rather than static — leads into a discussion of failure, lack, and the fear of error, and finally to whether there is anything like an ethics, a theism, or a virtue theory in Hegel.",
+    "references": [
+      {
+        "label": "G. W. F. Hegel",
+        "url": "https://plato.stanford.edu/entries/hegel/",
+        "note": "Stanford Encyclopedia of Philosophy"
+      },
+      {
+        "label": "Hegel, Phenomenology of Spirit",
+        "url": "https://bookshop.org/search?keywords=hegel+phenomenology+of+spirit",
+        "note": "the season's text — the Preface"
+      },
+      {
+        "label": "Gilles Deleuze",
+        "url": "https://plato.stanford.edu/entries/deleuze/",
+        "note": "multiplicity against lack"
+      }
+    ]
+  },
+  "b22d8002-f97b-4b2f-bd8c-7b33008da87c": {
+    "drafted": true,
+    "summary": "On the Seventh, Eighth, and Ninth Series of The Logic of Sense, the group asks what the stakes of Deleuze's project really are — structure and event, langue and parole, and the place of \"sense\" within a differential ontology. They press at what sense actually is, how it displaces things across a flat plane, and how problems relate to their solutions, before turning to the structure of invention and the role of chance.",
+    "references": [
+      {
+        "label": "Gilles Deleuze",
+        "url": "https://plato.stanford.edu/entries/deleuze/",
+        "note": "Stanford Encyclopedia of Philosophy"
+      },
+      {
+        "label": "Deleuze, The Logic of Sense",
+        "url": "https://bookshop.org/search?keywords=deleuze+logic+of+sense",
+        "note": "the season's text — Seventh–Ninth Series"
+      },
+      {
+        "label": "Alexius Meinong",
+        "url": "https://plato.stanford.edu/entries/meinong/",
+        "note": "Stanford Encyclopedia of Philosophy — the theory of objects"
+      },
+      {
+        "label": "Roland Barthes",
+        "url": "https://bookshop.org/search?keywords=roland+barthes",
+        "note": "the \"order of the known\""
+      }
+    ]
+  },
+  "db774d3f-216e-4214-84ac-9aafa533d9f9": {
+    "drafted": true,
+    "summary": "Covering the Seventeenth through Nineteenth Series, the discussion runs from teaching the enthymeme and Socratic irony to romantic irony and humor, and then to Deleuze's distinction between heights, depths, and surfaces. The title's image — two ways of unravelling string — anchors a reading of ticks, Diogenes, and the groundless \"Platonism of surfaces,\" closing on the difference between true and false problems.",
+    "references": [
+      {
+        "label": "Gilles Deleuze",
+        "url": "https://plato.stanford.edu/entries/deleuze/",
+        "note": "Stanford Encyclopedia of Philosophy"
+      },
+      {
+        "label": "Deleuze, The Logic of Sense",
+        "url": "https://bookshop.org/search?keywords=deleuze+logic+of+sense",
+        "note": "the season's text — Seventeenth–Nineteenth Series"
+      },
+      {
+        "label": "Plato",
+        "url": "https://plato.stanford.edu/entries/plato/",
+        "note": "Stanford Encyclopedia of Philosophy — Socratic irony and the reversal of Platonism"
+      },
+      {
+        "label": "Diogenes the Cynic",
+        "url": "https://bookshop.org/search?keywords=diogenes+the+cynic",
+        "note": "the philosopher of the surface"
+      }
+    ]
+  },
+  "132c5f95-6da4-4dcc-97c3-d11b8935f20d": {
+    "drafted": true,
+    "summary": "The Heidegger season opens with Lectures I–III of What Is Called Thinking?, beginning from the idea that thinking is never a private mental event but always emerges in relation. The hosts work through Heidegger's pedagogy and the example of the woodworker, the difference between \"was heißt\" and \"was ist,\" and \"one-track thinking\" as the essence of technology rather than mere laziness — all read affirmatively, with side glances at posthumanism, nostalgia, and authenticity.",
+    "references": [
+      {
+        "label": "Martin Heidegger",
+        "url": "https://plato.stanford.edu/entries/heidegger/",
+        "note": "Stanford Encyclopedia of Philosophy"
+      },
+      {
+        "label": "Heidegger, What Is Called Thinking?",
+        "url": "https://bookshop.org/search?keywords=heidegger+what+is+called+thinking",
+        "note": "the season's text — Lectures I–III"
+      },
+      {
+        "label": "Gilles Deleuze",
+        "url": "https://plato.stanford.edu/entries/deleuze/",
+        "note": "the molecular and the molar"
+      },
+      {
+        "label": "Plato",
+        "url": "https://plato.stanford.edu/entries/plato/",
+        "note": "Socrates on questions and responses"
+      }
+    ]
+  },
+  "b4268633-69e2-4315-a404-b2a6c5a14c00": {
+    "drafted": true,
+    "summary": "Beginning with teaching deconstructive moves in the classroom — and an argument in favor of difficult writing by way of Ta-Nehisi Coates — the episode returns to the season's recurring worry about authenticity. The hosts probe Heidegger's mysticism and nostalgia, the ambiguity of his notion of authenticity, and his etymological linking of \"thinking\" and \"thanking\" as a way of figuring our indebtedness to the other.",
+    "references": [
+      {
+        "label": "Martin Heidegger",
+        "url": "https://plato.stanford.edu/entries/heidegger/",
+        "note": "Stanford Encyclopedia of Philosophy"
+      },
+      {
+        "label": "Heidegger, What Is Called Thinking?",
+        "url": "https://bookshop.org/search?keywords=heidegger+what+is+called+thinking",
+        "note": "the season's text"
+      },
+      {
+        "label": "Ta-Nehisi Coates",
+        "url": "https://bookshop.org/search?keywords=ta-nehisi+coates",
+        "note": "on difficult writing in the classroom"
+      },
+      {
+        "label": "Martin Heidegger, \"thinking\" and \"thanking\"",
+        "url": "https://bookshop.org/search?keywords=heidegger+what+is+called+thinking",
+        "note": "the denken / danken etymology"
+      }
+    ]
+  },
+  "fb40219f-00fc-4e0a-9bab-677f1896632c": {
+    "drafted": true,
+    "summary": "The first of two episodes on Derrida's \"Plato's Pharmacy,\" working through the first half of the essay. The conversation tracks Derrida's reading of the Phaedrus and the pharmakon — writing as both remedy and poison — and what it means for the limits and authority of the text, with recurring comparisons to Hegel and Deleuze.",
+    "references": [
+      {
+        "label": "Jacques Derrida",
+        "url": "https://plato.stanford.edu/entries/derrida/",
+        "note": "Stanford Encyclopedia of Philosophy"
+      },
+      {
+        "label": "Derrida, \"Plato's Pharmacy\" (in Dissemination)",
+        "url": "https://bookshop.org/search?keywords=derrida+dissemination",
+        "note": "the essay discussed"
+      },
+      {
+        "label": "Plato",
+        "url": "https://plato.stanford.edu/entries/plato/",
+        "note": "Stanford Encyclopedia of Philosophy — the Phaedrus"
+      },
+      {
+        "label": "Plato, Phaedrus",
+        "url": "https://bookshop.org/search?keywords=plato+phaedrus",
+        "note": "the dialogue at issue"
+      }
+    ]
+  },
+  "e961e9b7-553c-46de-bc76-4463b9b5cc3c": {
+    "drafted": true,
+    "summary": "The hosts read Derrida's \"White Mythology,\" on metaphor as an organizing principle of philosophy and the difficulty of grounding — or ungrounding — a philosophical system that lives off its own figures. The discussion turns on the distinction between catachresis and metaphor, sets Hegel against Derrida, and revisits Heidegger's nostalgia.",
+    "references": [
+      {
+        "label": "Jacques Derrida",
+        "url": "https://plato.stanford.edu/entries/derrida/",
+        "note": "Stanford Encyclopedia of Philosophy"
+      },
+      {
+        "label": "Derrida, \"White Mythology\" (in Margins of Philosophy)",
+        "url": "https://bookshop.org/search?keywords=derrida+margins+of+philosophy",
+        "note": "the essay discussed"
+      },
+      {
+        "label": "G. W. F. Hegel",
+        "url": "https://plato.stanford.edu/entries/hegel/",
+        "note": "Hegel against Derrida on metaphor"
+      },
+      {
+        "label": "Martin Heidegger",
+        "url": "https://plato.stanford.edu/entries/heidegger/",
+        "note": "the question of nostalgia"
+      }
+    ]
+  },
+  "ab50d7f6-e777-432b-810c-90452a1bf78c": {
+    "drafted": true,
+    "summary": "Reading §108–125 of Book III of The Gay Science, the conversation opens with the death of God and a \"theology of atheism,\" then takes up anthropomorphism, will to power, and Nietzsche's claim that life requires error. John's saber-tooth-tiger anecdote frames the recurring problem of identification — how coarse, unjust perception once served life, and how slow, cautious judgment (Socrates as inverted instinct) became advantageous in turn — before closing on Nietzsche's interpretive historicism and a promised Hegel-versus-Nietzsche book.",
+    "references": [
+      {
+        "label": "Friedrich Nietzsche",
+        "url": "https://plato.stanford.edu/entries/nietzsche/",
+        "note": "Stanford Encyclopedia of Philosophy"
+      },
+      {
+        "label": "Nietzsche, The Gay Science",
+        "url": "https://bookshop.org/search?keywords=nietzsche+gay+science",
+        "note": "the season's text — Book III, §108–125"
+      },
+      {
+        "label": "G. W. F. Hegel",
+        "url": "https://plato.stanford.edu/entries/hegel/",
+        "note": "history, multiplicity, and negation"
+      },
+      {
+        "label": "Plato",
+        "url": "https://plato.stanford.edu/entries/plato/",
+        "note": "Socrates as \"inverted instinct\""
+      }
+    ]
+  },
+  "ae36ff94-269b-4581-805e-6d6d0d449d23": {
+    "drafted": true,
+    "summary": "Working around paragraph 21 of the Preface, the conversation circles Hegel's totalizing impulse and the desire to maintain stable distinctions and identities — and asks why anti-dialectical thinkers like Deleuze and Foucault resist Hegel so fiercely. From there it opens onto the ethics of negation versus affirmation, the implicit moralisms of theory, and what it would take to actually inhabit (rather than just endorse) a difficult text.",
+    "references": [
+      {
+        "label": "G. W. F. Hegel",
+        "url": "https://plato.stanford.edu/entries/hegel/",
+        "note": "Stanford Encyclopedia of Philosophy"
+      },
+      {
+        "label": "Hegel, Phenomenology of Spirit",
+        "url": "https://bookshop.org/search?keywords=hegel+phenomenology+of+spirit",
+        "note": "the season's text — Preface, around ¶21"
+      },
+      {
+        "label": "Gilles Deleuze",
+        "url": "https://plato.stanford.edu/entries/deleuze/",
+        "note": "the anti-dialectical, affirmative counterpoint"
+      },
+      {
+        "label": "Michel Foucault",
+        "url": "https://plato.stanford.edu/entries/foucault/",
+        "note": "named with Deleuze as resisting Hegel"
+      },
+      {
+        "label": "Theodor Adorno",
+        "url": "https://bookshop.org/search?keywords=adorno+negative+dialectics",
+        "note": "on Enlightenment and relentless critique"
+      }
+    ]
+  },
+  "4f1f9b8c-29df-4bc9-85a7-d08b26e9d415": {
+    "drafted": true,
+    "summary": "Still in the Preface, this episode takes up \"the language of theory\" — the charge that philosophy is \"bad writing,\" the case of Judith Butler, and how grammar itself shapes (and limits) thought. The talk moves from development and complexity in writing toward universals, animals, contingency, and violence, ending on theory as a kind of therapy in a fraught political climate.",
+    "references": [
+      {
+        "label": "G. W. F. Hegel",
+        "url": "https://plato.stanford.edu/entries/hegel/",
+        "note": "Stanford Encyclopedia of Philosophy"
+      },
+      {
+        "label": "Hegel, Phenomenology of Spirit",
+        "url": "https://bookshop.org/search?keywords=hegel+phenomenology+of+spirit",
+        "note": "the season's text — Preface"
+      },
+      {
+        "label": "Judith Butler",
+        "url": "https://bookshop.org/search?keywords=judith+butler",
+        "note": "the \"bad writing\" debate"
+      },
+      {
+        "label": "Friedrich Nietzsche",
+        "url": "https://plato.stanford.edu/entries/nietzsche/",
+        "note": "on grammar and thinking"
+      }
+    ]
+  },
+  "b2bf95e2-e4c5-4327-b3c0-bd3a6a1f5f49": {
+    "drafted": true,
+    "summary": "Reading the Tenth Series (\"Of the Ideal Game\") and Eleventh Series (\"Of Nonsense\"), the conversation works through Deleuze's concept of time — kairos and chronos, Aion versus Chronos — and the challenge of thinking non-linearly. With Kant's account of time as a foil, it turns to paradox against doxa, sense as both structure and event, and thinking relationality without making relation into a new foundation.",
+    "references": [
+      {
+        "label": "Gilles Deleuze",
+        "url": "https://plato.stanford.edu/entries/deleuze/",
+        "note": "Stanford Encyclopedia of Philosophy"
+      },
+      {
+        "label": "Deleuze, The Logic of Sense",
+        "url": "https://bookshop.org/search?keywords=deleuze+logic+of+sense",
+        "note": "the season's text — Tenth & Eleventh Series"
+      },
+      {
+        "label": "Immanuel Kant",
+        "url": "https://plato.stanford.edu/entries/kant/",
+        "note": "Kant's concept of time as a foil"
+      }
+    ]
+  },
+  "a1f2dae6-312b-4db3-904a-26c637debd6f": {
+    "drafted": true,
+    "summary": "On the Twentieth Series (\"On the Moral Problem in Stoic Philosophy\") and Twenty-First Series (\"Of the Event\"), the episode draws out Deleuze's ethics — the Stoic injunction \"not to be unworthy of what happens to us\" — and the affirmation of becoming. Along the way it detours through teaching intro classes, interpretive lenses, and what it means to \"get in the zone.\"",
+    "references": [
+      {
+        "label": "Gilles Deleuze",
+        "url": "https://plato.stanford.edu/entries/deleuze/",
+        "note": "Stanford Encyclopedia of Philosophy"
+      },
+      {
+        "label": "Deleuze, The Logic of Sense",
+        "url": "https://bookshop.org/search?keywords=deleuze+logic+of+sense",
+        "note": "the season's text — Twentieth & Twenty-First Series"
+      },
+      {
+        "label": "Stoicism",
+        "url": "https://plato.stanford.edu/entries/stoicism/",
+        "note": "the Stoic ethics of the event"
+      },
+      {
+        "label": "Friedrich Nietzsche",
+        "url": "https://plato.stanford.edu/entries/nietzsche/",
+        "note": "affirmation and becoming"
+      }
+    ]
+  },
+  "c1159584-05c3-4d2e-bbcd-9aa076d5313f": {
+    "drafted": true,
+    "summary": "Opening into What Is Called Thinking?, the conversation reads Heidegger's pace and style as a clue to his critique of representational and technological language — and to the disposition he is trying to cultivate. It sets Heidegger beside Nietzsche on the overman and being \"in the zone,\" probes his anthropocentrism, and lands on thinking as a matter of being grounded in groundlessness.",
+    "references": [
+      {
+        "label": "Martin Heidegger",
+        "url": "https://plato.stanford.edu/entries/heidegger/",
+        "note": "Stanford Encyclopedia of Philosophy"
+      },
+      {
+        "label": "Heidegger, What Is Called Thinking?",
+        "url": "https://bookshop.org/search?keywords=heidegger+what+is+called+thinking",
+        "note": "the season's text"
+      },
+      {
+        "label": "Friedrich Nietzsche",
+        "url": "https://plato.stanford.edu/entries/nietzsche/",
+        "note": "the overman; tones of thinking; critique of Christianity"
+      }
+    ]
+  },
+  "d47295d9-c9b9-4c3f-880b-ba16affcf2cb": {
+    "drafted": true,
+    "summary": "This episode dwells on Heidegger's claim that genuine philosophical questions cannot, structurally, have answers — thinking as perceiving, as dwelling in the problematic and rendering the unthought thinkable. It pushes back on his fetishizing of ambiguity, asks whether a definitive answer is really as reductive as he assumes, and circles the anti- or post-Hegelian stakes (with Karen Barad in view) of subjectivity and its violence.",
+    "references": [
+      {
+        "label": "Martin Heidegger",
+        "url": "https://plato.stanford.edu/entries/heidegger/",
+        "note": "Stanford Encyclopedia of Philosophy"
+      },
+      {
+        "label": "Heidegger, What Is Called Thinking?",
+        "url": "https://bookshop.org/search?keywords=heidegger+what+is+called+thinking",
+        "note": "the season's text"
+      },
+      {
+        "label": "G. W. F. Hegel",
+        "url": "https://plato.stanford.edu/entries/hegel/",
+        "note": "the anti-/post-Hegelian project"
+      },
+      {
+        "label": "Karen Barad, Meeting the Universe Halfway",
+        "url": "https://bookshop.org/search?keywords=karen+barad+meeting+the+universe+halfway",
+        "note": "on subjectivity and intra-action"
+      }
+    ]
+  },
+  "1438c2bb-c6c0-45b3-8cb6-6ee610b32e1e": {
+    "drafted": true,
+    "summary": "The first episode of 2023 returns to Derrida's \"Plato's Pharmacy,\" reading the pharmakon and the relation of writing to speech through Plato's Phaedrus. The discussion also pulls in Hegel and Foucault as it works out what is at stake in Derrida's treatment of writing.",
+    "references": [
+      {
+        "label": "Jacques Derrida",
+        "url": "https://plato.stanford.edu/entries/derrida/",
+        "note": "Stanford Encyclopedia of Philosophy"
+      },
+      {
+        "label": "Derrida, \"Plato's Pharmacy\" (in Dissemination)",
+        "url": "https://bookshop.org/search?keywords=derrida+dissemination",
+        "note": "the essay discussed"
+      },
+      {
+        "label": "Plato, Phaedrus",
+        "url": "https://bookshop.org/search?keywords=plato+phaedrus",
+        "note": "the dialogue Derrida reads"
+      },
+      {
+        "label": "Plato",
+        "url": "https://plato.stanford.edu/entries/plato/",
+        "note": "Stanford Encyclopedia of Philosophy"
+      }
+    ]
+  },
+  "81b7b30f-9cb0-42b9-a222-920272d7739f": {
+    "drafted": true,
+    "summary": "The Nietzsche season opens with an introduction to The Gay Science — its structure, tone, and the puzzle of its title (gay, joyful, queer?). The conversation takes up philosophy's blind pursuit of truth, the value of a veil with nothing behind it, and the careful art of not knowing, before laying out a method for reading the book this season: distance, superficiality \"out of profundity,\" and where the text might take you.",
+    "references": [
+      {
+        "label": "Friedrich Nietzsche",
+        "url": "https://plato.stanford.edu/entries/nietzsche/",
+        "note": "Stanford Encyclopedia of Philosophy"
+      },
+      {
+        "label": "Nietzsche, The Gay Science",
+        "url": "https://bookshop.org/search?keywords=nietzsche+gay+science",
+        "note": "the season's text"
+      },
+      {
+        "label": "G. W. F. Hegel",
+        "url": "https://plato.stanford.edu/entries/hegel/",
+        "note": "the one who maybe \"knows where it goes\""
+      }
+    ]
+  },
+  "e34ec8c4-088f-4dde-a4d6-b6d233781b40": {
+    "drafted": true,
+    "summary": "Back in Book III of The Gay Science, the episode reads section 124 (the infinite) on thinking as terror or comfort, then turns to section 143 on the advantages of polytheism over monotheism — agonism versus the binary of true and false. With Plato and Pythagoras as \"failed founders of religions\" (§149), it asks whether science is itself monotheistic and how different orientations to difference shape pluralism versus dogmatism.",
+    "references": [
+      {
+        "label": "Friedrich Nietzsche",
+        "url": "https://plato.stanford.edu/entries/nietzsche/",
+        "note": "Stanford Encyclopedia of Philosophy"
+      },
+      {
+        "label": "Nietzsche, The Gay Science",
+        "url": "https://bookshop.org/search?keywords=nietzsche+gay+science",
+        "note": "the season's text — Book III, §§124, 143, 149"
+      },
+      {
+        "label": "Plato",
+        "url": "https://plato.stanford.edu/entries/plato/",
+        "note": "a \"failed founder\" alongside Pythagoras"
+      },
+      {
+        "label": "Pythagoras",
+        "url": "https://plato.stanford.edu/entries/pythagoras/",
+        "note": "Stanford Encyclopedia of Philosophy"
+      }
+    ]
+  },
   "e731648d-62cb-4d81-90a7-0a2be49333a4": {
     "drafted": true,
     "summary": "Reading Book IV of The Gay Science, the conversation turns to the tone of affirmative thinking — amor fati, Nietzsche's \"brief habits,\" and the cheerful science as a practice of living rather than a doctrine to be argued for. Thinking becomes therapeutic: less refuting an opponent than situating them within a larger narrative, and cultivating a capacity to sense.",
     "references": [
-      { "label": "Friedrich Nietzsche", "url": "https://plato.stanford.edu/entries/nietzsche/", "note": "Stanford Encyclopedia of Philosophy" },
-      { "label": "Nietzsche, The Gay Science", "url": "https://bookshop.org/search?keywords=nietzsche+gay+science", "note": "the season's text — Book IV" },
-      { "label": "Gilles Deleuze", "url": "https://plato.stanford.edu/entries/deleuze/", "note": "on the \"refrain,\" repetition, speeds and slowness" }
+      {
+        "label": "Friedrich Nietzsche",
+        "url": "https://plato.stanford.edu/entries/nietzsche/",
+        "note": "Stanford Encyclopedia of Philosophy"
+      },
+      {
+        "label": "Nietzsche, The Gay Science",
+        "url": "https://bookshop.org/search?keywords=nietzsche+gay+science",
+        "note": "the season's text — Book IV"
+      },
+      {
+        "label": "Gilles Deleuze",
+        "url": "https://plato.stanford.edu/entries/deleuze/",
+        "note": "on the \"refrain,\" repetition, speeds and slowness"
+      }
     ]
   },
-
   "7c4404c3-1fc6-4730-bdec-5c9e4d9ed16c": {
     "drafted": true,
     "summary": "The Derrida season opens. After a short intro to the season (and the new intro music), we take up \"Différance\" — the components of Derrida's central (non)concept, how he diverges from Heidegger, and what the essay says about the dynamics of contemporary theory.",
     "references": [
-      { "label": "Jacques Derrida", "url": "https://plato.stanford.edu/entries/derrida/", "note": "Stanford Encyclopedia of Philosophy" },
-      { "label": "Derrida, \"Différance\" (in Margins of Philosophy)", "url": "https://bookshop.org/search?keywords=derrida+margins+of+philosophy", "note": "the essay discussed" },
-      { "label": "Derrida, Of Grammatology", "url": "https://bookshop.org/search?keywords=derrida+of+grammatology" },
-      { "label": "Martin Heidegger", "url": "https://plato.stanford.edu/entries/heidegger/", "note": "the Heidegger/Derrida contrast" }
+      {
+        "label": "Jacques Derrida",
+        "url": "https://plato.stanford.edu/entries/derrida/",
+        "note": "Stanford Encyclopedia of Philosophy"
+      },
+      {
+        "label": "Derrida, \"Différance\" (in Margins of Philosophy)",
+        "url": "https://bookshop.org/search?keywords=derrida+margins+of+philosophy",
+        "note": "the essay discussed"
+      },
+      {
+        "label": "Derrida, Of Grammatology",
+        "url": "https://bookshop.org/search?keywords=derrida+of+grammatology"
+      },
+      {
+        "label": "Martin Heidegger",
+        "url": "https://plato.stanford.edu/entries/heidegger/",
+        "note": "the Heidegger/Derrida contrast"
+      }
     ]
   },
-
   "cd7d14d9-7f14-4dbe-b61c-dea295f73b38": {
     "drafted": true,
     "summary": "The maiden episode. We start with styles of reading and teaching, academic dispositions and authority, then move into the Phenomenology from §13 of the Preface — Hegel's Understanding versus Self-Consciousness, and the conditions of possibility for scientific knowledge.",
     "references": [
-      { "label": "G. W. F. Hegel", "url": "https://plato.stanford.edu/entries/hegel/", "note": "Stanford Encyclopedia of Philosophy" },
-      { "label": "Hegel, Phenomenology of Spirit", "url": "https://bookshop.org/search?keywords=hegel+phenomenology+of+spirit", "note": "the season's text — Preface, §13ff." }
+      {
+        "label": "G. W. F. Hegel",
+        "url": "https://plato.stanford.edu/entries/hegel/",
+        "note": "Stanford Encyclopedia of Philosophy"
+      },
+      {
+        "label": "Hegel, Phenomenology of Spirit",
+        "url": "https://bookshop.org/search?keywords=hegel+phenomenology+of+spirit",
+        "note": "the season's text — Preface, §13ff."
+      }
     ]
   }
 }
